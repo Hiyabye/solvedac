@@ -1,0 +1,155 @@
+{
+  "problemId": 13480,
+  "titleKo": "Hard Cuts",
+  "titles": [
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Hard Cuts",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 8,
+  "level": 26,
+  "votedUserCount": 3,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 4.625,
+  "official": true,
+  "tags": [
+    {
+      "key": "backtracking",
+      "isMeta": false,
+      "bojTagId": 5,
+      "problemCount": 491,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc31\ud2b8\ub798\ud0b9",
+          "short": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "backtracking",
+          "short": "backtrack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
+          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "alias": "\ud1f4\uac01\uac80\uc0c9"
+        },
+        {
+          "alias": "\ud1f4\uac01 \uac80\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "divide_and_conquer",
+      "isMeta": false,
+      "bojTagId": 24,
+      "problemCount": 394,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
+        },
+        {
+          "language": "en",
+          "name": "divide and conquer",
+          "short": "d&c"
+        },
+        {
+          "language": "ja",
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dnc"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 3730,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "precomputation",
+      "isMeta": false,
+      "bojTagId": 172,
+      "problemCount": 193,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac",
+          "short": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "precomputation",
+          "short": "precomputation"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8b\u524d\u8a08\u7b97",
+          "short": "\u4e8b\u524d\u8a08\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "lookup table"
+        },
+        {
+          "alias": "db"
+        },
+        {
+          "alias": "database"
+        }
+      ]
+    }
+  ],
+  "metadata": {}
+}

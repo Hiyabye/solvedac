@@ -1,0 +1,212 @@
+{
+  "problemId": 19372,
+  "titleKo": "Boxes and Balls",
+  "titles": [
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Boxes and Balls",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 6,
+  "level": 25,
+  "votedUserCount": 2,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 7.5,
+  "official": true,
+  "tags": [
+    {
+      "key": "dijkstra",
+      "isMeta": false,
+      "bojTagId": 22,
+      "problemCount": 546,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
+          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "language": "en",
+          "name": "dijkstra's",
+          "short": "dijkstra's"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
+          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub2e4\uc775"
+        },
+        {
+          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        }
+      ]
+    },
+    {
+      "key": "flow",
+      "isMeta": false,
+      "bojTagId": 45,
+      "problemCount": 311,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub300 \uc720\ub7c9",
+          "short": "\ucd5c\ub300 \uc720\ub7c9"
+        },
+        {
+          "language": "en",
+          "name": "maximum flow",
+          "short": "flow"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5927\u30d5\u30ed\u30fc",
+          "short": "flow"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dinic"
+        },
+        {
+          "alias": "dinitz"
+        },
+        {
+          "alias": "ford"
+        },
+        {
+          "alias": "fulkerson"
+        },
+        {
+          "alias": "fordfulkerson"
+        },
+        {
+          "alias": "\ub514\ub2c9"
+        },
+        {
+          "alias": "\ub514\ub2c8\uce20"
+        },
+        {
+          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
+        },
+        {
+          "alias": "\ud50c\ub85c\uc6b0"
+        }
+      ]
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 3420,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        }
+      ]
+    },
+    {
+      "key": "mcmf",
+      "isMeta": false,
+      "bojTagId": 48,
+      "problemCount": 109,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \ube44\uc6a9 \ucd5c\ub300 \uc720\ub7c9",
+          "short": "\ucd5c\uc18c \ube44\uc6a9 \ucd5c\ub300 \uc720\ub7c9"
+        },
+        {
+          "language": "en",
+          "name": "minimum cost maximum flow",
+          "short": "mcmf"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5c0f\u8cbb\u7528\u6700\u5927\u6d41\u554f\u984c",
+          "short": "mcmf"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dinic"
+        },
+        {
+          "alias": "dinitz"
+        },
+        {
+          "alias": "ford"
+        },
+        {
+          "alias": "fulkerson"
+        },
+        {
+          "alias": "fordfulkerson"
+        },
+        {
+          "alias": "\ub514\ub2c9"
+        },
+        {
+          "alias": "\ub514\ub2c8\uce20"
+        },
+        {
+          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
+        }
+      ]
+    },
+    {
+      "key": "shortest_path",
+      "isMeta": false,
+      "bojTagId": 215,
+      "problemCount": 712,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
+          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "shortest path",
+          "short": "shortest path"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u77ed\u7d4c\u8def",
+          "short": "\u6700\u77ed\u7d4c\u8def"
+        }
+      ],
+      "aliases": []
+    }
+  ],
+  "metadata": {}
+}

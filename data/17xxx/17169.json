@@ -1,0 +1,216 @@
+{
+  "problemId": 17169,
+  "titleKo": "Eat Economically",
+  "titles": [
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Eat Economically",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 45,
+  "level": 23,
+  "votedUserCount": 10,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 3.7111,
+  "official": true,
+  "tags": [
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 3495,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "flow",
+      "isMeta": false,
+      "bojTagId": 45,
+      "problemCount": 311,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub300 \uc720\ub7c9",
+          "short": "\ucd5c\ub300 \uc720\ub7c9"
+        },
+        {
+          "language": "en",
+          "name": "maximum flow",
+          "short": "flow"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5927\u30d5\u30ed\u30fc",
+          "short": "flow"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dinic"
+        },
+        {
+          "alias": "dinitz"
+        },
+        {
+          "alias": "ford"
+        },
+        {
+          "alias": "fulkerson"
+        },
+        {
+          "alias": "fordfulkerson"
+        },
+        {
+          "alias": "\ub514\ub2c9"
+        },
+        {
+          "alias": "\ub514\ub2c8\uce20"
+        },
+        {
+          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
+        },
+        {
+          "alias": "\ud50c\ub85c\uc6b0"
+        }
+      ]
+    },
+    {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 2286,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
+    {
+      "key": "mcmf",
+      "isMeta": false,
+      "bojTagId": 48,
+      "problemCount": 109,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \ube44\uc6a9 \ucd5c\ub300 \uc720\ub7c9",
+          "short": "\ucd5c\uc18c \ube44\uc6a9 \ucd5c\ub300 \uc720\ub7c9"
+        },
+        {
+          "language": "en",
+          "name": "minimum cost maximum flow",
+          "short": "mcmf"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5c0f\u8cbb\u7528\u6700\u5927\u6d41\u554f\u984c",
+          "short": "mcmf"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dinic"
+        },
+        {
+          "alias": "dinitz"
+        },
+        {
+          "alias": "ford"
+        },
+        {
+          "alias": "fulkerson"
+        },
+        {
+          "alias": "fordfulkerson"
+        },
+        {
+          "alias": "\ub514\ub2c9"
+        },
+        {
+          "alias": "\ub514\ub2c8\uce20"
+        },
+        {
+          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
+        }
+      ]
+    },
+    {
+      "key": "priority_queue",
+      "isMeta": false,
+      "bojTagId": 59,
+      "problemCount": 388,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc6b0\uc120\uc21c\uc704 \ud050",
+          "short": "\uc6b0\uc120\uc21c\uc704 \ud050"
+        },
+        {
+          "language": "en",
+          "name": "priority queue",
+          "short": "priority queue"
+        },
+        {
+          "language": "ja",
+          "name": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc",
+          "short": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "heap"
+        },
+        {
+          "alias": "\ud799"
+        }
+      ]
+    }
+  ],
+  "metadata": {}
+}

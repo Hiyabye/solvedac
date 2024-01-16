@@ -1,0 +1,216 @@
+{
+  "problemId": 14001,
+  "titleKo": "Mole Tunnels",
+  "titles": [
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Mole Tunnels",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 30,
+  "level": 23,
+  "votedUserCount": 7,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 2.2,
+  "official": true,
+  "tags": [
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 3730,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "dp_tree",
+      "isMeta": false,
+      "bojTagId": 92,
+      "problemCount": 398,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming on trees",
+          "short": "tree dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728\u4e0a\u306e\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "tree dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud2b8\ub9acdp"
+        }
+      ]
+    },
+    {
+      "key": "flow",
+      "isMeta": false,
+      "bojTagId": 45,
+      "problemCount": 311,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub300 \uc720\ub7c9",
+          "short": "\ucd5c\ub300 \uc720\ub7c9"
+        },
+        {
+          "language": "en",
+          "name": "maximum flow",
+          "short": "flow"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5927\u30d5\u30ed\u30fc",
+          "short": "flow"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dinic"
+        },
+        {
+          "alias": "dinitz"
+        },
+        {
+          "alias": "ford"
+        },
+        {
+          "alias": "fulkerson"
+        },
+        {
+          "alias": "fordfulkerson"
+        },
+        {
+          "alias": "\ub514\ub2c9"
+        },
+        {
+          "alias": "\ub514\ub2c8\uce20"
+        },
+        {
+          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
+        },
+        {
+          "alias": "\ud50c\ub85c\uc6b0"
+        }
+      ]
+    },
+    {
+      "key": "mcmf",
+      "isMeta": false,
+      "bojTagId": 48,
+      "problemCount": 109,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \ube44\uc6a9 \ucd5c\ub300 \uc720\ub7c9",
+          "short": "\ucd5c\uc18c \ube44\uc6a9 \ucd5c\ub300 \uc720\ub7c9"
+        },
+        {
+          "language": "en",
+          "name": "minimum cost maximum flow",
+          "short": "mcmf"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5c0f\u8cbb\u7528\u6700\u5927\u6d41\u554f\u984c",
+          "short": "mcmf"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dinic"
+        },
+        {
+          "alias": "dinitz"
+        },
+        {
+          "alias": "ford"
+        },
+        {
+          "alias": "fulkerson"
+        },
+        {
+          "alias": "fordfulkerson"
+        },
+        {
+          "alias": "\ub514\ub2c9"
+        },
+        {
+          "alias": "\ub514\ub2c8\uce20"
+        },
+        {
+          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
+        }
+      ]
+    },
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1301,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
+    }
+  ],
+  "metadata": {}
+}

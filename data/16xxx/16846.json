@@ -1,0 +1,232 @@
+{
+  "problemId": 16846,
+  "titleKo": "Hyperrectangle",
+  "titles": [
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Hyperrectangle",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 19,
+  "level": 19,
+  "votedUserCount": 3,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 2.0526,
+  "official": true,
+  "tags": [
+    {
+      "key": "combinatorics",
+      "isMeta": false,
+      "bojTagId": 6,
+      "problemCount": 815,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc870\ud569\ub860",
+          "short": "\uc870\ud569\ub860"
+        },
+        {
+          "language": "en",
+          "name": "combinatorics",
+          "short": "combinatorics"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d44\u307f\u5408\u308f\u305b",
+          "short": "\u7d44\u307f\u5408\u308f\u305b"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "combination"
+        },
+        {
+          "alias": "permutation"
+        },
+        {
+          "alias": "probability"
+        },
+        {
+          "alias": "\ud655\ub960"
+        },
+        {
+          "alias": "\uc21c\uc5f4"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 3730,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1377,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometry_hyper",
+      "isMeta": false,
+      "bojTagId": 132,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "4\ucc28\uc6d0 \uc774\uc0c1\uc758 \uae30\ud558\ud559",
+          "short": "4\ucc28\uc6d0 \uc774\uc0c1\uc758 \uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry; hyperdimensional",
+          "short": "hyperdimensional"
+        },
+        {
+          "language": "ja",
+          "name": "4\u6b21\u5143\u4ee5\u4e0a\u3067\u306e\u5e7e\u4f55\u5b66",
+          "short": "hyperdimensional"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "4\ucc28\uc6d0"
+        },
+        {
+          "alias": "5\ucc28\uc6d0"
+        },
+        {
+          "alias": "6\ucc28\uc6d0"
+        },
+        {
+          "alias": "7\ucc28\uc6d0"
+        },
+        {
+          "alias": "8\ucc28\uc6d0"
+        },
+        {
+          "alias": "9\ucc28\uc6d0"
+        },
+        {
+          "alias": "4d"
+        },
+        {
+          "alias": "5d"
+        },
+        {
+          "alias": "6d"
+        },
+        {
+          "alias": "7d"
+        },
+        {
+          "alias": "8d"
+        },
+        {
+          "alias": "9d"
+        }
+      ]
+    },
+    {
+      "key": "inclusion_and_exclusion",
+      "isMeta": false,
+      "bojTagId": 38,
+      "problemCount": 149,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac",
+          "short": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "inclusion and exclusion",
+          "short": "inclusion and exclusion"
+        },
+        {
+          "language": "ja",
+          "name": "\u5305\u9664\u539f\u7406",
+          "short": "\u5305\u9664\u539f\u7406"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 5907,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    }
+  ],
+  "metadata": {}
+}

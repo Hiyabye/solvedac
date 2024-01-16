@@ -1,0 +1,197 @@
+{
+  "problemId": 18799,
+  "titleKo": "\uc774\uc0c1\ud55c \ud3b8\uc9d1\uae30",
+  "titles": [
+    {
+      "language": "ko",
+      "languageDisplayName": "ko",
+      "title": "\uc774\uc0c1\ud55c \ud3b8\uc9d1\uae30",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 30,
+  "level": 21,
+  "votedUserCount": 16,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 3.0333,
+  "official": true,
+  "tags": [
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1116,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 3730,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "hashing",
+      "isMeta": false,
+      "bojTagId": 8,
+      "problemCount": 157,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574\uc2f1",
+          "short": "\ud574\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "hashing",
+          "short": "hash"
+        },
+        {
+          "language": "ja",
+          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
+          "short": "\u30cf\u30c3\u30b7\u30e5"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "slope_trick",
+      "isMeta": false,
+      "bojTagId": 157,
+      "problemCount": 25,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud568\uc218 \uac1c\ud615\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
+          "short": "\ud568\uc218 \uac1c\ud615\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
+        },
+        {
+          "language": "en",
+          "name": "slope trick",
+          "short": "slope trick"
+        },
+        {
+          "language": "ja",
+          "name": "slope trick",
+          "short": "slope trick"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2ac\ub85c\ud504\ud2b8\ub9ad"
+        },
+        {
+          "alias": "\uc2ac\ub85c\ud504 \ud2b8\ub9ad"
+        }
+      ]
+    },
+    {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2227,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        },
+        {
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
+      "key": "suffix_array",
+      "isMeta": false,
+      "bojTagId": 77,
+      "problemCount": 96,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc811\ubbf8\uc0ac \ubc30\uc5f4\uacfc LCP \ubc30\uc5f4",
+          "short": "\uc811\ubbf8\uc0ac \ubc30\uc5f4\uacfc LCP \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "suffix array and lcp array",
+          "short": "suffix array and lcp array"
+        },
+        {
+          "language": "ja",
+          "name": "\u63a5\u5c3e\u8f9e\u914d\u5217\u30fbLCP\u914d\u5217",
+          "short": "\u63a5\u5c3e\u8f9e\u914d\u5217\u30fbLCP\u914d\u5217"
+        }
+      ],
+      "aliases": []
+    }
+  ],
+  "metadata": {}
+}

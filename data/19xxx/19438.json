@@ -1,0 +1,302 @@
+{
+  "problemId": 19438,
+  "titleKo": "Glorious Brilliance",
+  "titles": [
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Glorious Brilliance",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 7,
+  "level": 25,
+  "votedUserCount": 2,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 4.7143,
+  "official": true,
+  "tags": [
+    {
+      "key": "constructive",
+      "isMeta": false,
+      "bojTagId": 128,
+      "problemCount": 889,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574 \uad6c\uc131\ud558\uae30",
+          "short": "\ud574 \uad6c\uc131\ud558\uae30"
+        },
+        {
+          "language": "en",
+          "name": "constructive",
+          "short": "constructive"
+        },
+        {
+          "language": "ja",
+          "name": "\u69cb\u6210\u7684",
+          "short": "\u69cb\u6210\u7684"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "constructive"
+        },
+        {
+          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
+        },
+        {
+          "alias": "\uad6c\uc131\uc801"
+        }
+      ]
+    },
+    {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 751,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
+    },
+    {
+      "key": "flow",
+      "isMeta": false,
+      "bojTagId": 45,
+      "problemCount": 311,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub300 \uc720\ub7c9",
+          "short": "\ucd5c\ub300 \uc720\ub7c9"
+        },
+        {
+          "language": "en",
+          "name": "maximum flow",
+          "short": "flow"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5927\u30d5\u30ed\u30fc",
+          "short": "flow"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dinic"
+        },
+        {
+          "alias": "dinitz"
+        },
+        {
+          "alias": "ford"
+        },
+        {
+          "alias": "fulkerson"
+        },
+        {
+          "alias": "fordfulkerson"
+        },
+        {
+          "alias": "\ub514\ub2c9"
+        },
+        {
+          "alias": "\ub514\ub2c8\uce20"
+        },
+        {
+          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
+        },
+        {
+          "alias": "\ud50c\ub85c\uc6b0"
+        }
+      ]
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 3420,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        }
+      ]
+    },
+    {
+      "key": "graph_traversal",
+      "isMeta": false,
+      "bojTagId": 11,
+      "problemCount": 1876,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
+          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "graph traversal",
+          "short": "traversal"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u306e\u6a2a\u65ad",
+          "short": "\u6a2a\u65ad"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bfs"
+        },
+        {
+          "alias": "dfs"
+        }
+      ]
+    },
+    {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 2286,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 5034,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "mcmf",
+      "isMeta": false,
+      "bojTagId": 48,
+      "problemCount": 109,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \ube44\uc6a9 \ucd5c\ub300 \uc720\ub7c9",
+          "short": "\ucd5c\uc18c \ube44\uc6a9 \ucd5c\ub300 \uc720\ub7c9"
+        },
+        {
+          "language": "en",
+          "name": "minimum cost maximum flow",
+          "short": "mcmf"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5c0f\u8cbb\u7528\u6700\u5927\u6d41\u554f\u984c",
+          "short": "mcmf"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dinic"
+        },
+        {
+          "alias": "dinitz"
+        },
+        {
+          "alias": "ford"
+        },
+        {
+          "alias": "fulkerson"
+        },
+        {
+          "alias": "fordfulkerson"
+        },
+        {
+          "alias": "\ub514\ub2c9"
+        },
+        {
+          "alias": "\ub514\ub2c8\uce20"
+        },
+        {
+          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
+        }
+      ]
+    }
+  ],
+  "metadata": {}
+}

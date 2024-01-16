@@ -1,0 +1,255 @@
+{
+  "problemId": 23587,
+  "titleKo": "Multiplication",
+  "titles": [
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Multiplication",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 7,
+  "level": 19,
+  "votedUserCount": 3,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 2.1429,
+  "official": true,
+  "tags": [
+    {
+      "key": "constructive",
+      "isMeta": false,
+      "bojTagId": 128,
+      "problemCount": 889,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574 \uad6c\uc131\ud558\uae30",
+          "short": "\ud574 \uad6c\uc131\ud558\uae30"
+        },
+        {
+          "language": "en",
+          "name": "constructive",
+          "short": "constructive"
+        },
+        {
+          "language": "ja",
+          "name": "\u69cb\u6210\u7684",
+          "short": "\u69cb\u6210\u7684"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "constructive"
+        },
+        {
+          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
+        },
+        {
+          "alias": "\uad6c\uc131\uc801"
+        }
+      ]
+    },
+    {
+      "key": "exponentiation_by_squaring",
+      "isMeta": false,
+      "bojTagId": 39,
+      "problemCount": 263,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1",
+          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "language": "en",
+          "name": "exponentiation by squaring",
+          "short": "exponentiation by squaring"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57",
+          "short": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "alias": "\uc81c\uacf1"
+        },
+        {
+          "alias": "power"
+        },
+        {
+          "alias": "square"
+        }
+      ]
+    },
+    {
+      "key": "extended_euclidean",
+      "isMeta": false,
+      "bojTagId": 27,
+      "problemCount": 33,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\uc7a5 \uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95",
+          "short": "\ud655\uc7a5 \uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "extended euclidean algorithm",
+          "short": "extended euclidean algorithm"
+        },
+        {
+          "language": "ja",
+          "name": "\u62e1\u5f35\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
+          "short": "\u62e1\u5f35\u30e6\u30fc\u30af\u30ea\u30c3\u30c9"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud655\uc7a5\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "alias": "egcd"
+        }
+      ]
+    },
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 5034,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 5907,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "modular_multiplicative_inverse",
+      "isMeta": false,
+      "bojTagId": 164,
+      "problemCount": 86,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
+          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
+        },
+        {
+          "language": "en",
+          "name": "modular multiplicative inverse",
+          "short": "modular multiplicative inverse"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
+          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "modinv"
+        }
+      ]
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1326,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "randomization",
+      "isMeta": false,
+      "bojTagId": 115,
+      "problemCount": 139,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb34\uc791\uc704\ud654",
+          "short": "\ubb34\uc791\uc704\ud654"
+        },
+        {
+          "language": "en",
+          "name": "randomization",
+          "short": "randomization"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
+          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub79c\ub364"
+        }
+      ]
+    }
+  ],
+  "metadata": {}
+}

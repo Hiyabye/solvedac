@@ -1,0 +1,159 @@
+{
+  "problemId": 14448,
+  "titleKo": "Subsequence Reversal",
+  "titles": [
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Subsequence Reversal",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 43,
+  "level": 19,
+  "votedUserCount": 7,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 7.0465,
+  "official": true,
+  "tags": [
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 3730,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "heuristics",
+      "isMeta": false,
+      "bojTagId": 142,
+      "problemCount": 97,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud734\ub9ac\uc2a4\ud2f1",
+          "short": "\ud734\ub9ac\uc2a4\ud2f1"
+        },
+        {
+          "language": "en",
+          "name": "heuristics",
+          "short": "heuristics"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
+          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "lis",
+      "isMeta": false,
+      "bojTagId": 43,
+      "problemCount": 78,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4: O(n log n)",
+          "short": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4: O(n log n)"
+        },
+        {
+          "language": "en",
+          "name": "longest increasing sequence in o(n log n)",
+          "short": "lis in o(n log n)"
+        },
+        {
+          "language": "ja",
+          "name": "longest increasing sequence in o(n log n)",
+          "short": "lis in o(n log n)"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "randomization",
+      "isMeta": false,
+      "bojTagId": 115,
+      "problemCount": 139,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb34\uc791\uc704\ud654",
+          "short": "\ubb34\uc791\uc704\ud654"
+        },
+        {
+          "language": "en",
+          "name": "randomization",
+          "short": "randomization"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
+          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub79c\ub364"
+        }
+      ]
+    },
+    {
+      "key": "simulated_annealing",
+      "isMeta": false,
+      "bojTagId": 184,
+      "problemCount": 21,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2f4\uae08\uc9c8 \uae30\ubc95",
+          "short": "\ub2f4\uae08\uc9c8 \uae30\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "simulated annealing",
+          "short": "simulated annealing"
+        },
+        {
+          "language": "ja",
+          "name": "\u713c\u304d\u920d\u3057\u6cd5",
+          "short": "\u713c\u304d\u920d\u3057\u6cd5"
+        }
+      ],
+      "aliases": []
+    }
+  ],
+  "metadata": {}
+}

@@ -1,0 +1,294 @@
+{
+  "problemId": 20592,
+  "titleKo": "Delete Two Vertices Again",
+  "titles": [
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Delete Two Vertices Again",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 5,
+  "level": 26,
+  "votedUserCount": 1,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 1.4,
+  "official": true,
+  "tags": [
+    {
+      "key": "articulation",
+      "isMeta": false,
+      "bojTagId": 4,
+      "problemCount": 57,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120",
+          "short": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120"
+        },
+        {
+          "language": "en",
+          "name": "articulation points and bridges",
+          "short": "articulation points and bridges"
+        },
+        {
+          "language": "ja",
+          "name": "\u95a2\u7bc0\u70b9\u3068\u6a4b",
+          "short": "\u95a2\u7bc0\u70b9\u3068\u6a4b"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub2e8\uc808\uc810"
+        },
+        {
+          "alias": "\ub2e8\uc808\uc120"
+        },
+        {
+          "alias": "\ube0c\ub9ac\uc9c0"
+        },
+        {
+          "alias": "\ube0c\ub9bf\uc9c0"
+        },
+        {
+          "alias": "bridge"
+        }
+      ]
+    },
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 3495,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 751,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 3420,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        }
+      ]
+    },
+    {
+      "key": "graph_traversal",
+      "isMeta": false,
+      "bojTagId": 11,
+      "problemCount": 1876,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
+          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "graph traversal",
+          "short": "traversal"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u306e\u6a2a\u65ad",
+          "short": "\u6a2a\u65ad"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bfs"
+        },
+        {
+          "alias": "dfs"
+        }
+      ]
+    },
+    {
+      "key": "priority_queue",
+      "isMeta": false,
+      "bojTagId": 59,
+      "problemCount": 388,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc6b0\uc120\uc21c\uc704 \ud050",
+          "short": "\uc6b0\uc120\uc21c\uc704 \ud050"
+        },
+        {
+          "language": "en",
+          "name": "priority queue",
+          "short": "priority queue"
+        },
+        {
+          "language": "ja",
+          "name": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc",
+          "short": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "heap"
+        },
+        {
+          "alias": "\ud799"
+        }
+      ]
+    },
+    {
+      "key": "segtree",
+      "isMeta": false,
+      "bojTagId": 65,
+      "problemCount": 1202,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "segment tree",
+          "short": "segtree"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
+          "short": "\u30bb\u30b0\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud2b8\ub9ac"
+        },
+        {
+          "alias": "\uc138\uadf8\ud2b8\ub9ac"
+        },
+        {
+          "alias": "fenwick"
+        },
+        {
+          "alias": "\ud39c\uc705"
+        }
+      ]
+    },
+    {
+      "key": "smaller_to_larger",
+      "isMeta": false,
+      "bojTagId": 169,
+      "problemCount": 118,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9",
+          "short": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9"
+        },
+        {
+          "language": "en",
+          "name": "smaller to larger technique",
+          "short": "smaller to larger"
+        },
+        {
+          "language": "ja",
+          "name": "smaller to larger technique",
+          "short": "smaller to larger"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "merge heuristics"
+        },
+        {
+          "alias": "sack"
+        },
+        {
+          "alias": "small to large"
+        },
+        {
+          "alias": "\uc791\uc740\uac70"
+        },
+        {
+          "alias": "\ud070\uac70"
+        }
+      ]
+    }
+  ],
+  "metadata": {}
+}

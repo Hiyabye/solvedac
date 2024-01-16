@@ -1,0 +1,84 @@
+{
+  "problemId": 21219,
+  "titleKo": "Restaurants",
+  "titles": [
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Restaurants",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 30,
+  "level": 21,
+  "votedUserCount": 8,
+  "sprout": false,
+  "givesNoRating": true,
+  "isLevelLocked": false,
+  "averageTries": 5.6333,
+  "official": true,
+  "tags": [
+    {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 2286,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
+    {
+      "key": "stable_marriage",
+      "isMeta": false,
+      "bojTagId": 192,
+      "problemCount": 7,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc548\uc815 \uacb0\ud63c \ubb38\uc81c",
+          "short": "\uc548\uc815 \uacb0\ud63c"
+        },
+        {
+          "language": "en",
+          "name": "stable marriage problem",
+          "short": "smp"
+        },
+        {
+          "language": "ja",
+          "name": "stable marriage problem",
+          "short": "smp"
+        }
+      ],
+      "aliases": []
+    }
+  ],
+  "metadata": {
+    "warn": [
+      {
+        "type": "wrong-inputs",
+        "data": ""
+      }
+    ]
+  }
+}

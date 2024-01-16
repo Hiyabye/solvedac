@@ -1,0 +1,216 @@
+{
+  "problemId": 22767,
+  "titleKo": "Area Separation",
+  "titles": [
+    {
+      "language": "ja",
+      "languageDisplayName": "ja",
+      "title": "Area Separation",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 4,
+  "level": 20,
+  "votedUserCount": 2,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 1,
+  "official": true,
+  "tags": [
+    {
+      "key": "bruteforcing",
+      "isMeta": false,
+      "bojTagId": 125,
+      "problemCount": 2009,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998",
+          "short": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "bruteforcing",
+          "short": "bruteforce"
+        },
+        {
+          "language": "ja",
+          "name": "\u5168\u63a2\u7d22",
+          "short": "\u5168\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc644\uc804\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc644\uc804 \ud0d0\uc0c9"
+        },
+        {
+          "alias": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4"
+        },
+        {
+          "alias": "bruteforce"
+        },
+        {
+          "alias": "brute force"
+        },
+        {
+          "alias": "\uc644\ud0d0"
+        }
+      ]
+    },
+    {
+      "key": "euclidean",
+      "isMeta": false,
+      "bojTagId": 26,
+      "problemCount": 178,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95",
+          "short": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "euclidean algorithm",
+          "short": "euclidean algorithm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
+          "short": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
+        }
+      ]
+    },
+    {
+      "key": "euler_characteristic",
+      "isMeta": false,
+      "bojTagId": 119,
+      "problemCount": 29,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\uc77c\ub7ec \uc9c0\ud45c (\u03c7=V-E+F)",
+          "short": "\uc624\uc77c\ub7ec \uc9c0\ud45c"
+        },
+        {
+          "language": "en",
+          "name": "euler characteristic (\u03c7=v-e+f)",
+          "short": "euler characteristic"
+        },
+        {
+          "language": "ja",
+          "name": "\u30aa\u30a4\u30e9\u30fc\u7279\u6027\uff08\u03c7=v-e+f\uff09",
+          "short": "\u30aa\u30a4\u30e9\u30fc\u7279\u6027"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1377,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "line_intersection",
+      "isMeta": false,
+      "bojTagId": 42,
+      "problemCount": 108,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815",
+          "short": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815"
+        },
+        {
+          "language": "en",
+          "name": "line segment intersection check",
+          "short": "line segment intersection check"
+        },
+        {
+          "language": "ja",
+          "name": "\u76f4\u7dda\u306e\u4ea4\u70b9",
+          "short": "\u76f4\u7dda\u306e\u4ea4\u70b9"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 5907,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1326,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    }
+  ],
+  "metadata": {}
+}
