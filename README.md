@@ -7,6 +7,7 @@ solved.ac의 API에 대한 자세한 문서는 [여기](https://solvedac.github.
 ## 목차
 
 - 기능 1: [BOJ 문제 데이터 수집](#boj-문제-데이터-수집)
+- 기능 2: [Baekjoon README 자동 업데이트](#baekjoon-readme-자동-업데이트)
 - 정리하며: [자동화 시간 계산](#자동화-시간-계산)
 
 ## BOJ 문제 데이터 수집
@@ -15,13 +16,21 @@ solved.ac의 API에 대한 자세한 문서는 [여기](https://solvedac.github.
 - API: [ID 목록으로 문제 목록 가져오기](https://solvedac.github.io/unofficial-documentation/#/operations/getProblemByIdArray)
 - 스크립트: [boj-data.py](scripts/boj-data.py)
 
-API 호출 제한으로 인해 데이터는 매일 한 번씩 업데이트되며, 업데이트 과정이 세 부분으로 나뉩니다. 각 업데이트의 정보는 다음과 같습니다:
+데이터는 매일 한 번씩 업데이트되며, API 호출 제한으로 인해 업데이트 과정이 세 부분으로 나뉩니다. 각 업데이트의 정보는 다음과 같습니다:
 
 | 작업 | 대상 문제 | 시각 (UTC) | 시각 (한국) |
 |:---:|:---:|:---:|:---:|
 | 데이터 1차 업데이트 | 1000번~12999번 | 06:00 | 15:00 |
 | 데이터 2차 업데이트 | 13000번~24999번 | 12:00 | 21:00 |
 | 데이터 3차 업데이트 | 25000번~36999번 | 18:00 | 03:00 |
+
+## Baekjoon README 자동 업데이트
+
+- 내용: 솔루션 저장소인 [Hiyabye/Baekjoon](https://github.com/Hiyabye/Baekjoon)의 `README.md` 파일을 자동으로 업데이트합니다.
+- API: [사용자 정보 가져오기](https://solvedac.github.io/unofficial-documentation/#/operations/getUser), [문제 검색하기](https://solved.ac/api/v3/search/problem)
+- 스크립트: [baekjoon-readme.py](scripts/baekjoon-readme.py)
+
+데이터는 매일 00:00 UTC에 업데이트됩니다.
 
 ## 자동화 시간 계산
 
@@ -31,8 +40,9 @@ solved.ac API의 호출 제한은 15분에 256회입니다. GitHub Actions는 Pr
 
 | 시각 (UTC) | 시각 (한국) | 작업 | API 호출 횟수 | GitHub Actions 런타임 (30일) |
 |:---:|:---:|:---:|:---:|:---:|
+| 00:00 | 09:00 | Baekjoon README 자동 업데이트 | 약 30회 | 30분 |
 | 06:00 | 15:00 | 데이터 1차 업데이트 | 120회 | 60분 |
 | 12:00 | 21:00 | 데이터 2차 업데이트 | 120회 | 60분 |
 | 18:00 | 03:00 | 데이터 3차 업데이트 | 120회 | 60분 |
 
-GitHub Actions 런타임을 모두 계산하면 총 180분이 소요되며, 이는 3000분의 제한 안에 들어갑니다.
+GitHub Actions 런타임을 모두 계산하면 총 210분이 소요되며, 이는 3000분의 제한 안에 들어갑니다.
