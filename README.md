@@ -28,7 +28,7 @@ solved.ac의 API에 대한 자세한 문서는 [여기](https://solvedac.github.
 
 - 내용: 솔루션 저장소인 [Hiyabye/Baekjoon](https://github.com/Hiyabye/Baekjoon)의 `README.md` 파일을 자동으로 업데이트합니다.
 - API: [사용자 정보 가져오기](https://solvedac.github.io/unofficial-documentation/#/operations/getUser), [문제 검색하기](https://solved.ac/api/v3/search/problem)
-- 스크립트: [baekjoon-readme.py](scripts/baekjoon-readme.py)
+- 스크립트: [update_readme.py](https://github.com/Hiyabye/Baekjoon/blob/main/scripts/update_readme.py)
 
 데이터는 매일 00:00 UTC에 업데이트됩니다.
 
@@ -40,9 +40,9 @@ solved.ac API의 호출 제한은 15분에 256회입니다. GitHub Actions는 Pr
 
 | 시각 (UTC) | 시각 (한국) | 작업 | API 호출 횟수 | GitHub Actions 런타임 (30일) |
 |:---:|:---:|:---:|:---:|:---:|
-| 00:00 | 09:00 | Baekjoon README 자동 업데이트 | 약 30회 | 30분 |
+| 00:00 | 09:00 | Baekjoon README 자동 업데이트 | 약 30회 | 0분 (공개 저장소) |
 | 06:00 | 15:00 | 데이터 1차 업데이트 | 120회 | 60분 |
 | 12:00 | 21:00 | 데이터 2차 업데이트 | 120회 | 60분 |
 | 18:00 | 03:00 | 데이터 3차 업데이트 | 120회 | 60분 |
 
-GitHub Actions 런타임을 모두 계산하면 총 210분이 소요되며, 이는 3000분의 제한 안에 들어갑니다.
+GitHub Actions 런타임을 모두 계산하면 총 180분이 소요되며, 이는 3000분의 제한 안에 들어갑니다.
