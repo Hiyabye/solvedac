@@ -1,0 +1,137 @@
+{
+  "problemId": 5642,
+  "titleKo": "\ud038 \uac8c\uc784",
+  "titles": [
+    {
+      "language": "ko",
+      "languageDisplayName": "ko",
+      "title": "\ud038 \uac8c\uc784",
+      "isOriginal": false
+    },
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Queen Game",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 35,
+  "level": 22,
+  "votedUserCount": 13,
+  "sprout": false,
+  "givesNoRating": true,
+  "isLevelLocked": false,
+  "averageTries": 7.2857,
+  "official": true,
+  "tags": [
+    {
+      "key": "game_theory",
+      "isMeta": false,
+      "bojTagId": 140,
+      "problemCount": 333,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac8c\uc784 \uc774\ub860",
+          "short": "\uac8c\uc784 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "game theory",
+          "short": "game theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b2\u30fc\u30e0\u7406\u8ad6",
+          "short": "\u30b2\u30fc\u30e0"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uac8c\uc784\uc774\ub860"
+        },
+        {
+          "alias": "\ub2d8"
+        },
+        {
+          "alias": "nim"
+        }
+      ]
+    },
+    {
+      "key": "precomputation",
+      "isMeta": false,
+      "bojTagId": 172,
+      "problemCount": 193,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac",
+          "short": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "precomputation",
+          "short": "precomputation"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8b\u524d\u8a08\u7b97",
+          "short": "\u4e8b\u524d\u8a08\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "lookup table"
+        },
+        {
+          "alias": "db"
+        },
+        {
+          "alias": "database"
+        }
+      ]
+    },
+    {
+      "key": "sprague_grundy",
+      "isMeta": false,
+      "bojTagId": 70,
+      "problemCount": 90,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2a4\ud504\ub77c\uadf8\u2013\uadf8\ub7f0\ub514 \uc815\ub9ac",
+          "short": "\uc2a4\ud504\ub77c\uadf8\u2013\uadf8\ub7f0\ub514 \uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "sprague\u2013grundy theorem",
+          "short": "sprague\u2013grundy thm"
+        },
+        {
+          "language": "ja",
+          "name": "sprague\u2013grundy theorem",
+          "short": "sprague\u2013grundy thm"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub2d8\ubc84"
+        },
+        {
+          "alias": "nimber"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "warn": [
+      {
+        "type": "wrong-inputs",
+        "data": ""
+      }
+    ]
+  }
+}
