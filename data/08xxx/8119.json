@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 8,
   "level": 11,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2009,
+      "problemCount": 2010,
       "displayNames": [
         {
           "language": "ko",
@@ -67,7 +67,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 753,
+      "problemCount": 752,
       "displayNames": [
         {
           "language": "ko",
@@ -98,7 +98,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3421,
+      "problemCount": 3423,
       "displayNames": [
         {
           "language": "ko",
@@ -126,7 +126,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 1874,
+      "problemCount": 1875,
       "displayNames": [
         {
           "language": "ko",
@@ -152,6 +152,30 @@
           "alias": "dfs"
         }
       ]
+    },
+    {
+      "key": "recursion",
+      "isMeta": false,
+      "bojTagId": 62,
+      "problemCount": 215,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc7ac\uadc0",
+          "short": "\uc7ac\uadc0"
+        },
+        {
+          "language": "en",
+          "name": "recursion",
+          "short": "recursion"
+        },
+        {
+          "language": "ja",
+          "name": "\u518d\u5e30",
+          "short": "\u518d\u5e30"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
