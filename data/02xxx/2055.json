@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 31,
-  "level": 15,
-  "votedUserCount": 3,
+  "level": 16,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -64,7 +64,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1380,
+      "problemCount": 1381,
       "displayNames": [
         {
           "language": "ko",
@@ -85,10 +85,34 @@
       "aliases": []
     },
     {
+      "key": "inclusion_and_exclusion",
+      "isMeta": false,
+      "bojTagId": 38,
+      "problemCount": 150,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac",
+          "short": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "inclusion and exclusion",
+          "short": "inclusion and exclusion"
+        },
+        {
+          "language": "ja",
+          "name": "\u5305\u9664\u539f\u7406",
+          "short": "\u5305\u9664\u539f\u7406"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 5920,
+      "problemCount": 5921,
       "displayNames": [
         {
           "language": "ko",
