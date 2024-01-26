@@ -11,15 +11,39 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 22,
+  "acceptedUserCount": 21,
   "level": 16,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.5455,
+  "averageTries": 1.5714,
   "official": true,
   "tags": [
+    {
+      "key": "dag",
+      "isMeta": false,
+      "bojTagId": 213,
+      "problemCount": 167,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
+          "short": "dag"
+        },
+        {
+          "language": "en",
+          "name": "directed acyclic graph",
+          "short": "dag"
+        },
+        {
+          "language": "ja",
+          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
+          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "dp",
       "isMeta": false,
@@ -58,7 +82,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3429,
+      "problemCount": 3428,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +110,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5047,
+      "problemCount": 5050,
       "displayNames": [
         {
           "language": "ko",
@@ -126,30 +150,6 @@
           "language": "ja",
           "name": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8",
           "short": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "dag",
-      "isMeta": false,
-      "bojTagId": 213,
-      "problemCount": 167,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
-          "short": "dag"
-        },
-        {
-          "language": "en",
-          "name": "directed acyclic graph",
-          "short": "dag"
-        },
-        {
-          "language": "ja",
-          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
-          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
         }
       ],
       "aliases": []
