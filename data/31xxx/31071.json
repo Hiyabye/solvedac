@@ -18,8 +18,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 7,
-  "level": 22,
-  "votedUserCount": 1,
+  "level": 23,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -58,7 +58,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2296,
+      "problemCount": 2297,
       "displayNames": [
         {
           "language": "ko",
@@ -83,10 +83,34 @@
       ]
     },
     {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 1695,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1305,
+      "problemCount": 1308,
       "displayNames": [
         {
           "language": "ko",
@@ -109,6 +133,30 @@
           "alias": "trees"
         }
       ]
+    },
+    {
+      "key": "tree_compression",
+      "isMeta": false,
+      "bojTagId": 193,
+      "problemCount": 14,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac \uc555\ucd95",
+          "short": "\ud2b8\ub9ac \uc555\ucd95"
+        },
+        {
+          "language": "en",
+          "name": "tree compression",
+          "short": "tree compression"
+        },
+        {
+          "language": "ja",
+          "name": "tree compression",
+          "short": "tree compression"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
