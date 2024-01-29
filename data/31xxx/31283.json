@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 3,
+  "acceptedUserCount": 4,
   "level": 26,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1,
+  "averageTries": 4.75,
   "official": true,
   "tags": [
     {
@@ -52,10 +52,38 @@
       ]
     },
     {
+      "key": "convex_hull",
+      "isMeta": false,
+      "bojTagId": 20,
+      "problemCount": 165,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubcfc\ub85d \uaecd\uc9c8",
+          "short": "\ubcfc\ub85d \uaecd\uc9c8"
+        },
+        {
+          "language": "en",
+          "name": "convex hull",
+          "short": "convex hull"
+        },
+        {
+          "language": "ja",
+          "name": "\u51f8\u5305",
+          "short": "\u51f8\u5305"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0"
+        }
+      ]
+    },
+    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3502,
+      "problemCount": 3506,
       "displayNames": [
         {
           "language": "ko",
@@ -215,10 +243,34 @@
       ]
     },
     {
+      "key": "splay_tree",
+      "isMeta": false,
+      "bojTagId": 69,
+      "problemCount": 37,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2a4\ud50c\ub808\uc774 \ud2b8\ub9ac",
+          "short": "\uc2a4\ud50c\ub808\uc774 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "splay tree",
+          "short": "splay tree"
+        },
+        {
+          "language": "ja",
+          "name": "splay tree",
+          "short": "splay tree"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1308,
+      "problemCount": 1309,
       "displayNames": [
         {
           "language": "ko",
