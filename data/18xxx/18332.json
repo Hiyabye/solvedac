@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 32,
   "level": 7,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -45,10 +45,38 @@
       "aliases": []
     },
     {
+      "key": "regex",
+      "isMeta": false,
+      "bojTagId": 63,
+      "problemCount": 25,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uaddc \ud45c\ud604\uc2dd",
+          "short": "\uc815\uaddc \ud45c\ud604\uc2dd"
+        },
+        {
+          "language": "en",
+          "name": "regular expression",
+          "short": "regex"
+        },
+        {
+          "language": "ja",
+          "name": "\u6b63\u898f\u8868\u73fe",
+          "short": "regex"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc815\uaddc\uc2dd"
+        }
+      ]
+    },
+    {
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2230,
+      "problemCount": 2231,
       "displayNames": [
         {
           "language": "ko",

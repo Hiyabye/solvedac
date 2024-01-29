@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 39,
-  "level": 21,
-  "votedUserCount": 12,
+  "level": 20,
+  "votedUserCount": 13,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -52,7 +52,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3502,
+      "problemCount": 3503,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +83,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2298,
+      "problemCount": 2299,
       "displayNames": [
         {
           "language": "ko",
@@ -106,6 +106,30 @@
           "alias": "\ud0d0\uc695\ubc95"
         }
       ]
+    },
+    {
+      "key": "lis",
+      "isMeta": false,
+      "bojTagId": 43,
+      "problemCount": 79,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4: O(n log n)",
+          "short": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4: O(n log n)"
+        },
+        {
+          "language": "en",
+          "name": "longest increasing sequence in o(n log n)",
+          "short": "lis in o(n log n)"
+        },
+        {
+          "language": "ja",
+          "name": "longest increasing sequence in o(n log n)",
+          "short": "lis in o(n log n)"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "offline_queries",
@@ -176,7 +200,7 @@
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 443,
+      "problemCount": 444,
       "displayNames": [
         {
           "language": "ko",
