@@ -18,8 +18,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 7,
-  "level": 13,
-  "votedUserCount": 3,
+  "level": 14,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -64,7 +64,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1129,
+      "problemCount": 1127,
       "displayNames": [
         {
           "language": "ko",
@@ -95,7 +95,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2027,
+      "problemCount": 2028,
       "displayNames": [
         {
           "language": "ko",
@@ -131,40 +131,6 @@
         },
         {
           "alias": "\uc644\ud0d0"
-        }
-      ]
-    },
-    {
-      "key": "precomputation",
-      "isMeta": false,
-      "bojTagId": 172,
-      "problemCount": 194,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac",
-          "short": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "precomputation",
-          "short": "precomputation"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8b\u524d\u8a08\u7b97",
-          "short": "\u4e8b\u524d\u8a08\u7b97"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "lookup table"
-        },
-        {
-          "alias": "db"
-        },
-        {
-          "alias": "database"
         }
       ]
     }
