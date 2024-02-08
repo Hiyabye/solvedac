@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 43,
   "level": 12,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -58,7 +58,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3443,
+      "problemCount": 3444,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 1884,
+      "problemCount": 1886,
       "displayNames": [
         {
           "language": "ko",
@@ -100,7 +100,7 @@
         },
         {
           "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u306e\u6a2a\u65ad",
+          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
           "short": "\u6a2a\u65ad"
         }
       ],
@@ -117,7 +117,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5077,
+      "problemCount": 5079,
       "displayNames": [
         {
           "language": "ko",
@@ -133,6 +133,30 @@
           "language": "ja",
           "name": "\u5b9f\u88c5",
           "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "lca",
+      "isMeta": false,
+      "bojTagId": 41,
+      "problemCount": 161,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
+          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
+        },
+        {
+          "language": "en",
+          "name": "lowest common ancestor",
+          "short": "lca"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
+          "short": "lca"
         }
       ],
       "aliases": []
