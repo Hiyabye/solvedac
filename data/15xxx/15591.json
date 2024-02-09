@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 2370,
+  "acceptedUserCount": 2372,
   "level": 11,
-  "votedUserCount": 33,
+  "votedUserCount": 34,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.6426,
+  "averageTries": 2.6417,
   "official": true,
   "tags": [
     {
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 930,
+      "problemCount": 931,
       "displayNames": [
         {
           "language": "ko",
@@ -52,10 +52,41 @@
       ]
     },
     {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 761,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
+    },
+    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3444,
+      "problemCount": 3443,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +114,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 1886,
+      "problemCount": 1885,
       "displayNames": [
         {
           "language": "ko",
