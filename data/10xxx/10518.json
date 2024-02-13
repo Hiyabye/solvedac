@@ -13,13 +13,75 @@
   "isPartial": false,
   "acceptedUserCount": 11,
   "level": 25,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 3.5455,
   "official": true,
   "tags": [
+    {
+      "key": "convex_hull",
+      "isMeta": false,
+      "bojTagId": 20,
+      "problemCount": 166,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubcfc\ub85d \uaecd\uc9c8",
+          "short": "\ubcfc\ub85d \uaecd\uc9c8"
+        },
+        {
+          "language": "en",
+          "name": "convex hull",
+          "short": "convex hull"
+        },
+        {
+          "language": "ja",
+          "name": "\u51f8\u5305",
+          "short": "\u51f8\u5305"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0"
+        }
+      ]
+    },
+    {
+      "key": "dijkstra",
+      "isMeta": false,
+      "bojTagId": 22,
+      "problemCount": 551,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
+          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "language": "en",
+          "name": "dijkstra's",
+          "short": "dijkstra's"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
+          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub2e4\uc775"
+        },
+        {
+          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        }
+      ]
+    },
     {
       "key": "floyd_warshall",
       "isMeta": false,
@@ -82,7 +144,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3441,
+      "problemCount": 3442,
       "displayNames": [
         {
           "language": "ko",
@@ -131,10 +193,34 @@
       "aliases": []
     },
     {
+      "key": "point_in_non_convex_polygon",
+      "isMeta": false,
+      "bojTagId": 57,
+      "problemCount": 15,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\ubaa9 \ub2e4\uac01\ud615 \ub0b4\ubd80\uc758 \uc810 \ud310\uc815",
+          "short": "\uc624\ubaa9 \ub2e4\uac01\ud615 \ub0b4\ubd80\uc758 \uc810 \ud310\uc815"
+        },
+        {
+          "language": "en",
+          "name": "point in non-convex polygon check",
+          "short": "point in non-convex polygon check"
+        },
+        {
+          "language": "ja",
+          "name": "\u975e\u51f8\u591a\u89d2\u5f62\u306e\u70b9\u5305\u542b\u5224\u5b9a",
+          "short": "\u975e\u51f8\u591a\u89d2\u5f62\u306e\u70b9\u5305\u542b\u5224\u5b9a"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 718,
+      "problemCount": 719,
       "displayNames": [
         {
           "language": "ko",
