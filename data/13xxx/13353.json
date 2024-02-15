@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 24,
-  "level": 19,
-  "votedUserCount": 4,
+  "level": 20,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 903,
+      "problemCount": 902,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +89,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3444,
+      "problemCount": 3443,
       "displayNames": [
         {
           "language": "ko",
@@ -141,6 +141,34 @@
         },
         {
           "alias": "dfs"
+        }
+      ]
+    },
+    {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 2317,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
         }
       ]
     },
