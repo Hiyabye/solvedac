@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 16,
   "level": 8,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2038,
+      "problemCount": 2036,
       "displayNames": [
         {
           "language": "ko",
@@ -67,7 +67,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1395,
+      "problemCount": 1396,
       "displayNames": [
         {
           "language": "ko",
@@ -107,6 +107,54 @@
           "language": "ja",
           "name": "\u6570\u5b66",
           "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "pythagoras",
+      "isMeta": false,
+      "bojTagId": 60,
+      "problemCount": 82,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud53c\ud0c0\uace0\ub77c\uc2a4 \uc815\ub9ac",
+          "short": "\ud53c\ud0c0\uace0\ub77c\uc2a4 \uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "pythagoras theorem",
+          "short": "pythagoras thm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d4\u30bf\u30b4\u30e9\u30b9\u306e\u5b9a\u7406",
+          "short": "\u30d4\u30bf\u30b4\u30e9\u30b9"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 1721,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
         }
       ],
       "aliases": []
