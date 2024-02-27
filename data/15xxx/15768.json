@@ -13,53 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 38,
   "level": 24,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2.6579,
   "official": true,
   "tags": [
-    {
-      "key": "articulation",
-      "isMeta": false,
-      "bojTagId": 4,
-      "problemCount": 57,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120",
-          "short": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120"
-        },
-        {
-          "language": "en",
-          "name": "articulation points and bridges",
-          "short": "articulation points and bridges"
-        },
-        {
-          "language": "ja",
-          "name": "\u95a2\u7bc0\u70b9\u3068\u6a4b",
-          "short": "\u95a2\u7bc0\u70b9\u3068\u6a4b"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub2e8\uc808\uc810"
-        },
-        {
-          "alias": "\ub2e8\uc808\uc120"
-        },
-        {
-          "alias": "\ube0c\ub9ac\uc9c0"
-        },
-        {
-          "alias": "\ube0c\ub9bf\uc9c0"
-        },
-        {
-          "alias": "bridge"
-        }
-      ]
-    },
     {
       "key": "biconnected_component",
       "isMeta": false,
@@ -116,68 +76,6 @@
         },
         {
           "alias": "depthfirst"
-        }
-      ]
-    },
-    {
-      "key": "dp",
-      "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 3775,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
-    {
-      "key": "dp_tree",
-      "isMeta": false,
-      "bojTagId": 92,
-      "problemCount": 404,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming on trees",
-          "short": "tree dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728\u4e0a\u306e\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "tree dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud2b8\ub9acdp"
         }
       ]
     },
@@ -240,34 +138,6 @@
         },
         {
           "alias": "dfs"
-        }
-      ]
-    },
-    {
-      "key": "trees",
-      "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1315,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "tree",
-          "short": "tree"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "trees"
         }
       ]
     }
