@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 1,
-  "level": 22,
-  "votedUserCount": 1,
+  "acceptedUserCount": 3,
+  "level": 23,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1,
+  "averageTries": 1.3333,
   "official": true,
   "tags": [
     {
@@ -55,7 +55,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 3782,
+      "problemCount": 3785,
       "displayNames": [
         {
           "language": "ko",
@@ -84,6 +84,58 @@
           "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
         }
       ]
+    },
+    {
+      "key": "dp_connection_profile",
+      "isMeta": false,
+      "bojTagId": 107,
+      "problemCount": 23,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucee4\ub125\uc158 \ud504\ub85c\ud30c\uc77c\uc744 \uc774\uc6a9\ud55c \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ucee4\ub125\uc158 \ud504\ub85c\ud30c\uc77c\uc744 \uc774\uc6a9\ud55c \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming using connection profile",
+          "short": "dp using connection profile"
+        },
+        {
+          "language": "ja",
+          "name": "dynamic programming using connection profile",
+          "short": "dp using connection profile"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        }
+      ]
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1400,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
