@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 5,
+  "acceptedUserCount": 6,
   "level": 23,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.2,
+  "averageTries": 2.8333,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3568,
+      "problemCount": 3571,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3474,
+      "problemCount": 3479,
       "displayNames": [
         {
           "language": "ko",
@@ -79,34 +79,6 @@
         },
         {
           "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "greedy",
-      "isMeta": false,
-      "bojTagId": 33,
-      "problemCount": 2337,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
-          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
-        },
-        {
-          "language": "en",
-          "name": "greedy",
-          "short": "greedy"
-        },
-        {
-          "language": "ja",
-          "name": "\u8caa\u6b32\u6cd5",
-          "short": "\u8caa\u6b32\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud0d0\uc695\ubc95"
         }
       ]
     },
@@ -140,54 +112,6 @@
           "alias": "\ud799"
         }
       ]
-    },
-    {
-      "key": "scc",
-      "isMeta": false,
-      "bojTagId": 76,
-      "problemCount": 148,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c",
-          "short": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c"
-        },
-        {
-          "language": "en",
-          "name": "strongly connected component",
-          "short": "scc"
-        },
-        {
-          "language": "ja",
-          "name": "\u5f37\u9023\u7d50",
-          "short": "\u5f37\u9023\u7d50"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "sorting",
-      "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 1734,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
