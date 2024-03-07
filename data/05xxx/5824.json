@@ -11,20 +11,54 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 16,
+  "acceptedUserCount": 17,
   "level": 22,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 5.25,
+  "averageTries": 5,
   "official": true,
   "tags": [
+    {
+      "key": "bellman_ford",
+      "isMeta": false,
+      "bojTagId": 10,
+      "problemCount": 40,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubca8\ub9cc\u2013\ud3ec\ub4dc",
+          "short": "\ubca8\ub9cc\u2013\ud3ec\ub4dc"
+        },
+        {
+          "language": "en",
+          "name": "bellman\u2013ford",
+          "short": "bellman-ford"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9\u6cd5",
+          "short": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bellmanford"
+        },
+        {
+          "alias": "\ubca8\ub9cc\ud3ec\ub4dc"
+        },
+        {
+          "alias": "spfa"
+        }
+      ]
+    },
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3571,
+      "problemCount": 3573,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +89,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 3794,
+      "problemCount": 3795,
       "displayNames": [
         {
           "language": "ko",
@@ -82,6 +116,37 @@
         },
         {
           "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 3483,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
         }
       ]
     },
@@ -121,6 +186,30 @@
           "alias": "\ud39c\uc705"
         }
       ]
+    },
+    {
+      "key": "shortest_path",
+      "isMeta": false,
+      "bojTagId": 215,
+      "problemCount": 727,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
+          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "shortest path",
+          "short": "shortest path"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u77ed\u7d4c\u8def",
+          "short": "\u6700\u77ed\u7d4c\u8def"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "sweeping",
