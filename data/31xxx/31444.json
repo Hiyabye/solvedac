@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 30,
+  "acceptedUserCount": 31,
   "level": 15,
-  "votedUserCount": 11,
+  "votedUserCount": 12,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2,
+  "averageTries": 1.9677,
   "official": true,
   "tags": [
     {
@@ -74,37 +74,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 3573,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
     },
     {
       "key": "graphs",
@@ -164,30 +133,6 @@
           "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
         }
       ]
-    },
-    {
-      "key": "sorting",
-      "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 1735,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
