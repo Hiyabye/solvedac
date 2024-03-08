@@ -13,12 +13,109 @@
   "isPartial": false,
   "acceptedUserCount": 1,
   "level": 0,
-  "votedUserCount": 0,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 3,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "backtracking",
+      "isMeta": false,
+      "bojTagId": 5,
+      "problemCount": 500,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc31\ud2b8\ub798\ud0b9",
+          "short": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "backtracking",
+          "short": "backtrack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
+          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "alias": "\ud1f4\uac01\uac80\uc0c9"
+        },
+        {
+          "alias": "\ud1f4\uac01 \uac80\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "precomputation",
+      "isMeta": false,
+      "bojTagId": 172,
+      "problemCount": 194,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac",
+          "short": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "precomputation",
+          "short": "precomputation"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8b\u524d\u8a08\u7b97",
+          "short": "\u4e8b\u524d\u8a08\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "lookup table"
+        },
+        {
+          "alias": "db"
+        },
+        {
+          "alias": "database"
+        }
+      ]
+    },
+    {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2265,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        },
+        {
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    }
+  ],
   "metadata": {}
 }
