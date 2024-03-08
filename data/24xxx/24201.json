@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 9,
-  "level": 13,
-  "votedUserCount": 2,
+  "acceptedUserCount": 11,
+  "level": 12,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2,
+  "averageTries": 1.9091,
   "official": true,
   "tags": [
     {
       "key": "arithmetic",
       "isMeta": false,
       "bojTagId": 121,
-      "problemCount": 1060,
+      "problemCount": 1061,
       "displayNames": [
         {
           "language": "ko",
@@ -73,7 +73,7 @@
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 784,
+      "problemCount": 783,
       "displayNames": [
         {
           "language": "ko",
@@ -131,7 +131,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6022,
+      "problemCount": 6024,
       "displayNames": [
         {
           "language": "ko",
@@ -150,6 +150,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "randomization",
+      "isMeta": false,
+      "bojTagId": 115,
+      "problemCount": 141,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb34\uc791\uc704\ud654",
+          "short": "\ubb34\uc791\uc704\ud654"
+        },
+        {
+          "language": "en",
+          "name": "randomization",
+          "short": "randomization"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
+          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub79c\ub364"
+        }
+      ]
     }
   ],
   "metadata": {}
