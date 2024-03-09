@@ -27,10 +27,44 @@
   "official": true,
   "tags": [
     {
+      "key": "backtracking",
+      "isMeta": false,
+      "bojTagId": 5,
+      "problemCount": 502,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc31\ud2b8\ub798\ud0b9",
+          "short": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "backtracking",
+          "short": "backtrack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
+          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "alias": "\ud1f4\uac01\uac80\uc0c9"
+        },
+        {
+          "alias": "\ud1f4\uac01 \uac80\uc0c9"
+        }
+      ]
+    },
+    {
       "key": "dijkstra",
       "isMeta": false,
       "bojTagId": 22,
-      "problemCount": 554,
+      "problemCount": 556,
       "displayNames": [
         {
           "language": "ko",
@@ -64,7 +98,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 3798,
+      "problemCount": 3799,
       "displayNames": [
         {
           "language": "ko",
@@ -132,7 +166,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3483,
+      "problemCount": 3485,
       "displayNames": [
         {
           "language": "ko",
@@ -163,7 +197,7 @@
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 727,
+      "problemCount": 729,
       "displayNames": [
         {
           "language": "ko",
