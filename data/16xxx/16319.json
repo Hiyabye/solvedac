@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 38,
   "level": 17,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 3826,
+      "problemCount": 3829,
       "displayNames": [
         {
           "language": "ko",
@@ -77,6 +77,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "probability",
+      "isMeta": false,
+      "bojTagId": 177,
+      "problemCount": 279,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\ub960\ub860",
+          "short": "\ud655\ub960\ub860"
+        },
+        {
+          "language": "en",
+          "name": "probability theory",
+          "short": "probability"
+        },
+        {
+          "language": "ja",
+          "name": "\u78ba\u7387\u8ad6",
+          "short": "\u78ba\u7387\u8ad6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "expected value"
+        },
+        {
+          "alias": "\uae30\ub300\uac12"
+        },
+        {
+          "alias": "\uae30\ub313\uac12"
+        }
+      ]
     }
   ],
   "metadata": {}
