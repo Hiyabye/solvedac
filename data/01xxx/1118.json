@@ -11,15 +11,43 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 13,
+  "acceptedUserCount": 16,
   "level": 19,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.6923,
+  "averageTries": 1.6875,
   "official": true,
   "tags": [
+    {
+      "key": "coordinate_compression",
+      "isMeta": false,
+      "bojTagId": 161,
+      "problemCount": 210,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
+          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
+        },
+        {
+          "language": "en",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        },
+        {
+          "language": "ja",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "zip"
+        }
+      ]
+    },
     {
       "key": "geometry",
       "isMeta": false,
@@ -48,7 +76,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5191,
+      "problemCount": 5192,
       "displayNames": [
         {
           "language": "ko",
@@ -96,7 +124,7 @@
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 451,
+      "problemCount": 450,
       "displayNames": [
         {
           "language": "ko",
