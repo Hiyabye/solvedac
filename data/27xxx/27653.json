@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 84,
   "level": 15,
-  "votedUserCount": 24,
+  "votedUserCount": 25,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 779,
+      "problemCount": 780,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3509,
+      "problemCount": 3511,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 1912,
+      "problemCount": 1914,
       "displayNames": [
         {
           "language": "ko",
@@ -117,7 +117,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2363,
+      "problemCount": 2366,
       "displayNames": [
         {
           "language": "ko",
@@ -138,6 +138,34 @@
       "aliases": [
         {
           "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1332,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
         }
       ]
     }
