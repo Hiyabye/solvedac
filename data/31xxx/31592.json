@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 10,
+  "acceptedUserCount": 12,
   "level": 8,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.8,
+  "averageTries": 1.8333,
   "official": true,
   "tags": [
     {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2079,
+      "problemCount": 2082,
       "displayNames": [
         {
           "language": "ko",
@@ -67,7 +67,7 @@
       "key": "combinatorics",
       "isMeta": false,
       "bojTagId": 6,
-      "problemCount": 857,
+      "problemCount": 858,
       "displayNames": [
         {
           "language": "ko",
@@ -104,10 +104,38 @@
       ]
     },
     {
+      "key": "differential_cryptanalysis",
+      "isMeta": false,
+      "bojTagId": 185,
+      "problemCount": 7,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\ubd84 \uacf5\uaca9",
+          "short": "\ucc28\ubd84 \uacf5\uaca9"
+        },
+        {
+          "language": "en",
+          "name": "differential cryptanalysis",
+          "short": "differential cryptanalysis"
+        },
+        {
+          "language": "ja",
+          "name": "differential cryptanalysis",
+          "short": "differential cryptanalysis"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dc"
+        }
+      ]
+    },
+    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6082,
+      "problemCount": 6084,
       "displayNames": [
         {
           "language": "ko",
