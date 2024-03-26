@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 14,
   "level": 8,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6084,
+      "problemCount": 6085,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 895,
+      "problemCount": 896,
       "displayNames": [
         {
           "language": "ko",
@@ -79,10 +79,38 @@
       ]
     },
     {
+      "key": "sliding_window",
+      "isMeta": false,
+      "bojTagId": 68,
+      "problemCount": 94,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2ac\ub77c\uc774\ub529 \uc708\ub3c4\uc6b0",
+          "short": "\uc2ac\ub77c\uc774\ub529 \uc708\ub3c4\uc6b0"
+        },
+        {
+          "language": "en",
+          "name": "sliding window",
+          "short": "sliding window"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b9\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0\u30a6\u30a3\u30f3\u30c9\u30a6",
+          "short": "\u30b9\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0\u30a6\u30a3\u30f3\u30c9\u30a6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2ac\ub77c\uc774\ub529\uc708\ub3c4"
+        }
+      ]
+    },
+    {
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 1752,
+      "problemCount": 1753,
       "displayNames": [
         {
           "language": "ko",
