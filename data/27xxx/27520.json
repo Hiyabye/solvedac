@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 9,
   "level": 23,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -61,7 +61,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1161,
+      "problemCount": 1162,
       "displayNames": [
         {
           "language": "ko",
@@ -137,44 +137,10 @@
       "aliases": []
     },
     {
-      "key": "min_enclosing_circle",
-      "isMeta": false,
-      "bojTagId": 162,
-      "problemCount": 10,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\uc18c \uc678\uc811\uc6d0",
-          "short": "\ucd5c\uc18c \uc678\uc811\uc6d0"
-        },
-        {
-          "language": "en",
-          "name": "minimum enclosing circle",
-          "short": "minimum enclosing circle"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u5c0f\u5916\u63a5\u5186",
-          "short": "\u6700\u5c0f\u5916\u63a5\u5186"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bounding circle"
-        },
-        {
-          "alias": "smallest enclosing circle"
-        },
-        {
-          "alias": "minimum covering circle"
-        }
-      ]
-    },
-    {
       "key": "parametric_search",
       "isMeta": false,
       "bojTagId": 170,
-      "problemCount": 351,
+      "problemCount": 352,
       "displayNames": [
         {
           "language": "ko",
@@ -195,34 +161,6 @@
       "aliases": [
         {
           "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
-        }
-      ]
-    },
-    {
-      "key": "randomization",
-      "isMeta": false,
-      "bojTagId": 115,
-      "problemCount": 142,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubb34\uc791\uc704\ud654",
-          "short": "\ubb34\uc791\uc704\ud654"
-        },
-        {
-          "language": "en",
-          "name": "randomization",
-          "short": "randomization"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
-          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub79c\ub364"
         }
       ]
     }
