@@ -11,85 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 11,
-  "level": 22,
-  "votedUserCount": 4,
+  "acceptedUserCount": 13,
+  "level": 21,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.5455,
+  "averageTries": 3.2308,
   "official": true,
   "tags": [
-    {
-      "key": "bellman_ford",
-      "isMeta": false,
-      "bojTagId": 10,
-      "problemCount": 42,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubca8\ub9cc\u2013\ud3ec\ub4dc",
-          "short": "\ubca8\ub9cc\u2013\ud3ec\ub4dc"
-        },
-        {
-          "language": "en",
-          "name": "bellman\u2013ford",
-          "short": "bellman-ford"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9\u6cd5",
-          "short": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bellmanford"
-        },
-        {
-          "alias": "\ubca8\ub9cc\ud3ec\ub4dc"
-        },
-        {
-          "alias": "spfa"
-        }
-      ]
-    },
-    {
-      "key": "bfs",
-      "isMeta": false,
-      "bojTagId": 126,
-      "problemCount": 940,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "breadth-first search",
-          "short": "bfs"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e45\u512a\u5148\u691c\u7d22",
-          "short": "bfs"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "breadthfirst"
-        },
-        {
-          "alias": "breadth first"
-        }
-      ]
-    },
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3618,
+      "problemCount": 3621,
       "displayNames": [
         {
           "language": "ko",
@@ -120,7 +55,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3518,
+      "problemCount": 3520,
       "displayNames": [
         {
           "language": "ko",
@@ -148,76 +83,30 @@
       ]
     },
     {
-      "key": "graph_traversal",
+      "key": "greedy",
       "isMeta": false,
-      "bojTagId": 11,
-      "problemCount": 1919,
+      "bojTagId": 33,
+      "problemCount": 2377,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
-          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
         },
         {
           "language": "en",
-          "name": "graph traversal",
-          "short": "traversal"
+          "name": "greedy",
+          "short": "greedy"
         },
         {
           "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
-          "short": "\u6a2a\u65ad"
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
         }
       ],
       "aliases": [
         {
-          "alias": "bfs"
-        },
-        {
-          "alias": "dfs"
-        }
-      ]
-    },
-    {
-      "key": "lazyprop",
-      "isMeta": false,
-      "bojTagId": 66,
-      "problemCount": 287,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub290\ub9ac\uac8c \uac31\uc2e0\ub418\ub294 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
-          "short": "\ub290\ub9ac\uac8c \uac31\uc2e0\ub418\ub294 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "segment tree with lazy propagation",
-          "short": "lazyprop"
-        },
-        {
-          "language": "ja",
-          "name": "\u9045\u5ef6\u8a55\u4fa1\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
-          "short": "\u9045\u5ef6\u8a55\u4fa1\u30bb\u30b0\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub808\uc774\uc9c0"
-        },
-        {
-          "alias": "\ub808\uc774\uc9c0\ud504\ub85c\ud37c\uac8c\uc774\uc158"
-        },
-        {
-          "alias": "\ub808\uc774\uc9c0\ud504\ub85c\ud30c\uac8c\uc774\uc158"
-        },
-        {
-          "alias": "\uad6c\uac04\ud2b8\ub9ac"
-        },
-        {
-          "alias": "fenwick"
-        },
-        {
-          "alias": "\ud39c\uc705"
+          "alias": "\ud0d0\uc695\ubc95"
         }
       ]
     },
