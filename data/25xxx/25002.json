@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 1,
-  "level": 23,
-  "votedUserCount": 1,
+  "level": 24,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -49,10 +49,38 @@
       ]
     },
     {
+      "key": "divide_and_conquer",
+      "isMeta": false,
+      "bojTagId": 24,
+      "problemCount": 402,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
+        },
+        {
+          "language": "en",
+          "name": "divide and conquer",
+          "short": "d&c"
+        },
+        {
+          "language": "ja",
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dnc"
+        }
+      ]
+    },
+    {
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1419,
+      "problemCount": 1421,
       "displayNames": [
         {
           "language": "ko",
@@ -133,6 +161,43 @@
         },
         {
           "alias": "\ud070\uac70"
+        }
+      ]
+    },
+    {
+      "key": "two_pointer",
+      "isMeta": false,
+      "bojTagId": 80,
+      "problemCount": 358,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub450 \ud3ec\uc778\ud130",
+          "short": "\ub450 \ud3ec\uc778\ud130"
+        },
+        {
+          "language": "en",
+          "name": "two-pointer",
+          "short": "two-pointer"
+        },
+        {
+          "language": "ja",
+          "name": "\u5c3a\u53d6\u308a\u6cd5",
+          "short": "\u5c3a\u53d6\u308a"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud22c\ud3ec\uc778\ud130"
+        },
+        {
+          "alias": "\uc778\uce58\uc6dc"
+        },
+        {
+          "alias": "inchworm"
+        },
+        {
+          "alias": "twopointer"
         }
       ]
     }
