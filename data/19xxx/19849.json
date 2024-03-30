@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 34,
+  "acceptedUserCount": 35,
   "level": 19,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.3529,
+  "averageTries": 2.4,
   "official": true,
   "tags": [
     {
@@ -89,7 +89,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1420,
+      "problemCount": 1421,
       "displayNames": [
         {
           "language": "ko",
@@ -108,6 +108,67 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "geometry_hyper",
+      "isMeta": false,
+      "bojTagId": 132,
+      "problemCount": 9,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "4\ucc28\uc6d0 \uc774\uc0c1\uc758 \uae30\ud558\ud559",
+          "short": "4\ucc28\uc6d0 \uc774\uc0c1\uc758 \uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry; hyperdimensional",
+          "short": "hyperdimensional"
+        },
+        {
+          "language": "ja",
+          "name": "4\u6b21\u5143\u4ee5\u4e0a\u3067\u306e\u5e7e\u4f55\u5b66",
+          "short": "hyperdimensional"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "4\ucc28\uc6d0"
+        },
+        {
+          "alias": "5\ucc28\uc6d0"
+        },
+        {
+          "alias": "6\ucc28\uc6d0"
+        },
+        {
+          "alias": "7\ucc28\uc6d0"
+        },
+        {
+          "alias": "8\ucc28\uc6d0"
+        },
+        {
+          "alias": "9\ucc28\uc6d0"
+        },
+        {
+          "alias": "4d"
+        },
+        {
+          "alias": "5d"
+        },
+        {
+          "alias": "6d"
+        },
+        {
+          "alias": "7d"
+        },
+        {
+          "alias": "8d"
+        },
+        {
+          "alias": "9d"
+        }
+      ]
     },
     {
       "key": "math",
