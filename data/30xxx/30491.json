@@ -12,14 +12,45 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 5,
-  "level": 18,
-  "votedUserCount": 1,
+  "level": 16,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.6,
   "official": true,
   "tags": [
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 3626,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
     {
       "key": "dp",
       "isMeta": false,
@@ -58,7 +89,7 @@
       "key": "dp_tree",
       "isMeta": false,
       "bojTagId": 92,
-      "problemCount": 407,
+      "problemCount": 406,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +117,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5214,
+      "problemCount": 5220,
       "displayNames": [
         {
           "language": "ko",
@@ -185,6 +216,30 @@
           "alias": "trees"
         }
       ]
+    },
+    {
+      "key": "trie",
+      "isMeta": false,
+      "bojTagId": 79,
+      "problemCount": 123,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub77c\uc774",
+          "short": "\ud2b8\ub77c\uc774"
+        },
+        {
+          "language": "en",
+          "name": "trie",
+          "short": "trie"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c8\u30e9\u30a4\u6728",
+          "short": "\u30c8\u30e9\u30a4"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
