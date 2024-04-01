@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 7,
-  "level": 13,
-  "votedUserCount": 3,
+  "acceptedUserCount": 8,
+  "level": 12,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2,
+  "averageTries": 1.875,
   "official": true,
   "tags": [
     {
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 941,
+      "problemCount": 942,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 780,
+      "problemCount": 781,
       "displayNames": [
         {
           "language": "ko",
@@ -83,10 +83,44 @@
       ]
     },
     {
+      "key": "floyd_warshall",
+      "isMeta": false,
+      "bojTagId": 31,
+      "problemCount": 164,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud50c\ub85c\uc774\ub4dc\u2013\uc6cc\uc15c",
+          "short": "\ud50c\ub85c\uc774\ub4dc\u2013\uc6cc\uc15c"
+        },
+        {
+          "language": "en",
+          "name": "floyd\u2013warshall",
+          "short": "floyd\u2013warshall"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ef\u30fc\u30b7\u30e3\u30eb\u2013\u30d5\u30ed\u30a4\u30c9\u6cd5",
+          "short": "\u30ef\u30fc\u30b7\u30e3\u30eb\u2013\u30d5\u30ed\u30a4\u30c9\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud50c\ub85c\uc774\ub4dc"
+        },
+        {
+          "alias": "\ud50c\ub85c\uc774\ub4dc\uc640\uc15c"
+        },
+        {
+          "alias": "\ud50c\ub85c\uc774\ub4dc\uc640\uc0ec"
+        }
+      ]
+    },
+    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3520,
+      "problemCount": 3524,
       "displayNames": [
         {
           "language": "ko",
@@ -117,7 +151,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 1919,
+      "problemCount": 1922,
       "displayNames": [
         {
           "language": "ko",
@@ -143,6 +177,30 @@
           "alias": "dfs"
         }
       ]
+    },
+    {
+      "key": "shortest_path",
+      "isMeta": false,
+      "bojTagId": 215,
+      "problemCount": 738,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
+          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "shortest path",
+          "short": "shortest path"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u77ed\u7d4c\u8def",
+          "short": "\u6700\u77ed\u7d4c\u8def"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
