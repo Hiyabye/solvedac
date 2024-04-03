@@ -17,20 +17,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 44,
+  "acceptedUserCount": 49,
   "level": 12,
-  "votedUserCount": 7,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.4318,
+  "averageTries": 3.3469,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3634,
+      "problemCount": 3635,
       "displayNames": [
         {
           "language": "ko",
@@ -58,34 +58,38 @@
       ]
     },
     {
-      "key": "deque",
+      "key": "greedy",
       "isMeta": false,
-      "bojTagId": 73,
-      "problemCount": 116,
+      "bojTagId": 33,
+      "problemCount": 2388,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub371",
-          "short": "\ub371"
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
         },
         {
           "language": "en",
-          "name": "deque",
-          "short": "deque"
+          "name": "greedy",
+          "short": "greedy"
         },
         {
           "language": "ja",
-          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
-          "short": "deque"
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
     },
     {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5229,
+      "problemCount": 5233,
       "displayNames": [
         {
           "language": "ko",
@@ -109,7 +113,7 @@
       "key": "simulation",
       "isMeta": false,
       "bojTagId": 141,
-      "problemCount": 1009,
+      "problemCount": 1011,
       "displayNames": [
         {
           "language": "ko",
