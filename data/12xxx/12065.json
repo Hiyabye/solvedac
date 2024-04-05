@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 5,
   "level": 15,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3634,
+      "problemCount": 3638,
       "displayNames": [
         {
           "language": "ko",
@@ -48,6 +48,34 @@
         },
         {
           "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "sliding_window",
+      "isMeta": false,
+      "bojTagId": 68,
+      "problemCount": 96,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2ac\ub77c\uc774\ub529 \uc708\ub3c4\uc6b0",
+          "short": "\uc2ac\ub77c\uc774\ub529 \uc708\ub3c4\uc6b0"
+        },
+        {
+          "language": "en",
+          "name": "sliding window",
+          "short": "sliding window"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b9\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0\u30a6\u30a3\u30f3\u30c9\u30a6",
+          "short": "\u30b9\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0\u30a6\u30a3\u30f3\u30c9\u30a6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2ac\ub77c\uc774\ub529\uc708\ub3c4"
         }
       ]
     }
