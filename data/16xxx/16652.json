@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 48,
+  "acceptedUserCount": 49,
   "level": 9,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.375,
+  "averageTries": 2.3469,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3639,
+      "problemCount": 3644,
       "displayNames": [
         {
           "language": "ko",
@@ -52,34 +52,10 @@
       ]
     },
     {
-      "key": "hashing",
-      "isMeta": false,
-      "bojTagId": 8,
-      "problemCount": 161,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574\uc2f1",
-          "short": "\ud574\uc2f1"
-        },
-        {
-          "language": "en",
-          "name": "hashing",
-          "short": "hash"
-        },
-        {
-          "language": "ja",
-          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
-          "short": "\u30cf\u30c3\u30b7\u30e5"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "hash_set",
       "isMeta": false,
       "bojTagId": 136,
-      "problemCount": 587,
+      "problemCount": 588,
       "displayNames": [
         {
           "language": "ko",
@@ -158,7 +134,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2287,
+      "problemCount": 2288,
       "displayNames": [
         {
           "language": "ko",
@@ -179,61 +155,6 @@
       "aliases": [
         {
           "alias": "\uc2a4\ud2b8\ub9c1"
-        }
-      ]
-    },
-    {
-      "key": "tree_set",
-      "isMeta": false,
-      "bojTagId": 74,
-      "problemCount": 471,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
-          "short": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map by trees",
-          "short": "treeset"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
-          "short": "treeset"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc9d1\ud569"
-        },
-        {
-          "alias": "\ub9f5"
-        },
-        {
-          "alias": "\uc14b"
-        },
-        {
-          "alias": "\ub515\uc154\ub108\ub9ac"
-        },
-        {
-          "alias": "dictionary"
-        },
-        {
-          "alias": "map"
-        },
-        {
-          "alias": "set"
-        },
-        {
-          "alias": "bbst"
-        },
-        {
-          "alias": "\ud2b8\ub9ac"
-        },
-        {
-          "alias": "tree"
         }
       ]
     }
