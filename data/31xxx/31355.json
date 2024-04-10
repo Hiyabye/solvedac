@@ -12,169 +12,14 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 8,
-  "level": 17,
-  "votedUserCount": 5,
+  "level": 16,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.625,
   "official": true,
   "tags": [
-    {
-      "key": "bitmask",
-      "isMeta": false,
-      "bojTagId": 14,
-      "problemCount": 693,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
-          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
-        },
-        {
-          "language": "en",
-          "name": "bitmask",
-          "short": "bitmask"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
-          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ube44\ud2b8\ud544\ub4dc"
-        },
-        {
-          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
-        }
-      ]
-    },
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 3644,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
-      "key": "dfs",
-      "isMeta": false,
-      "bojTagId": 127,
-      "problemCount": 787,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "depth-first search",
-          "short": "dfs"
-        },
-        {
-          "language": "ja",
-          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
-          "short": "dfs"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "depth first"
-        },
-        {
-          "alias": "depthfirst"
-        }
-      ]
-    },
-    {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 3532,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "graph_traversal",
-      "isMeta": false,
-      "bojTagId": 11,
-      "problemCount": 1931,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
-          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "graph traversal",
-          "short": "traversal"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
-          "short": "\u6a2a\u65ad"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bfs"
-        },
-        {
-          "alias": "dfs"
-        }
-      ]
-    },
     {
       "key": "greedy",
       "isMeta": false,
@@ -200,34 +45,6 @@
       "aliases": [
         {
           "alias": "\ud0d0\uc695\ubc95"
-        }
-      ]
-    },
-    {
-      "key": "linked_list",
-      "isMeta": false,
-      "bojTagId": 154,
-      "problemCount": 40,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc5f0\uacb0 \ub9ac\uc2a4\ud2b8",
-          "short": "\uc5f0\uacb0 \ub9ac\uc2a4\ud2b8"
-        },
-        {
-          "language": "en",
-          "name": "linked list",
-          "short": "ll"
-        },
-        {
-          "language": "ja",
-          "name": "\u9023\u7d50\u30ea\u30b9\u30c8",
-          "short": "\u9023\u7d50\u30ea\u30b9\u30c8"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub9c1\ud06c\ub4dc\ub9ac\uc2a4\ud2b8"
         }
       ]
     }

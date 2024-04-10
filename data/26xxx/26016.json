@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 7,
   "level": 23,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -52,10 +52,41 @@
       ]
     },
     {
+      "key": "graph_traversal",
+      "isMeta": false,
+      "bojTagId": 11,
+      "problemCount": 1931,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
+          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "graph traversal",
+          "short": "traversal"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
+          "short": "\u6a2a\u65ad"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bfs"
+        },
+        {
+          "alias": "dfs"
+        }
+      ]
+    },
+    {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5240,
+      "problemCount": 5243,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +110,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6103,
+      "problemCount": 6104,
       "displayNames": [
         {
           "language": "ko",
