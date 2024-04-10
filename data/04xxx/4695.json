@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 11,
+  "acceptedUserCount": 13,
   "level": 8,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.1818,
+  "averageTries": 3.3077,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3643,
+      "problemCount": 3644,
       "displayNames": [
         {
           "language": "ko",
@@ -52,10 +52,65 @@
       ]
     },
     {
+      "key": "hash_set",
+      "isMeta": false,
+      "bojTagId": 136,
+      "problemCount": 588,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574\uc2dc\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
+          "short": "\ud574\uc2dc\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map by hashing",
+          "short": "hashset"
+        },
+        {
+          "language": "ja",
+          "name": "\u30cf\u30c3\u30b7\u30e5\u5316\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
+          "short": "hashset"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc9d1\ud569"
+        },
+        {
+          "alias": "\ub9f5"
+        },
+        {
+          "alias": "\uc14b"
+        },
+        {
+          "alias": "\ub515\uc154\ub108\ub9ac"
+        },
+        {
+          "alias": "dictionary"
+        },
+        {
+          "alias": "map"
+        },
+        {
+          "alias": "set"
+        },
+        {
+          "alias": "\ud574\uc2f1"
+        },
+        {
+          "alias": "hashing"
+        },
+        {
+          "alias": "dict"
+        }
+      ]
+    },
+    {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5240,
+      "problemCount": 5241,
       "displayNames": [
         {
           "language": "ko",
@@ -103,7 +158,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2288,
+      "problemCount": 2290,
       "displayNames": [
         {
           "language": "ko",
@@ -131,7 +186,7 @@
       "key": "tree_set",
       "isMeta": false,
       "bojTagId": 74,
-      "problemCount": 469,
+      "problemCount": 468,
       "displayNames": [
         {
           "language": "ko",
