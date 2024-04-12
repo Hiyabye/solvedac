@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 7,
   "level": 21,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -83,7 +83,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1431,
+      "problemCount": 1432,
       "displayNames": [
         {
           "language": "ko",
@@ -102,34 +102,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "offline_queries",
-      "isMeta": false,
-      "bojTagId": 123,
-      "problemCount": 243,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
-          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "offline queries",
-          "short": "offline query"
-        },
-        {
-          "language": "ja",
-          "name": "offline queries",
-          "short": "offline query"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "offlinequery"
-        }
-      ]
     },
     {
       "key": "point_in_convex_polygon",
@@ -159,7 +131,7 @@
       "key": "polygon_area",
       "isMeta": false,
       "bojTagId": 3,
-      "problemCount": 63,
+      "problemCount": 62,
       "displayNames": [
         {
           "language": "ko",
@@ -203,30 +175,6 @@
           "language": "ja",
           "name": "\u30d4\u30bf\u30b4\u30e9\u30b9\u306e\u5b9a\u7406",
           "short": "\u30d4\u30bf\u30b4\u30e9\u30b9"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "sorting",
-      "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 1771,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
         }
       ],
       "aliases": []
