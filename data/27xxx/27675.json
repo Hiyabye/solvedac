@@ -12,7 +12,7 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 1,
-  "level": 18,
+  "level": 21,
   "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
@@ -21,44 +21,34 @@
   "official": true,
   "tags": [
     {
-      "key": "bellman_ford",
+      "key": "ad_hoc",
       "isMeta": false,
-      "bojTagId": 10,
-      "problemCount": 41,
+      "bojTagId": 109,
+      "problemCount": 1385,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubca8\ub9cc\u2013\ud3ec\ub4dc",
-          "short": "\ubca8\ub9cc\u2013\ud3ec\ub4dc"
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
         },
         {
           "language": "en",
-          "name": "bellman\u2013ford",
-          "short": "bellman-ford"
+          "name": "ad-hoc",
+          "short": "ad-hoc"
         },
         {
           "language": "ja",
-          "name": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9\u6cd5",
-          "short": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9"
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
         }
       ],
-      "aliases": [
-        {
-          "alias": "bellmanford"
-        },
-        {
-          "alias": "\ubca8\ub9cc\ud3ec\ub4dc"
-        },
-        {
-          "alias": "spfa"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "bitmask",
       "isMeta": false,
       "bojTagId": 14,
-      "problemCount": 693,
+      "problemCount": 692,
       "displayNames": [
         {
           "language": "ko",
@@ -157,7 +147,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3534,
+      "problemCount": 3535,
       "displayNames": [
         {
           "language": "ko",

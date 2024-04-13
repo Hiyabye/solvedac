@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 11,
   "level": 14,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -55,7 +55,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3644,
+      "problemCount": 3645,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2391,
+      "problemCount": 2392,
       "displayNames": [
         {
           "language": "ko",
@@ -111,10 +111,34 @@
       ]
     },
     {
+      "key": "lis",
+      "isMeta": false,
+      "bojTagId": 43,
+      "problemCount": 85,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4: O(n log n)",
+          "short": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4: O(n log n)"
+        },
+        {
+          "language": "en",
+          "name": "longest increasing sequence in o(n log n)",
+          "short": "lis in o(n log n)"
+        },
+        {
+          "language": "ja",
+          "name": "longest increasing sequence in o(n log n)",
+          "short": "lis in o(n log n)"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "tree_set",
       "isMeta": false,
       "bojTagId": 74,
-      "problemCount": 469,
+      "problemCount": 468,
       "displayNames": [
         {
           "language": "ko",
