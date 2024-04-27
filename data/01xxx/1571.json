@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 41,
+  "acceptedUserCount": 42,
   "level": 16,
-  "votedUserCount": 12,
+  "votedUserCount": 13,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.9024,
+  "averageTries": 1.881,
   "official": true,
   "tags": [
     {
@@ -43,6 +43,37 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "extended_euclidean",
+      "isMeta": false,
+      "bojTagId": 27,
+      "problemCount": 33,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\uc7a5 \uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95",
+          "short": "\ud655\uc7a5 \uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "extended euclidean algorithm",
+          "short": "extended euclidean algorithm"
+        },
+        {
+          "language": "ja",
+          "name": "\u62e1\u5f35\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
+          "short": "\u62e1\u5f35\u30e6\u30fc\u30af\u30ea\u30c3\u30c9"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud655\uc7a5\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "alias": "egcd"
+        }
+      ]
     },
     {
       "key": "math",
@@ -72,7 +103,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1375,
+      "problemCount": 1376,
       "displayNames": [
         {
           "language": "ko",
