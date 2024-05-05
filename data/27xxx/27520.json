@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 10,
   "level": 23,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -92,7 +92,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1443,
+      "problemCount": 1444,
       "displayNames": [
         {
           "language": "ko",
@@ -135,6 +135,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "min_enclosing_circle",
+      "isMeta": false,
+      "bojTagId": 162,
+      "problemCount": 10,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uc678\uc811\uc6d0",
+          "short": "\ucd5c\uc18c \uc678\uc811\uc6d0"
+        },
+        {
+          "language": "en",
+          "name": "minimum enclosing circle",
+          "short": "minimum enclosing circle"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5c0f\u5916\u63a5\u5186",
+          "short": "\u6700\u5c0f\u5916\u63a5\u5186"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bounding circle"
+        },
+        {
+          "alias": "smallest enclosing circle"
+        },
+        {
+          "alias": "minimum covering circle"
+        }
+      ]
     },
     {
       "key": "parametric_search",
