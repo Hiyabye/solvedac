@@ -12,13 +12,62 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 0,
-  "level": 0,
-  "votedUserCount": 0,
+  "level": 23,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 0,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1447,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "ternary_search",
+      "isMeta": false,
+      "bojTagId": 101,
+      "problemCount": 90,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc0bc\ubd84 \ud0d0\uc0c9",
+          "short": "\uc0bc\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "ternary search",
+          "short": "ternary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e09\u5206\u63a2\u7d22",
+          "short": "\u4e09\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": []
+    }
+  ],
   "metadata": {}
 }
