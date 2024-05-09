@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 15,
+  "acceptedUserCount": 16,
   "level": 25,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 5.5333,
+  "averageTries": 5.375,
   "official": true,
   "tags": [
     {
@@ -86,7 +86,7 @@
       "key": "dijkstra",
       "isMeta": false,
       "bojTagId": 22,
-      "problemCount": 566,
+      "problemCount": 567,
       "displayNames": [
         {
           "language": "ko",
@@ -113,6 +113,40 @@
         },
         {
           "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 3894,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
         }
       ]
     },
@@ -144,7 +178,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3556,
+      "problemCount": 3558,
       "displayNames": [
         {
           "language": "ko",
@@ -264,7 +298,7 @@
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 741,
+      "problemCount": 742,
       "displayNames": [
         {
           "language": "ko",
