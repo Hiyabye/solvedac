@@ -12,13 +12,90 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 1,
-  "level": 0,
-  "votedUserCount": 0,
+  "level": 10,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "ad_hoc",
+      "isMeta": false,
+      "bojTagId": 109,
+      "problemCount": 1404,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
+        },
+        {
+          "language": "en",
+          "name": "ad-hoc",
+          "short": "ad-hoc"
+        },
+        {
+          "language": "ja",
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "parsing",
+      "isMeta": false,
+      "bojTagId": 96,
+      "problemCount": 444,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud30c\uc2f1",
+          "short": "\ud30c\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "parsing",
+          "short": "parsing"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
+          "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2311,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        },
+        {
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    }
+  ],
   "metadata": {}
 }
