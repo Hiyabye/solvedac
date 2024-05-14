@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 33,
-  "level": 24,
-  "votedUserCount": 8,
+  "level": 23,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -45,10 +45,44 @@
       "aliases": []
     },
     {
+      "key": "case_work",
+      "isMeta": false,
+      "bojTagId": 137,
+      "problemCount": 817,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
+          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
+        },
+        {
+          "language": "en",
+          "name": "case work",
+          "short": "case work"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
+          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucf00\uc774\uc2a4"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
+        }
+      ]
+    },
+    {
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1454,
+      "problemCount": 1455,
       "displayNames": [
         {
           "language": "ko",
@@ -96,7 +130,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 920,
+      "problemCount": 919,
       "displayNames": [
         {
           "language": "ko",
