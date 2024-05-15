@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 51,
   "level": 20,
-  "votedUserCount": 25,
+  "votedUserCount": 26,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -55,7 +55,7 @@
       "key": "euler_tour_technique",
       "isMeta": false,
       "bojTagId": 150,
-      "problemCount": 96,
+      "problemCount": 95,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3567,
+      "problemCount": 3568,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +110,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 1949,
+      "problemCount": 1950,
       "displayNames": [
         {
           "language": "ko",
@@ -136,6 +136,30 @@
           "alias": "dfs"
         }
       ]
+    },
+    {
+      "key": "hashing",
+      "isMeta": false,
+      "bojTagId": 8,
+      "problemCount": 163,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574\uc2f1",
+          "short": "\ud574\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "hashing",
+          "short": "hash"
+        },
+        {
+          "language": "ja",
+          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
+          "short": "\u30cf\u30c3\u30b7\u30e5"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "manacher",
@@ -165,7 +189,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2315,
+      "problemCount": 2317,
       "displayNames": [
         {
           "language": "ko",
