@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 6,
+  "acceptedUserCount": 7,
   "level": 24,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.5,
+  "averageTries": 1.7143,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3683,
+      "problemCount": 3682,
       "displayNames": [
         {
           "language": "ko",
@@ -110,6 +110,37 @@
       "aliases": [
         {
           "alias": "\ud2b8\ub9acdp"
+        }
+      ]
+    },
+    {
+      "key": "sparse_table",
+      "isMeta": false,
+      "bojTagId": 84,
+      "problemCount": 133,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud76c\uc18c \ubc30\uc5f4",
+          "short": "\ud76c\uc18c \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "sparse table",
+          "short": "sparse table"
+        },
+        {
+          "language": "ja",
+          "name": "sparse table",
+          "short": "sparse table"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud30c\uc2a4\uc5b4\ub808\uc774"
+        },
+        {
+          "alias": "sparse table"
         }
       ]
     },
