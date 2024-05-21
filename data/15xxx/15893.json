@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 35,
   "level": 22,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -69,10 +69,38 @@
       "aliases": []
     },
     {
+      "key": "palindrome_tree",
+      "isMeta": false,
+      "bojTagId": 53,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud68c\ubb38 \ud2b8\ub9ac",
+          "short": "\ud68c\ubb38 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "palindrome tree",
+          "short": "palindrome tree"
+        },
+        {
+          "language": "ja",
+          "name": "palindrome tree",
+          "short": "palindrome tree"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud330\ub9b0\ub4dc\ub86c\ud2b8\ub9ac"
+        }
+      ]
+    },
+    {
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2322,
+      "problemCount": 2323,
       "displayNames": [
         {
           "language": "ko",
@@ -93,6 +121,34 @@
       "aliases": [
         {
           "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1354,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
         }
       ]
     }
