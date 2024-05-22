@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 9,
   "level": 22,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3697,
+      "problemCount": 3701,
       "displayNames": [
         {
           "language": "ko",
@@ -48,58 +48,6 @@
         },
         {
           "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
-      "key": "flow",
-      "isMeta": false,
-      "bojTagId": 45,
-      "problemCount": 321,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub300 \uc720\ub7c9",
-          "short": "\ucd5c\ub300 \uc720\ub7c9"
-        },
-        {
-          "language": "en",
-          "name": "maximum flow",
-          "short": "flow"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u5927\u30d5\u30ed\u30fc",
-          "short": "flow"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dinic"
-        },
-        {
-          "alias": "dinitz"
-        },
-        {
-          "alias": "ford"
-        },
-        {
-          "alias": "fulkerson"
-        },
-        {
-          "alias": "fordfulkerson"
-        },
-        {
-          "alias": "\ub514\ub2c9"
-        },
-        {
-          "alias": "\ub514\ub2c8\uce20"
-        },
-        {
-          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
-        },
-        {
-          "alias": "\ud50c\ub85c\uc6b0"
         }
       ]
     },
@@ -156,98 +104,6 @@
       "aliases": []
     },
     {
-      "key": "lazyprop",
-      "isMeta": false,
-      "bojTagId": 66,
-      "problemCount": 296,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub290\ub9ac\uac8c \uac31\uc2e0\ub418\ub294 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
-          "short": "\ub290\ub9ac\uac8c \uac31\uc2e0\ub418\ub294 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "segment tree with lazy propagation",
-          "short": "lazyprop"
-        },
-        {
-          "language": "ja",
-          "name": "\u9045\u5ef6\u8a55\u4fa1\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
-          "short": "\u9045\u5ef6\u8a55\u4fa1\u30bb\u30b0\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub808\uc774\uc9c0"
-        },
-        {
-          "alias": "\ub808\uc774\uc9c0\ud504\ub85c\ud37c\uac8c\uc774\uc158"
-        },
-        {
-          "alias": "\ub808\uc774\uc9c0\ud504\ub85c\ud30c\uac8c\uc774\uc158"
-        },
-        {
-          "alias": "\uad6c\uac04\ud2b8\ub9ac"
-        },
-        {
-          "alias": "fenwick"
-        },
-        {
-          "alias": "\ud39c\uc705"
-        }
-      ]
-    },
-    {
-      "key": "mcmf",
-      "isMeta": false,
-      "bojTagId": 48,
-      "problemCount": 116,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\uc18c \ube44\uc6a9 \ucd5c\ub300 \uc720\ub7c9",
-          "short": "\ucd5c\uc18c \ube44\uc6a9 \ucd5c\ub300 \uc720\ub7c9"
-        },
-        {
-          "language": "en",
-          "name": "minimum cost maximum flow",
-          "short": "mcmf"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u5c0f\u8cbb\u7528\u6700\u5927\u6d41\u554f\u984c",
-          "short": "mcmf"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dinic"
-        },
-        {
-          "alias": "dinitz"
-        },
-        {
-          "alias": "ford"
-        },
-        {
-          "alias": "fulkerson"
-        },
-        {
-          "alias": "fordfulkerson"
-        },
-        {
-          "alias": "\ub514\ub2c9"
-        },
-        {
-          "alias": "\ub514\ub2c8\uce20"
-        },
-        {
-          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
-        }
-      ]
-    },
-    {
       "key": "priority_queue",
       "isMeta": false,
       "bojTagId": 59,
@@ -282,7 +138,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1266,
+      "problemCount": 1267,
       "displayNames": [
         {
           "language": "ko",
