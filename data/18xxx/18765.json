@@ -16,10 +16,10 @@
     }
   ],
   "isSolvable": true,
-  "isPartial": true,
+  "isPartial": false,
   "acceptedUserCount": 66,
   "level": 19,
-  "votedUserCount": 24,
+  "votedUserCount": 26,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -51,6 +51,40 @@
       "aliases": []
     },
     {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 3919,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
       "key": "heuristics",
       "isMeta": false,
       "bojTagId": 142,
@@ -78,7 +112,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5363,
+      "problemCount": 5366,
       "displayNames": [
         {
           "language": "ko",
@@ -102,7 +136,7 @@
       "key": "precomputation",
       "isMeta": false,
       "bojTagId": 172,
-      "problemCount": 201,
+      "problemCount": 202,
       "displayNames": [
         {
           "language": "ko",
