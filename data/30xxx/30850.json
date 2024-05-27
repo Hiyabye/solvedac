@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 3,
-  "level": 19,
-  "votedUserCount": 2,
+  "level": 20,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3708,
+      "problemCount": 3716,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 797,
+      "problemCount": 796,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "disjoint_set",
       "isMeta": false,
       "bojTagId": 81,
-      "problemCount": 458,
+      "problemCount": 459,
       "displayNames": [
         {
           "language": "ko",
@@ -126,7 +126,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3585,
+      "problemCount": 3591,
       "displayNames": [
         {
           "language": "ko",
@@ -157,7 +157,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 1958,
+      "problemCount": 1959,
       "displayNames": [
         {
           "language": "ko",
@@ -185,10 +185,38 @@
       ]
     },
     {
+      "key": "offline_queries",
+      "isMeta": false,
+      "bojTagId": 123,
+      "problemCount": 245,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
+          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "offline queries",
+          "short": "offline query"
+        },
+        {
+          "language": "ja",
+          "name": "offline queries",
+          "short": "offline query"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "offlinequery"
+        }
+      ]
+    },
+    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1269,
+      "problemCount": 1270,
       "displayNames": [
         {
           "language": "ko",
@@ -220,6 +248,30 @@
           "alias": "\ud39c\uc705"
         }
       ]
+    },
+    {
+      "key": "stack",
+      "isMeta": false,
+      "bojTagId": 71,
+      "problemCount": 367,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2a4\ud0dd",
+          "short": "\uc2a4\ud0dd"
+        },
+        {
+          "language": "en",
+          "name": "stack",
+          "short": "stack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b9\u30bf\u30c3\u30af",
+          "short": "\u30b9\u30bf\u30c3\u30af"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
