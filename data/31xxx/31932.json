@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 39,
+  "acceptedUserCount": 41,
   "level": 14,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7949,
+  "averageTries": 1.8537,
   "official": true,
   "tags": [
     {
@@ -55,7 +55,7 @@
       "key": "dijkstra",
       "isMeta": false,
       "bojTagId": 22,
-      "problemCount": 570,
+      "problemCount": 571,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +89,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3591,
+      "problemCount": 3592,
       "displayNames": [
         {
           "language": "ko",
@@ -117,41 +117,10 @@
       ]
     },
     {
-      "key": "graph_traversal",
-      "isMeta": false,
-      "bojTagId": 11,
-      "problemCount": 1959,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
-          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "graph traversal",
-          "short": "traversal"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
-          "short": "\u6a2a\u65ad"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bfs"
-        },
-        {
-          "alias": "dfs"
-        }
-      ]
-    },
-    {
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 751,
+      "problemCount": 752,
       "displayNames": [
         {
           "language": "ko",
