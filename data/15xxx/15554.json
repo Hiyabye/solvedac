@@ -24,8 +24,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 227,
-  "level": 15,
-  "votedUserCount": 51,
+  "level": 16,
+  "votedUserCount": 52,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -33,10 +33,38 @@
   "official": true,
   "tags": [
     {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 2460,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
+    {
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 924,
+      "problemCount": 925,
       "displayNames": [
         {
           "language": "ko",
@@ -70,7 +98,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 1807,
+      "problemCount": 1814,
       "displayNames": [
         {
           "language": "ko",

@@ -11,20 +11,48 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 15,
+  "acceptedUserCount": 18,
   "level": 21,
-  "votedUserCount": 10,
+  "votedUserCount": 13,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 5.4,
+  "averageTries": 7.0556,
   "official": true,
   "tags": [
+    {
+      "key": "coordinate_compression",
+      "isMeta": false,
+      "bojTagId": 161,
+      "problemCount": 222,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
+          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
+        },
+        {
+          "language": "en",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        },
+        {
+          "language": "ja",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "zip"
+        }
+      ]
+    },
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3717,
+      "problemCount": 3724,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +83,7 @@
       "key": "offline_queries",
       "isMeta": false,
       "bojTagId": 123,
-      "problemCount": 245,
+      "problemCount": 246,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +111,7 @@
       "key": "priority_queue",
       "isMeta": false,
       "bojTagId": 59,
-      "problemCount": 418,
+      "problemCount": 420,
       "displayNames": [
         {
           "language": "ko",
@@ -114,7 +142,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1270,
+      "problemCount": 1269,
       "displayNames": [
         {
           "language": "ko",
@@ -151,7 +179,7 @@
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 463,
+      "problemCount": 464,
       "displayNames": [
         {
           "language": "ko",
