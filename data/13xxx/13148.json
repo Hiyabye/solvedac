@@ -24,7 +24,7 @@
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 960,
+      "problemCount": 963,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3597,
+      "problemCount": 3602,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +110,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 1958,
+      "problemCount": 1961,
       "displayNames": [
         {
           "language": "ko",
@@ -136,6 +136,30 @@
           "alias": "dfs"
         }
       ]
+    },
+    {
+      "key": "mitm",
+      "isMeta": false,
+      "bojTagId": 46,
+      "problemCount": 89,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30",
+          "short": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30"
+        },
+        {
+          "language": "en",
+          "name": "meet in the middle",
+          "short": "meet in the middle"
+        },
+        {
+          "language": "ja",
+          "name": "\u534a\u5206\u5168\u5217\u6319",
+          "short": "\u534a\u5206\u5168\u5217\u6319"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
