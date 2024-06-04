@@ -21,34 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "0_1_bfs",
-      "isMeta": false,
-      "bojTagId": 176,
-      "problemCount": 56,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "0-1 \ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "0-1 \ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "0-1 bfs",
-          "short": "0-1 bfs"
-        },
-        {
-          "language": "ja",
-          "name": "0-1 bfs",
-          "short": "0-1 bfs"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1424,
+      "problemCount": 1426,
       "displayNames": [
         {
           "language": "ko",
@@ -69,10 +45,41 @@
       "aliases": []
     },
     {
+      "key": "bfs",
+      "isMeta": false,
+      "bojTagId": 126,
+      "problemCount": 964,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "breadth-first search",
+          "short": "bfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e45\u512a\u5148\u691c\u7d22",
+          "short": "bfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "breadthfirst"
+        },
+        {
+          "alias": "breadth first"
+        }
+      ]
+    },
+    {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2133,
+      "problemCount": 2134,
       "displayNames": [
         {
           "language": "ko",
@@ -112,40 +119,6 @@
       ]
     },
     {
-      "key": "dijkstra",
-      "isMeta": false,
-      "bojTagId": 22,
-      "problemCount": 572,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
-          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
-        },
-        {
-          "language": "en",
-          "name": "dijkstra's",
-          "short": "dijkstra's"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
-          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub2e4\uc775"
-        },
-        {
-          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
-        },
-        {
-          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
@@ -177,10 +150,41 @@
       ]
     },
     {
+      "key": "graph_traversal",
+      "isMeta": false,
+      "bojTagId": 11,
+      "problemCount": 1962,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
+          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "graph traversal",
+          "short": "traversal"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
+          "short": "\u6a2a\u65ad"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bfs"
+        },
+        {
+          "alias": "dfs"
+        }
+      ]
+    },
+    {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5401,
+      "problemCount": 5403,
       "displayNames": [
         {
           "language": "ko",
@@ -204,7 +208,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6212,
+      "problemCount": 6216,
       "displayNames": [
         {
           "language": "ko",
@@ -281,30 +285,6 @@
           "alias": "database"
         }
       ]
-    },
-    {
-      "key": "shortest_path",
-      "isMeta": false,
-      "bojTagId": 215,
-      "problemCount": 754,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
-          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
-        },
-        {
-          "language": "en",
-          "name": "shortest path",
-          "short": "shortest path"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u77ed\u7d4c\u8def",
-          "short": "\u6700\u77ed\u7d4c\u8def"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
