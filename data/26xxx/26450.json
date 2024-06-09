@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 12,
   "level": 9,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "arithmetic",
       "isMeta": false,
       "bojTagId": 121,
-      "problemCount": 1092,
+      "problemCount": 1093,
       "displayNames": [
         {
           "language": "ko",
@@ -73,7 +73,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3611,
+      "problemCount": 3613,
       "displayNames": [
         {
           "language": "ko",
@@ -104,7 +104,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 1967,
+      "problemCount": 1969,
       "displayNames": [
         {
           "language": "ko",
@@ -132,10 +132,34 @@
       ]
     },
     {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 5420,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6227,
+      "problemCount": 6229,
       "displayNames": [
         {
           "language": "ko",
@@ -183,7 +207,7 @@
       "key": "recursion",
       "isMeta": false,
       "bojTagId": 62,
-      "problemCount": 225,
+      "problemCount": 226,
       "displayNames": [
         {
           "language": "ko",
@@ -207,7 +231,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2340,
+      "problemCount": 2341,
       "displayNames": [
         {
           "language": "ko",
