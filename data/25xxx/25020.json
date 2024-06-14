@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 12,
+  "acceptedUserCount": 11,
   "level": 25,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 10.9167,
+  "averageTries": 11.8182,
   "official": true,
   "tags": [
     {
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1195,
+      "problemCount": 1196,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "convex_hull",
       "isMeta": false,
       "bojTagId": 20,
-      "problemCount": 178,
+      "problemCount": 177,
       "displayNames": [
         {
           "language": "ko",
@@ -114,7 +114,7 @@
       "key": "divide_and_conquer",
       "isMeta": false,
       "bojTagId": 24,
-      "problemCount": 407,
+      "problemCount": 408,
       "displayNames": [
         {
           "language": "ko",
@@ -213,30 +213,6 @@
           "alias": "offlinequery"
         }
       ]
-    },
-    {
-      "key": "pbs",
-      "isMeta": false,
-      "bojTagId": 54,
-      "problemCount": 35,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubcd1\ub82c \uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\ubcd1\ub82c \uc774\ubd84 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "parallel binary search",
-          "short": "pbs"
-        },
-        {
-          "language": "ja",
-          "name": "parallel binary search",
-          "short": "pbs"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
