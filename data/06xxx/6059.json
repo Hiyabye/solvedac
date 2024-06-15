@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 72,
   "level": 10,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 965,
+      "problemCount": 966,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3617,
+      "problemCount": 3618,
       "displayNames": [
         {
           "language": "ko",
@@ -117,7 +117,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 1970,
+      "problemCount": 1971,
       "displayNames": [
         {
           "language": "ko",
@@ -148,7 +148,7 @@
       "key": "lca",
       "isMeta": false,
       "bojTagId": 41,
-      "problemCount": 163,
+      "problemCount": 164,
       "displayNames": [
         {
           "language": "ko",
@@ -169,10 +169,34 @@
       "aliases": []
     },
     {
+      "key": "shortest_path",
+      "isMeta": false,
+      "bojTagId": 215,
+      "problemCount": 757,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
+          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "shortest path",
+          "short": "shortest path"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u77ed\u7d4c\u8def",
+          "short": "\u6700\u77ed\u7d4c\u8def"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1368,
+      "problemCount": 1370,
       "displayNames": [
         {
           "language": "ko",
