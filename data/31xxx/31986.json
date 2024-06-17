@@ -11,51 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 5,
+  "acceptedUserCount": 9,
   "level": 21,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.6,
+  "averageTries": 2,
   "official": true,
   "tags": [
-    {
-      "key": "binary_search",
-      "isMeta": false,
-      "bojTagId": 12,
-      "problemCount": 1196,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\uc774\ubd84 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "binary search",
-          "short": "binary search"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u5206\u63a2\u7d22",
-          "short": "\u4e8c\u5206\u63a2\u7d22"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc774\ubd84\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
-        }
-      ]
-    },
     {
       "key": "combinatorics",
       "isMeta": false,
       "bojTagId": 6,
-      "problemCount": 888,
+      "problemCount": 892,
       "displayNames": [
         {
           "language": "ko",
@@ -123,7 +92,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 3962,
+      "problemCount": 3963,
       "displayNames": [
         {
           "language": "ko",
@@ -150,43 +119,6 @@
         },
         {
           "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
-    {
-      "key": "exponentiation_by_squaring",
-      "isMeta": false,
-      "bojTagId": 39,
-      "problemCount": 275,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1",
-          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1"
-        },
-        {
-          "language": "en",
-          "name": "exponentiation by squaring",
-          "short": "exponentiation by squaring"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57",
-          "short": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uac70\ub4ed\uc81c\uacf1"
-        },
-        {
-          "alias": "\uc81c\uacf1"
-        },
-        {
-          "alias": "power"
-        },
-        {
-          "alias": "square"
         }
       ]
     },
@@ -228,7 +160,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6247,
+      "problemCount": 6258,
       "displayNames": [
         {
           "language": "ko",
@@ -247,80 +179,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "prefix_sum",
-      "isMeta": false,
-      "bojTagId": 139,
-      "problemCount": 939,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub204\uc801 \ud569",
-          "short": "\ub204\uc801 \ud569"
-        },
-        {
-          "language": "en",
-          "name": "prefix sum",
-          "short": "prefix sum"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d2f\u7a4d\u548c",
-          "short": "\u7d2f\u7a4d\u548c"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uad6c\uac04\ud569"
-        },
-        {
-          "alias": "\ubd80\ubd84\ud569"
-        },
-        {
-          "alias": "rangesum"
-        }
-      ]
-    },
-    {
-      "key": "sqrt_decomposition",
-      "isMeta": false,
-      "bojTagId": 130,
-      "problemCount": 112,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc81c\uacf1\uadfc \ubd84\ud560\ubc95",
-          "short": "\uc81c\uacf1\uadfc \ubd84\ud560\ubc95"
-        },
-        {
-          "language": "en",
-          "name": "square root decomposition",
-          "short": "sqrt decomposition"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e73\u65b9\u5206\u5272",
-          "short": "\u5e73\u65b9\u5206\u5272"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub8e8\ud2b8\ubd84\ud560\ubc95"
-        },
-        {
-          "alias": "\ud3c9\ubc29\ubd84\ud560\ubc95"
-        },
-        {
-          "alias": "\ubaa8"
-        },
-        {
-          "alias": "mo"
-        },
-        {
-          "alias": "sqrt"
-        }
-      ]
     }
   ],
   "metadata": {}
