@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 4,
-  "level": 20,
-  "votedUserCount": 2,
+  "level": 19,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -64,7 +64,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 3963,
+      "problemCount": 3966,
       "displayNames": [
         {
           "language": "ko",
@@ -98,7 +98,7 @@
       "key": "inclusion_and_exclusion",
       "isMeta": false,
       "bojTagId": 38,
-      "problemCount": 154,
+      "problemCount": 155,
       "displayNames": [
         {
           "language": "ko",
@@ -146,7 +146,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6258,
+      "problemCount": 6259,
       "displayNames": [
         {
           "language": "ko",
@@ -165,6 +165,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "prefix_sum",
+      "isMeta": false,
+      "bojTagId": 139,
+      "problemCount": 942,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub204\uc801 \ud569",
+          "short": "\ub204\uc801 \ud569"
+        },
+        {
+          "language": "en",
+          "name": "prefix sum",
+          "short": "prefix sum"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d2f\u7a4d\u548c",
+          "short": "\u7d2f\u7a4d\u548c"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud569"
+        },
+        {
+          "alias": "\ubd80\ubd84\ud569"
+        },
+        {
+          "alias": "rangesum"
+        }
+      ]
     },
     {
       "key": "probability",
