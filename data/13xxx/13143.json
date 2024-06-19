@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 50,
   "level": 16,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -61,41 +61,10 @@
       ]
     },
     {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 3621,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2490,
+      "problemCount": 2493,
       "displayNames": [
         {
           "language": "ko",
@@ -176,30 +145,6 @@
           "alias": "\uae30\ub313\uac12"
         }
       ]
-    },
-    {
-      "key": "sorting",
-      "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 1822,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
