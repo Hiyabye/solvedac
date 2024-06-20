@@ -10,10 +10,10 @@
     }
   ],
   "isSolvable": true,
-  "isPartial": false,
+  "isPartial": true,
   "acceptedUserCount": 26,
-  "level": 21,
-  "votedUserCount": 9,
+  "level": 20,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "inclusion_and_exclusion",
+      "isMeta": false,
+      "bojTagId": 38,
+      "problemCount": 156,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac",
+          "short": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "inclusion and exclusion",
+          "short": "inclusion and exclusion"
+        },
+        {
+          "language": "ja",
+          "name": "\u5305\u9664\u539f\u7406",
+          "short": "\u5305\u9664\u539f\u7406"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6259,
+      "problemCount": 6261,
       "displayNames": [
         {
           "language": "ko",
@@ -76,7 +100,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1411,
+      "problemCount": 1413,
       "displayNames": [
         {
           "language": "ko",
