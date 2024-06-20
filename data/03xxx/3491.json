@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 8,
+  "acceptedUserCount": 10,
   "level": 19,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 7,
+  "averageTries": 10.8,
   "official": true,
   "tags": [
     {
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 966,
+      "problemCount": 964,
       "displayNames": [
         {
           "language": "ko",
@@ -50,6 +50,30 @@
           "alias": "breadth first"
         }
       ]
+    },
+    {
+      "key": "crt",
+      "isMeta": false,
+      "bojTagId": 19,
+      "problemCount": 45,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac",
+          "short": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "chinese remainder theorem",
+          "short": "crt"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406",
+          "short": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "dfs",
@@ -117,7 +141,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3623,
+      "problemCount": 3624,
       "displayNames": [
         {
           "language": "ko",
@@ -148,7 +172,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 1976,
+      "problemCount": 1975,
       "displayNames": [
         {
           "language": "ko",
@@ -203,7 +227,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1411,
+      "problemCount": 1412,
       "displayNames": [
         {
           "language": "ko",
