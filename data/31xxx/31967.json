@@ -10,21 +10,21 @@
     }
   ],
   "isSolvable": true,
-  "isPartial": false,
-  "acceptedUserCount": 19,
+  "isPartial": true,
+  "acceptedUserCount": 23,
   "level": 21,
-  "votedUserCount": 8,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7895,
+  "averageTries": 2,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3768,
+      "problemCount": 3771,
       "displayNames": [
         {
           "language": "ko",
@@ -48,40 +48,6 @@
         },
         {
           "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
-      "key": "dp",
-      "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 3971,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
         }
       ]
     },
@@ -129,30 +95,36 @@
       ]
     },
     {
-      "key": "offline_queries",
+      "key": "prefix_sum",
       "isMeta": false,
-      "bojTagId": 123,
-      "problemCount": 251,
+      "bojTagId": 139,
+      "problemCount": 948,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
-          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+          "name": "\ub204\uc801 \ud569",
+          "short": "\ub204\uc801 \ud569"
         },
         {
           "language": "en",
-          "name": "offline queries",
-          "short": "offline query"
+          "name": "prefix sum",
+          "short": "prefix sum"
         },
         {
           "language": "ja",
-          "name": "offline queries",
-          "short": "offline query"
+          "name": "\u7d2f\u7a4d\u548c",
+          "short": "\u7d2f\u7a4d\u548c"
         }
       ],
       "aliases": [
         {
-          "alias": "offlinequery"
+          "alias": "\uad6c\uac04\ud569"
+        },
+        {
+          "alias": "\ubd80\ubd84\ud569"
+        },
+        {
+          "alias": "rangesum"
         }
       ]
     },
@@ -160,7 +132,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1289,
+      "problemCount": 1291,
       "displayNames": [
         {
           "language": "ko",
