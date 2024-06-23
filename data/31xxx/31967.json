@@ -10,14 +10,14 @@
     }
   ],
   "isSolvable": true,
-  "isPartial": true,
-  "acceptedUserCount": 23,
+  "isPartial": false,
+  "acceptedUserCount": 25,
   "level": 21,
-  "votedUserCount": 10,
+  "votedUserCount": 12,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2,
+  "averageTries": 2.96,
   "official": true,
   "tags": [
     {
@@ -95,10 +95,38 @@
       ]
     },
     {
+      "key": "offline_queries",
+      "isMeta": false,
+      "bojTagId": 123,
+      "problemCount": 252,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
+          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "offline queries",
+          "short": "offline query"
+        },
+        {
+          "language": "ja",
+          "name": "offline queries",
+          "short": "offline query"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "offlinequery"
+        }
+      ]
+    },
+    {
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 948,
+      "problemCount": 949,
       "displayNames": [
         {
           "language": "ko",
@@ -132,7 +160,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1291,
+      "problemCount": 1290,
       "displayNames": [
         {
           "language": "ko",
