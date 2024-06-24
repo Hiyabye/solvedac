@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 108,
   "level": 8,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "backtracking",
       "isMeta": false,
       "bojTagId": 5,
-      "problemCount": 529,
+      "problemCount": 530,
       "displayNames": [
         {
           "language": "ko",
@@ -53,6 +53,113 @@
           "alias": "\ud1f4\uac01 \uac80\uc0c9"
         }
       ]
+    },
+    {
+      "key": "bruteforcing",
+      "isMeta": false,
+      "bojTagId": 125,
+      "problemCount": 2157,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998",
+          "short": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "bruteforcing",
+          "short": "bruteforce"
+        },
+        {
+          "language": "ja",
+          "name": "\u5168\u63a2\u7d22",
+          "short": "\u5168\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc644\uc804\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc644\uc804 \ud0d0\uc0c9"
+        },
+        {
+          "alias": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4"
+        },
+        {
+          "alias": "bruteforce"
+        },
+        {
+          "alias": "brute force"
+        },
+        {
+          "alias": "\uc644\ud0d0"
+        }
+      ]
+    },
+    {
+      "key": "combinatorics",
+      "isMeta": false,
+      "bojTagId": 6,
+      "problemCount": 895,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc870\ud569\ub860",
+          "short": "\uc870\ud569\ub860"
+        },
+        {
+          "language": "en",
+          "name": "combinatorics",
+          "short": "combinatorics"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d44\u307f\u5408\u308f\u305b",
+          "short": "\u7d44\u307f\u5408\u308f\u305b"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "combination"
+        },
+        {
+          "alias": "permutation"
+        },
+        {
+          "alias": "probability"
+        },
+        {
+          "alias": "\ud655\ub960"
+        },
+        {
+          "alias": "\uc21c\uc5f4"
+        }
+      ]
+    },
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 6271,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
