@@ -11,20 +11,60 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 20,
+  "acceptedUserCount": 21,
   "level": 12,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.75,
+  "averageTries": 2.6667,
   "official": true,
   "tags": [
+    {
+      "key": "articulation",
+      "isMeta": false,
+      "bojTagId": 4,
+      "problemCount": 57,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120",
+          "short": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120"
+        },
+        {
+          "language": "en",
+          "name": "articulation points and bridges",
+          "short": "articulation points and bridges"
+        },
+        {
+          "language": "ja",
+          "name": "\u95a2\u7bc0\u70b9\u3068\u6a4b",
+          "short": "\u95a2\u7bc0\u70b9\u3068\u6a4b"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub2e8\uc808\uc810"
+        },
+        {
+          "alias": "\ub2e8\uc808\uc120"
+        },
+        {
+          "alias": "\ube0c\ub9ac\uc9c0"
+        },
+        {
+          "alias": "\ube0c\ub9bf\uc9c0"
+        },
+        {
+          "alias": "bridge"
+        }
+      ]
+    },
     {
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 968,
+      "problemCount": 969,
       "displayNames": [
         {
           "language": "ko",
@@ -129,7 +169,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3632,
+      "problemCount": 3637,
       "displayNames": [
         {
           "language": "ko",
@@ -160,7 +200,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 1980,
+      "problemCount": 1983,
       "displayNames": [
         {
           "language": "ko",
