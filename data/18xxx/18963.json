@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 13,
   "level": 22,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1455,
+      "problemCount": 1456,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3778,
+      "problemCount": 3780,
       "displayNames": [
         {
           "language": "ko",
@@ -119,7 +119,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3648,
+      "problemCount": 3647,
       "displayNames": [
         {
           "language": "ko",
@@ -147,58 +147,6 @@
       ]
     },
     {
-      "key": "greedy",
-      "isMeta": false,
-      "bojTagId": 33,
-      "problemCount": 2511,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
-          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
-        },
-        {
-          "language": "en",
-          "name": "greedy",
-          "short": "greedy"
-        },
-        {
-          "language": "ja",
-          "name": "\u8caa\u6b32\u6cd5",
-          "short": "\u8caa\u6b32\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud0d0\uc695\ubc95"
-        }
-      ]
-    },
-    {
-      "key": "hld",
-      "isMeta": false,
-      "bojTagId": 35,
-      "problemCount": 82,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "Heavy-light \ubd84\ud560",
-          "short": "Heavy-light \ubd84\ud560"
-        },
-        {
-          "language": "en",
-          "name": "heavy-light decomposition",
-          "short": "hld"
-        },
-        {
-          "language": "ja",
-          "name": "heavy-light decomposition",
-          "short": "hld"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "mst",
       "isMeta": false,
       "bojTagId": 49,
@@ -221,34 +169,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "trees",
-      "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1386,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "tree",
-          "short": "tree"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "trees"
-        }
-      ]
     }
   ],
   "metadata": {}
