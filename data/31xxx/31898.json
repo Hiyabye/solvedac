@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 1,
-  "level": 0,
-  "votedUserCount": 1,
+  "level": 21,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1455,
+      "problemCount": 1459,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2163,
+      "problemCount": 2165,
       "displayNames": [
         {
           "language": "ko",
@@ -91,7 +91,7 @@
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 856,
+      "problemCount": 857,
       "displayNames": [
         {
           "language": "ko",
@@ -125,7 +125,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 805,
+      "problemCount": 807,
       "displayNames": [
         {
           "language": "ko",
@@ -153,10 +153,44 @@
       ]
     },
     {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 3998,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3648,
+      "problemCount": 3647,
       "displayNames": [
         {
           "language": "ko",
@@ -187,7 +221,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 1991,
+      "problemCount": 1992,
       "displayNames": [
         {
           "language": "ko",
@@ -218,7 +252,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5473,
+      "problemCount": 5479,
       "displayNames": [
         {
           "language": "ko",
@@ -242,7 +276,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6286,
+      "problemCount": 6292,
       "displayNames": [
         {
           "language": "ko",
@@ -266,7 +300,7 @@
       "key": "simulation",
       "isMeta": false,
       "bojTagId": 141,
-      "problemCount": 1068,
+      "problemCount": 1070,
       "displayNames": [
         {
           "language": "ko",

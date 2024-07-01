@@ -11,15 +11,39 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 6,
-  "level": 22,
-  "votedUserCount": 1,
+  "acceptedUserCount": 7,
+  "level": 23,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.6667,
+  "averageTries": 3.5714,
   "official": true,
   "tags": [
+    {
+      "key": "kmp",
+      "isMeta": false,
+      "bojTagId": 40,
+      "problemCount": 85,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "KMP",
+          "short": "KMP"
+        },
+        {
+          "language": "en",
+          "name": "knuth\u2013morris\u2013pratt",
+          "short": "kmp"
+        },
+        {
+          "language": "ja",
+          "name": "\u30af\u30cc\u30fc\u30b9\u2013\u30e2\u30ea\u30b9\u2013\u30d7\u30e9\u30c3\u30c8\u6cd5",
+          "short": "kmp"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "prefix_sum",
       "isMeta": false,
@@ -58,7 +82,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2361,
+      "problemCount": 2363,
       "displayNames": [
         {
           "language": "ko",
@@ -81,6 +105,30 @@
           "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
+    },
+    {
+      "key": "z",
+      "isMeta": false,
+      "bojTagId": 83,
+      "problemCount": 9,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "z",
+          "short": "Z"
+        },
+        {
+          "language": "en",
+          "name": "z",
+          "short": "z"
+        },
+        {
+          "language": "ja",
+          "name": "z",
+          "short": "z"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
