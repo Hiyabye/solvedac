@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 16,
   "level": 13,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -52,10 +52,41 @@
       ]
     },
     {
+      "key": "bitmask",
+      "isMeta": false,
+      "bojTagId": 14,
+      "problemCount": 721,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
+          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "bitmask",
+          "short": "bitmask"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
+          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ube44\ud2b8\ud544\ub4dc"
+        },
+        {
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+        }
+      ]
+    },
+    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3648,
+      "problemCount": 3647,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +117,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 1991,
+      "problemCount": 1992,
       "displayNames": [
         {
           "language": "ko",
