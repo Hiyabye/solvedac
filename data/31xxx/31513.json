@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 6,
   "level": 20,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -55,7 +55,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2165,
+      "problemCount": 2167,
       "displayNames": [
         {
           "language": "ko",
@@ -93,6 +93,30 @@
           "alias": "\uc644\ud0d0"
         }
       ]
+    },
+    {
+      "key": "hall",
+      "isMeta": false,
+      "bojTagId": 34,
+      "problemCount": 21,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud640\uc758 \uacb0\ud63c \uc815\ub9ac",
+          "short": "\ud640\uc758 \uacb0\ud63c \uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "hall's theorem",
+          "short": "hall's thm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30db\u30fc\u30eb\u306e\u5b9a\u7406",
+          "short": "\u30db\u30fc\u30eb\u306e\u5b9a\u7406"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
