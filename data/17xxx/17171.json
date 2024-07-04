@@ -13,13 +13,44 @@
   "isPartial": false,
   "acceptedUserCount": 20,
   "level": 25,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2.3,
   "official": true,
   "tags": [
+    {
+      "key": "bfs",
+      "isMeta": false,
+      "bojTagId": 126,
+      "problemCount": 972,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "breadth-first search",
+          "short": "bfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e45\u512a\u5148\u691c\u7d22",
+          "short": "bfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "breadthfirst"
+        },
+        {
+          "alias": "breadth first"
+        }
+      ]
+    },
     {
       "key": "bipartite_matching",
       "isMeta": false,
@@ -79,7 +110,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3651,
+      "problemCount": 3652,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +141,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 1995,
+      "problemCount": 1996,
       "displayNames": [
         {
           "language": "ko",
@@ -141,7 +172,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2519,
+      "problemCount": 2525,
       "displayNames": [
         {
           "language": "ko",
