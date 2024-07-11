@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 1,
+  "acceptedUserCount": 2,
   "level": 22,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1,
+  "averageTries": 4.5,
   "official": true,
   "tags": [
     {
       "key": "coordinate_compression",
       "isMeta": false,
       "bojTagId": 161,
-      "problemCount": 228,
+      "problemCount": 231,
       "displayNames": [
         {
           "language": "ko",
@@ -52,7 +52,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3787,
+      "problemCount": 3801,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +83,7 @@
       "key": "disjoint_set",
       "isMeta": false,
       "bojTagId": 81,
-      "problemCount": 471,
+      "problemCount": 473,
       "displayNames": [
         {
           "language": "ko",
@@ -120,6 +120,30 @@
       ]
     },
     {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 5498,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "offline_queries",
       "isMeta": false,
       "bojTagId": 123,
@@ -151,7 +175,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1293,
+      "problemCount": 1300,
       "displayNames": [
         {
           "language": "ko",
@@ -185,10 +209,90 @@
       ]
     },
     {
+      "key": "smaller_to_larger",
+      "isMeta": false,
+      "bojTagId": 169,
+      "problemCount": 129,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9",
+          "short": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9"
+        },
+        {
+          "language": "en",
+          "name": "smaller to larger technique",
+          "short": "smaller to larger"
+        },
+        {
+          "language": "ja",
+          "name": "smaller to larger technique",
+          "short": "smaller to larger"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "merge heuristics"
+        },
+        {
+          "alias": "sack"
+        },
+        {
+          "alias": "small to large"
+        },
+        {
+          "alias": "\uc791\uc740\uac70"
+        },
+        {
+          "alias": "\ud070\uac70"
+        }
+      ]
+    },
+    {
+      "key": "sqrt_decomposition",
+      "isMeta": false,
+      "bojTagId": 130,
+      "problemCount": 115,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc81c\uacf1\uadfc \ubd84\ud560\ubc95",
+          "short": "\uc81c\uacf1\uadfc \ubd84\ud560\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "square root decomposition",
+          "short": "sqrt decomposition"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e73\u65b9\u5206\u5272",
+          "short": "\u5e73\u65b9\u5206\u5272"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub8e8\ud2b8\ubd84\ud560\ubc95"
+        },
+        {
+          "alias": "\ud3c9\ubc29\ubd84\ud560\ubc95"
+        },
+        {
+          "alias": "\ubaa8"
+        },
+        {
+          "alias": "mo"
+        },
+        {
+          "alias": "sqrt"
+        }
+      ]
+    },
+    {
       "key": "stack",
       "isMeta": false,
       "bojTagId": 71,
-      "problemCount": 373,
+      "problemCount": 374,
       "displayNames": [
         {
           "language": "ko",
@@ -212,7 +316,7 @@
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 471,
+      "problemCount": 470,
       "displayNames": [
         {
           "language": "ko",

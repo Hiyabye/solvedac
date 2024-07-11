@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 8,
+  "acceptedUserCount": 9,
   "level": 24,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.625,
+  "averageTries": 3.6667,
   "official": true,
   "tags": [
     {
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1463,
+      "problemCount": 1474,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 858,
+      "problemCount": 861,
       "displayNames": [
         {
           "language": "ko",
@@ -82,7 +82,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 991,
+      "problemCount": 1000,
       "displayNames": [
         {
           "language": "ko",
@@ -116,7 +116,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3787,
+      "problemCount": 3801,
       "displayNames": [
         {
           "language": "ko",
@@ -147,7 +147,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4002,
+      "problemCount": 4012,
       "displayNames": [
         {
           "language": "ko",
@@ -178,68 +178,10 @@
       ]
     },
     {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 6297,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "prefix_sum",
-      "isMeta": false,
-      "bojTagId": 139,
-      "problemCount": 955,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub204\uc801 \ud569",
-          "short": "\ub204\uc801 \ud569"
-        },
-        {
-          "language": "en",
-          "name": "prefix sum",
-          "short": "prefix sum"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d2f\u7a4d\u548c",
-          "short": "\u7d2f\u7a4d\u548c"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uad6c\uac04\ud569"
-        },
-        {
-          "alias": "\ubd80\ubd84\ud569"
-        },
-        {
-          "alias": "rangesum"
-        }
-      ]
-    },
-    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1293,
+      "problemCount": 1300,
       "displayNames": [
         {
           "language": "ko",
@@ -276,7 +218,7 @@
       "key": "stack",
       "isMeta": false,
       "bojTagId": 71,
-      "problemCount": 373,
+      "problemCount": 374,
       "displayNames": [
         {
           "language": "ko",
@@ -295,61 +237,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "tree_set",
-      "isMeta": false,
-      "bojTagId": 74,
-      "problemCount": 489,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
-          "short": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map by trees",
-          "short": "treeset"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
-          "short": "treeset"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc9d1\ud569"
-        },
-        {
-          "alias": "\ub9f5"
-        },
-        {
-          "alias": "\uc14b"
-        },
-        {
-          "alias": "\ub515\uc154\ub108\ub9ac"
-        },
-        {
-          "alias": "dictionary"
-        },
-        {
-          "alias": "map"
-        },
-        {
-          "alias": "set"
-        },
-        {
-          "alias": "bbst"
-        },
-        {
-          "alias": "\ud2b8\ub9ac"
-        },
-        {
-          "alias": "tree"
-        }
-      ]
     }
   ],
   "metadata": {}
