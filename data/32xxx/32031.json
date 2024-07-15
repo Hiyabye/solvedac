@@ -11,15 +11,46 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 55,
+  "acceptedUserCount": 66,
   "level": 14,
-  "votedUserCount": 20,
+  "votedUserCount": 23,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.0182,
+  "averageTries": 1.1212,
   "official": true,
   "tags": [
+    {
+      "key": "bfs",
+      "isMeta": false,
+      "bojTagId": 126,
+      "problemCount": 979,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "breadth-first search",
+          "short": "bfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e45\u512a\u5148\u691c\u7d22",
+          "short": "bfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "breadthfirst"
+        },
+        {
+          "alias": "breadth first"
+        }
+      ]
+    },
     {
       "key": "data_structures",
       "isMeta": false,
@@ -55,7 +86,7 @@
       "key": "disjoint_set",
       "isMeta": false,
       "bojTagId": 81,
-      "problemCount": 475,
+      "problemCount": 474,
       "displayNames": [
         {
           "language": "ko",
@@ -119,7 +150,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1494,
+      "problemCount": 1495,
       "displayNames": [
         {
           "language": "ko",
@@ -167,7 +198,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3675,
+      "problemCount": 3679,
       "displayNames": [
         {
           "language": "ko",
@@ -198,7 +229,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2009,
+      "problemCount": 2011,
       "displayNames": [
         {
           "language": "ko",
@@ -229,7 +260,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5511,
+      "problemCount": 5512,
       "displayNames": [
         {
           "language": "ko",
