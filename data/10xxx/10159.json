@@ -13,13 +13,44 @@
   "isPartial": false,
   "acceptedUserCount": 4741,
   "level": 12,
-  "votedUserCount": 102,
+  "votedUserCount": 103,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.4765,
   "official": true,
   "tags": [
+    {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 813,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
+    },
     {
       "key": "floyd_warshall",
       "isMeta": false,
@@ -58,7 +89,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3675,
+      "problemCount": 3684,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +120,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2009,
+      "problemCount": 2013,
       "displayNames": [
         {
           "language": "ko",
@@ -120,7 +151,7 @@
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 768,
+      "problemCount": 771,
       "displayNames": [
         {
           "language": "ko",
