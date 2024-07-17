@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 13,
   "level": 8,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -45,10 +45,44 @@
       "aliases": []
     },
     {
+      "key": "game_theory",
+      "isMeta": false,
+      "bojTagId": 140,
+      "problemCount": 371,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac8c\uc784 \uc774\ub860",
+          "short": "\uac8c\uc784 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "game theory",
+          "short": "game theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b2\u30fc\u30e0\u7406\u8ad6",
+          "short": "\u30b2\u30fc\u30e0"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uac8c\uc784\uc774\ub860"
+        },
+        {
+          "alias": "\ub2d8"
+        },
+        {
+          "alias": "nim"
+        }
+      ]
+    },
+    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6329,
+      "problemCount": 6332,
       "displayNames": [
         {
           "language": "ko",
