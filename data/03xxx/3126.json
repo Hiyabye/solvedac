@@ -17,20 +17,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 19,
+  "acceptedUserCount": 22,
   "level": 12,
-  "votedUserCount": 4,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.5789,
+  "averageTries": 3.5909,
   "official": true,
   "tags": [
     {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2180,
+      "problemCount": 2183,
       "displayNames": [
         {
           "language": "ko",
@@ -68,6 +68,30 @@
           "alias": "\uc644\ud0d0"
         }
       ]
+    },
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 5528,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "prefix_sum",
