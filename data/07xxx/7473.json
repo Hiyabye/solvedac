@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 2,
-  "level": 18,
-  "votedUserCount": 1,
+  "acceptedUserCount": 5,
+  "level": 20,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1,
+  "averageTries": 2.4,
   "official": true,
   "tags": [
     {
@@ -71,6 +71,30 @@
           "alias": "\ud50c\ub85c\uc6b0"
         }
       ]
+    },
+    {
+      "key": "mfmc",
+      "isMeta": false,
+      "bojTagId": 167,
+      "problemCount": 73,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub300 \uc720\ub7c9 \ucd5c\uc18c \ucef7 \uc815\ub9ac",
+          "short": "\ucd5c\ub300 \uc720\ub7c9 \ucd5c\uc18c \ucef7 \uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "max-flow min-cut theorem",
+          "short": "mfmc"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5927\u30d5\u30ed\u30fc\u6700\u5c0f\u30ab\u30c3\u30c8\u5b9a\u7406",
+          "short": "mfmc"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
