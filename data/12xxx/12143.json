@@ -18,8 +18,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 26,
-  "level": 12,
-  "votedUserCount": 4,
+  "level": 11,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -30,7 +30,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2187,
+      "problemCount": 2188,
       "displayNames": [
         {
           "language": "ko",
@@ -70,110 +70,10 @@
       ]
     },
     {
-      "key": "flow",
-      "isMeta": false,
-      "bojTagId": 45,
-      "problemCount": 328,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub300 \uc720\ub7c9",
-          "short": "\ucd5c\ub300 \uc720\ub7c9"
-        },
-        {
-          "language": "en",
-          "name": "maximum flow",
-          "short": "flow"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u5927\u30d5\u30ed\u30fc",
-          "short": "flow"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dinic"
-        },
-        {
-          "alias": "dinitz"
-        },
-        {
-          "alias": "ford"
-        },
-        {
-          "alias": "fulkerson"
-        },
-        {
-          "alias": "fordfulkerson"
-        },
-        {
-          "alias": "\ub514\ub2c9"
-        },
-        {
-          "alias": "\ub514\ub2c8\uce20"
-        },
-        {
-          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
-        },
-        {
-          "alias": "\ud50c\ub85c\uc6b0"
-        }
-      ]
-    },
-    {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 5537,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "mfmc",
-      "isMeta": false,
-      "bojTagId": 167,
-      "problemCount": 73,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub300 \uc720\ub7c9 \ucd5c\uc18c \ucef7 \uc815\ub9ac",
-          "short": "\ucd5c\ub300 \uc720\ub7c9 \ucd5c\uc18c \ucef7 \uc815\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "max-flow min-cut theorem",
-          "short": "mfmc"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u5927\u30d5\u30ed\u30fc\u6700\u5c0f\u30ab\u30c3\u30c8\u5b9a\u7406",
-          "short": "mfmc"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2387,
+      "problemCount": 2391,
       "displayNames": [
         {
           "language": "ko",
