@@ -12,11 +12,11 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 3,
-  "level": 0,
-  "votedUserCount": 4,
+  "level": 27,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
-  "isLevelLocked": true,
+  "isLevelLocked": false,
   "averageTries": 1.3333,
   "official": true,
   "tags": [
@@ -24,7 +24,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1488,
+      "problemCount": 1492,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 870,
+      "problemCount": 873,
       "displayNames": [
         {
           "language": "ko",
@@ -116,7 +116,7 @@
       "key": "game_theory",
       "isMeta": false,
       "bojTagId": 140,
-      "problemCount": 371,
+      "problemCount": 373,
       "displayNames": [
         {
           "language": "ko",
@@ -150,7 +150,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5537,
+      "problemCount": 5534,
       "displayNames": [
         {
           "language": "ko",
@@ -169,6 +169,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "randomization",
+      "isMeta": false,
+      "bojTagId": 115,
+      "problemCount": 150,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb34\uc791\uc704\ud654",
+          "short": "\ubb34\uc791\uc704\ud654"
+        },
+        {
+          "language": "en",
+          "name": "randomization",
+          "short": "randomization"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
+          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub79c\ub364"
+        }
+      ]
     }
   ],
   "metadata": {}
