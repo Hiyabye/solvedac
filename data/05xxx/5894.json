@@ -15,7 +15,7 @@
   "level": 11,
   "votedUserCount": 6,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
   "averageTries": 2.6226,
   "official": true,
@@ -24,7 +24,7 @@
       "key": "backtracking",
       "isMeta": false,
       "bojTagId": 5,
-      "problemCount": 539,
+      "problemCount": 540,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2196,
+      "problemCount": 2197,
       "displayNames": [
         {
           "language": "ko",
@@ -98,5 +98,12 @@
       ]
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "wrong-conditions",
+        "data": "https://www.acmicpc.net/board/view/146927"
+      }
+    ]
+  }
 }
