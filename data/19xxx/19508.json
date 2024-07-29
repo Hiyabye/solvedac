@@ -13,13 +13,47 @@
   "isPartial": false,
   "acceptedUserCount": 8,
   "level": 26,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 17.75,
   "official": true,
   "tags": [
+    {
+      "key": "case_work",
+      "isMeta": false,
+      "bojTagId": 137,
+      "problemCount": 878,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
+          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
+        },
+        {
+          "language": "en",
+          "name": "case work",
+          "short": "case work"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
+          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucf00\uc774\uc2a4"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
+        }
+      ]
+    },
     {
       "key": "convex_hull",
       "isMeta": false,
@@ -52,7 +86,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1506,
+      "problemCount": 1509,
       "displayNames": [
         {
           "language": "ko",
@@ -76,7 +110,7 @@
       "key": "geometry_3d",
       "isMeta": false,
       "bojTagId": 131,
-      "problemCount": 102,
+      "problemCount": 104,
       "displayNames": [
         {
           "language": "ko",
@@ -124,7 +158,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5541,
+      "problemCount": 5549,
       "displayNames": [
         {
           "language": "ko",
@@ -148,7 +182,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6362,
+      "problemCount": 6365,
       "displayNames": [
         {
           "language": "ko",
