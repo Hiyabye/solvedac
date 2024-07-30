@@ -19,11 +19,11 @@
   "isPartial": false,
   "acceptedUserCount": 693,
   "level": 14,
-  "votedUserCount": 35,
+  "votedUserCount": 37,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.0115,
+  "averageTries": 2.0216,
   "official": true,
   "tags": [
     {
@@ -61,10 +61,34 @@
       ]
     },
     {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1510,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3712,
+      "problemCount": 3713,
       "displayNames": [
         {
           "language": "ko",
@@ -95,7 +119,7 @@
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 778,
+      "problemCount": 779,
       "displayNames": [
         {
           "language": "ko",
