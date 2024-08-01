@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 37,
   "level": 14,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1238,
+      "problemCount": 1239,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6375,
+      "problemCount": 6381,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 982,
+      "problemCount": 983,
       "displayNames": [
         {
           "language": "ko",
@@ -113,7 +113,7 @@
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 476,
+      "problemCount": 477,
       "displayNames": [
         {
           "language": "ko",
@@ -134,6 +134,43 @@
       "aliases": [
         {
           "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
+        }
+      ]
+    },
+    {
+      "key": "two_pointer",
+      "isMeta": false,
+      "bojTagId": 80,
+      "problemCount": 392,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub450 \ud3ec\uc778\ud130",
+          "short": "\ub450 \ud3ec\uc778\ud130"
+        },
+        {
+          "language": "en",
+          "name": "two-pointer",
+          "short": "two-pointer"
+        },
+        {
+          "language": "ja",
+          "name": "\u5c3a\u53d6\u308a\u6cd5",
+          "short": "\u5c3a\u53d6\u308a"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud22c\ud3ec\uc778\ud130"
+        },
+        {
+          "alias": "\uc778\uce58\uc6dc"
+        },
+        {
+          "alias": "inchworm"
+        },
+        {
+          "alias": "twopointer"
         }
       ]
     }

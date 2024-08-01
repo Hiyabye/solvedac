@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 2,
   "level": 22,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -48,7 +48,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1024,
+      "problemCount": 1025,
       "displayNames": [
         {
           "language": "ko",
@@ -82,7 +82,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 816,
+      "problemCount": 815,
       "displayNames": [
         {
           "language": "ko",
@@ -113,7 +113,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3717,
+      "problemCount": 3719,
       "displayNames": [
         {
           "language": "ko",
@@ -170,6 +170,30 @@
           "alias": "dfs"
         }
       ]
+    },
+    {
+      "key": "hld",
+      "isMeta": false,
+      "bojTagId": 35,
+      "problemCount": 85,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "Heavy-light \ubd84\ud560",
+          "short": "Heavy-light \ubd84\ud560"
+        },
+        {
+          "language": "en",
+          "name": "heavy-light decomposition",
+          "short": "hld"
+        },
+        {
+          "language": "ja",
+          "name": "heavy-light decomposition",
+          "short": "hld"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "trees",

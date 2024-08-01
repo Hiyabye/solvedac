@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 33,
+  "acceptedUserCount": 34,
   "level": 16,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.0606,
+  "averageTries": 3,
   "official": true,
   "tags": [
     {
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1238,
+      "problemCount": 1239,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4060,
+      "problemCount": 4062,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +89,7 @@
       "key": "parametric_search",
       "isMeta": false,
       "bojTagId": 170,
-      "problemCount": 374,
+      "problemCount": 373,
       "displayNames": [
         {
           "language": "ko",
@@ -110,43 +110,6 @@
       "aliases": [
         {
           "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
-        }
-      ]
-    },
-    {
-      "key": "two_pointer",
-      "isMeta": false,
-      "bojTagId": 80,
-      "problemCount": 392,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub450 \ud3ec\uc778\ud130",
-          "short": "\ub450 \ud3ec\uc778\ud130"
-        },
-        {
-          "language": "en",
-          "name": "two-pointer",
-          "short": "two-pointer"
-        },
-        {
-          "language": "ja",
-          "name": "\u5c3a\u53d6\u308a\u6cd5",
-          "short": "\u5c3a\u53d6\u308a"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud22c\ud3ec\uc778\ud130"
-        },
-        {
-          "alias": "\uc778\uce58\uc6dc"
-        },
-        {
-          "alias": "inchworm"
-        },
-        {
-          "alias": "twopointer"
         }
       ]
     }
