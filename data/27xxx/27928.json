@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 8,
   "level": 15,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -27,10 +27,75 @@
   "official": true,
   "tags": [
     {
+      "key": "backtracking",
+      "isMeta": false,
+      "bojTagId": 5,
+      "problemCount": 545,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc31\ud2b8\ub798\ud0b9",
+          "short": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "backtracking",
+          "short": "backtrack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
+          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "alias": "\ud1f4\uac01\uac80\uc0c9"
+        },
+        {
+          "alias": "\ud1f4\uac01 \uac80\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1246,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2210,
+      "problemCount": 2212,
       "displayNames": [
         {
           "language": "ko",
@@ -73,7 +138,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4066,
+      "problemCount": 4069,
       "displayNames": [
         {
           "language": "ko",
@@ -107,7 +172,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5561,
+      "problemCount": 5564,
       "displayNames": [
         {
           "language": "ko",
@@ -131,7 +196,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 983,
+      "problemCount": 987,
       "displayNames": [
         {
           "language": "ko",

@@ -1,0 +1,294 @@
+{
+  "problemId": 32120,
+  "titleKo": "Distance Sum Maximization",
+  "titles": [
+    {
+      "language": "ko",
+      "languageDisplayName": "ko",
+      "title": "Distance Sum Maximization",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 28,
+  "level": 20,
+  "votedUserCount": 11,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 1.5714,
+  "official": true,
+  "tags": [
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 3870,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 816,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 4069,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "dp_tree",
+      "isMeta": false,
+      "bojTagId": 92,
+      "problemCount": 425,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming on trees",
+          "short": "tree dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728\u4e0a\u306e\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "tree dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud2b8\ub9acdp"
+        }
+      ]
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 3722,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "graph_traversal",
+      "isMeta": false,
+      "bojTagId": 11,
+      "problemCount": 2021,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
+          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "graph traversal",
+          "short": "traversal"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
+          "short": "\u6a2a\u65ad"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bfs"
+        },
+        {
+          "alias": "dfs"
+        }
+      ]
+    },
+    {
+      "key": "lca",
+      "isMeta": false,
+      "bojTagId": 41,
+      "problemCount": 170,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
+          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
+        },
+        {
+          "language": "en",
+          "name": "lowest common ancestor",
+          "short": "lca"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
+          "short": "lca"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "sparse_table",
+      "isMeta": false,
+      "bojTagId": 84,
+      "problemCount": 144,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud76c\uc18c \ubc30\uc5f4",
+          "short": "\ud76c\uc18c \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "sparse table",
+          "short": "sparse table"
+        },
+        {
+          "language": "ja",
+          "name": "sparse table",
+          "short": "sparse table"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud30c\uc2a4\uc5b4\ub808\uc774"
+        },
+        {
+          "alias": "sparse table"
+        }
+      ]
+    },
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1416,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
+    }
+  ],
+  "metadata": {}
+}

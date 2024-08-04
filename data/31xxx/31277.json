@@ -12,13 +12,97 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 3,
-  "level": 0,
-  "votedUserCount": 0,
+  "level": 7,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.6667,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 3870,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 5564,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "sliding_window",
+      "isMeta": false,
+      "bojTagId": 68,
+      "problemCount": 107,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2ac\ub77c\uc774\ub529 \uc708\ub3c4\uc6b0",
+          "short": "\uc2ac\ub77c\uc774\ub529 \uc708\ub3c4\uc6b0"
+        },
+        {
+          "language": "en",
+          "name": "sliding window",
+          "short": "sliding window"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b9\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0\u30a6\u30a3\u30f3\u30c9\u30a6",
+          "short": "\u30b9\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0\u30a6\u30a3\u30f3\u30c9\u30a6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2ac\ub77c\uc774\ub529\uc708\ub3c4"
+        }
+      ]
+    }
+  ],
   "metadata": {}
 }
