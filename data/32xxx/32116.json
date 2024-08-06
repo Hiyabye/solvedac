@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 14,
+  "acceptedUserCount": 19,
   "level": 20,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.8571,
+  "averageTries": 2.4211,
   "official": true,
   "tags": [
     {
@@ -48,7 +48,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1032,
+      "problemCount": 1033,
       "displayNames": [
         {
           "language": "ko",
@@ -79,38 +79,10 @@
       ]
     },
     {
-      "key": "divide_and_conquer",
-      "isMeta": false,
-      "bojTagId": 24,
-      "problemCount": 423,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5",
-          "short": "\ubd84\ud560 \uc815\ubcf5"
-        },
-        {
-          "language": "en",
-          "name": "divide and conquer",
-          "short": "d&c"
-        },
-        {
-          "language": "ja",
-          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
-          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dnc"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3725,
+      "problemCount": 3728,
       "displayNames": [
         {
           "language": "ko",
@@ -167,58 +139,6 @@
           "alias": "dfs"
         }
       ]
-    },
-    {
-      "key": "greedy",
-      "isMeta": false,
-      "bojTagId": 33,
-      "problemCount": 2592,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
-          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
-        },
-        {
-          "language": "en",
-          "name": "greedy",
-          "short": "greedy"
-        },
-        {
-          "language": "ja",
-          "name": "\u8caa\u6b32\u6cd5",
-          "short": "\u8caa\u6b32\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud0d0\uc695\ubc95"
-        }
-      ]
-    },
-    {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 5566,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "planar_graph",
