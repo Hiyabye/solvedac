@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 14,
   "level": 25,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1509,
+      "problemCount": 1508,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1249,
+      "problemCount": 1250,
       "displayNames": [
         {
           "language": "ko",
@@ -72,6 +72,37 @@
         },
         {
           "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 3729,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
         }
       ]
     }
