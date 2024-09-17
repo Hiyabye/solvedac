@@ -11,9 +11,9 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 7,
+  "acceptedUserCount": 8,
   "level": 13,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,44 @@
   "official": true,
   "tags": [
     {
+      "key": "2_sat",
+      "isMeta": false,
+      "bojTagId": 1,
+      "problemCount": 60,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "2-sat",
+          "short": "2-sat"
+        },
+        {
+          "language": "en",
+          "name": "2-sat",
+          "short": "2-sat"
+        },
+        {
+          "language": "ja",
+          "name": "2-sat",
+          "short": "2-sat"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud22c\uc14b"
+        },
+        {
+          "alias": "twosat"
+        },
+        {
+          "alias": "2sat"
+        }
+      ]
+    },
+    {
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 989,
+      "problemCount": 1006,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +89,7 @@
       "key": "bipartite_graph",
       "isMeta": false,
       "bojTagId": 197,
-      "problemCount": 58,
+      "problemCount": 62,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +113,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 814,
+      "problemCount": 827,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +144,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3731,
+      "problemCount": 3805,
       "displayNames": [
         {
           "language": "ko",
@@ -141,7 +175,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2024,
+      "problemCount": 2067,
       "displayNames": [
         {
           "language": "ko",
@@ -167,6 +201,30 @@
           "alias": "dfs"
         }
       ]
+    },
+    {
+      "key": "scc",
+      "isMeta": false,
+      "bojTagId": 76,
+      "problemCount": 152,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c",
+          "short": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c"
+        },
+        {
+          "language": "en",
+          "name": "strongly connected component",
+          "short": "scc"
+        },
+        {
+          "language": "ja",
+          "name": "\u5f37\u9023\u7d50",
+          "short": "\u5f37\u9023\u7d50"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

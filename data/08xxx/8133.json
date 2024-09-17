@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 26,
+  "acceptedUserCount": 28,
   "level": 21,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.8462,
+  "averageTries": 2.7143,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3880,
+      "problemCount": 3968,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "deque",
       "isMeta": false,
       "bojTagId": 73,
-      "problemCount": 124,
+      "problemCount": 128,
       "displayNames": [
         {
           "language": "ko",
@@ -76,10 +76,34 @@
       "aliases": []
     },
     {
+      "key": "deque_trick",
+      "isMeta": false,
+      "bojTagId": 216,
+      "problemCount": 38,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub371\uc744 \uc774\uc6a9\ud55c \uad6c\uac04 \ucd5c\ub313\uac12 \ud2b8\ub9ad",
+          "short": "\ub371 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "deque range maximum trick",
+          "short": "deque rmq trick"
+        },
+        {
+          "language": "ja",
+          "name": "deque range maximum trick",
+          "short": "deque rmq trick"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4076,
+      "problemCount": 4155,
       "displayNames": [
         {
           "language": "ko",
@@ -113,7 +137,7 @@
       "key": "dp_deque",
       "isMeta": false,
       "bojTagId": 108,
-      "problemCount": 29,
+      "problemCount": 30,
       "displayNames": [
         {
           "language": "ko",
@@ -139,30 +163,6 @@
           "alias": "\ub371dp"
         }
       ]
-    },
-    {
-      "key": "deque_trick",
-      "isMeta": false,
-      "bojTagId": 216,
-      "problemCount": 37,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub371\uc744 \uc774\uc6a9\ud55c \uad6c\uac04 \ucd5c\ub313\uac12 \ud2b8\ub9ad",
-          "short": "\ub371 \ud2b8\ub9ad"
-        },
-        {
-          "language": "en",
-          "name": "deque range maximum trick",
-          "short": "deque rmq trick"
-        },
-        {
-          "language": "ja",
-          "name": "deque range maximum trick",
-          "short": "deque rmq trick"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}

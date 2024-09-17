@@ -17,14 +17,14 @@
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.5,
+  "averageTries": 2.4444,
   "official": true,
   "tags": [
     {
       "key": "arbitrary_precision",
       "isMeta": false,
       "bojTagId": 117,
-      "problemCount": 261,
+      "problemCount": 263,
       "displayNames": [
         {
           "language": "ko",
@@ -58,10 +58,44 @@
       ]
     },
     {
+      "key": "backtracking",
+      "isMeta": false,
+      "bojTagId": 5,
+      "problemCount": 548,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc31\ud2b8\ub798\ud0b9",
+          "short": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "backtracking",
+          "short": "backtrack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
+          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "alias": "\ud1f4\uac01\uac80\uc0c9"
+        },
+        {
+          "alias": "\ud1f4\uac01 \uac80\uc0c9"
+        }
+      ]
+    },
+    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6395,
+      "problemCount": 6512,
       "displayNames": [
         {
           "language": "ko",
@@ -85,7 +119,7 @@
       "key": "precomputation",
       "isMeta": false,
       "bojTagId": 172,
-      "problemCount": 204,
+      "problemCount": 208,
       "displayNames": [
         {
           "language": "ko",

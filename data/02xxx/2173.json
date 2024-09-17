@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 50,
+  "acceptedUserCount": 51,
   "level": 14,
   "votedUserCount": 4,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
-  "averageTries": 3.68,
+  "averageTries": 3.7843,
   "official": true,
   "tags": [
     {
       "key": "backtracking",
       "isMeta": false,
       "bojTagId": 5,
-      "problemCount": 545,
+      "problemCount": 548,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5566,
+      "problemCount": 5656,
       "displayNames": [
         {
           "language": "ko",
@@ -82,7 +82,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 993,
+      "problemCount": 1018,
       "displayNames": [
         {
           "language": "ko",
@@ -113,5 +113,12 @@
       ]
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "insufficient-conditions",
+        "data": "https://www.acmicpc.net/board/view/127815"
+      }
+    ]
+  }
 }

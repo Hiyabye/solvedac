@@ -12,19 +12,19 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 18,
-  "level": 13,
-  "votedUserCount": 2,
+  "level": 14,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.1667,
+  "averageTries": 2.1111,
   "official": true,
   "tags": [
     {
       "key": "bitmask",
       "isMeta": false,
       "bojTagId": 14,
-      "problemCount": 743,
+      "problemCount": 759,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2219,
+      "problemCount": 2259,
       "displayNames": [
         {
           "language": "ko",
@@ -98,7 +98,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4076,
+      "problemCount": 4155,
       "displayNames": [
         {
           "language": "ko",
@@ -132,7 +132,7 @@
       "key": "dp_bitfield",
       "isMeta": false,
       "bojTagId": 87,
-      "problemCount": 311,
+      "problemCount": 318,
       "displayNames": [
         {
           "language": "ko",
@@ -187,6 +187,34 @@
       "aliases": [
         {
           "alias": "sos"
+        }
+      ]
+    },
+    {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 2653,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
         }
       ]
     }

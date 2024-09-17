@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 14,
+  "acceptedUserCount": 23,
   "level": 21,
-  "votedUserCount": 7,
+  "votedUserCount": 14,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.5714,
+  "averageTries": 3.7826,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3880,
+      "problemCount": 3968,
       "displayNames": [
         {
           "language": "ko",
@@ -52,50 +52,34 @@
       ]
     },
     {
-      "key": "disjoint_set",
+      "key": "rope",
       "isMeta": false,
-      "bojTagId": 81,
-      "problemCount": 486,
+      "bojTagId": 159,
+      "problemCount": 7,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubd84\ub9ac \uc9d1\ud569",
-          "short": "\ubd84\ub9ac \uc9d1\ud569"
+          "name": "\ub85c\ud504",
+          "short": "\ub85c\ud504"
         },
         {
           "language": "en",
-          "name": "disjoint set",
-          "short": "dsu"
+          "name": "rope",
+          "short": "rope"
         },
         {
           "language": "ja",
-          "name": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020"
+          "name": "rope",
+          "short": "rope"
         }
       ],
-      "aliases": [
-        {
-          "alias": "union"
-        },
-        {
-          "alias": "find"
-        },
-        {
-          "alias": "\uc720\ub2c8\uc628"
-        },
-        {
-          "alias": "\ud30c\uc778\ub4dc"
-        },
-        {
-          "alias": "dsu"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "splay_tree",
       "isMeta": false,
       "bojTagId": 69,
-      "problemCount": 39,
+      "problemCount": 41,
       "displayNames": [
         {
           "language": "ko",
@@ -116,10 +100,38 @@
       "aliases": []
     },
     {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2442,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        },
+        {
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1421,
+      "problemCount": 1463,
       "displayNames": [
         {
           "language": "ko",

@@ -15,7 +15,7 @@
   "level": 10,
   "votedUserCount": 1,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
   "averageTries": 1.8,
   "official": true,
@@ -24,7 +24,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5566,
+      "problemCount": 5656,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6395,
+      "problemCount": 6512,
       "displayNames": [
         {
           "language": "ko",
@@ -69,5 +69,12 @@
       "aliases": []
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "no-special-judge",
+        "data": "https://www.acmicpc.net/board/view/147783"
+      }
+    ]
+  }
 }

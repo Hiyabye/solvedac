@@ -15,7 +15,7 @@
   "level": 12,
   "votedUserCount": 2,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
   "averageTries": 4.6875,
   "official": true,
@@ -24,7 +24,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1250,
+      "problemCount": 1276,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2600,
+      "problemCount": 2653,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +83,7 @@
       "key": "parametric_search",
       "isMeta": false,
       "bojTagId": 170,
-      "problemCount": 375,
+      "problemCount": 384,
       "displayNames": [
         {
           "language": "ko",
@@ -108,5 +108,12 @@
       ]
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "no-special-judge",
+        "data": "https://www.acmicpc.net/board/view/14197"
+      }
+    ]
+  }
 }

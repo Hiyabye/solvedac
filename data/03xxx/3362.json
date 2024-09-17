@@ -17,43 +17,43 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 35,
+  "acceptedUserCount": 45,
   "level": 15,
-  "votedUserCount": 9,
+  "votedUserCount": 16,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.6,
+  "averageTries": 1.7333,
   "official": true,
   "tags": [
     {
-      "key": "data_structures",
+      "key": "binary_search",
       "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 3880,
+      "bojTagId": 12,
+      "problemCount": 1276,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "data structures",
-          "short": "ds"
+          "name": "binary search",
+          "short": "binary search"
         },
         {
           "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
         },
         {
-          "alias": "\uc790\uad6c"
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
         }
       ]
     },
@@ -61,7 +61,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2600,
+      "problemCount": 2653,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +89,7 @@
       "key": "parametric_search",
       "isMeta": false,
       "bojTagId": 170,
-      "problemCount": 375,
+      "problemCount": 384,
       "displayNames": [
         {
           "language": "ko",
@@ -110,37 +110,6 @@
       "aliases": [
         {
           "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
-        }
-      ]
-    },
-    {
-      "key": "priority_queue",
-      "isMeta": false,
-      "bojTagId": 59,
-      "problemCount": 434,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc6b0\uc120\uc21c\uc704 \ud050",
-          "short": "\uc6b0\uc120\uc21c\uc704 \ud050"
-        },
-        {
-          "language": "en",
-          "name": "priority queue",
-          "short": "priority queue"
-        },
-        {
-          "language": "ja",
-          "name": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc",
-          "short": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "heap"
-        },
-        {
-          "alias": "\ud799"
         }
       ]
     }

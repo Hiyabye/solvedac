@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 15,
+  "acceptedUserCount": 20,
   "level": 10,
-  "votedUserCount": 5,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.4,
+  "averageTries": 1.5,
   "official": true,
   "tags": [
     {
       "key": "backtracking",
       "isMeta": false,
       "bojTagId": 5,
-      "problemCount": 545,
+      "problemCount": 548,
       "displayNames": [
         {
           "language": "ko",
@@ -55,33 +55,79 @@
       ]
     },
     {
-      "key": "bitmask",
+      "key": "bruteforcing",
       "isMeta": false,
-      "bojTagId": 14,
-      "problemCount": 743,
+      "bojTagId": 125,
+      "problemCount": 2259,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
-          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+          "name": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998",
+          "short": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998"
         },
         {
           "language": "en",
-          "name": "bitmask",
-          "short": "bitmask"
+          "name": "bruteforcing",
+          "short": "bruteforce"
         },
         {
           "language": "ja",
-          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
-          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+          "name": "\u5168\u63a2\u7d22",
+          "short": "\u5168\u63a2\u7d22"
         }
       ],
       "aliases": [
         {
-          "alias": "\ube44\ud2b8\ud544\ub4dc"
+          "alias": "\uc644\uc804\ud0d0\uc0c9"
         },
         {
-          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+          "alias": "\uc644\uc804 \ud0d0\uc0c9"
+        },
+        {
+          "alias": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4"
+        },
+        {
+          "alias": "bruteforce"
+        },
+        {
+          "alias": "brute force"
+        },
+        {
+          "alias": "\uc644\ud0d0"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 4155,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
         }
       ]
     },
@@ -89,7 +135,7 @@
       "key": "precomputation",
       "isMeta": false,
       "bojTagId": 172,
-      "problemCount": 204,
+      "problemCount": 208,
       "displayNames": [
         {
           "language": "ko",

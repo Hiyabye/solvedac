@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 28,
+  "acceptedUserCount": 32,
   "level": 12,
-  "votedUserCount": 5,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.3214,
+  "averageTries": 3.5625,
   "official": true,
   "tags": [
     {
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 814,
+      "problemCount": 827,
       "displayNames": [
         {
           "language": "ko",
@@ -52,34 +52,10 @@
       ]
     },
     {
-      "key": "geometry",
-      "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 1518,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
-        },
-        {
-          "language": "en",
-          "name": "geometry",
-          "short": "geom"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3731,
+      "problemCount": 3805,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +86,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2024,
+      "problemCount": 2067,
       "displayNames": [
         {
           "language": "ko",
@@ -136,30 +112,6 @@
           "alias": "dfs"
         }
       ]
-    },
-    {
-      "key": "line_intersection",
-      "isMeta": false,
-      "bojTagId": 42,
-      "problemCount": 122,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815",
-          "short": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815"
-        },
-        {
-          "language": "en",
-          "name": "line segment intersection check",
-          "short": "line segment intersection check"
-        },
-        {
-          "language": "ja",
-          "name": "\u76f4\u7dda\u306e\u4ea4\u70b9",
-          "short": "\u76f4\u7dda\u306e\u4ea4\u70b9"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}

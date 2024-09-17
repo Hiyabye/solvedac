@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 42,
   "level": 13,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -30,7 +30,7 @@
       "key": "backtracking",
       "isMeta": false,
       "bojTagId": 5,
-      "problemCount": 545,
+      "problemCount": 548,
       "displayNames": [
         {
           "language": "ko",
@@ -64,7 +64,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3731,
+      "problemCount": 3805,
       "displayNames": [
         {
           "language": "ko",
@@ -95,7 +95,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2024,
+      "problemCount": 2067,
       "displayNames": [
         {
           "language": "ko",
@@ -119,6 +119,40 @@
         },
         {
           "alias": "dfs"
+        }
+      ]
+    },
+    {
+      "key": "precomputation",
+      "isMeta": false,
+      "bojTagId": 172,
+      "problemCount": 208,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac",
+          "short": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "precomputation",
+          "short": "precomputation"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8b\u524d\u8a08\u7b97",
+          "short": "\u4e8b\u524d\u8a08\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "lookup table"
+        },
+        {
+          "alias": "db"
+        },
+        {
+          "alias": "database"
         }
       ]
     }
