@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 27,
+  "acceptedUserCount": 31,
   "level": 24,
-  "votedUserCount": 12,
+  "votedUserCount": 13,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 8.7037,
+  "averageTries": 10.8065,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6395,
+      "problemCount": 6535,
       "displayNames": [
         {
           "language": "ko",
@@ -45,10 +45,38 @@
       "aliases": []
     },
     {
+      "key": "mobius_inversion",
+      "isMeta": false,
+      "bojTagId": 51,
+      "problemCount": 23,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubafc\ube44\uc6b0\uc2a4 \ubc18\uc804 \uacf5\uc2dd",
+          "short": "\ubafc\ube44\uc6b0\uc2a4 \ubc18\uc804 \uacf5\uc2dd"
+        },
+        {
+          "language": "en",
+          "name": "m\u00f6bius inversion",
+          "short": "m\u00f6bius inversion"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e1\u30d3\u30a6\u30b9\u306e\u53cd\u8ee2\u516c\u5f0f",
+          "short": "\u30e1\u30d3\u30a6\u30b9"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "mobius"
+        }
+      ]
+    },
+    {
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1448,
+      "problemCount": 1484,
       "displayNames": [
         {
           "language": "ko",

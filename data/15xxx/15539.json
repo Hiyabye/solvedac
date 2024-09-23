@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 21,
+  "acceptedUserCount": 23,
   "level": 22,
-  "votedUserCount": 5,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.9524,
+  "averageTries": 3.8696,
   "official": true,
   "tags": [
     {
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1251,
+      "problemCount": 1285,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "centroid",
       "isMeta": false,
       "bojTagId": 188,
-      "problemCount": 99,
+      "problemCount": 102,
       "displayNames": [
         {
           "language": "en",
@@ -79,7 +79,7 @@
       "key": "centroid_decomposition",
       "isMeta": false,
       "bojTagId": 18,
-      "problemCount": 78,
+      "problemCount": 79,
       "displayNames": [
         {
           "language": "ko",
@@ -107,7 +107,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3881,
+      "problemCount": 3979,
       "displayNames": [
         {
           "language": "ko",
@@ -138,7 +138,7 @@
       "key": "divide_and_conquer",
       "isMeta": false,
       "bojTagId": 24,
-      "problemCount": 423,
+      "problemCount": 426,
       "displayNames": [
         {
           "language": "ko",
@@ -166,7 +166,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4076,
+      "problemCount": 4166,
       "displayNames": [
         {
           "language": "ko",
@@ -197,10 +197,38 @@
       ]
     },
     {
+      "key": "dp_tree",
+      "isMeta": false,
+      "bojTagId": 92,
+      "problemCount": 442,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming on trees",
+          "short": "tree dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728\u4e0a\u306e\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "tree dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud2b8\ub9acdp"
+        }
+      ]
+    },
+    {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1422,
+      "problemCount": 1467,
       "displayNames": [
         {
           "language": "ko",
@@ -228,7 +256,7 @@
       "key": "tree_set",
       "isMeta": false,
       "bojTagId": 74,
-      "problemCount": 488,
+      "problemCount": 500,
       "displayNames": [
         {
           "language": "ko",

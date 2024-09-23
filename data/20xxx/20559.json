@@ -17,20 +17,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 27,
+  "acceptedUserCount": 31,
   "level": 22,
-  "votedUserCount": 11,
+  "votedUserCount": 13,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7037,
+  "averageTries": 1.6129,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3881,
+      "problemCount": 3979,
       "displayNames": [
         {
           "language": "ko",
@@ -61,7 +61,7 @@
       "key": "disjoint_set",
       "isMeta": false,
       "bojTagId": 81,
-      "problemCount": 486,
+      "problemCount": 510,
       "displayNames": [
         {
           "language": "ko",
@@ -98,36 +98,39 @@
       ]
     },
     {
-      "key": "prefix_sum",
+      "key": "segtree",
       "isMeta": false,
-      "bojTagId": 139,
-      "problemCount": 994,
+      "bojTagId": 65,
+      "problemCount": 1350,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub204\uc801 \ud569",
-          "short": "\ub204\uc801 \ud569"
+          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
         },
         {
           "language": "en",
-          "name": "prefix sum",
-          "short": "prefix sum"
+          "name": "segment tree",
+          "short": "segtree"
         },
         {
           "language": "ja",
-          "name": "\u7d2f\u7a4d\u548c",
-          "short": "\u7d2f\u7a4d\u548c"
+          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
+          "short": "\u30bb\u30b0\u6728"
         }
       ],
       "aliases": [
         {
-          "alias": "\uad6c\uac04\ud569"
+          "alias": "\uad6c\uac04\ud2b8\ub9ac"
         },
         {
-          "alias": "\ubd80\ubd84\ud569"
+          "alias": "\uc138\uadf8\ud2b8\ub9ac"
         },
         {
-          "alias": "rangesum"
+          "alias": "fenwick"
+        },
+        {
+          "alias": "\ud39c\uc705"
         }
       ]
     },
@@ -135,7 +138,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 1871,
+      "problemCount": 1915,
       "displayNames": [
         {
           "language": "ko",
