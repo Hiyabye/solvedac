@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 11,
+  "acceptedUserCount": 13,
   "level": 20,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.3636,
+  "averageTries": 3.2308,
   "official": true,
   "tags": [
     {
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1509,
+      "problemCount": 1560,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "bitmask",
       "isMeta": false,
       "bojTagId": 14,
-      "problemCount": 743,
+      "problemCount": 760,
       "displayNames": [
         {
           "language": "ko",
@@ -76,53 +76,10 @@
       ]
     },
     {
-      "key": "bruteforcing",
-      "isMeta": false,
-      "bojTagId": 125,
-      "problemCount": 2219,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998",
-          "short": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998"
-        },
-        {
-          "language": "en",
-          "name": "bruteforcing",
-          "short": "bruteforce"
-        },
-        {
-          "language": "ja",
-          "name": "\u5168\u63a2\u7d22",
-          "short": "\u5168\u63a2\u7d22"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc644\uc804\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc644\uc804 \ud0d0\uc0c9"
-        },
-        {
-          "alias": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4"
-        },
-        {
-          "alias": "bruteforce"
-        },
-        {
-          "alias": "brute force"
-        },
-        {
-          "alias": "\uc644\ud0d0"
-        }
-      ]
-    },
-    {
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 878,
+      "problemCount": 895,
       "displayNames": [
         {
           "language": "ko",
@@ -156,7 +113,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1033,
+      "problemCount": 1062,
       "displayNames": [
         {
           "language": "ko",
@@ -183,58 +140,6 @@
         },
         {
           "alias": "\uad6c\uc131\uc801"
-        }
-      ]
-    },
-    {
-      "key": "hashing",
-      "isMeta": false,
-      "bojTagId": 8,
-      "problemCount": 170,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574\uc2f1",
-          "short": "\ud574\uc2f1"
-        },
-        {
-          "language": "en",
-          "name": "hashing",
-          "short": "hash"
-        },
-        {
-          "language": "ja",
-          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
-          "short": "\u30cf\u30c3\u30b7\u30e5"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "randomization",
-      "isMeta": false,
-      "bojTagId": 115,
-      "problemCount": 149,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubb34\uc791\uc704\ud654",
-          "short": "\ubb34\uc791\uc704\ud654"
-        },
-        {
-          "language": "en",
-          "name": "randomization",
-          "short": "randomization"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
-          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub79c\ub364"
         }
       ]
     }

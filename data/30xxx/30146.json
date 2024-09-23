@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 5,
+  "acceptedUserCount": 7,
   "level": 13,
-  "votedUserCount": 1,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.2,
+  "averageTries": 3.1429,
   "official": true,
   "tags": [
     {
       "key": "backtracking",
       "isMeta": false,
       "bojTagId": 5,
-      "problemCount": 545,
+      "problemCount": 547,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3879,
+      "problemCount": 3978,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +89,7 @@
       "key": "hash_set",
       "isMeta": false,
       "bojTagId": 136,
-      "problemCount": 645,
+      "problemCount": 661,
       "displayNames": [
         {
           "language": "ko",
@@ -137,6 +137,40 @@
         },
         {
           "alias": "dict"
+        }
+      ]
+    },
+    {
+      "key": "precomputation",
+      "isMeta": false,
+      "bojTagId": 172,
+      "problemCount": 208,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac",
+          "short": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "precomputation",
+          "short": "precomputation"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8b\u524d\u8a08\u7b97",
+          "short": "\u4e8b\u524d\u8a08\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "lookup table"
+        },
+        {
+          "alias": "db"
+        },
+        {
+          "alias": "database"
         }
       ]
     }

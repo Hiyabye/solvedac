@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 15,
+  "acceptedUserCount": 16,
   "level": 10,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.1333,
+  "averageTries": 1.125,
   "official": true,
   "tags": [
     {
       "key": "backtracking",
       "isMeta": false,
       "bojTagId": 5,
-      "problemCount": 545,
+      "problemCount": 547,
       "displayNames": [
         {
           "language": "ko",
@@ -55,10 +55,53 @@
       ]
     },
     {
+      "key": "bruteforcing",
+      "isMeta": false,
+      "bojTagId": 125,
+      "problemCount": 2265,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998",
+          "short": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "bruteforcing",
+          "short": "bruteforce"
+        },
+        {
+          "language": "ja",
+          "name": "\u5168\u63a2\u7d22",
+          "short": "\u5168\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc644\uc804\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc644\uc804 \ud0d0\uc0c9"
+        },
+        {
+          "alias": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4"
+        },
+        {
+          "alias": "bruteforce"
+        },
+        {
+          "alias": "brute force"
+        },
+        {
+          "alias": "\uc644\ud0d0"
+        }
+      ]
+    },
+    {
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 816,
+      "problemCount": 830,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +132,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3732,
+      "problemCount": 3814,
       "displayNames": [
         {
           "language": "ko",
@@ -120,7 +163,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2025,
+      "problemCount": 2072,
       "displayNames": [
         {
           "language": "ko",
@@ -151,7 +194,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5567,
+      "problemCount": 5670,
       "displayNames": [
         {
           "language": "ko",
@@ -175,7 +218,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2405,
+      "problemCount": 2457,
       "displayNames": [
         {
           "language": "ko",

@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 8,
-  "level": 12,
-  "votedUserCount": 5,
+  "acceptedUserCount": 12,
+  "level": 14,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 9,
+  "averageTries": 12.6667,
   "official": true,
   "tags": [
     {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2219,
+      "problemCount": 2265,
       "displayNames": [
         {
           "language": "ko",
@@ -67,7 +67,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3879,
+      "problemCount": 3978,
       "displayNames": [
         {
           "language": "ko",
@@ -95,10 +95,71 @@
       ]
     },
     {
+      "key": "exponentiation_by_squaring",
+      "isMeta": false,
+      "bojTagId": 39,
+      "problemCount": 286,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1",
+          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "language": "en",
+          "name": "exponentiation by squaring",
+          "short": "exponentiation by squaring"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57",
+          "short": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "alias": "\uc81c\uacf1"
+        },
+        {
+          "alias": "power"
+        },
+        {
+          "alias": "square"
+        }
+      ]
+    },
+    {
+      "key": "flt",
+      "isMeta": false,
+      "bojTagId": 29,
+      "problemCount": 64,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac",
+          "short": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "fermat's little theorem",
+          "short": "fermat's little thm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d5\u30a7\u30eb\u30de\u30fc\u306e\u5c0f\u5b9a\u7406",
+          "short": "\u30d5\u30a7\u30eb\u30de\u30fc"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "hash_set",
       "isMeta": false,
       "bojTagId": 136,
-      "problemCount": 645,
+      "problemCount": 661,
       "displayNames": [
         {
           "language": "ko",
@@ -153,7 +214,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6394,
+      "problemCount": 6534,
       "displayNames": [
         {
           "language": "ko",
@@ -177,7 +238,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1447,
+      "problemCount": 1483,
       "displayNames": [
         {
           "language": "ko",

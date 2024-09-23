@@ -11,20 +11,54 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 3,
-  "level": 15,
-  "votedUserCount": 1,
+  "acceptedUserCount": 4,
+  "level": 17,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 6.3333,
+  "averageTries": 5,
   "official": true,
   "tags": [
+    {
+      "key": "case_work",
+      "isMeta": false,
+      "bojTagId": 137,
+      "problemCount": 895,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
+          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
+        },
+        {
+          "language": "en",
+          "name": "case work",
+          "short": "case work"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
+          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucf00\uc774\uc2a4"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
+        }
+      ]
+    },
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3879,
+      "problemCount": 3978,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +89,7 @@
       "key": "disjoint_set",
       "isMeta": false,
       "bojTagId": 81,
-      "problemCount": 486,
+      "problemCount": 509,
       "displayNames": [
         {
           "language": "ko",
@@ -92,10 +126,58 @@
       ]
     },
     {
+      "key": "euler_characteristic",
+      "isMeta": false,
+      "bojTagId": 119,
+      "problemCount": 35,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\uc77c\ub7ec \uc9c0\ud45c (\u03c7=V-E+F)",
+          "short": "\uc624\uc77c\ub7ec \uc9c0\ud45c"
+        },
+        {
+          "language": "en",
+          "name": "euler characteristic (\u03c7=v-e+f)",
+          "short": "euler characteristic"
+        },
+        {
+          "language": "ja",
+          "name": "\u30aa\u30a4\u30e9\u30fc\u7279\u6027\uff08\u03c7=v-e+f\uff09",
+          "short": "\u30aa\u30a4\u30e9\u30fc\u7279\u6027"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1554,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3732,
+      "problemCount": 3814,
       "displayNames": [
         {
           "language": "ko",
@@ -126,7 +208,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2025,
+      "problemCount": 2072,
       "displayNames": [
         {
           "language": "ko",
@@ -157,7 +239,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5567,
+      "problemCount": 5670,
       "displayNames": [
         {
           "language": "ko",
