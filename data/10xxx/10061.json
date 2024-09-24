@@ -11,8 +11,8 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 1,
-  "level": 30,
+  "acceptedUserCount": 2,
+  "level": 29,
   "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
@@ -21,10 +21,71 @@
   "official": true,
   "tags": [
     {
+      "key": "0_1_bfs",
+      "isMeta": false,
+      "bojTagId": 176,
+      "problemCount": 58,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "0-1 \ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "0-1 \ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "0-1 bfs",
+          "short": "0-1 bfs"
+        },
+        {
+          "language": "ja",
+          "name": "0-1 bfs",
+          "short": "0-1 bfs"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "arbitrary_precision",
+      "isMeta": false,
+      "bojTagId": 117,
+      "problemCount": 266,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc784\uc758 \uc815\ubc00\ub3c4 / \ud070 \uc218 \uc5f0\uc0b0",
+          "short": "\uc784\uc758 \uc815\ubc00\ub3c4 / \ud070 \uc218 \uc5f0\uc0b0"
+        },
+        {
+          "language": "en",
+          "name": "arbitrary precision / big integers",
+          "short": "arbitrary precision / big integers"
+        },
+        {
+          "language": "ja",
+          "name": "\u9ad8\u7cbe\u5ea6\u307e\u305f\u306f\u5927\u304d\u306a\u6570\u306e\u6f14\u7b97",
+          "short": "\u9ad8\u7cbe\u5ea6\u307e\u305f\u306f\u5927\u304d\u306a\u6570\u306e\u6f14\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ube45\uc778\ud2f0\uc800"
+        },
+        {
+          "alias": "\ube45\ub370\uc2dc\uba40"
+        },
+        {
+          "alias": "biginteger"
+        },
+        {
+          "alias": "bigdecimal"
+        }
+      ]
+    },
+    {
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 1006,
+      "problemCount": 1010,
       "displayNames": [
         {
           "language": "ko",
@@ -52,10 +113,174 @@
       ]
     },
     {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 3978,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 831,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
+    },
+    {
+      "key": "dijkstra",
+      "isMeta": false,
+      "bojTagId": 22,
+      "problemCount": 600,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
+          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "language": "en",
+          "name": "dijkstra's",
+          "short": "dijkstra's"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
+          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub2e4\uc775"
+        },
+        {
+          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        }
+      ]
+    },
+    {
+      "key": "disjoint_set",
+      "isMeta": false,
+      "bojTagId": 81,
+      "problemCount": 509,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ub9ac \uc9d1\ud569",
+          "short": "\ubd84\ub9ac \uc9d1\ud569"
+        },
+        {
+          "language": "en",
+          "name": "disjoint set",
+          "short": "dsu"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "union"
+        },
+        {
+          "alias": "find"
+        },
+        {
+          "alias": "\uc720\ub2c8\uc628"
+        },
+        {
+          "alias": "\ud30c\uc778\ub4dc"
+        },
+        {
+          "alias": "dsu"
+        }
+      ]
+    },
+    {
+      "key": "dual_graph",
+      "isMeta": false,
+      "bojTagId": 181,
+      "problemCount": 16,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc30d\ub300 \uadf8\ub798\ud504",
+          "short": "\uc30d\ub300 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "dual graph",
+          "short": "dual graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u53cc\u5bfe\u30b0\u30e9\u30d5",
+          "short": "\u53cc\u5bfe\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub4c0\uc5bc \uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1550,
+      "problemCount": 1554,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +304,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3805,
+      "problemCount": 3814,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +335,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2067,
+      "problemCount": 2073,
       "displayNames": [
         {
           "language": "ko",
@@ -157,6 +382,106 @@
           "language": "ja",
           "name": "\u76f4\u7dda\u306e\u4ea4\u70b9",
           "short": "\u76f4\u7dda\u306e\u4ea4\u70b9"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "planar_graph",
+      "isMeta": false,
+      "bojTagId": 168,
+      "problemCount": 46,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud3c9\uba74 \uadf8\ub798\ud504",
+          "short": "\ud3c9\uba74 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "planar graph",
+          "short": "planar graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e73\u9762\u30b0\u30e9\u30d5",
+          "short": "\u5e73\u9762\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "point_in_non_convex_polygon",
+      "isMeta": false,
+      "bojTagId": 57,
+      "problemCount": 21,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\ubaa9 \ub2e4\uac01\ud615 \ub0b4\ubd80\uc758 \uc810 \ud310\uc815",
+          "short": "\uc624\ubaa9 \ub2e4\uac01\ud615 \ub0b4\ubd80\uc758 \uc810 \ud310\uc815"
+        },
+        {
+          "language": "en",
+          "name": "point in non-convex polygon check",
+          "short": "point in non-convex polygon check"
+        },
+        {
+          "language": "ja",
+          "name": "\u975e\u51f8\u591a\u89d2\u5f62\u306e\u70b9\u5305\u542b\u5224\u5b9a",
+          "short": "\u975e\u51f8\u591a\u89d2\u5f62\u306e\u70b9\u5305\u542b\u5224\u5b9a"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "polygon_area",
+      "isMeta": false,
+      "bojTagId": 3,
+      "problemCount": 75,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uac01\ud615\uc758 \ub113\uc774",
+          "short": "\ub2e4\uac01\ud615\uc758 \ub113\uc774"
+        },
+        {
+          "language": "en",
+          "name": "area of a polygon",
+          "short": "area of a polygon"
+        },
+        {
+          "language": "ja",
+          "name": "\u591a\u89d2\u5f62\u306e\u9762\u7a4d",
+          "short": "\u591a\u89d2\u5f62\u306e\u9762\u7a4d"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub113\uc774"
+        }
+      ]
+    },
+    {
+      "key": "shortest_path",
+      "isMeta": false,
+      "bojTagId": 215,
+      "problemCount": 795,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
+          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "shortest path",
+          "short": "shortest path"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u77ed\u7d4c\u8def",
+          "short": "\u6700\u77ed\u7d4c\u8def"
         }
       ],
       "aliases": []
