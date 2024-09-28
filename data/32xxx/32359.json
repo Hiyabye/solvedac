@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 48,
+  "acceptedUserCount": 54,
   "level": 13,
-  "votedUserCount": 10,
+  "votedUserCount": 14,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.25,
+  "averageTries": 4.2593,
   "official": true,
   "tags": [
     {
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 1010,
+      "problemCount": 1011,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3980,
+      "problemCount": 3989,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3815,
+      "problemCount": 3820,
       "displayNames": [
         {
           "language": "ko",
@@ -117,7 +117,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2074,
+      "problemCount": 2077,
       "displayNames": [
         {
           "language": "ko",
@@ -145,10 +145,65 @@
       ]
     },
     {
+      "key": "hash_set",
+      "isMeta": false,
+      "bojTagId": 136,
+      "problemCount": 663,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574\uc2dc\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
+          "short": "\ud574\uc2dc\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map by hashing",
+          "short": "hashset"
+        },
+        {
+          "language": "ja",
+          "name": "\u30cf\u30c3\u30b7\u30e5\u5316\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
+          "short": "hashset"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc9d1\ud569"
+        },
+        {
+          "alias": "\ub9f5"
+        },
+        {
+          "alias": "\uc14b"
+        },
+        {
+          "alias": "\ub515\uc154\ub108\ub9ac"
+        },
+        {
+          "alias": "dictionary"
+        },
+        {
+          "alias": "map"
+        },
+        {
+          "alias": "set"
+        },
+        {
+          "alias": "\ud574\uc2f1"
+        },
+        {
+          "alias": "hashing"
+        },
+        {
+          "alias": "dict"
+        }
+      ]
+    },
+    {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1468,
+      "problemCount": 1474,
       "displayNames": [
         {
           "language": "ko",
