@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 16,
+  "acceptedUserCount": 17,
   "level": 5,
   "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.1875,
+  "averageTries": 1.1765,
   "official": true,
   "tags": [
     {
       "key": "arithmetic",
       "isMeta": false,
       "bojTagId": 121,
-      "problemCount": 1133,
+      "problemCount": 1135,
       "displayNames": [
         {
           "language": "ko",
@@ -70,34 +70,38 @@
       ]
     },
     {
-      "key": "implementation",
+      "key": "euclidean",
       "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 5681,
+      "bojTagId": 26,
+      "problemCount": 197,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
+          "name": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95",
+          "short": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95"
         },
         {
           "language": "en",
-          "name": "implementation",
-          "short": "impl"
+          "name": "euclidean algorithm",
+          "short": "euclidean algorithm"
         },
         {
           "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
+          "name": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
+          "short": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
+        }
+      ]
     },
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6550,
+      "problemCount": 6562,
       "displayNames": [
         {
           "language": "ko",
@@ -121,7 +125,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1488,
+      "problemCount": 1489,
       "displayNames": [
         {
           "language": "ko",
