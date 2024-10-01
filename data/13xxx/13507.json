@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 45,
+  "acceptedUserCount": 46,
   "level": 15,
-  "votedUserCount": 10,
+  "votedUserCount": 11,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.2444,
+  "averageTries": 3.4783,
   "official": true,
   "tags": [
     {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2265,
+      "problemCount": 2270,
       "displayNames": [
         {
           "language": "ko",
@@ -67,7 +67,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3980,
+      "problemCount": 3998,
       "displayNames": [
         {
           "language": "ko",
@@ -98,7 +98,7 @@
       "key": "hashing",
       "isMeta": false,
       "bojTagId": 8,
-      "problemCount": 175,
+      "problemCount": 174,
       "displayNames": [
         {
           "language": "ko",
@@ -122,7 +122,7 @@
       "key": "hash_set",
       "isMeta": false,
       "bojTagId": 136,
-      "problemCount": 661,
+      "problemCount": 664,
       "displayNames": [
         {
           "language": "ko",
@@ -177,7 +177,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1022,
+      "problemCount": 1030,
       "displayNames": [
         {
           "language": "ko",
@@ -211,7 +211,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2457,
+      "problemCount": 2467,
       "displayNames": [
         {
           "language": "ko",
@@ -234,6 +234,58 @@
           "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
+    },
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1477,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
+    },
+    {
+      "key": "trie",
+      "isMeta": false,
+      "bojTagId": 79,
+      "problemCount": 136,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub77c\uc774",
+          "short": "\ud2b8\ub77c\uc774"
+        },
+        {
+          "language": "en",
+          "name": "trie",
+          "short": "trie"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c8\u30e9\u30a4\u6728",
+          "short": "\u30c8\u30e9\u30a4"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
