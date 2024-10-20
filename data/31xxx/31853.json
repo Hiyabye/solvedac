@@ -21,10 +21,38 @@
   "official": true,
   "tags": [
     {
+      "key": "coordinate_compression",
+      "isMeta": false,
+      "bojTagId": 161,
+      "problemCount": 250,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
+          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
+        },
+        {
+          "language": "en",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        },
+        {
+          "language": "ja",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "zip"
+        }
+      ]
+    },
+    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4000,
+      "problemCount": 4052,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +83,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1031,
+      "problemCount": 1046,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +117,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1354,
+      "problemCount": 1375,
       "displayNames": [
         {
           "language": "ko",
@@ -126,7 +154,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 1926,
+      "problemCount": 1938,
       "displayNames": [
         {
           "language": "ko",

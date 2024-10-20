@@ -11,14 +11,73 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 0,
-  "level": 0,
-  "votedUserCount": 0,
+  "acceptedUserCount": 1,
+  "level": 19,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 0,
+  "averageTries": 1,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "lis",
+      "isMeta": false,
+      "bojTagId": 43,
+      "problemCount": 88,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4: O(n log n)",
+          "short": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4: O(n log n)"
+        },
+        {
+          "language": "en",
+          "name": "longest increasing sequence in o(n log n)",
+          "short": "lis in o(n log n)"
+        },
+        {
+          "language": "ja",
+          "name": "longest increasing sequence in o(n log n)",
+          "short": "lis in o(n log n)"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "prefix_sum",
+      "isMeta": false,
+      "bojTagId": 139,
+      "problemCount": 1046,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub204\uc801 \ud569",
+          "short": "\ub204\uc801 \ud569"
+        },
+        {
+          "language": "en",
+          "name": "prefix sum",
+          "short": "prefix sum"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d2f\u7a4d\u548c",
+          "short": "\u7d2f\u7a4d\u548c"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud569"
+        },
+        {
+          "alias": "\ubd80\ubd84\ud569"
+        },
+        {
+          "alias": "rangesum"
+        }
+      ]
+    }
+  ],
   "metadata": {}
 }

@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 14,
+  "acceptedUserCount": 15,
   "level": 19,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.4286,
+  "averageTries": 1.4667,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4000,
+      "problemCount": 4052,
       "displayNames": [
         {
           "language": "ko",
@@ -52,10 +52,65 @@
       ]
     },
     {
+      "key": "functional_graph",
+      "isMeta": false,
+      "bojTagId": 211,
+      "problemCount": 26,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud568\uc218\ud615 \uadf8\ub798\ud504",
+          "short": "\ud568\uc218\ud615 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "functional graph",
+          "short": "functional graph"
+        },
+        {
+          "language": "ja",
+          "name": "functional graph",
+          "short": "functional graph"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 3858,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2680,
+      "problemCount": 2702,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +138,7 @@
       "key": "sparse_table",
       "isMeta": false,
       "bojTagId": 84,
-      "problemCount": 151,
+      "problemCount": 154,
       "displayNames": [
         {
           "language": "ko",

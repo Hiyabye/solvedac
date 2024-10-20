@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 21,
+  "acceptedUserCount": 30,
   "level": 21,
-  "votedUserCount": 4,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.6667,
+  "averageTries": 1.6,
   "official": true,
   "tags": [
     {
@@ -76,7 +76,7 @@
       "key": "divide_and_conquer",
       "isMeta": false,
       "bojTagId": 24,
-      "problemCount": 424,
+      "problemCount": 430,
       "displayNames": [
         {
           "language": "ko",
@@ -101,10 +101,34 @@
       ]
     },
     {
+      "key": "lca",
+      "isMeta": false,
+      "bojTagId": 41,
+      "problemCount": 178,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
+          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
+        },
+        {
+          "language": "en",
+          "name": "lowest common ancestor",
+          "short": "lca"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
+          "short": "lca"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1477,
+      "problemCount": 1490,
       "displayNames": [
         {
           "language": "ko",

@@ -11,9 +11,9 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 5,
+  "acceptedUserCount": 7,
   "level": 24,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,38 @@
   "official": true,
   "tags": [
     {
+      "key": "divide_and_conquer",
+      "isMeta": false,
+      "bojTagId": 24,
+      "problemCount": 430,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
+        },
+        {
+          "language": "en",
+          "name": "divide and conquer",
+          "short": "d&c"
+        },
+        {
+          "language": "ja",
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dnc"
+        }
+      ]
+    },
+    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4179,
+      "problemCount": 4211,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +114,7 @@
       "key": "fft",
       "isMeta": false,
       "bojTagId": 28,
-      "problemCount": 136,
+      "problemCount": 137,
       "displayNames": [
         {
           "language": "ko",
@@ -120,7 +148,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6562,
+      "problemCount": 6608,
       "displayNames": [
         {
           "language": "ko",

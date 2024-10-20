@@ -11,20 +11,54 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 78,
+  "acceptedUserCount": 99,
   "level": 12,
-  "votedUserCount": 15,
+  "votedUserCount": 17,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.4359,
+  "averageTries": 3.3232,
   "official": true,
   "tags": [
+    {
+      "key": "backtracking",
+      "isMeta": false,
+      "bojTagId": 5,
+      "problemCount": 549,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc31\ud2b8\ub798\ud0b9",
+          "short": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "backtracking",
+          "short": "backtrack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
+          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "alias": "\ud1f4\uac01\uac80\uc0c9"
+        },
+        {
+          "alias": "\ud1f4\uac01 \uac80\uc0c9"
+        }
+      ]
+    },
     {
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 835,
+      "problemCount": 837,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +89,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3826,
+      "problemCount": 3858,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +120,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2079,
+      "problemCount": 2085,
       "displayNames": [
         {
           "language": "ko",
