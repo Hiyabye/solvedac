@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 23,
   "level": 20,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -30,7 +30,7 @@
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 907,
+      "problemCount": 909,
       "displayNames": [
         {
           "language": "ko",
@@ -64,7 +64,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1574,
+      "problemCount": 1573,
       "displayNames": [
         {
           "language": "ko",
@@ -83,6 +83,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "polygon_area",
+      "isMeta": false,
+      "bojTagId": 3,
+      "problemCount": 76,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uac01\ud615\uc758 \ub113\uc774",
+          "short": "\ub2e4\uac01\ud615\uc758 \ub113\uc774"
+        },
+        {
+          "language": "en",
+          "name": "area of a polygon",
+          "short": "area of a polygon"
+        },
+        {
+          "language": "ja",
+          "name": "\u591a\u89d2\u5f62\u306e\u9762\u7a4d",
+          "short": "\u591a\u89d2\u5f62\u306e\u9762\u7a4d"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub113\uc774"
+        }
+      ]
     }
   ],
   "metadata": {}
