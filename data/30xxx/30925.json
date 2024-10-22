@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 2,
-  "level": 28,
-  "votedUserCount": 1,
+  "level": 29,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,69 @@
   "official": true,
   "tags": [
     {
+      "key": "alien",
+      "isMeta": false,
+      "bojTagId": 134,
+      "problemCount": 20,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "Aliens \ud2b8\ub9ad",
+          "short": "aliens \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "aliens trick",
+          "short": "aliens trick"
+        },
+        {
+          "language": "ja",
+          "name": "aliens\u6cd5",
+          "short": "aliens\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "alien's trick"
+        }
+      ]
+    },
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1313,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4052,
+      "problemCount": 4050,
       "displayNames": [
         {
           "language": "ko",
@@ -132,6 +191,34 @@
       ]
     },
     {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 2705,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
+    {
       "key": "lazyprop",
       "isMeta": false,
       "bojTagId": 66,
@@ -171,6 +258,34 @@
         },
         {
           "alias": "\ud39c\uc705"
+        }
+      ]
+    },
+    {
+      "key": "linear_programming",
+      "isMeta": false,
+      "bojTagId": 103,
+      "problemCount": 19,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc120\ud615 \uacc4\ud68d\ubc95",
+          "short": "\uc120\ud615 \uacc4\ud68d\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "linear programming",
+          "short": "lp"
+        },
+        {
+          "language": "ja",
+          "name": "\u7dda\u578b\u8a08\u753b\u6cd5",
+          "short": "lp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub9ac\ub2c8\uc5b4\ud504\ub85c\uadf8\ub798\ubc0d"
         }
       ]
     },

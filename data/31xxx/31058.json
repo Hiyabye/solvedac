@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 39,
   "level": 19,
-  "votedUserCount": 18,
+  "votedUserCount": 19,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -48,7 +48,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4052,
+      "problemCount": 4050,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4211,
+      "problemCount": 4210,
       "displayNames": [
         {
           "language": "ko",
@@ -113,7 +113,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3858,
+      "problemCount": 3859,
       "displayNames": [
         {
           "language": "ko",
@@ -144,7 +144,7 @@
       "key": "hashing",
       "isMeta": false,
       "bojTagId": 8,
-      "problemCount": 174,
+      "problemCount": 173,
       "displayNames": [
         {
           "language": "ko",
@@ -163,6 +163,37 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "sparse_table",
+      "isMeta": false,
+      "bojTagId": 84,
+      "problemCount": 154,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud76c\uc18c \ubc30\uc5f4",
+          "short": "\ud76c\uc18c \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "sparse table",
+          "short": "sparse table"
+        },
+        {
+          "language": "ja",
+          "name": "sparse table",
+          "short": "sparse table"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud30c\uc2a4\uc5b4\ub808\uc774"
+        },
+        {
+          "alias": "sparse table"
+        }
+      ]
     },
     {
       "key": "topological_sorting",
