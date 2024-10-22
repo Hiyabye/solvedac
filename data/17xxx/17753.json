@@ -11,54 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 21,
+  "acceptedUserCount": 22,
   "level": 19,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.5714,
+  "averageTries": 2.5,
   "official": true,
   "tags": [
-    {
-      "key": "dp",
-      "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 4180,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
     {
       "key": "functional_graph",
       "isMeta": false,
       "bojTagId": 211,
-      "problemCount": 24,
+      "problemCount": 27,
       "displayNames": [
         {
           "language": "ko",
@@ -82,7 +48,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3825,
+      "problemCount": 3859,
       "displayNames": [
         {
           "language": "ko",
@@ -110,41 +76,10 @@
       ]
     },
     {
-      "key": "graph_traversal",
-      "isMeta": false,
-      "bojTagId": 11,
-      "problemCount": 2079,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
-          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "graph traversal",
-          "short": "traversal"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
-          "short": "\u6a2a\u65ad"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bfs"
-        },
-        {
-          "alias": "dfs"
-        }
-      ]
-    },
-    {
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2679,
+      "problemCount": 2705,
       "displayNames": [
         {
           "language": "ko",

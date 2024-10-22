@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 20,
+  "acceptedUserCount": 21,
   "level": 18,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.1,
+  "averageTries": 2.0476,
   "official": true,
   "tags": [
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4180,
+      "problemCount": 4210,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5687,
+      "problemCount": 5727,
       "displayNames": [
         {
           "language": "ko",
@@ -79,10 +79,38 @@
       "aliases": []
     },
     {
+      "key": "knapsack",
+      "isMeta": false,
+      "bojTagId": 148,
+      "problemCount": 270,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc30\ub0ad \ubb38\uc81c",
+          "short": "\ubc30\ub0ad \ubb38\uc81c"
+        },
+        {
+          "language": "en",
+          "name": "knapsack",
+          "short": "knapsack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af\u554f\u984c",
+          "short": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub0c5\uc0c9"
+        }
+      ]
+    },
+    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6559,
+      "problemCount": 6608,
       "displayNames": [
         {
           "language": "ko",
@@ -106,7 +134,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1489,
+      "problemCount": 1499,
       "displayNames": [
         {
           "language": "ko",

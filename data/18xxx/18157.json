@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 15,
+  "acceptedUserCount": 17,
   "level": 26,
-  "votedUserCount": 7,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.4,
+  "averageTries": 3.1176,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3998,
+      "problemCount": 4051,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "lazyprop",
       "isMeta": false,
       "bojTagId": 66,
-      "problemCount": 316,
+      "problemCount": 321,
       "displayNames": [
         {
           "language": "ko",
@@ -95,10 +95,38 @@
       ]
     },
     {
+      "key": "offline_queries",
+      "isMeta": false,
+      "bojTagId": 123,
+      "problemCount": 282,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
+          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "offline queries",
+          "short": "offline query"
+        },
+        {
+          "language": "ja",
+          "name": "offline queries",
+          "short": "offline query"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "offlinequery"
+        }
+      ]
+    },
+    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1354,
+      "problemCount": 1375,
       "displayNames": [
         {
           "language": "ko",

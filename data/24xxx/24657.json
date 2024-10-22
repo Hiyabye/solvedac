@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 31,
+  "acceptedUserCount": 32,
   "level": 20,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.4194,
+  "averageTries": 1.4688,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 3998,
+      "problemCount": 4051,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "disjoint_set",
       "isMeta": false,
       "bojTagId": 81,
-      "problemCount": 510,
+      "problemCount": 515,
       "displayNames": [
         {
           "language": "ko",
@@ -95,7 +95,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3825,
+      "problemCount": 3859,
       "displayNames": [
         {
           "language": "ko",
@@ -123,10 +123,34 @@
       ]
     },
     {
+      "key": "hld",
+      "isMeta": false,
+      "bojTagId": 35,
+      "problemCount": 88,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "Heavy-light \ubd84\ud560",
+          "short": "Heavy-light \ubd84\ud560"
+        },
+        {
+          "language": "en",
+          "name": "heavy-light decomposition",
+          "short": "hld"
+        },
+        {
+          "language": "ja",
+          "name": "heavy-light decomposition",
+          "short": "hld"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "lca",
       "isMeta": false,
       "bojTagId": 41,
-      "problemCount": 173,
+      "problemCount": 178,
       "displayNames": [
         {
           "language": "ko",
@@ -174,7 +198,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1477,
+      "problemCount": 1490,
       "displayNames": [
         {
           "language": "ko",

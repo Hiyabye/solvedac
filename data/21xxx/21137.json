@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 4,
+  "acceptedUserCount": 6,
   "level": 22,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.75,
+  "averageTries": 2.3333,
   "official": true,
   "tags": [
     {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2270,
+      "problemCount": 2288,
       "displayNames": [
         {
           "language": "ko",
@@ -67,7 +67,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3825,
+      "problemCount": 3859,
       "displayNames": [
         {
           "language": "ko",
@@ -98,7 +98,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6559,
+      "problemCount": 6608,
       "displayNames": [
         {
           "language": "ko",
@@ -117,6 +117,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "parametric_search",
+      "isMeta": false,
+      "bojTagId": 170,
+      "problemCount": 398,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9",
+          "short": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "parametric search",
+          "short": "parametric search"
+        },
+        {
+          "language": "ja",
+          "name": "parametric search",
+          "short": "parametric search"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
+        }
+      ]
     }
   ],
   "metadata": {}
