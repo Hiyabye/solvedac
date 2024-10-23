@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 43,
-  "level": 14,
-  "votedUserCount": 4,
+  "level": 15,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,35 +21,28 @@
   "official": true,
   "tags": [
     {
-      "key": "data_structures",
+      "key": "dag",
       "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4051,
+      "bojTagId": 213,
+      "problemCount": 208,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
+          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
+          "short": "dag"
         },
         {
           "language": "en",
-          "name": "data structures",
-          "short": "ds"
+          "name": "directed acyclic graph",
+          "short": "dag"
         },
         {
           "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
+          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
+          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "dp",
@@ -89,7 +82,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3859,
+      "problemCount": 3860,
       "displayNames": [
         {
           "language": "ko",
@@ -113,37 +106,6 @@
         },
         {
           "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "graph_traversal",
-      "isMeta": false,
-      "bojTagId": 11,
-      "problemCount": 2086,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
-          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "graph traversal",
-          "short": "traversal"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
-          "short": "\u6a2a\u65ad"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bfs"
-        },
-        {
-          "alias": "dfs"
         }
       ]
     },
@@ -195,85 +157,6 @@
           "language": "ja",
           "name": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8",
           "short": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "tree_set",
-      "isMeta": false,
-      "bojTagId": 74,
-      "problemCount": 505,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
-          "short": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map by trees",
-          "short": "treeset"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
-          "short": "treeset"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc9d1\ud569"
-        },
-        {
-          "alias": "\ub9f5"
-        },
-        {
-          "alias": "\uc14b"
-        },
-        {
-          "alias": "\ub515\uc154\ub108\ub9ac"
-        },
-        {
-          "alias": "dictionary"
-        },
-        {
-          "alias": "map"
-        },
-        {
-          "alias": "set"
-        },
-        {
-          "alias": "bbst"
-        },
-        {
-          "alias": "\ud2b8\ub9ac"
-        },
-        {
-          "alias": "tree"
-        }
-      ]
-    },
-    {
-      "key": "dag",
-      "isMeta": false,
-      "bojTagId": 213,
-      "problemCount": 208,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
-          "short": "dag"
-        },
-        {
-          "language": "en",
-          "name": "directed acyclic graph",
-          "short": "dag"
-        },
-        {
-          "language": "ja",
-          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
-          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
         }
       ],
       "aliases": []
