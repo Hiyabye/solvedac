@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 118,
+  "acceptedUserCount": 125,
   "level": 12,
-  "votedUserCount": 24,
+  "votedUserCount": 26,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.6695,
+  "averageTries": 2.696,
   "official": true,
   "tags": [
     {
@@ -67,7 +67,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4049,
+      "problemCount": 4051,
       "displayNames": [
         {
           "language": "ko",
@@ -98,7 +98,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1573,
+      "problemCount": 1572,
       "displayNames": [
         {
           "language": "ko",
@@ -122,7 +122,7 @@
       "key": "hash_set",
       "isMeta": false,
       "bojTagId": 136,
-      "problemCount": 677,
+      "problemCount": 679,
       "displayNames": [
         {
           "language": "ko",
@@ -172,6 +172,30 @@
           "alias": "dict"
         }
       ]
+    },
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 1939,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

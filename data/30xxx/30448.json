@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 5,
-  "level": 20,
-  "votedUserCount": 4,
+  "level": 21,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -52,7 +52,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4049,
+      "problemCount": 4051,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +83,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5727,
+      "problemCount": 5729,
       "displayNames": [
         {
           "language": "ko",
@@ -104,10 +104,41 @@
       "aliases": []
     },
     {
+      "key": "priority_queue",
+      "isMeta": false,
+      "bojTagId": 59,
+      "problemCount": 451,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc6b0\uc120\uc21c\uc704 \ud050",
+          "short": "\uc6b0\uc120\uc21c\uc704 \ud050"
+        },
+        {
+          "language": "en",
+          "name": "priority queue",
+          "short": "priority queue"
+        },
+        {
+          "language": "ja",
+          "name": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc",
+          "short": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "heap"
+        },
+        {
+          "alias": "\ud799"
+        }
+      ]
+    },
+    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1375,
+      "problemCount": 1377,
       "displayNames": [
         {
           "language": "ko",
