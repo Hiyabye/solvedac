@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 1,
-  "level": 23,
-  "votedUserCount": 1,
+  "acceptedUserCount": 2,
+  "level": 24,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1,
+  "averageTries": 1.5,
   "official": true,
   "tags": [
     {
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1312,
+      "problemCount": 1314,
       "displayNames": [
         {
           "language": "ko",
@@ -107,6 +107,37 @@
       "aliases": []
     },
     {
+      "key": "sparse_table",
+      "isMeta": false,
+      "bojTagId": 84,
+      "problemCount": 155,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud76c\uc18c \ubc30\uc5f4",
+          "short": "\ud76c\uc18c \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "sparse table",
+          "short": "sparse table"
+        },
+        {
+          "language": "ja",
+          "name": "sparse table",
+          "short": "sparse table"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud30c\uc2a4\uc5b4\ub808\uc774"
+        },
+        {
+          "alias": "sparse table"
+        }
+      ]
+    },
+    {
       "key": "stack",
       "isMeta": false,
       "bojTagId": 71,
@@ -134,7 +165,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2482,
+      "problemCount": 2485,
       "displayNames": [
         {
           "language": "ko",
@@ -157,6 +188,30 @@
           "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
+    },
+    {
+      "key": "z",
+      "isMeta": false,
+      "bojTagId": 83,
+      "problemCount": 12,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "z",
+          "short": "Z"
+        },
+        {
+          "language": "en",
+          "name": "z",
+          "short": "z"
+        },
+        {
+          "language": "ja",
+          "name": "z",
+          "short": "z"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
