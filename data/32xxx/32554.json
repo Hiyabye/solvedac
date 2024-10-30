@@ -11,14 +11,94 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 0,
-  "level": 0,
-  "votedUserCount": 0,
+  "acceptedUserCount": 1,
+  "level": 18,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 0,
+  "averageTries": 1,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1580,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 3875,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "planar_graph",
+      "isMeta": false,
+      "bojTagId": 168,
+      "problemCount": 48,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud3c9\uba74 \uadf8\ub798\ud504",
+          "short": "\ud3c9\uba74 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "planar graph",
+          "short": "planar graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e73\u9762\u30b0\u30e9\u30d5",
+          "short": "\u5e73\u9762\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
+    }
+  ],
   "metadata": {}
 }

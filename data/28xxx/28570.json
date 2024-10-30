@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 3,
   "level": 10,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "degree_sequence",
+      "isMeta": false,
+      "bojTagId": 200,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\uc218\uc5f4",
+          "short": "\ucc28\uc218\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "degree sequence",
+          "short": "degree sequence"
+        },
+        {
+          "language": "ja",
+          "name": "degree sequence",
+          "short": "degree sequence"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3872,
+      "problemCount": 3875,
       "displayNames": [
         {
           "language": "ko",
