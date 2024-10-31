@@ -55,7 +55,7 @@
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 913,
+      "problemCount": 914,
       "displayNames": [
         {
           "language": "ko",
@@ -86,10 +86,50 @@
       ]
     },
     {
+      "key": "geometric_boolean_operations",
+      "isMeta": false,
+      "bojTagId": 202,
+      "problemCount": 9,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub3c4\ud615\uc5d0\uc11c\uc758 \ubd88 \uc5f0\uc0b0",
+          "short": "\ub3c4\ud615\uc5d0\uc11c\uc758 \ubd88 \uc5f0\uc0b0"
+        },
+        {
+          "language": "en",
+          "name": "boolean operations on geometric objects",
+          "short": "geometric boolean operations"
+        },
+        {
+          "language": "ja",
+          "name": "\u56f3\u5f62\u306e\u30d6\u30fc\u30eb\u6f14\u7b97",
+          "short": "\u56f3\u5f62\u306e\u30d6\u30fc\u30eb\u6f14\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ubcd1\ud569"
+        },
+        {
+          "alias": "\uad50\uc9d1\ud569"
+        },
+        {
+          "alias": "\ud569\uc9d1\ud569"
+        },
+        {
+          "alias": "union"
+        },
+        {
+          "alias": "intersect"
+        }
+      ]
+    },
+    {
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1580,
+      "problemCount": 1584,
       "displayNames": [
         {
           "language": "ko",
@@ -137,7 +177,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5750,
+      "problemCount": 5754,
       "displayNames": [
         {
           "language": "ko",
@@ -161,7 +201,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6632,
+      "problemCount": 6633,
       "displayNames": [
         {
           "language": "ko",
