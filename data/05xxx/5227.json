@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 27,
+  "acceptedUserCount": 28,
   "level": 18,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.5556,
+  "averageTries": 2.5714,
   "official": true,
   "tags": [
     {
@@ -147,7 +147,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3878,
+      "problemCount": 3880,
       "displayNames": [
         {
           "language": "ko",
@@ -235,6 +235,30 @@
           "alias": "nimber"
         }
       ]
+    },
+    {
+      "key": "topological_sorting",
+      "isMeta": false,
+      "bojTagId": 78,
+      "problemCount": 191,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc704\uc0c1 \uc815\ub82c",
+          "short": "\uc704\uc0c1 \uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "topological sorting",
+          "short": "topological sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8",
+          "short": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {
