@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 3,
   "level": 26,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4067,
+      "problemCount": 4068,
       "displayNames": [
         {
           "language": "ko",
@@ -76,10 +76,34 @@
       "aliases": []
     },
     {
+      "key": "deque_trick",
+      "isMeta": false,
+      "bojTagId": 216,
+      "problemCount": 41,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub371\uc744 \uc774\uc6a9\ud55c \uad6c\uac04 \ucd5c\ub313\uac12 \ud2b8\ub9ad",
+          "short": "\ub371 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "deque range maximum trick",
+          "short": "deque rmq trick"
+        },
+        {
+          "language": "ja",
+          "name": "deque range maximum trick",
+          "short": "deque rmq trick"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4226,
+      "problemCount": 4231,
       "displayNames": [
         {
           "language": "ko",
@@ -144,7 +168,7 @@
       "key": "dp_tree",
       "isMeta": false,
       "bojTagId": 92,
-      "problemCount": 448,
+      "problemCount": 449,
       "displayNames": [
         {
           "language": "ko",
@@ -172,7 +196,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1496,
+      "problemCount": 1497,
       "displayNames": [
         {
           "language": "ko",
@@ -195,30 +219,6 @@
           "alias": "trees"
         }
       ]
-    },
-    {
-      "key": "deque_trick",
-      "isMeta": false,
-      "bojTagId": 216,
-      "problemCount": 41,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub371\uc744 \uc774\uc6a9\ud55c \uad6c\uac04 \ucd5c\ub313\uac12 \ud2b8\ub9ad",
-          "short": "\ub371 \ud2b8\ub9ad"
-        },
-        {
-          "language": "en",
-          "name": "deque range maximum trick",
-          "short": "deque rmq trick"
-        },
-        {
-          "language": "ja",
-          "name": "deque range maximum trick",
-          "short": "deque rmq trick"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
