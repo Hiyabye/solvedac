@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 61,
   "level": 14,
-  "votedUserCount": 10,
+  "votedUserCount": 11,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4230,
+      "problemCount": 4233,
       "displayNames": [
         {
           "language": "ko",
@@ -55,10 +55,38 @@
       ]
     },
     {
+      "key": "knapsack",
+      "isMeta": false,
+      "bojTagId": 148,
+      "problemCount": 273,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc30\ub0ad \ubb38\uc81c",
+          "short": "\ubc30\ub0ad \ubb38\uc81c"
+        },
+        {
+          "language": "en",
+          "name": "knapsack",
+          "short": "knapsack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af\u554f\u984c",
+          "short": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub0c5\uc0c9"
+        }
+      ]
+    },
+    {
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2502,
+      "problemCount": 2503,
       "displayNames": [
         {
           "language": "ko",
