@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 16,
   "level": 25,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1319,
+      "problemCount": 1318,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4067,
+      "problemCount": 4068,
       "displayNames": [
         {
           "language": "ko",
@@ -120,7 +120,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4233,
+      "problemCount": 4236,
       "displayNames": [
         {
           "language": "ko",
@@ -178,7 +178,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3882,
+      "problemCount": 3883,
       "displayNames": [
         {
           "language": "ko",
@@ -209,7 +209,7 @@
       "key": "lca",
       "isMeta": false,
       "bojTagId": 41,
-      "problemCount": 178,
+      "problemCount": 179,
       "displayNames": [
         {
           "language": "ko",
@@ -228,34 +228,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "parametric_search",
-      "isMeta": false,
-      "bojTagId": 170,
-      "problemCount": 403,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9",
-          "short": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "parametric search",
-          "short": "parametric search"
-        },
-        {
-          "language": "ja",
-          "name": "parametric search",
-          "short": "parametric search"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
-        }
-      ]
     },
     {
       "key": "segtree",
@@ -317,37 +289,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "sparse_table",
-      "isMeta": false,
-      "bojTagId": 84,
-      "problemCount": 154,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud76c\uc18c \ubc30\uc5f4",
-          "short": "\ud76c\uc18c \ubc30\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "sparse table",
-          "short": "sparse table"
-        },
-        {
-          "language": "ja",
-          "name": "sparse table",
-          "short": "sparse table"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc2a4\ud30c\uc2a4\uc5b4\ub808\uc774"
-        },
-        {
-          "alias": "sparse table"
-        }
-      ]
     },
     {
       "key": "trees",
