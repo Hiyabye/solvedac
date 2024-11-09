@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 22,
   "level": 21,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4068,
+      "problemCount": 4069,
       "displayNames": [
         {
           "language": "ko",
@@ -123,6 +123,40 @@
       ]
     },
     {
+      "key": "prefix_sum",
+      "isMeta": false,
+      "bojTagId": 139,
+      "problemCount": 1057,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub204\uc801 \ud569",
+          "short": "\ub204\uc801 \ud569"
+        },
+        {
+          "language": "en",
+          "name": "prefix sum",
+          "short": "prefix sum"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d2f\u7a4d\u548c",
+          "short": "\u7d2f\u7a4d\u548c"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud569"
+        },
+        {
+          "alias": "\ubd80\ubd84\ud569"
+        },
+        {
+          "alias": "rangesum"
+        }
+      ]
+    },
+    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
@@ -156,6 +190,37 @@
         },
         {
           "alias": "\ud39c\uc705"
+        }
+      ]
+    },
+    {
+      "key": "sparse_table",
+      "isMeta": false,
+      "bojTagId": 84,
+      "problemCount": 154,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud76c\uc18c \ubc30\uc5f4",
+          "short": "\ud76c\uc18c \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "sparse table",
+          "short": "sparse table"
+        },
+        {
+          "language": "ja",
+          "name": "sparse table",
+          "short": "sparse table"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud30c\uc2a4\uc5b4\ub808\uc774"
+        },
+        {
+          "alias": "sparse table"
         }
       ]
     },
