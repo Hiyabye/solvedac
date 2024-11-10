@@ -11,46 +11,15 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 28,
+  "acceptedUserCount": 29,
   "level": 17,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.5357,
+  "averageTries": 2.4828,
   "official": true,
   "tags": [
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4069,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
     {
       "key": "dfs",
       "isMeta": false,
@@ -83,50 +52,10 @@
       ]
     },
     {
-      "key": "disjoint_set",
-      "isMeta": false,
-      "bojTagId": 81,
-      "problemCount": 518,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ub9ac \uc9d1\ud569",
-          "short": "\ubd84\ub9ac \uc9d1\ud569"
-        },
-        {
-          "language": "en",
-          "name": "disjoint set",
-          "short": "dsu"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "union"
-        },
-        {
-          "alias": "find"
-        },
-        {
-          "alias": "\uc720\ub2c8\uc628"
-        },
-        {
-          "alias": "\ud30c\uc778\ub4dc"
-        },
-        {
-          "alias": "dsu"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3889,
+      "problemCount": 3890,
       "displayNames": [
         {
           "language": "ko",
@@ -157,7 +86,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2090,
+      "problemCount": 2091,
       "displayNames": [
         {
           "language": "ko",
@@ -188,7 +117,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6650,
+      "problemCount": 6652,
       "displayNames": [
         {
           "language": "ko",
@@ -231,80 +160,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "primality_test",
-      "isMeta": false,
-      "bojTagId": 9,
-      "problemCount": 337,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc18c\uc218 \ud310\uc815",
-          "short": "\uc18c\uc218 \ud310\uc815"
-        },
-        {
-          "language": "en",
-          "name": "primality test",
-          "short": "primality test"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8",
-          "short": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc18c\uc218"
-        },
-        {
-          "alias": "\uc18c\uc218\ud310\ubcc4"
-        },
-        {
-          "alias": "\uc18c\uc218\ud310\uc815"
-        },
-        {
-          "alias": "prime"
-        }
-      ]
-    },
-    {
-      "key": "sieve",
-      "isMeta": false,
-      "bojTagId": 67,
-      "problemCount": 203,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc5d0\ub77c\ud1a0\uc2a4\ud14c\ub124\uc2a4\uc758 \uccb4",
-          "short": "\uc5d0\ub77c\ud1a0\uc2a4\ud14c\ub124\uc2a4\uc758 \uccb4"
-        },
-        {
-          "language": "en",
-          "name": "sieve of eratosthenes",
-          "short": "eratosthenes"
-        },
-        {
-          "language": "ja",
-          "name": "\u30a8\u30e9\u30c8\u30b9\u30c6\u30cd\u30b9\u306e\u7be9",
-          "short": "\u30a8\u30e9\u30c8\u30b9\u30c6\u30cd\u30b9"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "sieve"
-        },
-        {
-          "alias": "\uc5d0\ub77c\uccb4"
-        },
-        {
-          "alias": "\uc18c\uc218"
-        },
-        {
-          "alias": "prime"
-        }
-      ]
     },
     {
       "key": "trees",
