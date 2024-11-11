@@ -11,20 +11,92 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 7,
-  "level": 10,
-  "votedUserCount": 1,
+  "acceptedUserCount": 8,
+  "level": 11,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4.4286,
+  "averageTries": 4.25,
   "official": true,
   "tags": [
+    {
+      "key": "ad_hoc",
+      "isMeta": false,
+      "bojTagId": 109,
+      "problemCount": 1613,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
+        },
+        {
+          "language": "en",
+          "name": "ad-hoc",
+          "short": "ad-hoc"
+        },
+        {
+          "language": "ja",
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1600,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometry_3d",
+      "isMeta": false,
+      "bojTagId": 131,
+      "problemCount": 109,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "3\ucc28\uc6d0 \uae30\ud558\ud559",
+          "short": "3\ucc28\uc6d0 \uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry; 3d",
+          "short": "3d"
+        },
+        {
+          "language": "ja",
+          "name": "3\u6b21\u5143\u5e7e\u4f55\u5b66",
+          "short": "3d"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5771,
+      "problemCount": 5772,
       "displayNames": [
         {
           "language": "ko",
