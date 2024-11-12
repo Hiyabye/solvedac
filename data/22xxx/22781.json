@@ -12,13 +12,114 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 0,
-  "level": 0,
-  "votedUserCount": 0,
+  "level": 20,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 0,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "convex_hull",
+      "isMeta": false,
+      "bojTagId": 20,
+      "problemCount": 196,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubcfc\ub85d \uaecd\uc9c8",
+          "short": "\ubcfc\ub85d \uaecd\uc9c8"
+        },
+        {
+          "language": "en",
+          "name": "convex hull",
+          "short": "convex hull"
+        },
+        {
+          "language": "ja",
+          "name": "\u51f8\u5305",
+          "short": "\u51f8\u5305"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0"
+        }
+      ]
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1603,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometry_3d",
+      "isMeta": false,
+      "bojTagId": 131,
+      "problemCount": 111,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "3\ucc28\uc6d0 \uae30\ud558\ud559",
+          "short": "3\ucc28\uc6d0 \uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry; 3d",
+          "short": "3d"
+        },
+        {
+          "language": "ja",
+          "name": "3\u6b21\u5143\u5e7e\u4f55\u5b66",
+          "short": "3d"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "ternary_search",
+      "isMeta": false,
+      "bojTagId": 101,
+      "problemCount": 109,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc0bc\ubd84 \ud0d0\uc0c9",
+          "short": "\uc0bc\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "ternary search",
+          "short": "ternary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e09\u5206\u63a2\u7d22",
+          "short": "\u4e09\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": []
+    }
+  ],
   "metadata": {}
 }
