@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 13,
+  "acceptedUserCount": 16,
   "level": 18,
-  "votedUserCount": 3,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.5385,
+  "averageTries": 1.4375,
   "official": true,
   "tags": [
     {
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1324,
+      "problemCount": 1323,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4077,
+      "problemCount": 4083,
       "displayNames": [
         {
           "language": "ko",
@@ -83,58 +83,10 @@
       ]
     },
     {
-      "key": "deque",
-      "isMeta": false,
-      "bojTagId": 73,
-      "problemCount": 133,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub371",
-          "short": "\ub371"
-        },
-        {
-          "language": "en",
-          "name": "deque",
-          "short": "deque"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
-          "short": "deque"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "deque_trick",
-      "isMeta": false,
-      "bojTagId": 216,
-      "problemCount": 42,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub371\uc744 \uc774\uc6a9\ud55c \uad6c\uac04 \ucd5c\ub313\uac12 \ud2b8\ub9ad",
-          "short": "\ub371 \ud2b8\ub9ad"
-        },
-        {
-          "language": "en",
-          "name": "deque range maximum trick",
-          "short": "deque rmq trick"
-        },
-        {
-          "language": "ja",
-          "name": "deque range maximum trick",
-          "short": "deque rmq trick"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4255,
+      "problemCount": 4262,
       "displayNames": [
         {
           "language": "ko",
@@ -165,65 +117,10 @@
       ]
     },
     {
-      "key": "dp_deque",
-      "isMeta": false,
-      "bojTagId": 108,
-      "problemCount": 32,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub371\uc744 \uc774\uc6a9\ud55c \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub371\uc744 \uc774\uc6a9\ud55c \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming using a deque",
-          "short": "deque dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc\u3092\u4f7f\u7528\u3057\u305f\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "deque dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub371dp"
-        }
-      ]
-    },
-    {
-      "key": "monotone_queue_optimization",
-      "isMeta": false,
-      "bojTagId": 165,
-      "problemCount": 13,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e8\uc870 \ud050\ub97c \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
-          "short": "\ub2e8\uc870 \ud050\ub97c \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
-        },
-        {
-          "language": "en",
-          "name": "monotone queue optimization",
-          "short": "monotone queue optimization"
-        },
-        {
-          "language": "ja",
-          "name": "monotone queue optimization",
-          "short": "monotone queue optimization"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1386,
+      "problemCount": 1389,
       "displayNames": [
         {
           "language": "ko",
