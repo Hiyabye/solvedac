@@ -13,12 +13,96 @@
   "isPartial": false,
   "acceptedUserCount": 15,
   "level": 20,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.8,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4084,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "stack",
+      "isMeta": false,
+      "bojTagId": 71,
+      "problemCount": 397,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2a4\ud0dd",
+          "short": "\uc2a4\ud0dd"
+        },
+        {
+          "language": "en",
+          "name": "stack",
+          "short": "stack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b9\u30bf\u30c3\u30af",
+          "short": "\u30b9\u30bf\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "sweeping",
+      "isMeta": false,
+      "bojTagId": 106,
+      "problemCount": 518,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2a4\uc704\ud551",
+          "short": "\uc2a4\uc704\ud551"
+        },
+        {
+          "language": "en",
+          "name": "sweeping",
+          "short": "sweeping"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e73\u9762\u8d70\u67fb",
+          "short": "\u5e73\u9762\u8d70\u67fb"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
+        }
+      ]
+    }
+  ],
   "metadata": {}
 }
