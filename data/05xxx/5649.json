@@ -15,7 +15,7 @@
   "level": 13,
   "votedUserCount": 12,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
   "averageTries": 1.4545,
   "official": true,
@@ -97,5 +97,12 @@
       "aliases": []
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "wrong-conditions",
+        "data": "https://www.acmicpc.net/board/view/126975"
+      }
+    ]
+  }
 }
