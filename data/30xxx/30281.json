@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 112,
+  "acceptedUserCount": 116,
   "level": 3,
   "votedUserCount": 18,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
-  "averageTries": 2.6161,
+  "averageTries": 2.6121,
   "official": true,
   "tags": [
     {
       "key": "arithmetic",
       "isMeta": false,
       "bojTagId": 121,
-      "problemCount": 1141,
+      "problemCount": 1142,
       "displayNames": [
         {
           "language": "ko",
@@ -73,7 +73,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2745,
+      "problemCount": 2749,
       "displayNames": [
         {
           "language": "ko",
@@ -101,7 +101,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6670,
+      "problemCount": 6671,
       "displayNames": [
         {
           "language": "ko",
@@ -125,7 +125,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 1963,
+      "problemCount": 1962,
       "displayNames": [
         {
           "language": "ko",
@@ -146,5 +146,12 @@
       "aliases": []
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "wrong-inputs",
+        "data": "https://www.acmicpc.net/board/view/127509"
+      }
+    ]
+  }
 }

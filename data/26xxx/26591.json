@@ -15,7 +15,7 @@
   "level": 12,
   "votedUserCount": 3,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
   "averageTries": 2.1667,
   "official": true,
@@ -48,7 +48,7 @@
       "key": "dijkstra",
       "isMeta": false,
       "bojTagId": 22,
-      "problemCount": 621,
+      "problemCount": 622,
       "displayNames": [
         {
           "language": "ko",
@@ -82,7 +82,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3908,
+      "problemCount": 3911,
       "displayNames": [
         {
           "language": "ko",
@@ -113,7 +113,7 @@
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 823,
+      "problemCount": 824,
       "displayNames": [
         {
           "language": "ko",
@@ -134,5 +134,12 @@
       "aliases": []
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "wrong-inputs",
+        "data": "https://www.acmicpc.net/board/view/131166"
+      }
+    ]
+  }
 }

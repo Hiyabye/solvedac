@@ -15,7 +15,7 @@
   "level": 10,
   "votedUserCount": 8,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
   "averageTries": 2.1429,
   "official": true,
@@ -24,7 +24,7 @@
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 1026,
+      "problemCount": 1027,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 838,
+      "problemCount": 839,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3908,
+      "problemCount": 3911,
       "displayNames": [
         {
           "language": "ko",
@@ -145,5 +145,12 @@
       ]
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "insufficient-conditions",
+        "data": "https://www.acmicpc.net/board/view/149221"
+      }
+    ]
+  }
 }

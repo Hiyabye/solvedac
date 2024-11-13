@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 12,
+  "acceptedUserCount": 13,
   "level": 10,
   "votedUserCount": 5,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
-  "averageTries": 1.5,
+  "averageTries": 1.4615,
   "official": true,
   "tags": [
     {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2311,
+      "problemCount": 2314,
       "displayNames": [
         {
           "language": "ko",
@@ -64,5 +64,12 @@
       ]
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "wrong-conditions",
+        "data": "https://www.acmicpc.net/board/view/152485"
+      }
+    ]
+  }
 }
