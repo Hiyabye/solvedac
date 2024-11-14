@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 5,
   "level": 18,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "ad_hoc",
+      "isMeta": false,
+      "bojTagId": 109,
+      "problemCount": 1619,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
+        },
+        {
+          "language": "en",
+          "name": "ad-hoc",
+          "short": "ad-hoc"
+        },
+        {
+          "language": "ja",
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1323,
+      "problemCount": 1324,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +103,7 @@
       "key": "parametric_search",
       "isMeta": false,
       "bojTagId": 170,
-      "problemCount": 403,
+      "problemCount": 404,
       "displayNames": [
         {
           "language": "ko",
@@ -102,6 +126,30 @@
           "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
         }
       ]
+    },
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 1963,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
