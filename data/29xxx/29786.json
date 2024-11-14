@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 16,
   "level": 16,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1324,
+      "problemCount": 1326,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4084,
+      "problemCount": 4085,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4265,
+      "problemCount": 4267,
       "displayNames": [
         {
           "language": "ko",
@@ -120,7 +120,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2749,
+      "problemCount": 2750,
       "displayNames": [
         {
           "language": "ko",
@@ -141,74 +141,6 @@
       "aliases": [
         {
           "alias": "\ud0d0\uc695\ubc95"
-        }
-      ]
-    },
-    {
-      "key": "segtree",
-      "isMeta": false,
-      "bojTagId": 65,
-      "problemCount": 1388,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
-          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "segment tree",
-          "short": "segtree"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
-          "short": "\u30bb\u30b0\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uad6c\uac04\ud2b8\ub9ac"
-        },
-        {
-          "alias": "\uc138\uadf8\ud2b8\ub9ac"
-        },
-        {
-          "alias": "fenwick"
-        },
-        {
-          "alias": "\ud39c\uc705"
-        }
-      ]
-    },
-    {
-      "key": "sparse_table",
-      "isMeta": false,
-      "bojTagId": 84,
-      "problemCount": 154,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud76c\uc18c \ubc30\uc5f4",
-          "short": "\ud76c\uc18c \ubc30\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "sparse table",
-          "short": "sparse table"
-        },
-        {
-          "language": "ja",
-          "name": "sparse table",
-          "short": "sparse table"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc2a4\ud30c\uc2a4\uc5b4\ub808\uc774"
-        },
-        {
-          "alias": "sparse table"
         }
       ]
     }
