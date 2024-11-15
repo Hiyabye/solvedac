@@ -12,13 +12,183 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 0,
-  "level": 0,
-  "votedUserCount": 0,
+  "level": 26,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 0,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1327,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "convex_hull",
+      "isMeta": false,
+      "bojTagId": 20,
+      "problemCount": 198,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubcfc\ub85d \uaecd\uc9c8",
+          "short": "\ubcfc\ub85d \uaecd\uc9c8"
+        },
+        {
+          "language": "en",
+          "name": "convex hull",
+          "short": "convex hull"
+        },
+        {
+          "language": "ja",
+          "name": "\u51f8\u5305",
+          "short": "\u51f8\u5305"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0"
+        }
+      ]
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1605,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "min_enclosing_circle",
+      "isMeta": false,
+      "bojTagId": 162,
+      "problemCount": 11,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uc678\uc811\uc6d0",
+          "short": "\ucd5c\uc18c \uc678\uc811\uc6d0"
+        },
+        {
+          "language": "en",
+          "name": "minimum enclosing circle",
+          "short": "minimum enclosing circle"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5c0f\u5916\u63a5\u5186",
+          "short": "\u6700\u5c0f\u5916\u63a5\u5186"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bounding circle"
+        },
+        {
+          "alias": "smallest enclosing circle"
+        },
+        {
+          "alias": "minimum covering circle"
+        }
+      ]
+    },
+    {
+      "key": "parametric_search",
+      "isMeta": false,
+      "bojTagId": 170,
+      "problemCount": 404,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9",
+          "short": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "parametric search",
+          "short": "parametric search"
+        },
+        {
+          "language": "ja",
+          "name": "parametric search",
+          "short": "parametric search"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
+        }
+      ]
+    },
+    {
+      "key": "ternary_search",
+      "isMeta": false,
+      "bojTagId": 101,
+      "problemCount": 111,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc0bc\ubd84 \ud0d0\uc0c9",
+          "short": "\uc0bc\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "ternary search",
+          "short": "ternary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e09\u5206\u63a2\u7d22",
+          "short": "\u4e09\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": []
+    }
+  ],
   "metadata": {}
 }
