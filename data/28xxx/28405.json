@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 38,
   "level": 22,
-  "votedUserCount": 12,
+  "votedUserCount": 13,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4084,
+      "problemCount": 4088,
       "displayNames": [
         {
           "language": "ko",
@@ -76,34 +76,10 @@
       "aliases": []
     },
     {
-      "key": "deque_trick",
-      "isMeta": false,
-      "bojTagId": 216,
-      "problemCount": 42,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub371\uc744 \uc774\uc6a9\ud55c \uad6c\uac04 \ucd5c\ub313\uac12 \ud2b8\ub9ad",
-          "short": "\ub371 \ud2b8\ub9ad"
-        },
-        {
-          "language": "en",
-          "name": "deque range maximum trick",
-          "short": "deque rmq trick"
-        },
-        {
-          "language": "ja",
-          "name": "deque range maximum trick",
-          "short": "deque rmq trick"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4271,
+      "problemCount": 4272,
       "displayNames": [
         {
           "language": "ko",
@@ -134,41 +110,10 @@
       ]
     },
     {
-      "key": "dp_deque",
-      "isMeta": false,
-      "bojTagId": 108,
-      "problemCount": 31,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub371\uc744 \uc774\uc6a9\ud55c \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub371\uc744 \uc774\uc6a9\ud55c \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming using a deque",
-          "short": "deque dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc\u3092\u4f7f\u7528\u3057\u305f\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "deque dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub371dp"
-        }
-      ]
-    },
-    {
       "key": "lazyprop",
       "isMeta": false,
       "bojTagId": 66,
-      "problemCount": 321,
+      "problemCount": 322,
       "displayNames": [
         {
           "language": "ko",
@@ -211,7 +156,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1387,
+      "problemCount": 1388,
       "displayNames": [
         {
           "language": "ko",
