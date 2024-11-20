@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 12,
   "level": 23,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -52,10 +52,44 @@
       ]
     },
     {
+      "key": "case_work",
+      "isMeta": false,
+      "bojTagId": 137,
+      "problemCount": 929,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
+          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
+        },
+        {
+          "language": "en",
+          "name": "case work",
+          "short": "case work"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
+          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucf00\uc774\uc2a4"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
+        }
+      ]
+    },
+    {
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1612,
+      "problemCount": 1613,
       "displayNames": [
         {
           "language": "ko",
@@ -76,10 +110,58 @@
       "aliases": []
     },
     {
+      "key": "heuristics",
+      "isMeta": false,
+      "bojTagId": 142,
+      "problemCount": 110,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud734\ub9ac\uc2a4\ud2f1",
+          "short": "\ud734\ub9ac\uc2a4\ud2f1"
+        },
+        {
+          "language": "en",
+          "name": "heuristics",
+          "short": "heuristics"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
+          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 5802,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6696,
+      "problemCount": 6695,
       "displayNames": [
         {
           "language": "ko",
