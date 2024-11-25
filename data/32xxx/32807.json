@@ -11,14 +11,95 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 2,
-  "level": 0,
-  "votedUserCount": 0,
+  "acceptedUserCount": 4,
+  "level": 18,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1,
+  "averageTries": 1.5,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "flow",
+      "isMeta": false,
+      "bojTagId": 45,
+      "problemCount": 349,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub300 \uc720\ub7c9",
+          "short": "\ucd5c\ub300 \uc720\ub7c9"
+        },
+        {
+          "language": "en",
+          "name": "maximum flow",
+          "short": "flow"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5927\u30d5\u30ed\u30fc",
+          "short": "flow"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dinic"
+        },
+        {
+          "alias": "dinitz"
+        },
+        {
+          "alias": "ford"
+        },
+        {
+          "alias": "fulkerson"
+        },
+        {
+          "alias": "fordfulkerson"
+        },
+        {
+          "alias": "\ub514\ub2c9"
+        },
+        {
+          "alias": "\ub514\ub2c8\uce20"
+        },
+        {
+          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
+        },
+        {
+          "alias": "\ud50c\ub85c\uc6b0"
+        }
+      ]
+    },
+    {
+      "key": "parametric_search",
+      "isMeta": false,
+      "bojTagId": 170,
+      "problemCount": 405,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9",
+          "short": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "parametric search",
+          "short": "parametric search"
+        },
+        {
+          "language": "ja",
+          "name": "parametric search",
+          "short": "parametric search"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
+        }
+      ]
+    }
+  ],
   "metadata": {}
 }
