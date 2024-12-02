@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 9,
-  "level": 13,
-  "votedUserCount": 2,
+  "acceptedUserCount": 10,
+  "level": 12,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2,
+  "averageTries": 1.9,
   "official": true,
   "tags": [
     {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2333,
+      "problemCount": 2334,
       "displayNames": [
         {
           "language": "ko",
@@ -67,7 +67,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1631,
+      "problemCount": 1633,
       "displayNames": [
         {
           "language": "ko",
@@ -88,10 +88,62 @@
       "aliases": []
     },
     {
+      "key": "polygon_area",
+      "isMeta": false,
+      "bojTagId": 3,
+      "problemCount": 82,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uac01\ud615\uc758 \ub113\uc774",
+          "short": "\ub2e4\uac01\ud615\uc758 \ub113\uc774"
+        },
+        {
+          "language": "en",
+          "name": "area of a polygon",
+          "short": "area of a polygon"
+        },
+        {
+          "language": "ja",
+          "name": "\u591a\u89d2\u5f62\u306e\u9762\u7a4d",
+          "short": "\u591a\u89d2\u5f62\u306e\u9762\u7a4d"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub113\uc774"
+        }
+      ]
+    },
+    {
+      "key": "pythagoras",
+      "isMeta": false,
+      "bojTagId": 60,
+      "problemCount": 92,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud53c\ud0c0\uace0\ub77c\uc2a4 \uc815\ub9ac",
+          "short": "\ud53c\ud0c0\uace0\ub77c\uc2a4 \uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "pythagoras theorem",
+          "short": "pythagoras thm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d4\u30bf\u30b4\u30e9\u30b9\u306e\u5b9a\u7406",
+          "short": "\u30d4\u30bf\u30b4\u30e9\u30b9"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 1987,
+      "problemCount": 1995,
       "displayNames": [
         {
           "language": "ko",
