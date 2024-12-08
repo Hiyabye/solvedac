@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 10,
+  "acceptedUserCount": 11,
   "level": 24,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.3,
+  "averageTries": 6.9091,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4129,
+      "problemCount": 4131,
       "displayNames": [
         {
           "language": "ko",
@@ -104,10 +104,50 @@
       "aliases": []
     },
     {
+      "key": "smaller_to_larger",
+      "isMeta": false,
+      "bojTagId": 169,
+      "problemCount": 135,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9",
+          "short": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9"
+        },
+        {
+          "language": "en",
+          "name": "smaller to larger technique",
+          "short": "smaller to larger"
+        },
+        {
+          "language": "ja",
+          "name": "smaller to larger technique",
+          "short": "smaller to larger"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "merge heuristics"
+        },
+        {
+          "alias": "sack"
+        },
+        {
+          "alias": "small to large"
+        },
+        {
+          "alias": "\uc791\uc740\uac70"
+        },
+        {
+          "alias": "\ud070\uac70"
+        }
+      ]
+    },
+    {
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2549,
+      "problemCount": 2550,
       "displayNames": [
         {
           "language": "ko",
@@ -154,6 +194,58 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "suffix_tree",
+      "isMeta": false,
+      "bojTagId": 182,
+      "problemCount": 7,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc811\ubbf8\uc0ac \ud2b8\ub9ac",
+          "short": "\uc811\ubbf8\uc0ac \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "suffix tree",
+          "short": "suffix tree"
+        },
+        {
+          "language": "ja",
+          "name": "suffix tree",
+          "short": "suffix tree"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1526,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
     },
     {
       "key": "tree_set",
@@ -209,6 +301,30 @@
           "alias": "tree"
         }
       ]
+    },
+    {
+      "key": "trie",
+      "isMeta": false,
+      "bojTagId": 79,
+      "problemCount": 141,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub77c\uc774",
+          "short": "\ud2b8\ub77c\uc774"
+        },
+        {
+          "language": "en",
+          "name": "trie",
+          "short": "trie"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c8\u30e9\u30a4\u6728",
+          "short": "\u30c8\u30e9\u30a4"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
