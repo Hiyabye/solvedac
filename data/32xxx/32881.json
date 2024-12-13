@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 6,
-  "level": 11,
-  "votedUserCount": 1,
+  "acceptedUserCount": 7,
+  "level": 12,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.8333,
+  "averageTries": 1.7143,
   "official": true,
   "tags": [
     {
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1668,
+      "problemCount": 1669,
       "displayNames": [
         {
           "language": "ko",
@@ -43,6 +43,43 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "two_pointer",
+      "isMeta": false,
+      "bojTagId": 80,
+      "problemCount": 423,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub450 \ud3ec\uc778\ud130",
+          "short": "\ub450 \ud3ec\uc778\ud130"
+        },
+        {
+          "language": "en",
+          "name": "two-pointer",
+          "short": "two-pointer"
+        },
+        {
+          "language": "ja",
+          "name": "\u5c3a\u53d6\u308a\u6cd5",
+          "short": "\u5c3a\u53d6\u308a"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud22c\ud3ec\uc778\ud130"
+        },
+        {
+          "alias": "\uc778\uce58\uc6dc"
+        },
+        {
+          "alias": "inchworm"
+        },
+        {
+          "alias": "twopointer"
+        }
+      ]
     }
   ],
   "metadata": {}
