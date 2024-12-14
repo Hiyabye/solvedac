@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 2,
-  "level": 24,
-  "votedUserCount": 1,
+  "acceptedUserCount": 3,
+  "level": 23,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4.5,
+  "averageTries": 4.3333,
   "official": true,
   "tags": [
     {
@@ -55,7 +55,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1344,
+      "problemCount": 1346,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4136,
+      "problemCount": 4137,
       "displayNames": [
         {
           "language": "ko",
@@ -192,6 +192,54 @@
           "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
+    },
+    {
+      "key": "suffix_array",
+      "isMeta": false,
+      "bojTagId": 77,
+      "problemCount": 113,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc811\ubbf8\uc0ac \ubc30\uc5f4\uacfc LCP \ubc30\uc5f4",
+          "short": "\uc811\ubbf8\uc0ac \ubc30\uc5f4\uacfc LCP \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "suffix array and lcp array",
+          "short": "suffix array and lcp array"
+        },
+        {
+          "language": "ja",
+          "name": "\u63a5\u5c3e\u8f9e\u914d\u5217\u30fbLCP\u914d\u5217",
+          "short": "\u63a5\u5c3e\u8f9e\u914d\u5217\u30fbLCP\u914d\u5217"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "suffix_tree",
+      "isMeta": false,
+      "bojTagId": 182,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc811\ubbf8\uc0ac \ud2b8\ub9ac",
+          "short": "\uc811\ubbf8\uc0ac \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "suffix tree",
+          "short": "suffix tree"
+        },
+        {
+          "language": "ja",
+          "name": "suffix tree",
+          "short": "suffix tree"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "trees",
