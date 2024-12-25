@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 15,
-  "level": 19,
-  "votedUserCount": 5,
+  "acceptedUserCount": 17,
+  "level": 18,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4.5333,
+  "averageTries": 4.4706,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4151,
+      "problemCount": 4153,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2805,
+      "problemCount": 2808,
       "displayNames": [
         {
           "language": "ko",
@@ -76,6 +76,37 @@
       "aliases": [
         {
           "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
+    {
+      "key": "priority_queue",
+      "isMeta": false,
+      "bojTagId": 59,
+      "problemCount": 460,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc6b0\uc120\uc21c\uc704 \ud050",
+          "short": "\uc6b0\uc120\uc21c\uc704 \ud050"
+        },
+        {
+          "language": "en",
+          "name": "priority queue",
+          "short": "priority queue"
+        },
+        {
+          "language": "ja",
+          "name": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc",
+          "short": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "heap"
+        },
+        {
+          "alias": "\ud799"
         }
       ]
     },

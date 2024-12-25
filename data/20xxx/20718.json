@@ -11,14 +11,131 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 1,
-  "level": 0,
-  "votedUserCount": 0,
+  "acceptedUserCount": 2,
+  "level": 16,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1,
+  "averageTries": 2.5,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 4330,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "linearity_of_expectation",
+      "isMeta": false,
+      "bojTagId": 179,
+      "problemCount": 77,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131",
+          "short": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131"
+        },
+        {
+          "language": "en",
+          "name": "linearity of expectation",
+          "short": "linearity of expectation"
+        },
+        {
+          "language": "ja",
+          "name": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027",
+          "short": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 6793,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "probability",
+      "isMeta": false,
+      "bojTagId": 177,
+      "problemCount": 361,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\ub960\ub860",
+          "short": "\ud655\ub960\ub860"
+        },
+        {
+          "language": "en",
+          "name": "probability theory",
+          "short": "probability"
+        },
+        {
+          "language": "ja",
+          "name": "\u78ba\u7387\u8ad6",
+          "short": "\u78ba\u7387\u8ad6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "expected value"
+        },
+        {
+          "alias": "\uae30\ub300\uac12"
+        },
+        {
+          "alias": "\uae30\ub313\uac12"
+        }
+      ]
+    }
+  ],
   "metadata": {}
 }

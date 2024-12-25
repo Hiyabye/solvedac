@@ -11,20 +11,51 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 8,
+  "acceptedUserCount": 9,
   "level": 19,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4.375,
+  "averageTries": 4.6667,
   "official": true,
   "tags": [
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1354,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 3974,
+      "problemCount": 3977,
       "displayNames": [
         {
           "language": "ko",
@@ -50,6 +81,30 @@
           "alias": "\uadf8\ub798\ud504"
         }
       ]
+    },
+    {
+      "key": "mitm",
+      "isMeta": false,
+      "bojTagId": 46,
+      "problemCount": 101,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30",
+          "short": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30"
+        },
+        {
+          "language": "en",
+          "name": "meet in the middle",
+          "short": "meet in the middle"
+        },
+        {
+          "language": "ja",
+          "name": "\u534a\u5206\u5168\u5217\u6319",
+          "short": "\u534a\u5206\u5168\u5217\u6319"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
