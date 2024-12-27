@@ -11,14 +11,114 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 0,
-  "level": 0,
-  "votedUserCount": 0,
+  "acceptedUserCount": 1,
+  "level": 22,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 0,
+  "averageTries": 1,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "divide_and_conquer",
+      "isMeta": false,
+      "bojTagId": 24,
+      "problemCount": 437,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
+        },
+        {
+          "language": "en",
+          "name": "divide and conquer",
+          "short": "d&c"
+        },
+        {
+          "language": "ja",
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dnc"
+        }
+      ]
+    },
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 4338,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "two_pointer",
+      "isMeta": false,
+      "bojTagId": 80,
+      "problemCount": 425,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub450 \ud3ec\uc778\ud130",
+          "short": "\ub450 \ud3ec\uc778\ud130"
+        },
+        {
+          "language": "en",
+          "name": "two-pointer",
+          "short": "two-pointer"
+        },
+        {
+          "language": "ja",
+          "name": "\u5c3a\u53d6\u308a\u6cd5",
+          "short": "\u5c3a\u53d6\u308a"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud22c\ud3ec\uc778\ud130"
+        },
+        {
+          "alias": "\uc778\uce58\uc6dc"
+        },
+        {
+          "alias": "inchworm"
+        },
+        {
+          "alias": "twopointer"
+        }
+      ]
+    }
+  ],
   "metadata": {}
 }
