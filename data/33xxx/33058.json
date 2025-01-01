@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 13,
+  "acceptedUserCount": 17,
   "level": 22,
-  "votedUserCount": 5,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.3077,
+  "averageTries": 1.2353,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4170,
+      "problemCount": 4172,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2823,
+      "problemCount": 2826,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +83,7 @@
       "key": "priority_queue",
       "isMeta": false,
       "bojTagId": 59,
-      "problemCount": 463,
+      "problemCount": 465,
       "displayNames": [
         {
           "language": "ko",
@@ -111,10 +111,41 @@
       ]
     },
     {
+      "key": "slope_trick",
+      "isMeta": false,
+      "bojTagId": 157,
+      "problemCount": 33,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud568\uc218 \uac1c\ud615\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
+          "short": "\ud568\uc218 \uac1c\ud615\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
+        },
+        {
+          "language": "en",
+          "name": "slope trick",
+          "short": "slope trick"
+        },
+        {
+          "language": "ja",
+          "name": "slope trick",
+          "short": "slope trick"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2ac\ub85c\ud504\ud2b8\ub9ad"
+        },
+        {
+          "alias": "\uc2ac\ub85c\ud504 \ud2b8\ub9ad"
+        }
+      ]
+    },
+    {
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2014,
+      "problemCount": 2015,
       "displayNames": [
         {
           "language": "ko",
