@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 13,
   "level": 19,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "combinatorics",
       "isMeta": false,
       "bojTagId": 6,
-      "problemCount": 1008,
+      "problemCount": 1009,
       "displayNames": [
         {
           "language": "ko",
@@ -64,7 +64,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4349,
+      "problemCount": 4350,
       "displayNames": [
         {
           "language": "ko",
@@ -98,7 +98,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6817,
+      "problemCount": 6824,
       "displayNames": [
         {
           "language": "ko",
@@ -117,6 +117,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1540,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
     }
   ],
   "metadata": {}
