@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 13,
+  "acceptedUserCount": 14,
   "level": 12,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.1538,
+  "averageTries": 2.2143,
   "official": true,
   "tags": [
     {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2357,
+      "problemCount": 2360,
       "displayNames": [
         {
           "language": "ko",
@@ -67,7 +67,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4349,
+      "problemCount": 4355,
       "displayNames": [
         {
           "language": "ko",
@@ -96,30 +96,6 @@
           "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
         }
       ]
-    },
-    {
-      "key": "lis",
-      "isMeta": false,
-      "bojTagId": 43,
-      "problemCount": 92,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4: O(n log n)",
-          "short": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4: O(n log n)"
-        },
-        {
-          "language": "en",
-          "name": "longest increasing sequence in o(n log n)",
-          "short": "lis in o(n log n)"
-        },
-        {
-          "language": "ja",
-          "name": "longest increasing sequence in o(n log n)",
-          "short": "lis in o(n log n)"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
