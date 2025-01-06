@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 11,
   "level": 8,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5921,
+      "problemCount": 5924,
       "displayNames": [
         {
           "language": "ko",
@@ -40,6 +40,30 @@
           "language": "ja",
           "name": "\u5b9f\u88c5",
           "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 6839,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
       "aliases": []
@@ -67,6 +91,49 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "statistics",
+      "isMeta": false,
+      "bojTagId": 178,
+      "problemCount": 20,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud1b5\uacc4\ud559",
+          "short": "\ud1b5\uacc4\ud559"
+        },
+        {
+          "language": "en",
+          "name": "statistics",
+          "short": "stats"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d71\u8a08\u5b66",
+          "short": "\u7d71\u8a08"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "average"
+        },
+        {
+          "alias": "\ud3c9\uade0"
+        },
+        {
+          "alias": "variance"
+        },
+        {
+          "alias": "\ubd84\uc0b0"
+        },
+        {
+          "alias": "\ud45c\uc900\ud3b8\ucc28"
+        },
+        {
+          "alias": "\ud45c\uc900 \ud3b8\ucc28"
+        }
+      ]
     }
   ],
   "metadata": {}
