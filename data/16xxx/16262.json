@@ -11,14 +11,73 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 1,
-  "level": 0,
-  "votedUserCount": 0,
+  "acceptedUserCount": 2,
+  "level": 14,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1,
+  "averageTries": 1.5,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "constructive",
+      "isMeta": false,
+      "bojTagId": 128,
+      "problemCount": 1145,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574 \uad6c\uc131\ud558\uae30",
+          "short": "\ud574 \uad6c\uc131\ud558\uae30"
+        },
+        {
+          "language": "en",
+          "name": "constructive",
+          "short": "constructive"
+        },
+        {
+          "language": "ja",
+          "name": "\u69cb\u6210\u7684",
+          "short": "\u69cb\u6210\u7684"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "constructive"
+        },
+        {
+          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
+        },
+        {
+          "alias": "\uad6c\uc131\uc801"
+        }
+      ]
+    },
+    {
+      "key": "permutation_cycle_decomposition",
+      "isMeta": false,
+      "bojTagId": 171,
+      "problemCount": 96,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560",
+          "short": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560"
+        },
+        {
+          "language": "en",
+          "name": "permutation cycle decomposition",
+          "short": "permutation cycle decomposition"
+        },
+        {
+          "language": "ja",
+          "name": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3",
+          "short": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3"
+        }
+      ],
+      "aliases": []
+    }
+  ],
   "metadata": {}
 }
