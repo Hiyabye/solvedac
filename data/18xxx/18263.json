@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 165,
   "level": 20,
-  "votedUserCount": 45,
+  "votedUserCount": 46,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4193,
+      "problemCount": 4196,
       "displayNames": [
         {
           "language": "ko",
@@ -71,6 +71,30 @@
           "language": "ja",
           "name": "heavy-light decomposition",
           "short": "hld"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "lca",
+      "isMeta": false,
+      "bojTagId": 41,
+      "problemCount": 177,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
+          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
+        },
+        {
+          "language": "en",
+          "name": "lowest common ancestor",
+          "short": "lca"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
+          "short": "lca"
         }
       ],
       "aliases": []
@@ -138,7 +162,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1417,
+      "problemCount": 1418,
       "displayNames": [
         {
           "language": "ko",
@@ -175,7 +199,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2020,
+      "problemCount": 2021,
       "displayNames": [
         {
           "language": "ko",
@@ -199,7 +223,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1550,
+      "problemCount": 1551,
       "displayNames": [
         {
           "language": "ko",
