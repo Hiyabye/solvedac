@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 16,
   "level": 24,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -76,10 +76,38 @@
       "aliases": []
     },
     {
+      "key": "centroid_decomposition",
+      "isMeta": false,
+      "bojTagId": 18,
+      "problemCount": 84,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc13c\ud2b8\ub85c\uc774\ub4dc \ubd84\ud560",
+          "short": "\uc13c\ud2b8\ub85c\uc774\ub4dc \ubd84\ud560"
+        },
+        {
+          "language": "en",
+          "name": "centroid decomposition",
+          "short": "centroid decomposition"
+        },
+        {
+          "language": "ja",
+          "name": "centroid decomposition",
+          "short": "centroid decomposition"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc13c\ud2b8\ub85c\uc774\ub4dc"
+        }
+      ]
+    },
+    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4200,
+      "problemCount": 4203,
       "displayNames": [
         {
           "language": "ko",
@@ -138,10 +166,38 @@
       ]
     },
     {
+      "key": "divide_and_conquer",
+      "isMeta": false,
+      "bojTagId": 24,
+      "problemCount": 439,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
+        },
+        {
+          "language": "en",
+          "name": "divide and conquer",
+          "short": "d&c"
+        },
+        {
+          "language": "ja",
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dnc"
+        }
+      ]
+    },
+    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4007,
+      "problemCount": 4009,
       "displayNames": [
         {
           "language": "ko",
@@ -172,7 +228,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2153,
+      "problemCount": 2154,
       "displayNames": [
         {
           "language": "ko",
@@ -203,7 +259,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5924,
+      "problemCount": 5925,
       "displayNames": [
         {
           "language": "ko",
@@ -222,6 +278,37 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "sparse_table",
+      "isMeta": false,
+      "bojTagId": 84,
+      "problemCount": 159,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud76c\uc18c \ubc30\uc5f4",
+          "short": "\ud76c\uc18c \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "sparse table",
+          "short": "sparse table"
+        },
+        {
+          "language": "ja",
+          "name": "sparse table",
+          "short": "sparse table"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud30c\uc2a4\uc5b4\ub808\uc774"
+        },
+        {
+          "alias": "sparse table"
+        }
+      ]
     },
     {
       "key": "stack",
@@ -251,7 +338,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1553,
+      "problemCount": 1554,
       "displayNames": [
         {
           "language": "ko",
