@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 31,
+  "acceptedUserCount": 33,
   "level": 15,
-  "votedUserCount": 16,
+  "votedUserCount": 18,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.6774,
+  "averageTries": 1.6364,
   "official": true,
   "tags": [
     {
@@ -55,7 +55,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4366,
+      "problemCount": 4368,
       "displayNames": [
         {
           "language": "ko",
@@ -147,6 +147,61 @@
         },
         {
           "alias": "\ud39c\uc705"
+        }
+      ]
+    },
+    {
+      "key": "tree_set",
+      "isMeta": false,
+      "bojTagId": 74,
+      "problemCount": 520,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
+          "short": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map by trees",
+          "short": "treeset"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
+          "short": "treeset"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc9d1\ud569"
+        },
+        {
+          "alias": "\ub9f5"
+        },
+        {
+          "alias": "\uc14b"
+        },
+        {
+          "alias": "\ub515\uc154\ub108\ub9ac"
+        },
+        {
+          "alias": "dictionary"
+        },
+        {
+          "alias": "map"
+        },
+        {
+          "alias": "set"
+        },
+        {
+          "alias": "bbst"
+        },
+        {
+          "alias": "\ud2b8\ub9ac"
+        },
+        {
+          "alias": "tree"
         }
       ]
     }
