@@ -11,15 +11,46 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 20,
+  "acceptedUserCount": 22,
   "level": 20,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 6.15,
+  "averageTries": 5.9545,
   "official": true,
   "tags": [
+    {
+      "key": "bfs",
+      "isMeta": false,
+      "bojTagId": 126,
+      "problemCount": 1058,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "breadth-first search",
+          "short": "bfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e45\u512a\u5148\u691c\u7d22",
+          "short": "bfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "breadthfirst"
+        },
+        {
+          "alias": "breadth first"
+        }
+      ]
+    },
     {
       "key": "case_work",
       "isMeta": false,
@@ -89,7 +120,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4015,
+      "problemCount": 4017,
       "displayNames": [
         {
           "language": "ko",
@@ -120,7 +151,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2156,
+      "problemCount": 2158,
       "displayNames": [
         {
           "language": "ko",
@@ -151,7 +182,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5938,
+      "problemCount": 5941,
       "displayNames": [
         {
           "language": "ko",
@@ -175,7 +206,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6872,
+      "problemCount": 6873,
       "displayNames": [
         {
           "language": "ko",
