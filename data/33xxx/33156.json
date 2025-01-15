@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 40,
+  "acceptedUserCount": 45,
   "level": 13,
-  "votedUserCount": 12,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.15,
+  "averageTries": 2.0444,
   "official": true,
   "tags": [
     {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2370,
+      "problemCount": 2369,
       "displayNames": [
         {
           "language": "ko",
@@ -95,7 +95,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4207,
+      "problemCount": 4206,
       "displayNames": [
         {
           "language": "ko",
@@ -174,6 +174,34 @@
         },
         {
           "alias": "dict"
+        }
+      ]
+    },
+    {
+      "key": "sliding_window",
+      "isMeta": false,
+      "bojTagId": 68,
+      "problemCount": 115,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2ac\ub77c\uc774\ub529 \uc708\ub3c4\uc6b0",
+          "short": "\uc2ac\ub77c\uc774\ub529 \uc708\ub3c4\uc6b0"
+        },
+        {
+          "language": "en",
+          "name": "sliding window",
+          "short": "sliding window"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b9\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0\u30a6\u30a3\u30f3\u30c9\u30a6",
+          "short": "\u30b9\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0\u30a6\u30a3\u30f3\u30c9\u30a6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2ac\ub77c\uc774\ub529\uc708\ub3c4"
         }
       ]
     }
