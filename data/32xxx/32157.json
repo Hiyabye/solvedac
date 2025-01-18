@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 8,
   "level": 20,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4213,
+      "problemCount": 4214,
       "displayNames": [
         {
           "language": "ko",
@@ -48,58 +48,6 @@
         },
         {
           "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
-      "key": "flow",
-      "isMeta": false,
-      "bojTagId": 45,
-      "problemCount": 351,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub300 \uc720\ub7c9",
-          "short": "\ucd5c\ub300 \uc720\ub7c9"
-        },
-        {
-          "language": "en",
-          "name": "maximum flow",
-          "short": "flow"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u5927\u30d5\u30ed\u30fc",
-          "short": "flow"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dinic"
-        },
-        {
-          "alias": "dinitz"
-        },
-        {
-          "alias": "ford"
-        },
-        {
-          "alias": "fulkerson"
-        },
-        {
-          "alias": "fordfulkerson"
-        },
-        {
-          "alias": "\ub514\ub2c9"
-        },
-        {
-          "alias": "\ub514\ub2c8\uce20"
-        },
-        {
-          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
-        },
-        {
-          "alias": "\ud50c\ub85c\uc6b0"
         }
       ]
     },
@@ -132,55 +80,6 @@
       ]
     },
     {
-      "key": "mcmf",
-      "isMeta": false,
-      "bojTagId": 48,
-      "problemCount": 122,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\uc18c \ube44\uc6a9 \ucd5c\ub300 \uc720\ub7c9",
-          "short": "\ucd5c\uc18c \ube44\uc6a9 \ucd5c\ub300 \uc720\ub7c9"
-        },
-        {
-          "language": "en",
-          "name": "minimum cost maximum flow",
-          "short": "mcmf"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u5c0f\u8cbb\u7528\u6700\u5927\u6d41\u554f\u984c",
-          "short": "mcmf"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dinic"
-        },
-        {
-          "alias": "dinitz"
-        },
-        {
-          "alias": "ford"
-        },
-        {
-          "alias": "fulkerson"
-        },
-        {
-          "alias": "fordfulkerson"
-        },
-        {
-          "alias": "\ub514\ub2c9"
-        },
-        {
-          "alias": "\ub514\ub2c8\uce20"
-        },
-        {
-          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
-        }
-      ]
-    },
-    {
       "key": "priority_queue",
       "isMeta": false,
       "bojTagId": 59,
@@ -208,61 +107,6 @@
         },
         {
           "alias": "\ud799"
-        }
-      ]
-    },
-    {
-      "key": "tree_set",
-      "isMeta": false,
-      "bojTagId": 74,
-      "problemCount": 525,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
-          "short": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map by trees",
-          "short": "treeset"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
-          "short": "treeset"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc9d1\ud569"
-        },
-        {
-          "alias": "\ub9f5"
-        },
-        {
-          "alias": "\uc14b"
-        },
-        {
-          "alias": "\ub515\uc154\ub108\ub9ac"
-        },
-        {
-          "alias": "dictionary"
-        },
-        {
-          "alias": "map"
-        },
-        {
-          "alias": "set"
-        },
-        {
-          "alias": "bbst"
-        },
-        {
-          "alias": "\ud2b8\ub9ac"
-        },
-        {
-          "alias": "tree"
         }
       ]
     }
