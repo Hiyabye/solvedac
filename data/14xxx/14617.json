@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 12,
   "level": 15,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2371,
+      "problemCount": 2372,
       "displayNames": [
         {
           "language": "ko",
@@ -91,7 +91,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6886,
+      "problemCount": 6891,
       "displayNames": [
         {
           "language": "ko",
@@ -134,6 +134,43 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "primality_test",
+      "isMeta": false,
+      "bojTagId": 9,
+      "problemCount": 347,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc18c\uc218 \ud310\uc815",
+          "short": "\uc18c\uc218 \ud310\uc815"
+        },
+        {
+          "language": "en",
+          "name": "primality test",
+          "short": "primality test"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8",
+          "short": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc18c\uc218"
+        },
+        {
+          "alias": "\uc18c\uc218\ud310\ubcc4"
+        },
+        {
+          "alias": "\uc18c\uc218\ud310\uc815"
+        },
+        {
+          "alias": "prime"
+        }
+      ]
     }
   ],
   "metadata": {}
