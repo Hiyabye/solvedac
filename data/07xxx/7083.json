@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 3,
+  "acceptedUserCount": 4,
   "level": 17,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 7.3333,
+  "averageTries": 7,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4217,
+      "problemCount": 4218,
       "displayNames": [
         {
           "language": "ko",
@@ -119,7 +119,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 5958,
+      "problemCount": 5960,
       "displayNames": [
         {
           "language": "ko",
@@ -138,6 +138,49 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "lazyprop",
+      "isMeta": false,
+      "bojTagId": 66,
+      "problemCount": 331,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub290\ub9ac\uac8c \uac31\uc2e0\ub418\ub294 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\ub290\ub9ac\uac8c \uac31\uc2e0\ub418\ub294 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "segment tree with lazy propagation",
+          "short": "lazyprop"
+        },
+        {
+          "language": "ja",
+          "name": "\u9045\u5ef6\u8a55\u4fa1\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
+          "short": "\u9045\u5ef6\u8a55\u4fa1\u30bb\u30b0\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub808\uc774\uc9c0"
+        },
+        {
+          "alias": "\ub808\uc774\uc9c0\ud504\ub85c\ud37c\uac8c\uc774\uc158"
+        },
+        {
+          "alias": "\ub808\uc774\uc9c0\ud504\ub85c\ud30c\uac8c\uc774\uc158"
+        },
+        {
+          "alias": "\uad6c\uac04\ud2b8\ub9ac"
+        },
+        {
+          "alias": "fenwick"
+        },
+        {
+          "alias": "\ud39c\uc705"
+        }
+      ]
     },
     {
       "key": "segtree",
