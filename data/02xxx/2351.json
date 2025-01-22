@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 16,
   "level": 20,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4028,
+      "problemCount": 4032,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2163,
+      "problemCount": 2165,
       "displayNames": [
         {
           "language": "ko",
@@ -83,10 +83,38 @@
       ]
     },
     {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 2860,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
+    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6897,
+      "problemCount": 6903,
       "displayNames": [
         {
           "language": "ko",
@@ -102,6 +130,30 @@
           "language": "ja",
           "name": "\u6570\u5b66",
           "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "planar_graph",
+      "isMeta": false,
+      "bojTagId": 168,
+      "problemCount": 49,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud3c9\uba74 \uadf8\ub798\ud504",
+          "short": "\ud3c9\uba74 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "planar graph",
+          "short": "planar graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e73\u9762\u30b0\u30e9\u30d5",
+          "short": "\u5e73\u9762\u30b0\u30e9\u30d5"
         }
       ],
       "aliases": []
