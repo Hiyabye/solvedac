@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 6,
+  "acceptedUserCount": 7,
   "level": 21,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2,
+  "averageTries": 1.8571,
   "official": true,
   "tags": [
     {
@@ -69,6 +69,40 @@
         },
         {
           "alias": "\ud50c\ub85c\uc6b0"
+        }
+      ]
+    },
+    {
+      "key": "hungarian",
+      "isMeta": false,
+      "bojTagId": 36,
+      "problemCount": 21,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud5dd\uac00\ub9ac\uc548",
+          "short": "\ud5dd\uac00\ub9ac\uc548"
+        },
+        {
+          "language": "en",
+          "name": "hungarian",
+          "short": "hungarian"
+        },
+        {
+          "language": "ja",
+          "name": "hungarian",
+          "short": "hungarian"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud5dd\uac00\ub9ac\uc548"
+        },
+        {
+          "alias": "assignment problem"
+        },
+        {
+          "alias": "weighted bipartite matching"
         }
       ]
     },
