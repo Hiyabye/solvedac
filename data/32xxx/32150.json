@@ -1,17 +1,62 @@
 {
   "problemId": 32150,
   "titleKo": "\ub9c8\uc74c\ub300\ub85c \uc6c0\uc9c1\uc774\uae30",
-  "titles": [],
+  "titles": [
+    {
+      "language": "ko",
+      "languageDisplayName": "ko",
+      "title": "\ub9c8\uc74c\ub300\ub85c \uc6c0\uc9c1\uc774\uae30",
+      "isOriginal": true
+    },
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Moving Freely",
+      "isOriginal": false
+    }
+  ],
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 0,
-  "level": 0,
-  "votedUserCount": 0,
+  "level": 10,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 0,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1373,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    }
+  ],
   "metadata": {}
 }
