@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 14,
+  "acceptedUserCount": 15,
   "level": 20,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.3571,
+  "averageTries": 2.4667,
   "official": true,
   "tags": [
     {
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 1067,
+      "problemCount": 1068,
       "displayNames": [
         {
           "language": "ko",
@@ -52,10 +52,34 @@
       ]
     },
     {
+      "key": "dag",
+      "isMeta": false,
+      "bojTagId": 213,
+      "problemCount": 229,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
+          "short": "dag"
+        },
+        {
+          "language": "en",
+          "name": "directed acyclic graph",
+          "short": "dag"
+        },
+        {
+          "language": "ja",
+          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
+          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4235,
+      "problemCount": 4239,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +110,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 856,
+      "problemCount": 855,
       "displayNames": [
         {
           "language": "ko",
@@ -117,7 +141,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4050,
+      "problemCount": 4052,
       "displayNames": [
         {
           "language": "ko",
@@ -148,7 +172,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2177,
+      "problemCount": 2176,
       "displayNames": [
         {
           "language": "ko",
@@ -179,7 +203,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2869,
+      "problemCount": 2870,
       "displayNames": [
         {
           "language": "ko",
@@ -207,7 +231,7 @@
       "key": "lazyprop",
       "isMeta": false,
       "bojTagId": 66,
-      "problemCount": 332,
+      "problemCount": 334,
       "displayNames": [
         {
           "language": "ko",
@@ -247,10 +271,44 @@
       ]
     },
     {
+      "key": "prefix_sum",
+      "isMeta": false,
+      "bojTagId": 139,
+      "problemCount": 1113,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub204\uc801 \ud569",
+          "short": "\ub204\uc801 \ud569"
+        },
+        {
+          "language": "en",
+          "name": "prefix sum",
+          "short": "prefix sum"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d2f\u7a4d\u548c",
+          "short": "\u7d2f\u7a4d\u548c"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud569"
+        },
+        {
+          "alias": "\ubd80\ubd84\ud569"
+        },
+        {
+          "alias": "rangesum"
+        }
+      ]
+    },
+    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1426,
+      "problemCount": 1430,
       "displayNames": [
         {
           "language": "ko",
@@ -287,7 +345,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1577,
+      "problemCount": 1578,
       "displayNames": [
         {
           "language": "ko",
