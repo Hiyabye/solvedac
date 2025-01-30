@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 5,
+  "acceptedUserCount": 8,
   "level": 24,
-  "votedUserCount": 3,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1,
+  "averageTries": 2.75,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4243,
+      "problemCount": 4247,
       "displayNames": [
         {
           "language": "ko",
@@ -95,7 +95,7 @@
       "key": "lazyprop",
       "isMeta": false,
       "bojTagId": 66,
-      "problemCount": 335,
+      "problemCount": 336,
       "displayNames": [
         {
           "language": "ko",
@@ -135,41 +135,10 @@
       ]
     },
     {
-      "key": "priority_queue",
-      "isMeta": false,
-      "bojTagId": 59,
-      "problemCount": 473,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc6b0\uc120\uc21c\uc704 \ud050",
-          "short": "\uc6b0\uc120\uc21c\uc704 \ud050"
-        },
-        {
-          "language": "en",
-          "name": "priority queue",
-          "short": "priority queue"
-        },
-        {
-          "language": "ja",
-          "name": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc",
-          "short": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "heap"
-        },
-        {
-          "alias": "\ud799"
-        }
-      ]
-    },
-    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1432,
+      "problemCount": 1433,
       "displayNames": [
         {
           "language": "ko",
@@ -203,50 +172,10 @@
       ]
     },
     {
-      "key": "smaller_to_larger",
-      "isMeta": false,
-      "bojTagId": 169,
-      "problemCount": 140,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9",
-          "short": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9"
-        },
-        {
-          "language": "en",
-          "name": "smaller to larger technique",
-          "short": "smaller to larger"
-        },
-        {
-          "language": "ja",
-          "name": "smaller to larger technique",
-          "short": "smaller to larger"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "merge heuristics"
-        },
-        {
-          "alias": "sack"
-        },
-        {
-          "alias": "small to large"
-        },
-        {
-          "alias": "\uc791\uc740\uac70"
-        },
-        {
-          "alias": "\ud070\uac70"
-        }
-      ]
-    },
-    {
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 559,
+      "problemCount": 560,
       "displayNames": [
         {
           "language": "ko",
@@ -267,6 +196,61 @@
       "aliases": [
         {
           "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
+        }
+      ]
+    },
+    {
+      "key": "tree_set",
+      "isMeta": false,
+      "bojTagId": 74,
+      "problemCount": 533,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
+          "short": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map by trees",
+          "short": "treeset"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
+          "short": "treeset"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc9d1\ud569"
+        },
+        {
+          "alias": "\ub9f5"
+        },
+        {
+          "alias": "\uc14b"
+        },
+        {
+          "alias": "\ub515\uc154\ub108\ub9ac"
+        },
+        {
+          "alias": "dictionary"
+        },
+        {
+          "alias": "map"
+        },
+        {
+          "alias": "set"
+        },
+        {
+          "alias": "bbst"
+        },
+        {
+          "alias": "\ud2b8\ub9ac"
+        },
+        {
+          "alias": "tree"
         }
       ]
     }
