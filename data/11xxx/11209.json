@@ -11,15 +11,86 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 15,
+  "acceptedUserCount": 16,
   "level": 17,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4.2,
+  "averageTries": 4,
   "official": true,
   "tags": [
+    {
+      "key": "articulation",
+      "isMeta": false,
+      "bojTagId": 4,
+      "problemCount": 62,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120",
+          "short": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120"
+        },
+        {
+          "language": "en",
+          "name": "articulation points and bridges",
+          "short": "articulation points and bridges"
+        },
+        {
+          "language": "ja",
+          "name": "\u95a2\u7bc0\u70b9\u3068\u6a4b",
+          "short": "\u95a2\u7bc0\u70b9\u3068\u6a4b"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub2e8\uc808\uc810"
+        },
+        {
+          "alias": "\ub2e8\uc808\uc120"
+        },
+        {
+          "alias": "\ube0c\ub9ac\uc9c0"
+        },
+        {
+          "alias": "\ube0c\ub9bf\uc9c0"
+        },
+        {
+          "alias": "bridge"
+        }
+      ]
+    },
+    {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 862,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
+    },
     {
       "key": "dijkstra",
       "isMeta": false,
@@ -58,7 +129,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4065,
+      "problemCount": 4068,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +160,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2184,
+      "problemCount": 2185,
       "displayNames": [
         {
           "language": "ko",
@@ -120,7 +191,7 @@
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 851,
+      "problemCount": 852,
       "displayNames": [
         {
           "language": "ko",
