@@ -13,47 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 8,
   "level": 24,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2.75,
   "official": true,
   "tags": [
-    {
-      "key": "case_work",
-      "isMeta": false,
-      "bojTagId": 137,
-      "problemCount": 967,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
-          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
-        },
-        {
-          "language": "en",
-          "name": "case work",
-          "short": "case work"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
-          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ucf00\uc774\uc2a4"
-        },
-        {
-          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
-        },
-        {
-          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
-        }
-      ]
-    },
     {
       "key": "combinatorics",
       "isMeta": false,
@@ -98,7 +64,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1175,
+      "problemCount": 1177,
       "displayNames": [
         {
           "language": "ko",
@@ -129,62 +95,10 @@
       ]
     },
     {
-      "key": "divide_and_conquer",
-      "isMeta": false,
-      "bojTagId": 24,
-      "problemCount": 446,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5",
-          "short": "\ubd84\ud560 \uc815\ubcf5"
-        },
-        {
-          "language": "en",
-          "name": "divide and conquer",
-          "short": "d&c"
-        },
-        {
-          "language": "ja",
-          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
-          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dnc"
-        }
-      ]
-    },
-    {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 5989,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 6974,
+      "problemCount": 6979,
       "displayNames": [
         {
           "language": "ko",
@@ -203,34 +117,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "randomization",
-      "isMeta": false,
-      "bojTagId": 115,
-      "problemCount": 159,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubb34\uc791\uc704\ud654",
-          "short": "\ubb34\uc791\uc704\ud654"
-        },
-        {
-          "language": "en",
-          "name": "randomization",
-          "short": "randomization"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
-          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub79c\ub364"
-        }
-      ]
     }
   ],
   "metadata": {}
