@@ -17,20 +17,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 21,
+  "acceptedUserCount": 23,
   "level": 23,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.9048,
+  "averageTries": 2.8261,
   "official": true,
   "tags": [
     {
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1743,
+      "problemCount": 1741,
       "displayNames": [
         {
           "language": "ko",
@@ -54,7 +54,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2394,
+      "problemCount": 2396,
       "displayNames": [
         {
           "language": "ko",
@@ -97,7 +97,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1176,
+      "problemCount": 1177,
       "displayNames": [
         {
           "language": "ko",
@@ -126,6 +126,30 @@
           "alias": "\uad6c\uc131\uc801"
         }
       ]
+    },
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 5992,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "recursion",
