@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 21,
-  "level": 21,
-  "votedUserCount": 1,
+  "level": 22,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4443,
+      "problemCount": 4447,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "dp_tree",
       "isMeta": false,
       "bojTagId": 92,
-      "problemCount": 480,
+      "problemCount": 482,
       "displayNames": [
         {
           "language": "ko",
@@ -83,10 +83,38 @@
       ]
     },
     {
+      "key": "knapsack",
+      "isMeta": false,
+      "bojTagId": 148,
+      "problemCount": 290,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc30\ub0ad \ubb38\uc81c",
+          "short": "\ubc30\ub0ad \ubb38\uc81c"
+        },
+        {
+          "language": "en",
+          "name": "knapsack",
+          "short": "knapsack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af\u554f\u984c",
+          "short": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub0c5\uc0c9"
+        }
+      ]
+    },
+    {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1592,
+      "problemCount": 1595,
       "displayNames": [
         {
           "language": "ko",
