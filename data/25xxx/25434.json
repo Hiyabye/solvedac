@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 22,
-  "level": 20,
-  "votedUserCount": 8,
+  "level": 21,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1743,
+      "problemCount": 1744,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "combinatorics",
       "isMeta": false,
       "bojTagId": 6,
-      "problemCount": 1042,
+      "problemCount": 1046,
       "displayNames": [
         {
           "language": "ko",
@@ -88,7 +88,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7005,
+      "problemCount": 7015,
       "displayNames": [
         {
           "language": "ko",
@@ -104,6 +104,30 @@
           "language": "ja",
           "name": "\u6570\u5b66",
           "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "pigeonhole_principle",
+      "isMeta": false,
+      "bojTagId": 189,
+      "problemCount": 52,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ub458\uae30\uc9d1 \uc6d0\ub9ac",
+          "short": "\ube44\ub458\uae30\uc9d1"
+        },
+        {
+          "language": "en",
+          "name": "pigeonhole principle",
+          "short": "pigeonhole"
+        },
+        {
+          "language": "ja",
+          "name": "\u9ce9\u306e\u5de3\u539f\u7406",
+          "short": "\u9ce9"
         }
       ],
       "aliases": []
