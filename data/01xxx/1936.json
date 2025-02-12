@@ -11,20 +11,48 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 9,
+  "acceptedUserCount": 10,
   "level": 24,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.8889,
+  "averageTries": 4.2,
   "official": true,
   "tags": [
+    {
+      "key": "divide_and_conquer",
+      "isMeta": false,
+      "bojTagId": 24,
+      "problemCount": 447,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
+        },
+        {
+          "language": "en",
+          "name": "divide and conquer",
+          "short": "d&c"
+        },
+        {
+          "language": "ja",
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dnc"
+        }
+      ]
+    },
     {
       "key": "fft",
       "isMeta": false,
       "bojTagId": 28,
-      "problemCount": 143,
+      "problemCount": 144,
       "displayNames": [
         {
           "language": "ko",
@@ -55,10 +83,34 @@
       ]
     },
     {
+      "key": "lucas",
+      "isMeta": false,
+      "bojTagId": 113,
+      "problemCount": 17,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub93c\uce74 \uc815\ub9ac",
+          "short": "\ub93c\uce74 \uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "lucas theorem",
+          "short": "lucas thm"
+        },
+        {
+          "language": "ja",
+          "name": "lucas theorem",
+          "short": "lucas thm"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7007,
+      "problemCount": 7022,
       "displayNames": [
         {
           "language": "ko",
@@ -82,7 +134,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1593,
+      "problemCount": 1594,
       "displayNames": [
         {
           "language": "ko",
