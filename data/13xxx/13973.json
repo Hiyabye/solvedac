@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 22,
-  "level": 18,
-  "votedUserCount": 1,
+  "level": 19,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4277,
+      "problemCount": 4278,
       "displayNames": [
         {
           "language": "ko",
@@ -48,6 +48,37 @@
         },
         {
           "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 861,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
         }
       ]
     },
@@ -126,7 +157,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4082,
+      "problemCount": 4083,
       "displayNames": [
         {
           "language": "ko",
@@ -150,6 +181,37 @@
         },
         {
           "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "graph_traversal",
+      "isMeta": false,
+      "bojTagId": 11,
+      "problemCount": 2191,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
+          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "graph traversal",
+          "short": "traversal"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
+          "short": "\u6a2a\u65ad"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bfs"
+        },
+        {
+          "alias": "dfs"
         }
       ]
     }
