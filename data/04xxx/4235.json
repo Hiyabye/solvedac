@@ -11,14 +11,91 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 0,
-  "level": 0,
-  "votedUserCount": 0,
+  "acceptedUserCount": 1,
+  "level": 6,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 0,
+  "averageTries": 3,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6016,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7044,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "numerical_analysis",
+      "isMeta": false,
+      "bojTagId": 122,
+      "problemCount": 21,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\uce58\ud574\uc11d",
+          "short": "\uc218\uce58\ud574\uc11d"
+        },
+        {
+          "language": "en",
+          "name": "numerical analysis",
+          "short": "numerical analysis"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5024\u89e3\u6790",
+          "short": "\u6570\u5024\u89e3\u6790"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc218\ud559"
+        }
+      ]
+    }
+  ],
   "metadata": {}
 }
