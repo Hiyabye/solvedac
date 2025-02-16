@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 33,
   "level": 20,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -52,7 +52,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4284,
+      "problemCount": 4285,
       "displayNames": [
         {
           "language": "ko",
@@ -123,7 +123,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4464,
+      "problemCount": 4468,
       "displayNames": [
         {
           "language": "ko",
@@ -185,7 +185,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4092,
+      "problemCount": 4094,
       "displayNames": [
         {
           "language": "ko",
@@ -211,6 +211,30 @@
           "alias": "\uadf8\ub798\ud504"
         }
       ]
+    },
+    {
+      "key": "lca",
+      "isMeta": false,
+      "bojTagId": 41,
+      "problemCount": 185,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
+          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
+        },
+        {
+          "language": "en",
+          "name": "lowest common ancestor",
+          "short": "lca"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
+          "short": "lca"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "trees",
