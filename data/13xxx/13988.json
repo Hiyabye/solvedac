@@ -18,8 +18,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 13,
-  "level": 23,
-  "votedUserCount": 3,
+  "level": 24,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -27,10 +27,41 @@
   "official": true,
   "tags": [
     {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1398,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4292,
+      "problemCount": 4291,
       "displayNames": [
         {
           "language": "ko",
@@ -61,7 +92,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 865,
+      "problemCount": 866,
       "displayNames": [
         {
           "language": "ko",
@@ -92,7 +123,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4471,
+      "problemCount": 4472,
       "displayNames": [
         {
           "language": "ko",
@@ -126,7 +157,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4096,
+      "problemCount": 4098,
       "displayNames": [
         {
           "language": "ko",
@@ -157,7 +188,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2196,
+      "problemCount": 2195,
       "displayNames": [
         {
           "language": "ko",
@@ -249,7 +280,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2068,
+      "problemCount": 2067,
       "displayNames": [
         {
           "language": "ko",
