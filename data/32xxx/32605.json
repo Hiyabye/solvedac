@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 11,
-  "level": 18,
-  "votedUserCount": 1,
+  "level": 19,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4471,
+      "problemCount": 4472,
       "displayNames": [
         {
           "language": "ko",
@@ -55,10 +55,90 @@
       ]
     },
     {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 2911,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
+    {
+      "key": "hashing",
+      "isMeta": false,
+      "bojTagId": 8,
+      "problemCount": 183,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574\uc2f1",
+          "short": "\ud574\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "hashing",
+          "short": "hash"
+        },
+        {
+          "language": "ja",
+          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
+          "short": "\u30cf\u30c3\u30b7\u30e5"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "rabin_karp",
+      "isMeta": false,
+      "bojTagId": 61,
+      "problemCount": 19,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub77c\ube48\u2013\uce74\ud504",
+          "short": "\ub77c\ube48\u2013\uce74\ud504"
+        },
+        {
+          "language": "en",
+          "name": "rabin\u2013karp",
+          "short": "rabin\u2013karp"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e9\u30d3\u30f3-\u30ab\u30fc\u30d7\u6587\u5b57\u5217\u691c\u7d22",
+          "short": "\u30e9\u30d3\u30f3-\u30ab\u30fc\u30d7\u6587\u5b57\u5217\u691c\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub77c\ube48\uce74\ud504"
+        }
+      ]
+    },
+    {
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2642,
+      "problemCount": 2643,
       "displayNames": [
         {
           "language": "ko",
