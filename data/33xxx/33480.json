@@ -12,13 +12,99 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 5,
-  "level": 0,
-  "votedUserCount": 0,
+  "level": 20,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 3,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1724,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometry_hyper",
+      "isMeta": false,
+      "bojTagId": 132,
+      "problemCount": 12,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "4\ucc28\uc6d0 \uc774\uc0c1\uc758 \uae30\ud558\ud559",
+          "short": "4\ucc28\uc6d0 \uc774\uc0c1\uc758 \uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry; hyperdimensional",
+          "short": "hyperdimensional"
+        },
+        {
+          "language": "ja",
+          "name": "4\u6b21\u5143\u4ee5\u4e0a\u3067\u306e\u5e7e\u4f55\u5b66",
+          "short": "hyperdimensional"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "4\ucc28\uc6d0"
+        },
+        {
+          "alias": "5\ucc28\uc6d0"
+        },
+        {
+          "alias": "6\ucc28\uc6d0"
+        },
+        {
+          "alias": "7\ucc28\uc6d0"
+        },
+        {
+          "alias": "8\ucc28\uc6d0"
+        },
+        {
+          "alias": "9\ucc28\uc6d0"
+        },
+        {
+          "alias": "4d"
+        },
+        {
+          "alias": "5d"
+        },
+        {
+          "alias": "6d"
+        },
+        {
+          "alias": "7d"
+        },
+        {
+          "alias": "8d"
+        },
+        {
+          "alias": "9d"
+        }
+      ]
+    }
+  ],
   "metadata": {}
 }
