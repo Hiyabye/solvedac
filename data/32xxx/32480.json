@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 22,
+  "acceptedUserCount": 23,
   "level": 18,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.5909,
+  "averageTries": 2.5217,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4293,
+      "problemCount": 4294,
       "displayNames": [
         {
           "language": "ko",
@@ -52,10 +52,34 @@
       ]
     },
     {
+      "key": "flt",
+      "isMeta": false,
+      "bojTagId": 29,
+      "problemCount": 70,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac",
+          "short": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "fermat's little theorem",
+          "short": "fermat's little thm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d5\u30a7\u30eb\u30de\u30fc\u306e\u5c0f\u5b9a\u7406",
+          "short": "\u30d5\u30a7\u30eb\u30de\u30fc"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7069,
+      "problemCount": 7071,
       "displayNames": [
         {
           "language": "ko",
@@ -76,10 +100,38 @@
       "aliases": []
     },
     {
+      "key": "modular_multiplicative_inverse",
+      "isMeta": false,
+      "bojTagId": 164,
+      "problemCount": 136,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
+          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
+        },
+        {
+          "language": "en",
+          "name": "modular multiplicative inverse",
+          "short": "modular multiplicative inverse"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
+          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "modinv"
+        }
+      ]
+    },
+    {
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1608,
+      "problemCount": 1610,
       "displayNames": [
         {
           "language": "ko",
