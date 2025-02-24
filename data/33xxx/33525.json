@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 26,
+  "acceptedUserCount": 30,
   "level": 16,
-  "votedUserCount": 4,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.8077,
+  "averageTries": 1.8333,
   "official": true,
   "tags": [
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4480,
+      "problemCount": 4483,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2917,
+      "problemCount": 2918,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "knapsack",
       "isMeta": false,
       "bojTagId": 148,
-      "problemCount": 294,
+      "problemCount": 296,
       "displayNames": [
         {
           "language": "ko",
@@ -109,6 +109,30 @@
           "alias": "\ub0c5\uc0c9"
         }
       ]
+    },
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2078,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
