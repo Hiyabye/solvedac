@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 17,
   "level": 20,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,174 @@
   "official": true,
   "tags": [
     {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4304,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 870,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
+    },
+    {
+      "key": "disjoint_set",
+      "isMeta": false,
+      "bojTagId": 81,
+      "problemCount": 546,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ub9ac \uc9d1\ud569",
+          "short": "\ubd84\ub9ac \uc9d1\ud569"
+        },
+        {
+          "language": "en",
+          "name": "disjoint set",
+          "short": "dsu"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "union"
+        },
+        {
+          "alias": "find"
+        },
+        {
+          "alias": "\uc720\ub2c8\uc628"
+        },
+        {
+          "alias": "\ud30c\uc778\ub4dc"
+        },
+        {
+          "alias": "dsu"
+        }
+      ]
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4111,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "graph_traversal",
+      "isMeta": false,
+      "bojTagId": 11,
+      "problemCount": 2202,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
+          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "graph traversal",
+          "short": "traversal"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
+          "short": "\u6a2a\u65ad"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bfs"
+        },
+        {
+          "alias": "dfs"
+        }
+      ]
+    },
+    {
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2920,
+      "problemCount": 2921,
       "displayNames": [
         {
           "language": "ko",
@@ -45,6 +209,46 @@
       "aliases": [
         {
           "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
+    {
+      "key": "smaller_to_larger",
+      "isMeta": false,
+      "bojTagId": 169,
+      "problemCount": 144,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9",
+          "short": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9"
+        },
+        {
+          "language": "en",
+          "name": "smaller to larger technique",
+          "short": "smaller to larger"
+        },
+        {
+          "language": "ja",
+          "name": "smaller to larger technique",
+          "short": "smaller to larger"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "merge heuristics"
+        },
+        {
+          "alias": "sack"
+        },
+        {
+          "alias": "small to large"
+        },
+        {
+          "alias": "\uc791\uc740\uac70"
+        },
+        {
+          "alias": "\ud070\uac70"
         }
       ]
     }
