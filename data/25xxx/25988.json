@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 16,
   "level": 16,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1198,
+      "problemCount": 1199,
       "displayNames": [
         {
           "language": "ko",
@@ -51,34 +51,6 @@
         },
         {
           "alias": "\uad6c\uc131\uc801"
-        }
-      ]
-    },
-    {
-      "key": "greedy",
-      "isMeta": false,
-      "bojTagId": 33,
-      "problemCount": 2927,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
-          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
-        },
-        {
-          "language": "en",
-          "name": "greedy",
-          "short": "greedy"
-        },
-        {
-          "language": "ja",
-          "name": "\u8caa\u6b32\u6cd5",
-          "short": "\u8caa\u6b32\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud0d0\uc695\ubc95"
         }
       ]
     },
@@ -141,70 +113,6 @@
       "aliases": [
         {
           "alias": "offlinequery"
-        }
-      ]
-    },
-    {
-      "key": "sorting",
-      "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2085,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "sqrt_decomposition",
-      "isMeta": false,
-      "bojTagId": 130,
-      "problemCount": 131,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc81c\uacf1\uadfc \ubd84\ud560\ubc95",
-          "short": "\uc81c\uacf1\uadfc \ubd84\ud560\ubc95"
-        },
-        {
-          "language": "en",
-          "name": "square root decomposition",
-          "short": "sqrt decomposition"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e73\u65b9\u5206\u5272",
-          "short": "\u5e73\u65b9\u5206\u5272"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub8e8\ud2b8\ubd84\ud560\ubc95"
-        },
-        {
-          "alias": "\ud3c9\ubc29\ubd84\ud560\ubc95"
-        },
-        {
-          "alias": "\ubaa8"
-        },
-        {
-          "alias": "mo"
-        },
-        {
-          "alias": "sqrt"
         }
       ]
     }
