@@ -11,15 +11,58 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 13,
-  "level": 19,
-  "votedUserCount": 3,
+  "acceptedUserCount": 14,
+  "level": 18,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.3077,
+  "averageTries": 2.2143,
   "official": true,
   "tags": [
+    {
+      "key": "bruteforcing",
+      "isMeta": false,
+      "bojTagId": 125,
+      "problemCount": 2425,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998",
+          "short": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "bruteforcing",
+          "short": "bruteforce"
+        },
+        {
+          "language": "ja",
+          "name": "\u5168\u63a2\u7d22",
+          "short": "\u5168\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc644\uc804\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc644\uc804 \ud0d0\uc0c9"
+        },
+        {
+          "alias": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4"
+        },
+        {
+          "alias": "bruteforce"
+        },
+        {
+          "alias": "brute force"
+        },
+        {
+          "alias": "\uc644\ud0d0"
+        }
+      ]
+    },
     {
       "key": "data_structures",
       "isMeta": false,
@@ -80,6 +123,40 @@
       ]
     },
     {
+      "key": "prefix_sum",
+      "isMeta": false,
+      "bojTagId": 139,
+      "problemCount": 1130,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub204\uc801 \ud569",
+          "short": "\ub204\uc801 \ud569"
+        },
+        {
+          "language": "en",
+          "name": "prefix sum",
+          "short": "prefix sum"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d2f\u7a4d\u548c",
+          "short": "\u7d2f\u7a4d\u548c"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud569"
+        },
+        {
+          "alias": "\ubd80\ubd84\ud569"
+        },
+        {
+          "alias": "rangesum"
+        }
+      ]
+    },
+    {
       "key": "stack",
       "isMeta": false,
       "bojTagId": 71,
@@ -102,6 +179,43 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "two_pointer",
+      "isMeta": false,
+      "bojTagId": 80,
+      "problemCount": 439,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub450 \ud3ec\uc778\ud130",
+          "short": "\ub450 \ud3ec\uc778\ud130"
+        },
+        {
+          "language": "en",
+          "name": "two-pointer",
+          "short": "two-pointer"
+        },
+        {
+          "language": "ja",
+          "name": "\u5c3a\u53d6\u308a\u6cd5",
+          "short": "\u5c3a\u53d6\u308a"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud22c\ud3ec\uc778\ud130"
+        },
+        {
+          "alias": "\uc778\uce58\uc6dc"
+        },
+        {
+          "alias": "inchworm"
+        },
+        {
+          "alias": "twopointer"
+        }
+      ]
     }
   ],
   "metadata": {}
