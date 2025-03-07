@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 8,
-  "level": 14,
-  "votedUserCount": 3,
+  "level": 15,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,65 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "ad_hoc",
-      "isMeta": false,
-      "bojTagId": 109,
-      "problemCount": 1769,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc560\ub4dc \ud639",
-          "short": "\uc560\ub4dc \ud639"
-        },
-        {
-          "language": "en",
-          "name": "ad-hoc",
-          "short": "ad-hoc"
-        },
-        {
-          "language": "ja",
-          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
-          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4318,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1733,
+      "problemCount": 1734,
       "displayNames": [
         {
           "language": "ko",
@@ -103,7 +48,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6061,
+      "problemCount": 6062,
       "displayNames": [
         {
           "language": "ko",
@@ -119,58 +64,6 @@
           "language": "ja",
           "name": "\u5b9f\u88c5",
           "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "linked_list",
-      "isMeta": false,
-      "bojTagId": 154,
-      "problemCount": 51,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc5f0\uacb0 \ub9ac\uc2a4\ud2b8",
-          "short": "\uc5f0\uacb0 \ub9ac\uc2a4\ud2b8"
-        },
-        {
-          "language": "en",
-          "name": "linked list",
-          "short": "ll"
-        },
-        {
-          "language": "ja",
-          "name": "\u9023\u7d50\u30ea\u30b9\u30c8",
-          "short": "\u9023\u7d50\u30ea\u30b9\u30c8"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub9c1\ud06c\ub4dc\ub9ac\uc2a4\ud2b8"
-        }
-      ]
-    },
-    {
-      "key": "queue",
-      "isMeta": false,
-      "bojTagId": 72,
-      "problemCount": 73,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud050",
-          "short": "\ud050"
-        },
-        {
-          "language": "en",
-          "name": "queue",
-          "short": "queue"
-        },
-        {
-          "language": "ja",
-          "name": "\u30ad\u30e5\u30fc",
-          "short": "\u30ad\u30e5\u30fc"
         }
       ],
       "aliases": []
