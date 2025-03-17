@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 19,
-  "level": 17,
-  "votedUserCount": 3,
+  "acceptedUserCount": 24,
+  "level": 18,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.2105,
+  "averageTries": 2.125,
   "official": true,
   "tags": [
     {
       "key": "combinatorics",
       "isMeta": false,
       "bojTagId": 6,
-      "problemCount": 1066,
+      "problemCount": 1067,
       "displayNames": [
         {
           "language": "ko",
@@ -95,38 +95,10 @@
       ]
     },
     {
-      "key": "dp_tree",
-      "isMeta": false,
-      "bojTagId": 92,
-      "problemCount": 489,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming on trees",
-          "short": "tree dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728\u4e0a\u306e\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "tree dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud2b8\ub9acdp"
-        }
-      ]
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7115,
+      "problemCount": 7116,
       "displayNames": [
         {
           "language": "ko",
@@ -202,7 +174,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2095,
+      "problemCount": 2094,
       "displayNames": [
         {
           "language": "ko",
@@ -221,34 +193,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "trees",
-      "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1619,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "tree",
-          "short": "tree"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "trees"
-        }
-      ]
     }
   ],
   "metadata": {}
