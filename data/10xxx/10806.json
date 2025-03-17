@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 200,
   "level": 22,
-  "votedUserCount": 52,
+  "votedUserCount": 53,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -89,10 +89,44 @@
       ]
     },
     {
+      "key": "constructive",
+      "isMeta": false,
+      "bojTagId": 128,
+      "problemCount": 1209,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574 \uad6c\uc131\ud558\uae30",
+          "short": "\ud574 \uad6c\uc131\ud558\uae30"
+        },
+        {
+          "language": "en",
+          "name": "constructive",
+          "short": "constructive"
+        },
+        {
+          "language": "ja",
+          "name": "\u69cb\u6210\u7684",
+          "short": "\u69cb\u6210\u7684"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "constructive"
+        },
+        {
+          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
+        },
+        {
+          "alias": "\uad6c\uc131\uc801"
+        }
+      ]
+    },
+    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4140,
+      "problemCount": 4142,
       "displayNames": [
         {
           "language": "ko",
@@ -123,7 +157,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1617,
+      "problemCount": 1618,
       "displayNames": [
         {
           "language": "ko",
