@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 111,
   "level": 23,
-  "votedUserCount": 40,
+  "votedUserCount": 41,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -176,6 +176,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "pst",
+      "isMeta": false,
+      "bojTagId": 55,
+      "problemCount": 51,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud37c\uc2dc\uc2a4\ud134\ud2b8 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\ud37c\uc2dc\uc2a4\ud134\ud2b8 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "persistent segment tree",
+          "short": "pst"
+        },
+        {
+          "language": "ja",
+          "name": "\u6c38\u7d9a\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
+          "short": "\u6c38\u7d9a\u30bb\u30b0\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud37c\uc2dc\uc2a4\ud134\ud2b8\uad6c\uac04\ud2b8\ub9ac"
+        },
+        {
+          "alias": "\uad6c\uac04\ud2b8\ub9ac"
+        },
+        {
+          "alias": "\ud37c\uc2dc\uc2a4\ud134\ud2b8\uc138\uadf8\ud2b8\ub9ac"
+        }
+      ]
     },
     {
       "key": "segtree",
