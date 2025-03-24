@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 30,
   "level": 23,
-  "votedUserCount": 14,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,47 @@
   "official": true,
   "tags": [
     {
+      "key": "euler_phi",
+      "isMeta": false,
+      "bojTagId": 151,
+      "problemCount": 50,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218",
+          "short": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218"
+        },
+        {
+          "language": "en",
+          "name": "euler totient function",
+          "short": "euler phi function"
+        },
+        {
+          "language": "ja",
+          "name": "euler totient function",
+          "short": "euler phi function"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc624\uc77c\ub7ec \ud30c\uc774"
+        },
+        {
+          "alias": "\ud1a0\uc158\ud2b8"
+        },
+        {
+          "alias": "eulerphi"
+        },
+        {
+          "alias": "euler phi"
+        }
+      ]
+    },
+    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7130,
+      "problemCount": 7132,
       "displayNames": [
         {
           "language": "ko",
