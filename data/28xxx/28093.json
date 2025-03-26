@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 14,
   "level": 23,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -61,7 +61,7 @@
       "key": "exponentiation_by_squaring",
       "isMeta": false,
       "bojTagId": 39,
-      "problemCount": 321,
+      "problemCount": 322,
       "displayNames": [
         {
           "language": "ko",
@@ -122,7 +122,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7136,
+      "problemCount": 7138,
       "displayNames": [
         {
           "language": "ko",
@@ -174,7 +174,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1631,
+      "problemCount": 1632,
       "displayNames": [
         {
           "language": "ko",
@@ -193,43 +193,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "primality_test",
-      "isMeta": false,
-      "bojTagId": 9,
-      "problemCount": 359,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc18c\uc218 \ud310\uc815",
-          "short": "\uc18c\uc218 \ud310\uc815"
-        },
-        {
-          "language": "en",
-          "name": "primality test",
-          "short": "primality test"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8",
-          "short": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc18c\uc218"
-        },
-        {
-          "alias": "\uc18c\uc218\ud310\ubcc4"
-        },
-        {
-          "alias": "\uc18c\uc218\ud310\uc815"
-        },
-        {
-          "alias": "prime"
-        }
-      ]
     }
   ],
   "metadata": {}
