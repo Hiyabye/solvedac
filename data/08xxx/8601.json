@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 8,
+  "acceptedUserCount": 9,
   "level": 15,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4.375,
+  "averageTries": 4,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4342,
+      "problemCount": 4343,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6099,
+      "problemCount": 6100,
       "displayNames": [
         {
           "language": "ko",
@@ -76,38 +76,10 @@
       "aliases": []
     },
     {
-      "key": "linked_list",
-      "isMeta": false,
-      "bojTagId": 154,
-      "problemCount": 50,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc5f0\uacb0 \ub9ac\uc2a4\ud2b8",
-          "short": "\uc5f0\uacb0 \ub9ac\uc2a4\ud2b8"
-        },
-        {
-          "language": "en",
-          "name": "linked list",
-          "short": "ll"
-        },
-        {
-          "language": "ja",
-          "name": "\u9023\u7d50\u30ea\u30b9\u30c8",
-          "short": "\u9023\u7d50\u30ea\u30b9\u30c8"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub9c1\ud06c\ub4dc\ub9ac\uc2a4\ud2b8"
-        }
-      ]
-    },
-    {
       "key": "simulation",
       "isMeta": false,
       "bojTagId": 141,
-      "problemCount": 1200,
+      "problemCount": 1201,
       "displayNames": [
         {
           "language": "ko",
@@ -126,46 +98,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "smaller_to_larger",
-      "isMeta": false,
-      "bojTagId": 169,
-      "problemCount": 150,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9",
-          "short": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9"
-        },
-        {
-          "language": "en",
-          "name": "smaller to larger technique",
-          "short": "smaller to larger"
-        },
-        {
-          "language": "ja",
-          "name": "smaller to larger technique",
-          "short": "smaller to larger"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "merge heuristics"
-        },
-        {
-          "alias": "sack"
-        },
-        {
-          "alias": "small to large"
-        },
-        {
-          "alias": "\uc791\uc740\uac70"
-        },
-        {
-          "alias": "\ud070\uac70"
-        }
-      ]
     }
   ],
   "metadata": {}
