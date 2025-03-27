@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 12,
-  "level": 19,
-  "votedUserCount": 3,
+  "level": 20,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -43,37 +43,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "bitset",
-      "isMeta": false,
-      "bojTagId": 152,
-      "problemCount": 104,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ube44\ud2b8 \uc9d1\ud569",
-          "short": "\ube44\ud2b8 \uc9d1\ud569"
-        },
-        {
-          "language": "en",
-          "name": "bit set",
-          "short": "bit set"
-        },
-        {
-          "language": "ja",
-          "name": "bit set",
-          "short": "bit set"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bitset"
-        },
-        {
-          "alias": "\ube44\ud2b8\uc14b"
-        }
-      ]
     },
     {
       "key": "case_work",
@@ -110,44 +79,10 @@
       ]
     },
     {
-      "key": "constructive",
-      "isMeta": false,
-      "bojTagId": 128,
-      "problemCount": 1210,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574 \uad6c\uc131\ud558\uae30",
-          "short": "\ud574 \uad6c\uc131\ud558\uae30"
-        },
-        {
-          "language": "en",
-          "name": "constructive",
-          "short": "constructive"
-        },
-        {
-          "language": "ja",
-          "name": "\u69cb\u6210\u7684",
-          "short": "\u69cb\u6210\u7684"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "constructive"
-        },
-        {
-          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
-        },
-        {
-          "alias": "\uad6c\uc131\uc801"
-        }
-      ]
-    },
-    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4344,
+      "problemCount": 4348,
       "displayNames": [
         {
           "language": "ko",
@@ -171,99 +106,6 @@
         },
         {
           "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
-      "key": "dfs",
-      "isMeta": false,
-      "bojTagId": 127,
-      "problemCount": 877,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "depth-first search",
-          "short": "dfs"
-        },
-        {
-          "language": "ja",
-          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
-          "short": "dfs"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "depth first"
-        },
-        {
-          "alias": "depthfirst"
-        }
-      ]
-    },
-    {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4150,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "graph_traversal",
-      "isMeta": false,
-      "bojTagId": 11,
-      "problemCount": 2219,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
-          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "graph traversal",
-          "short": "traversal"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
-          "short": "\u6a2a\u65ad"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bfs"
-        },
-        {
-          "alias": "dfs"
         }
       ]
     },
@@ -299,7 +141,7 @@
       "key": "hash_set",
       "isMeta": false,
       "bojTagId": 136,
-      "problemCount": 758,
+      "problemCount": 759,
       "displayNames": [
         {
           "language": "ko",
@@ -354,7 +196,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6101,
+      "problemCount": 6100,
       "displayNames": [
         {
           "language": "ko",
@@ -373,34 +215,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "randomization",
-      "isMeta": false,
-      "bojTagId": 115,
-      "problemCount": 164,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubb34\uc791\uc704\ud654",
-          "short": "\ubb34\uc791\uc704\ud654"
-        },
-        {
-          "language": "en",
-          "name": "randomization",
-          "short": "randomization"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
-          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub79c\ub364"
-        }
-      ]
     },
     {
       "key": "simulation",
@@ -427,90 +241,10 @@
       "aliases": []
     },
     {
-      "key": "smaller_to_larger",
-      "isMeta": false,
-      "bojTagId": 169,
-      "problemCount": 149,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9",
-          "short": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9"
-        },
-        {
-          "language": "en",
-          "name": "smaller to larger technique",
-          "short": "smaller to larger"
-        },
-        {
-          "language": "ja",
-          "name": "smaller to larger technique",
-          "short": "smaller to larger"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "merge heuristics"
-        },
-        {
-          "alias": "sack"
-        },
-        {
-          "alias": "small to large"
-        },
-        {
-          "alias": "\uc791\uc740\uac70"
-        },
-        {
-          "alias": "\ud070\uac70"
-        }
-      ]
-    },
-    {
-      "key": "sqrt_decomposition",
-      "isMeta": false,
-      "bojTagId": 130,
-      "problemCount": 133,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc81c\uacf1\uadfc \ubd84\ud560\ubc95",
-          "short": "\uc81c\uacf1\uadfc \ubd84\ud560\ubc95"
-        },
-        {
-          "language": "en",
-          "name": "square root decomposition",
-          "short": "sqrt decomposition"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e73\u65b9\u5206\u5272",
-          "short": "\u5e73\u65b9\u5206\u5272"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub8e8\ud2b8\ubd84\ud560\ubc95"
-        },
-        {
-          "alias": "\ud3c9\ubc29\ubd84\ud560\ubc95"
-        },
-        {
-          "alias": "\ubaa8"
-        },
-        {
-          "alias": "mo"
-        },
-        {
-          "alias": "sqrt"
-        }
-      ]
-    },
-    {
       "key": "tree_set",
       "isMeta": false,
       "bojTagId": 74,
-      "problemCount": 539,
+      "problemCount": 538,
       "displayNames": [
         {
           "language": "ko",

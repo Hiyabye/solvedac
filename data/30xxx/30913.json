@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 11,
   "level": 27,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -122,10 +122,47 @@
       ]
     },
     {
+      "key": "exponentiation_by_squaring",
+      "isMeta": false,
+      "bojTagId": 39,
+      "problemCount": 323,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1",
+          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "language": "en",
+          "name": "exponentiation by squaring",
+          "short": "exponentiation by squaring"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57",
+          "short": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "alias": "\uc81c\uacf1"
+        },
+        {
+          "alias": "power"
+        },
+        {
+          "alias": "square"
+        }
+      ]
+    },
+    {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6101,
+      "problemCount": 6100,
       "displayNames": [
         {
           "language": "ko",
@@ -149,7 +186,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7138,
+      "problemCount": 7141,
       "displayNames": [
         {
           "language": "ko",
@@ -310,7 +347,7 @@
       "key": "randomization",
       "isMeta": false,
       "bojTagId": 115,
-      "problemCount": 164,
+      "problemCount": 165,
       "displayNames": [
         {
           "language": "ko",
