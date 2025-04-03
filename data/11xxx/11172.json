@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 39,
+  "acceptedUserCount": 42,
   "level": 6,
   "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.0256,
+  "averageTries": 1.9762,
   "official": true,
   "tags": [
     {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2446,
+      "problemCount": 2447,
       "displayNames": [
         {
           "language": "ko",
@@ -64,10 +64,34 @@
       ]
     },
     {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1753,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6121,
+      "problemCount": 6124,
       "displayNames": [
         {
           "language": "ko",
@@ -83,6 +107,30 @@
           "language": "ja",
           "name": "\u5b9f\u88c5",
           "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "pythagoras",
+      "isMeta": false,
+      "bojTagId": 60,
+      "problemCount": 99,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud53c\ud0c0\uace0\ub77c\uc2a4 \uc815\ub9ac",
+          "short": "\ud53c\ud0c0\uace0\ub77c\uc2a4 \uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "pythagoras theorem",
+          "short": "pythagoras thm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d4\u30bf\u30b4\u30e9\u30b9\u306e\u5b9a\u7406",
+          "short": "\u30d4\u30bf\u30b4\u30e9\u30b9"
         }
       ],
       "aliases": []
