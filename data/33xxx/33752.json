@@ -11,20 +11,51 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 3,
-  "level": 22,
-  "votedUserCount": 2,
+  "acceptedUserCount": 5,
+  "level": 23,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 5.3333,
+  "averageTries": 4.4,
   "official": true,
   "tags": [
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1435,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4376,
+      "problemCount": 4378,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +86,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4528,
+      "problemCount": 4527,
       "displayNames": [
         {
           "language": "ko",
@@ -117,7 +148,7 @@
       "key": "euler_tour_technique",
       "isMeta": false,
       "bojTagId": 150,
-      "problemCount": 108,
+      "problemCount": 107,
       "displayNames": [
         {
           "language": "ko",
@@ -165,7 +196,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1480,
+      "problemCount": 1481,
       "displayNames": [
         {
           "language": "ko",
@@ -242,7 +273,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1634,
+      "problemCount": 1635,
       "displayNames": [
         {
           "language": "ko",
@@ -263,6 +294,61 @@
       "aliases": [
         {
           "alias": "trees"
+        }
+      ]
+    },
+    {
+      "key": "tree_set",
+      "isMeta": false,
+      "bojTagId": 74,
+      "problemCount": 539,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
+          "short": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map by trees",
+          "short": "treeset"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
+          "short": "treeset"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc9d1\ud569"
+        },
+        {
+          "alias": "\ub9f5"
+        },
+        {
+          "alias": "\uc14b"
+        },
+        {
+          "alias": "\ub515\uc154\ub108\ub9ac"
+        },
+        {
+          "alias": "dictionary"
+        },
+        {
+          "alias": "map"
+        },
+        {
+          "alias": "set"
+        },
+        {
+          "alias": "bbst"
+        },
+        {
+          "alias": "\ud2b8\ub9ac"
+        },
+        {
+          "alias": "tree"
         }
       ]
     }
