@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 4,
-  "level": 15,
-  "votedUserCount": 1,
+  "acceptedUserCount": 5,
+  "level": 14,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.25,
+  "averageTries": 1.2,
   "official": true,
   "tags": [
     {
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1804,
+      "problemCount": 1806,
       "displayNames": [
         {
           "language": "ko",
@@ -45,10 +45,38 @@
       "aliases": []
     },
     {
+      "key": "euclidean",
+      "isMeta": false,
+      "bojTagId": 26,
+      "problemCount": 225,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95",
+          "short": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "euclidean algorithm",
+          "short": "euclidean algorithm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
+          "short": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
+        }
+      ]
+    },
+    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7182,
+      "problemCount": 7183,
       "displayNames": [
         {
           "language": "ko",
@@ -64,6 +92,30 @@
           "language": "ja",
           "name": "\u6570\u5b66",
           "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1643,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
         }
       ],
       "aliases": []
