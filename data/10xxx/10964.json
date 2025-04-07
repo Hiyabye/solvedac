@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 32,
+  "acceptedUserCount": 33,
   "level": 11,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7813,
+  "averageTries": 1.7576,
   "official": true,
   "tags": [
     {
       "key": "backtracking",
       "isMeta": false,
       "bojTagId": 5,
-      "problemCount": 589,
+      "problemCount": 590,
       "displayNames": [
         {
           "language": "ko",
@@ -55,53 +55,10 @@
       ]
     },
     {
-      "key": "bruteforcing",
-      "isMeta": false,
-      "bojTagId": 125,
-      "problemCount": 2449,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998",
-          "short": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998"
-        },
-        {
-          "language": "en",
-          "name": "bruteforcing",
-          "short": "bruteforce"
-        },
-        {
-          "language": "ja",
-          "name": "\u5168\u63a2\u7d22",
-          "short": "\u5168\u63a2\u7d22"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc644\uc804\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc644\uc804 \ud0d0\uc0c9"
-        },
-        {
-          "alias": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4"
-        },
-        {
-          "alias": "bruteforce"
-        },
-        {
-          "alias": "brute force"
-        },
-        {
-          "alias": "\uc644\ud0d0"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4174,
+      "problemCount": 4177,
       "displayNames": [
         {
           "language": "ko",
@@ -125,37 +82,6 @@
         },
         {
           "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "graph_traversal",
-      "isMeta": false,
-      "bojTagId": 11,
-      "problemCount": 2233,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
-          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "graph traversal",
-          "short": "traversal"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
-          "short": "\u6a2a\u65ad"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bfs"
-        },
-        {
-          "alias": "dfs"
         }
       ]
     }
