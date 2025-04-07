@@ -11,20 +11,44 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 6,
+  "acceptedUserCount": 7,
   "level": 19,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1,
+  "averageTries": 2.1429,
   "official": true,
   "tags": [
+    {
+      "key": "dag",
+      "isMeta": false,
+      "bojTagId": 213,
+      "problemCount": 247,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
+          "short": "dag"
+        },
+        {
+          "language": "en",
+          "name": "directed acyclic graph",
+          "short": "dag"
+        },
+        {
+          "language": "ja",
+          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
+          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4379,
+      "problemCount": 4381,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +79,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4176,
+      "problemCount": 4178,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +110,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1481,
+      "problemCount": 1482,
       "displayNames": [
         {
           "language": "ko",
@@ -123,7 +147,7 @@
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 582,
+      "problemCount": 583,
       "displayNames": [
         {
           "language": "ko",
@@ -151,7 +175,7 @@
       "key": "two_pointer",
       "isMeta": false,
       "bojTagId": 80,
-      "problemCount": 448,
+      "problemCount": 449,
       "displayNames": [
         {
           "language": "ko",
