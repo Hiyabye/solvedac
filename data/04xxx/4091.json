@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 36,
-  "level": 15,
-  "votedUserCount": 6,
+  "level": 14,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,62 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "flow",
-      "isMeta": false,
-      "bojTagId": 45,
-      "problemCount": 359,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub300 \uc720\ub7c9",
-          "short": "\ucd5c\ub300 \uc720\ub7c9"
-        },
-        {
-          "language": "en",
-          "name": "maximum flow",
-          "short": "flow"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u5927\u30d5\u30ed\u30fc",
-          "short": "flow"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dinic"
-        },
-        {
-          "alias": "dinitz"
-        },
-        {
-          "alias": "ford"
-        },
-        {
-          "alias": "fulkerson"
-        },
-        {
-          "alias": "fordfulkerson"
-        },
-        {
-          "alias": "\ub514\ub2c9"
-        },
-        {
-          "alias": "\ub514\ub2c8\uce20"
-        },
-        {
-          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
-        },
-        {
-          "alias": "\ud50c\ub85c\uc6b0"
-        }
-      ]
-    },
-    {
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2978,
+      "problemCount": 2979,
       "displayNames": [
         {
           "language": "ko",
@@ -101,59 +49,10 @@
       ]
     },
     {
-      "key": "mcmf",
-      "isMeta": false,
-      "bojTagId": 48,
-      "problemCount": 123,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\uc18c \ube44\uc6a9 \ucd5c\ub300 \uc720\ub7c9",
-          "short": "\ucd5c\uc18c \ube44\uc6a9 \ucd5c\ub300 \uc720\ub7c9"
-        },
-        {
-          "language": "en",
-          "name": "minimum cost maximum flow",
-          "short": "mcmf"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u5c0f\u8cbb\u7528\u6700\u5927\u6d41\u554f\u984c",
-          "short": "mcmf"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dinic"
-        },
-        {
-          "alias": "dinitz"
-        },
-        {
-          "alias": "ford"
-        },
-        {
-          "alias": "fulkerson"
-        },
-        {
-          "alias": "fordfulkerson"
-        },
-        {
-          "alias": "\ub514\ub2c9"
-        },
-        {
-          "alias": "\ub514\ub2c8\uce20"
-        },
-        {
-          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
-        }
-      ]
-    },
-    {
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2112,
+      "problemCount": 2113,
       "displayNames": [
         {
           "language": "ko",
