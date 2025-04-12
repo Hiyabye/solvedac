@@ -13,41 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 8,
   "level": 18,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 5.75,
   "official": true,
   "tags": [
-    {
-      "key": "convex_hull",
-      "isMeta": false,
-      "bojTagId": 20,
-      "problemCount": 215,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubcfc\ub85d \uaecd\uc9c8",
-          "short": "\ubcfc\ub85d \uaecd\uc9c8"
-        },
-        {
-          "language": "en",
-          "name": "convex hull",
-          "short": "convex hull"
-        },
-        {
-          "language": "ja",
-          "name": "\u51f8\u5305",
-          "short": "\u51f8\u5305"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ucee8\ubca1\uc2a4\ud5d0"
-        }
-      ]
-    },
     {
       "key": "geometry",
       "isMeta": false,
@@ -71,58 +43,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "point_in_non_convex_polygon",
-      "isMeta": false,
-      "bojTagId": 57,
-      "problemCount": 26,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\ubaa9 \ub2e4\uac01\ud615 \ub0b4\ubd80\uc758 \uc810 \ud310\uc815",
-          "short": "\uc624\ubaa9 \ub2e4\uac01\ud615 \ub0b4\ubd80\uc758 \uc810 \ud310\uc815"
-        },
-        {
-          "language": "en",
-          "name": "point in non-convex polygon check",
-          "short": "point in non-convex polygon check"
-        },
-        {
-          "language": "ja",
-          "name": "\u975e\u51f8\u591a\u89d2\u5f62\u306e\u70b9\u5305\u542b\u5224\u5b9a",
-          "short": "\u975e\u51f8\u591a\u89d2\u5f62\u306e\u70b9\u5305\u542b\u5224\u5b9a"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "polygon_area",
-      "isMeta": false,
-      "bojTagId": 3,
-      "problemCount": 89,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\uac01\ud615\uc758 \ub113\uc774",
-          "short": "\ub2e4\uac01\ud615\uc758 \ub113\uc774"
-        },
-        {
-          "language": "en",
-          "name": "area of a polygon",
-          "short": "area of a polygon"
-        },
-        {
-          "language": "ja",
-          "name": "\u591a\u89d2\u5f62\u306e\u9762\u7a4d",
-          "short": "\u591a\u89d2\u5f62\u306e\u9762\u7a4d"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub113\uc774"
-        }
-      ]
     },
     {
       "key": "sweeping",
