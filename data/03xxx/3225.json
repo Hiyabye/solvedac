@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 2,
+  "acceptedUserCount": 7,
   "level": 18,
   "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4,
+  "averageTries": 2.4286,
   "official": true,
   "tags": [
     {
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1442,
+      "problemCount": 1441,
       "displayNames": [
         {
           "language": "ko",
@@ -79,6 +79,86 @@
         },
         {
           "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "divide_and_conquer",
+      "isMeta": false,
+      "bojTagId": 24,
+      "problemCount": 460,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
+        },
+        {
+          "language": "en",
+          "name": "divide and conquer",
+          "short": "d&c"
+        },
+        {
+          "language": "ja",
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dnc"
+        }
+      ]
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1763,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "randomization",
+      "isMeta": false,
+      "bojTagId": 115,
+      "problemCount": 165,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb34\uc791\uc704\ud654",
+          "short": "\ubb34\uc791\uc704\ud654"
+        },
+        {
+          "language": "en",
+          "name": "randomization",
+          "short": "randomization"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
+          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub79c\ub364"
         }
       ]
     },
