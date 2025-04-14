@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 8,
-  "level": 18,
-  "votedUserCount": 2,
+  "level": 19,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1814,
+      "problemCount": 1816,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1227,
+      "problemCount": 1229,
       "displayNames": [
         {
           "language": "ko",
@@ -79,10 +79,34 @@
       ]
     },
     {
+      "key": "heuristics",
+      "isMeta": false,
+      "bojTagId": 142,
+      "problemCount": 116,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud734\ub9ac\uc2a4\ud2f1",
+          "short": "\ud734\ub9ac\uc2a4\ud2f1"
+        },
+        {
+          "language": "en",
+          "name": "heuristics",
+          "short": "heuristics"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
+          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6152,
+      "problemCount": 6153,
       "displayNames": [
         {
           "language": "ko",
@@ -98,6 +122,30 @@
           "language": "ja",
           "name": "\u5b9f\u88c5",
           "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "simulated_annealing",
+      "isMeta": false,
+      "bojTagId": 184,
+      "problemCount": 23,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2f4\uae08\uc9c8 \uae30\ubc95",
+          "short": "\ub2f4\uae08\uc9c8 \uae30\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "simulated annealing",
+          "short": "simulated annealing"
+        },
+        {
+          "language": "ja",
+          "name": "\u713c\u304d\u920d\u3057\u6cd5",
+          "short": "\u713c\u304d\u920d\u3057\u6cd5"
         }
       ],
       "aliases": []
