@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 57,
   "level": 16,
-  "votedUserCount": 10,
+  "votedUserCount": 11,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -30,7 +30,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2982,
+      "problemCount": 2983,
       "displayNames": [
         {
           "language": "ko",
@@ -55,10 +55,44 @@
       ]
     },
     {
+      "key": "prefix_sum",
+      "isMeta": false,
+      "bojTagId": 139,
+      "problemCount": 1169,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub204\uc801 \ud569",
+          "short": "\ub204\uc801 \ud569"
+        },
+        {
+          "language": "en",
+          "name": "prefix sum",
+          "short": "prefix sum"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d2f\u7a4d\u548c",
+          "short": "\u7d2f\u7a4d\u548c"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud569"
+        },
+        {
+          "alias": "\ubd80\ubd84\ud569"
+        },
+        {
+          "alias": "rangesum"
+        }
+      ]
+    },
+    {
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2116,
+      "problemCount": 2117,
       "displayNames": [
         {
           "language": "ko",
