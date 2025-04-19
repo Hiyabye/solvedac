@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 11,
   "level": 26,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1818,
+      "problemCount": 1820,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 1008,
+      "problemCount": 1007,
       "displayNames": [
         {
           "language": "ko",
@@ -110,10 +110,50 @@
       ]
     },
     {
+      "key": "combinatorics",
+      "isMeta": false,
+      "bojTagId": 6,
+      "problemCount": 1086,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc870\ud569\ub860",
+          "short": "\uc870\ud569\ub860"
+        },
+        {
+          "language": "en",
+          "name": "combinatorics",
+          "short": "combinatorics"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d44\u307f\u5408\u308f\u305b",
+          "short": "\u7d44\u307f\u5408\u308f\u305b"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "combination"
+        },
+        {
+          "alias": "permutation"
+        },
+        {
+          "alias": "probability"
+        },
+        {
+          "alias": "\ud655\ub960"
+        },
+        {
+          "alias": "\uc21c\uc5f4"
+        }
+      ]
+    },
+    {
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1231,
+      "problemCount": 1234,
       "displayNames": [
         {
           "language": "ko",
@@ -176,6 +216,64 @@
           "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
         }
       ]
+    },
+    {
+      "key": "fft",
+      "isMeta": false,
+      "bojTagId": 28,
+      "problemCount": 148,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uace0\uc18d \ud478\ub9ac\uc5d0 \ubcc0\ud658",
+          "short": "\uace0\uc18d \ud478\ub9ac\uc5d0 \ubcc0\ud658"
+        },
+        {
+          "language": "en",
+          "name": "fast fourier transform",
+          "short": "fft"
+        },
+        {
+          "language": "ja",
+          "name": "\u9ad8\u901f\u30d5\u30fc\u30ea\u30a8\u5909\u63db",
+          "short": "fft"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud478\ub9ac\uc5d0\ubcc0\ud658"
+        },
+        {
+          "alias": "\ucee8\ubcfc\ub8e8\uc158"
+        },
+        {
+          "alias": "convolution"
+        }
+      ]
+    },
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7207,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
