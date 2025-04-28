@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 4,
-  "level": 23,
-  "votedUserCount": 1,
+  "acceptedUserCount": 5,
+  "level": 24,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2,
+  "averageTries": 2.2,
   "official": true,
   "tags": [
     {
@@ -114,7 +114,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4554,
+      "problemCount": 4555,
       "displayNames": [
         {
           "language": "ko",
@@ -143,6 +143,30 @@
           "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
         }
       ]
+    },
+    {
+      "key": "monotone_queue_optimization",
+      "isMeta": false,
+      "bojTagId": 165,
+      "problemCount": 13,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e8\uc870 \ud050\ub97c \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
+          "short": "\ub2e8\uc870 \ud050\ub97c \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
+        },
+        {
+          "language": "en",
+          "name": "monotone queue optimization",
+          "short": "monotone queue optimization"
+        },
+        {
+          "language": "ja",
+          "name": "monotone queue optimization",
+          "short": "monotone queue optimization"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "pst",
