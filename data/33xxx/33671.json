@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 13,
+  "acceptedUserCount": 14,
   "level": 25,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.2308,
+  "averageTries": 2.1429,
   "official": true,
   "tags": [
     {
@@ -61,7 +61,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7230,
+      "problemCount": 7227,
       "displayNames": [
         {
           "language": "ko",
@@ -182,40 +182,6 @@
       "aliases": []
     },
     {
-      "key": "prefix_sum",
-      "isMeta": false,
-      "bojTagId": 139,
-      "problemCount": 1172,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub204\uc801 \ud569",
-          "short": "\ub204\uc801 \ud569"
-        },
-        {
-          "language": "en",
-          "name": "prefix sum",
-          "short": "prefix sum"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d2f\u7a4d\u548c",
-          "short": "\u7d2f\u7a4d\u548c"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uad6c\uac04\ud569"
-        },
-        {
-          "alias": "\ubd80\ubd84\ud569"
-        },
-        {
-          "alias": "rangesum"
-        }
-      ]
-    },
-    {
       "key": "primality_test",
       "isMeta": false,
       "bojTagId": 9,
@@ -246,43 +212,6 @@
         },
         {
           "alias": "\uc18c\uc218\ud310\uc815"
-        },
-        {
-          "alias": "prime"
-        }
-      ]
-    },
-    {
-      "key": "sieve",
-      "isMeta": false,
-      "bojTagId": 67,
-      "problemCount": 215,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc5d0\ub77c\ud1a0\uc2a4\ud14c\ub124\uc2a4\uc758 \uccb4",
-          "short": "\uc5d0\ub77c\ud1a0\uc2a4\ud14c\ub124\uc2a4\uc758 \uccb4"
-        },
-        {
-          "language": "en",
-          "name": "sieve of eratosthenes",
-          "short": "eratosthenes"
-        },
-        {
-          "language": "ja",
-          "name": "\u30a8\u30e9\u30c8\u30b9\u30c6\u30cd\u30b9\u306e\u7be9",
-          "short": "\u30a8\u30e9\u30c8\u30b9\u30c6\u30cd\u30b9"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "sieve"
-        },
-        {
-          "alias": "\uc5d0\ub77c\uccb4"
-        },
-        {
-          "alias": "\uc18c\uc218"
         },
         {
           "alias": "prime"
