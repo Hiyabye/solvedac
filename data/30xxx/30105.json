@@ -24,7 +24,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2455,
+      "problemCount": 2458,
       "displayNames": [
         {
           "language": "ko",
@@ -67,7 +67,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4410,
+      "problemCount": 4412,
       "displayNames": [
         {
           "language": "ko",
@@ -98,7 +98,7 @@
       "key": "hash_set",
       "isMeta": false,
       "bojTagId": 136,
-      "problemCount": 775,
+      "problemCount": 774,
       "displayNames": [
         {
           "language": "ko",
@@ -148,6 +148,25 @@
           "alias": "dict"
         }
       ]
+    },
+    {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1148,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

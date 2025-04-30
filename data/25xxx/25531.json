@@ -24,7 +24,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1824,
+      "problemCount": 1827,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 1008,
+      "problemCount": 1009,
       "displayNames": [
         {
           "language": "ko",
@@ -106,7 +106,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1237,
+      "problemCount": 1238,
       "displayNames": [
         {
           "language": "ko",
@@ -192,7 +192,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6168,
+      "problemCount": 6169,
       "displayNames": [
         {
           "language": "ko",
@@ -211,6 +211,37 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4500,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
     }
   ],
   "metadata": {}

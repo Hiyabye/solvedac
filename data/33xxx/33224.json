@@ -55,7 +55,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4200,
+      "problemCount": 4500,
       "displayNames": [
         {
           "language": "ko",
@@ -112,6 +112,44 @@
           "alias": "dfs"
         }
       ]
+    },
+    {
+      "key": "grid_graph",
+      "isMeta": false,
+      "bojTagId": 221,
+      "problemCount": 7,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
+          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "grid graph",
+          "short": "grid graph"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "traceback",
+      "isMeta": false,
+      "bojTagId": 235,
+      "problemCount": 2,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc5ed\ucd94\uc801",
+          "short": "\uc5ed\ucd94\uc801"
+        },
+        {
+          "language": "en",
+          "name": "traceback",
+          "short": "traceback"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
