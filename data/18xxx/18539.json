@@ -61,7 +61,7 @@
       "key": "gaussian_elimination",
       "isMeta": false,
       "bojTagId": 32,
-      "problemCount": 91,
+      "problemCount": 92,
       "displayNames": [
         {
           "language": "ko",
@@ -89,27 +89,37 @@
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud0a4\ud0c0\ub9c8\uc0ac",
-          "short": "\ud0a4\ud0c0\ub9c8\uc0ac"
+          "name": "\ub2e4\ud56d\uc2dd\uc744 \uc774\uc6a9\ud55c \uc120\ud615\uc810\ud654\uc2dd \uacc4\uc0b0",
+          "short": "\ub2e4\ud56d\uc2dd\uc744 \uc774\uc6a9\ud55c \uc120\ud615\uc810\ud654\uc2dd \uacc4\uc0b0"
         },
         {
           "language": "en",
-          "name": "kitamasa",
-          "short": "kitamasa"
+          "name": "linear recurrence calculation by polynomials",
+          "short": "linear recurrence calculation by polynomials"
         },
         {
           "language": "ja",
-          "name": "\u304d\u305f\u307e\u3055\u6cd5",
-          "short": "\u304d\u305f\u307e\u3055\u6cd5"
+          "name": "\u591a\u9805\u5f0f\u306b\u3088\u308b\u7dda\u5f62\u6f38\u5316\u5f0f\u306e\u8a08\u7b97",
+          "short": "\u591a\u9805\u5f0f\u306b\u3088\u308b\u7dda\u5f62\u6f38\u5316\u5f0f\u306e\u8a08\u7b97"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\ud0a4\ud0c0\ub9c8\uc0ac"
+        },
+        {
+          "alias": "kitamasa"
+        },
+        {
+          "alias": "\u304d\u305f\u307e\u3055\u6cd5"
+        }
+      ]
     },
     {
       "key": "linear_algebra",
       "isMeta": false,
       "bojTagId": 144,
-      "problemCount": 204,
+      "problemCount": 205,
       "displayNames": [
         {
           "language": "ko",
