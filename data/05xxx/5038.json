@@ -24,7 +24,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1237,
+      "problemCount": 1238,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4200,
+      "problemCount": 4500,
       "displayNames": [
         {
           "language": "ko",
@@ -120,7 +120,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1655,
+      "problemCount": 1657,
       "displayNames": [
         {
           "language": "ko",
@@ -143,6 +143,25 @@
           "alias": "trees"
         }
       ]
+    },
+    {
+      "key": "tree_diameter",
+      "isMeta": false,
+      "bojTagId": 222,
+      "problemCount": 1,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\uc758 \uc9c0\ub984",
+          "short": "\ud2b8\ub9ac\uc758 \uc9c0\ub984"
+        },
+        {
+          "language": "en",
+          "name": "diameter of a tree",
+          "short": "tree diameter"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
