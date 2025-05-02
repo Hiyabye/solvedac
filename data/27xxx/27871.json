@@ -24,7 +24,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1827,
+      "problemCount": 1825,
       "displayNames": [
         {
           "language": "ko",
@@ -77,6 +77,25 @@
           "alias": "nim"
         }
       ]
+    },
+    {
+      "key": "invariant",
+      "isMeta": false,
+      "bojTagId": 229,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd88\ubcc0\ub7c9 \ucc3e\uae30",
+          "short": "\ubd88\ubcc0\ub7c9"
+        },
+        {
+          "language": "en",
+          "name": "finding invariants",
+          "short": "invariant"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

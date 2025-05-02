@@ -58,7 +58,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1170,
+      "problemCount": 1169,
       "displayNames": [
         {
           "language": "ko",
@@ -87,6 +87,25 @@
           "alias": "rangesum"
         }
       ]
+    },
+    {
+      "key": "maximum_subarray",
+      "isMeta": false,
+      "bojTagId": 234,
+      "problemCount": 13,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4 \ubb38\uc81c",
+          "short": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "maximum subarray",
+          "short": "maximum subarray"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

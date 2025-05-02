@@ -21,6 +21,30 @@
   "official": true,
   "tags": [
     {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7226,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
@@ -55,6 +79,34 @@
       ]
     },
     {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1658,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
+    },
+    {
       "key": "dp_tree",
       "isMeta": false,
       "bojTagId": 92,
@@ -83,56 +135,23 @@
       ]
     },
     {
-      "key": "math",
+      "key": "rerooting",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7229,
+      "bojTagId": 233,
+      "problemCount": 16,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \uc804\ubc29\ud5a5 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub9ac\ub8e8\ud305"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "rerooting on trees",
+          "short": "rerooting"
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "trees",
-      "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1657,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "tree",
-          "short": "tree"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "trees"
-        }
-      ]
     }
   ],
   "metadata": {}

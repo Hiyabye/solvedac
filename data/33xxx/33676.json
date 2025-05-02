@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 77,
+  "acceptedUserCount": 78,
   "level": 8,
-  "votedUserCount": 15,
+  "votedUserCount": 16,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.0909,
+  "averageTries": 2.0769,
   "official": true,
   "tags": [
     {
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1827,
+      "problemCount": 1825,
       "displayNames": [
         {
           "language": "ko",
@@ -77,6 +77,25 @@
           "alias": "\uad6c\uc131\uc801"
         }
       ]
+    },
+    {
+      "key": "invariant",
+      "isMeta": false,
+      "bojTagId": 229,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd88\ubcc0\ub7c9 \ucc3e\uae30",
+          "short": "\ubd88\ubcc0\ub7c9"
+        },
+        {
+          "language": "en",
+          "name": "finding invariants",
+          "short": "invariant"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

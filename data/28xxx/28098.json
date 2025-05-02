@@ -21,6 +21,30 @@
   "official": true,
   "tags": [
     {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1770,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "convex_hull",
       "isMeta": false,
       "bojTagId": 20,
@@ -49,34 +73,10 @@
       ]
     },
     {
-      "key": "geometry",
-      "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 1770,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
-        },
-        {
-          "language": "en",
-          "name": "geometry",
-          "short": "geom"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "point_in_convex_polygon",
       "isMeta": false,
       "bojTagId": 56,
-      "problemCount": 51,
+      "problemCount": 52,
       "displayNames": [
         {
           "language": "ko",
@@ -92,6 +92,25 @@
           "language": "ja",
           "name": "\u51f8\u591a\u89d2\u5f62\u306e\u70b9\u5305\u542b\u5224\u5b9a",
           "short": "\u51f8\u591a\u89d2\u5f62\u306e\u70b9\u5305\u542b\u5224\u5b9a"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "angle_sorting",
+      "isMeta": false,
+      "bojTagId": 240,
+      "problemCount": 10,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac01\ub3c4 \uc815\ub82c",
+          "short": "\uac01\ub3c4 \uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "angle sorting",
+          "short": "angle sorting"
         }
       ],
       "aliases": []
