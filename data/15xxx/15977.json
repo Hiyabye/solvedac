@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4416,
+      "problemCount": 4417,
       "displayNames": [
         {
           "language": "ko",
@@ -48,129 +48,6 @@
         },
         {
           "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
-      "key": "divide_and_conquer",
-      "isMeta": false,
-      "bojTagId": 24,
-      "problemCount": 459,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5",
-          "short": "\ubd84\ud560 \uc815\ubcf5"
-        },
-        {
-          "language": "en",
-          "name": "divide and conquer",
-          "short": "d&c"
-        },
-        {
-          "language": "ja",
-          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
-          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dnc"
-        }
-      ]
-    },
-    {
-      "key": "dp",
-      "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 4563,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
-    {
-      "key": "lis",
-      "isMeta": false,
-      "bojTagId": 43,
-      "problemCount": 96,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4 \ubb38\uc81c",
-          "short": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "longest increasing sequence problem",
-          "short": "lis"
-        },
-        {
-          "language": "ja",
-          "name": "longest increasing sequence problem",
-          "short": "lis"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "multi_segtree",
-      "isMeta": false,
-      "bojTagId": 166,
-      "problemCount": 33,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\ucc28\uc6d0 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
-          "short": "\ub2e4\ucc28\uc6d0 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "multidimensional segment tree",
-          "short": "multidimensional segtree"
-        },
-        {
-          "language": "ja",
-          "name": "multidimensional segment tree",
-          "short": "multidimensional segtree"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uad6c\uac04\ud2b8\ub9ac"
-        },
-        {
-          "alias": "\uc138\uadf8\ud2b8\ub9ac"
-        },
-        {
-          "alias": "fenwick"
-        },
-        {
-          "alias": "\ud39c\uc705"
         }
       ]
     },
@@ -210,6 +87,49 @@
           "alias": "\ud39c\uc705"
         }
       ]
+    },
+    {
+      "key": "lis",
+      "isMeta": false,
+      "bojTagId": 43,
+      "problemCount": 96,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4 \ubb38\uc81c",
+          "short": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "longest increasing sequence problem",
+          "short": "lis"
+        },
+        {
+          "language": "ja",
+          "name": "longest increasing sequence problem",
+          "short": "lis"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "cdq",
+      "isMeta": false,
+      "bojTagId": 237,
+      "problemCount": 5,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "cdq \ubd84\ud560 \uc815\ubcf5",
+          "short": "cdq"
+        },
+        {
+          "language": "en",
+          "name": "cdq",
+          "short": "cdq"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

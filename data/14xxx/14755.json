@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 16,
-  "level": 23,
-  "votedUserCount": 4,
+  "level": 24,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,41 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "binary_search",
-      "isMeta": false,
-      "bojTagId": 12,
-      "problemCount": 1447,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\uc774\ubd84 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "binary search",
-          "short": "binary search"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u5206\u63a2\u7d22",
-          "short": "\u4e8c\u5206\u63a2\u7d22"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc774\ubd84\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
-        }
-      ]
-    },
-    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4416,
+      "problemCount": 4417,
       "displayNames": [
         {
           "language": "ko",
@@ -83,34 +52,69 @@
       ]
     },
     {
-      "key": "kmp",
+      "key": "string",
       "isMeta": false,
-      "bojTagId": 40,
-      "problemCount": 103,
+      "bojTagId": 158,
+      "problemCount": 2697,
       "displayNames": [
         {
           "language": "ko",
-          "name": "KMP",
-          "short": "KMP"
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
         },
         {
           "language": "en",
-          "name": "knuth\u2013morris\u2013pratt",
-          "short": "kmp"
+          "name": "string",
+          "short": "string"
         },
         {
           "language": "ja",
-          "name": "\u30af\u30cc\u30fc\u30b9\u2013\u30e2\u30ea\u30b9\u2013\u30d7\u30e9\u30c3\u30c8\u6cd5",
-          "short": "kmp"
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1444,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
     },
     {
       "key": "sparse_table",
       "isMeta": false,
       "bojTagId": 84,
-      "problemCount": 166,
+      "problemCount": 164,
       "displayNames": [
         {
           "language": "ko",
@@ -138,32 +142,28 @@
       ]
     },
     {
-      "key": "string",
+      "key": "kmp",
       "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2699,
+      "bojTagId": 40,
+      "problemCount": 103,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
+          "name": "KMP",
+          "short": "KMP"
         },
         {
           "language": "en",
-          "name": "string",
-          "short": "string"
+          "name": "knuth\u2013morris\u2013pratt",
+          "short": "kmp"
         },
         {
           "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
+          "name": "\u30af\u30cc\u30fc\u30b9\u2013\u30e2\u30ea\u30b9\u2013\u30d7\u30e9\u30c3\u30c8\u6cd5",
+          "short": "kmp"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc2a4\ud2b8\ub9c1"
-        }
-      ]
+      "aliases": []
     }
   ],
   "metadata": {}

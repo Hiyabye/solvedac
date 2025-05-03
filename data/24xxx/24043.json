@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7223,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "bitmask",
       "isMeta": false,
       "bojTagId": 14,
-      "problemCount": 853,
+      "problemCount": 850,
       "displayNames": [
         {
           "language": "ko",
@@ -80,25 +104,20 @@
       ]
     },
     {
-      "key": "math",
+      "key": "xor_basis",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7230,
+      "bojTagId": 236,
+      "problemCount": 7,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\ubc30\ud0c0\uc801 \ub17c\ub9ac\ud569 \uae30\uc800 (gf(2))",
+          "short": "\ubc30\ud0c0\uc801 \ub17c\ub9ac\ud569 \uae30\uc800"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "xor basis (gf(2))",
+          "short": "xor basis"
         }
       ],
       "aliases": []

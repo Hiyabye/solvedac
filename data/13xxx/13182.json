@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 183,
   "level": 24,
-  "votedUserCount": 73,
+  "votedUserCount": 74,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7223,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "exponentiation_by_squaring",
       "isMeta": false,
       "bojTagId": 39,
-      "problemCount": 329,
+      "problemCount": 328,
       "displayNames": [
         {
           "language": "ko",
@@ -54,88 +78,6 @@
         },
         {
           "alias": "square"
-        }
-      ]
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7230,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "number_theory",
-      "isMeta": false,
-      "bojTagId": 95,
-      "problemCount": 1655,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\uc218\ub860",
-          "short": "\uc815\uc218\ub860"
-        },
-        {
-          "language": "en",
-          "name": "number theory",
-          "short": "number theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u6574\u6570\u8ad6",
-          "short": "\u6574\u6570\u8ad6"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "probability",
-      "isMeta": false,
-      "bojTagId": 177,
-      "problemCount": 398,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud655\ub960\ub860",
-          "short": "\ud655\ub960\ub860"
-        },
-        {
-          "language": "en",
-          "name": "probability theory",
-          "short": "probability"
-        },
-        {
-          "language": "ja",
-          "name": "\u78ba\u7387\u8ad6",
-          "short": "\u78ba\u7387\u8ad6"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "expected value"
-        },
-        {
-          "alias": "\uae30\ub300\uac12"
-        },
-        {
-          "alias": "\uae30\ub313\uac12"
         }
       ]
     }

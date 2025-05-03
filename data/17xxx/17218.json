@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4563,
+      "problemCount": 4559,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2699,
+      "problemCount": 2697,
       "displayNames": [
         {
           "language": "ko",
@@ -81,6 +81,44 @@
           "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
+    },
+    {
+      "key": "traceback",
+      "isMeta": false,
+      "bojTagId": 235,
+      "problemCount": 33,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc5ed\ucd94\uc801",
+          "short": "\uc5ed\ucd94\uc801"
+        },
+        {
+          "language": "en",
+          "name": "traceback",
+          "short": "traceback"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "lcs",
+      "isMeta": false,
+      "bojTagId": 219,
+      "problemCount": 11,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc7a5 \uacf5\ud1b5 \ubd80\ubd84 \uc218\uc5f4 \ubb38\uc81c",
+          "short": "\ucd5c\uc7a5 \uacf5\ud1b5 \ubd80\ubd84 \uc218\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "longest common subsequence",
+          "short": "lcs"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

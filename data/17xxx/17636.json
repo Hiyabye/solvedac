@@ -30,7 +30,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4416,
+      "problemCount": 4417,
       "displayNames": [
         {
           "language": "ko",
@@ -54,34 +54,6 @@
         },
         {
           "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
-      "key": "divide_and_conquer",
-      "isMeta": false,
-      "bojTagId": 24,
-      "problemCount": 459,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5",
-          "short": "\ubd84\ud560 \uc815\ubcf5"
-        },
-        {
-          "language": "en",
-          "name": "divide and conquer",
-          "short": "d&c"
-        },
-        {
-          "language": "ja",
-          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
-          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dnc"
         }
       ]
     },
@@ -121,6 +93,25 @@
           "alias": "\ud39c\uc705"
         }
       ]
+    },
+    {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1160,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "tree_set",
@@ -178,20 +169,48 @@
       ]
     },
     {
-      "key": "set",
+      "key": "divide_and_conquer",
       "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1153,
+      "bojTagId": 24,
+      "problemCount": 456,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
         },
         {
           "language": "en",
-          "name": "set / map",
-          "short": "set"
+          "name": "divide and conquer",
+          "short": "d&c"
+        },
+        {
+          "language": "ja",
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dnc"
+        }
+      ]
+    },
+    {
+      "key": "cdq",
+      "isMeta": false,
+      "bojTagId": 237,
+      "problemCount": 5,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "cdq \ubd84\ud560 \uc815\ubcf5",
+          "short": "cdq"
+        },
+        {
+          "language": "en",
+          "name": "cdq",
+          "short": "cdq"
         }
       ],
       "aliases": []
