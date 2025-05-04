@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 698,
   "level": 14,
-  "votedUserCount": 35,
+  "votedUserCount": 36,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -27,41 +27,34 @@
   "official": true,
   "tags": [
     {
-      "key": "bfs",
+      "key": "implementation",
       "isMeta": false,
-      "bojTagId": 126,
-      "problemCount": 1104,
+      "bojTagId": 102,
+      "problemCount": 6167,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
         },
         {
           "language": "en",
-          "name": "breadth-first search",
-          "short": "bfs"
+          "name": "implementation",
+          "short": "impl"
         },
         {
           "language": "ja",
-          "name": "\u5e45\u512a\u5148\u691c\u7d22",
-          "short": "bfs"
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
         }
       ],
-      "aliases": [
-        {
-          "alias": "breadthfirst"
-        },
-        {
-          "alias": "breadth first"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4499,
+      "problemCount": 4495,
       "displayNames": [
         {
           "language": "ko",
@@ -92,7 +85,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2237,
+      "problemCount": 2235,
       "displayNames": [
         {
           "language": "ko",
@@ -120,28 +113,35 @@
       ]
     },
     {
-      "key": "implementation",
+      "key": "bfs",
       "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6170,
+      "bojTagId": 126,
+      "problemCount": 1103,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
+          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "implementation",
-          "short": "impl"
+          "name": "breadth-first search",
+          "short": "bfs"
         },
         {
           "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
+          "name": "\u5e45\u512a\u5148\u691c\u7d22",
+          "short": "bfs"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "breadthfirst"
+        },
+        {
+          "alias": "breadth first"
+        }
+      ]
     }
   ],
   "metadata": {}
