@@ -27,38 +27,10 @@
   "official": true,
   "tags": [
     {
-      "key": "divide_and_conquer",
-      "isMeta": false,
-      "bojTagId": 24,
-      "problemCount": 456,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5",
-          "short": "\ubd84\ud560 \uc815\ubcf5"
-        },
-        {
-          "language": "en",
-          "name": "divide and conquer",
-          "short": "d&c"
-        },
-        {
-          "language": "ja",
-          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
-          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dnc"
-        }
-      ]
-    },
-    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4559,
+      "problemCount": 4558,
       "displayNames": [
         {
           "language": "ko",
@@ -89,34 +61,6 @@
       ]
     },
     {
-      "key": "hirschberg",
-      "isMeta": false,
-      "bojTagId": 163,
-      "problemCount": 5,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud788\ub974\uc26c\ubc84\uadf8",
-          "short": "\ud788\ub974\uc26c\ubc84\uadf8"
-        },
-        {
-          "language": "en",
-          "name": "hirschberg's",
-          "short": "hirschberg's"
-        },
-        {
-          "language": "ja",
-          "name": "hirschberg's",
-          "short": "hirschberg's"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "hirschburg"
-        }
-      ]
-    },
-    {
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
@@ -141,6 +85,81 @@
       "aliases": [
         {
           "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
+      "key": "divide_and_conquer",
+      "isMeta": false,
+      "bojTagId": 24,
+      "problemCount": 456,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
+        },
+        {
+          "language": "en",
+          "name": "divide and conquer",
+          "short": "d&c"
+        },
+        {
+          "language": "ja",
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dnc"
+        }
+      ]
+    },
+    {
+      "key": "lcs",
+      "isMeta": false,
+      "bojTagId": 219,
+      "problemCount": 14,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc7a5 \uacf5\ud1b5 \ubd80\ubd84 \uc218\uc5f4 \ubb38\uc81c",
+          "short": "\ucd5c\uc7a5 \uacf5\ud1b5 \ubd80\ubd84 \uc218\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "longest common subsequence",
+          "short": "lcs"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "hirschberg",
+      "isMeta": false,
+      "bojTagId": 163,
+      "problemCount": 5,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud788\ub974\uc26c\ubc84\uadf8",
+          "short": "\ud788\ub974\uc26c\ubc84\uadf8"
+        },
+        {
+          "language": "en",
+          "name": "hirschberg's",
+          "short": "hirschberg's"
+        },
+        {
+          "language": "ja",
+          "name": "hirschberg's",
+          "short": "hirschberg's"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "hirschburg"
         }
       ]
     }

@@ -13,13 +13,37 @@
   "isPartial": false,
   "acceptedUserCount": 45,
   "level": 20,
-  "votedUserCount": 11,
+  "votedUserCount": 12,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 4.8444,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7224,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "geometry",
       "isMeta": false,
@@ -45,25 +69,25 @@
       "aliases": []
     },
     {
-      "key": "gradient_descent",
+      "key": "ternary_search",
       "isMeta": false,
-      "bojTagId": 208,
-      "problemCount": 6,
+      "bojTagId": 101,
+      "problemCount": 122,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uacbd\uc0ac \ud558\uac15\ubc95",
-          "short": "\uacbd\uc0ac \ud558\uac15\ubc95"
+          "name": "\uc0bc\ubd84 \ud0d0\uc0c9",
+          "short": "\uc0bc\ubd84 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "gradient descent",
-          "short": "gradient descent"
+          "name": "ternary search",
+          "short": "ternary search"
         },
         {
           "language": "ja",
-          "name": "\u52fe\u914d\u964d\u4e0b\u6cd5",
-          "short": "\u52fe\u914d\u964d\u4e0b\u6cd5"
+          "name": "\u4e09\u5206\u63a2\u7d22",
+          "short": "\u4e09\u5206\u63a2\u7d22"
         }
       ],
       "aliases": []
@@ -93,49 +117,25 @@
       "aliases": []
     },
     {
-      "key": "math",
+      "key": "gradient_descent",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7223,
+      "bojTagId": 208,
+      "problemCount": 6,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\uacbd\uc0ac \ud558\uac15\ubc95",
+          "short": "\uacbd\uc0ac \ud558\uac15\ubc95"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "gradient descent",
+          "short": "gradient descent"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "ternary_search",
-      "isMeta": false,
-      "bojTagId": 101,
-      "problemCount": 122,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc0bc\ubd84 \ud0d0\uc0c9",
-          "short": "\uc0bc\ubd84 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "ternary search",
-          "short": "ternary search"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e09\u5206\u63a2\u7d22",
-          "short": "\u4e09\u5206\u63a2\u7d22"
+          "name": "\u52fe\u914d\u964d\u4e0b\u6cd5",
+          "short": "\u52fe\u914d\u964d\u4e0b\u6cd5"
         }
       ],
       "aliases": []

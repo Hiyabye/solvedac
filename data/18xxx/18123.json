@@ -21,58 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "centroid",
-      "isMeta": false,
-      "bojTagId": 188,
-      "problemCount": 110,
-      "displayNames": [
-        {
-          "language": "en",
-          "name": "centroid",
-          "short": "centroid"
-        },
-        {
-          "language": "ko",
-          "name": "\uc13c\ud2b8\ub85c\uc774\ub4dc",
-          "short": "\uc13c\ud2b8\ub85c\uc774\ub4dc"
-        },
-        {
-          "language": "ja",
-          "name": "centroid",
-          "short": "centroid"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "hashing",
-      "isMeta": false,
-      "bojTagId": 8,
-      "problemCount": 192,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574\uc2f1",
-          "short": "\ud574\uc2f1"
-        },
-        {
-          "language": "en",
-          "name": "hashing",
-          "short": "hash"
-        },
-        {
-          "language": "ja",
-          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
-          "short": "\u30cf\u30c3\u30b7\u30e5"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1658,
+      "problemCount": 1659,
       "displayNames": [
         {
           "language": "ko",
@@ -95,6 +47,54 @@
           "alias": "trees"
         }
       ]
+    },
+    {
+      "key": "hashing",
+      "isMeta": false,
+      "bojTagId": 8,
+      "problemCount": 193,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574\uc2f1",
+          "short": "\ud574\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "hashing",
+          "short": "hash"
+        },
+        {
+          "language": "ja",
+          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
+          "short": "\u30cf\u30c3\u30b7\u30e5"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "centroid",
+      "isMeta": false,
+      "bojTagId": 188,
+      "problemCount": 110,
+      "displayNames": [
+        {
+          "language": "en",
+          "name": "centroid",
+          "short": "centroid"
+        },
+        {
+          "language": "ko",
+          "name": "\uc13c\ud2b8\ub85c\uc774\ub4dc",
+          "short": "\uc13c\ud2b8\ub85c\uc774\ub4dc"
+        },
+        {
+          "language": "ja",
+          "name": "centroid",
+          "short": "centroid"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "tree_isomorphism",
@@ -135,6 +135,44 @@
           "alias": "\uc704\uc0c1"
         }
       ]
+    },
+    {
+      "key": "rerooting",
+      "isMeta": false,
+      "bojTagId": 233,
+      "problemCount": 18,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \uc804\ubc29\ud5a5 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub9ac\ub8e8\ud305"
+        },
+        {
+          "language": "en",
+          "name": "rerooting on trees",
+          "short": "rerooting"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "tree_diameter",
+      "isMeta": false,
+      "bojTagId": 222,
+      "problemCount": 16,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\uc758 \uc9c0\ub984",
+          "short": "\ud2b8\ub9ac\uc758 \uc9c0\ub984"
+        },
+        {
+          "language": "en",
+          "name": "diameter of a tree",
+          "short": "tree diameter"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
