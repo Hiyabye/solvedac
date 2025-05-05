@@ -11,35 +11,59 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 53,
+  "acceptedUserCount": 54,
   "level": 22,
-  "votedUserCount": 19,
+  "votedUserCount": 20,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 5.0189,
+  "averageTries": 5.0185,
   "official": true,
   "tags": [
     {
-      "key": "crt",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 19,
-      "problemCount": 50,
+      "bojTagId": 124,
+      "problemCount": 7225,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac",
-          "short": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "chinese remainder theorem",
-          "short": "crt"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406",
-          "short": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1652,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
         }
       ],
       "aliases": []
@@ -79,49 +103,25 @@
       ]
     },
     {
-      "key": "math",
+      "key": "crt",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7224,
+      "bojTagId": 19,
+      "problemCount": 50,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac",
+          "short": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "chinese remainder theorem",
+          "short": "crt"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "number_theory",
-      "isMeta": false,
-      "bojTagId": 95,
-      "problemCount": 1654,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\uc218\ub860",
-          "short": "\uc815\uc218\ub860"
-        },
-        {
-          "language": "en",
-          "name": "number theory",
-          "short": "number theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u6574\u6570\u8ad6",
-          "short": "\u6574\u6570\u8ad6"
+          "name": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406",
+          "short": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406"
         }
       ],
       "aliases": []

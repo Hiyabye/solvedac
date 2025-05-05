@@ -11,51 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 7873,
+  "acceptedUserCount": 7879,
   "level": 12,
-  "votedUserCount": 112,
+  "votedUserCount": 113,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.9019,
+  "averageTries": 2.9018,
   "official": true,
   "tags": [
-    {
-      "key": "bfs",
-      "isMeta": false,
-      "bojTagId": 126,
-      "problemCount": 1104,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "breadth-first search",
-          "short": "bfs"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e45\u512a\u5148\u691c\u7d22",
-          "short": "bfs"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "breadthfirst"
-        },
-        {
-          "alias": "breadth first"
-        }
-      ]
-    },
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4496,
+      "problemCount": 4498,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +55,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2234,
+      "problemCount": 2233,
       "displayNames": [
         {
           "language": "ko",
@@ -110,6 +79,37 @@
         },
         {
           "alias": "dfs"
+        }
+      ]
+    },
+    {
+      "key": "bfs",
+      "isMeta": false,
+      "bojTagId": 126,
+      "problemCount": 1103,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "breadth-first search",
+          "short": "bfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e45\u512a\u5148\u691c\u7d22",
+          "short": "bfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "breadthfirst"
+        },
+        {
+          "alias": "breadth first"
         }
       ]
     }

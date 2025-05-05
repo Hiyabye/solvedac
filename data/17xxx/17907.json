@@ -11,43 +11,15 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 6,
+  "acceptedUserCount": 7,
   "level": 20,
-  "votedUserCount": 1,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1,
   "official": true,
   "tags": [
-    {
-      "key": "coordinate_compression",
-      "isMeta": false,
-      "bojTagId": 161,
-      "problemCount": 264,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
-          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
-        },
-        {
-          "language": "en",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        },
-        {
-          "language": "ja",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "zip"
-        }
-      ]
-    },
     {
       "key": "data_structures",
       "isMeta": false,
@@ -120,7 +92,7 @@
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 583,
+      "problemCount": 582,
       "displayNames": [
         {
           "language": "ko",
@@ -141,6 +113,34 @@
       "aliases": [
         {
           "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
+        }
+      ]
+    },
+    {
+      "key": "coordinate_compression",
+      "isMeta": false,
+      "bojTagId": 161,
+      "problemCount": 264,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
+          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
+        },
+        {
+          "language": "en",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        },
+        {
+          "language": "ja",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "zip"
         }
       ]
     }

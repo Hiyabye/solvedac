@@ -13,41 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 54,
   "level": 21,
-  "votedUserCount": 19,
+  "votedUserCount": 20,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.7593,
   "official": true,
   "tags": [
-    {
-      "key": "coordinate_compression",
-      "isMeta": false,
-      "bojTagId": 161,
-      "problemCount": 264,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
-          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
-        },
-        {
-          "language": "en",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        },
-        {
-          "language": "ja",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "zip"
-        }
-      ]
-    },
     {
       "key": "data_structures",
       "isMeta": false,
@@ -83,7 +55,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 2989,
+      "problemCount": 2990,
       "displayNames": [
         {
           "language": "ko",
@@ -104,58 +76,6 @@
       "aliases": [
         {
           "alias": "\ud0d0\uc695\ubc95"
-        }
-      ]
-    },
-    {
-      "key": "lis",
-      "isMeta": false,
-      "bojTagId": 43,
-      "problemCount": 96,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4 \ubb38\uc81c",
-          "short": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "longest increasing sequence problem",
-          "short": "lis"
-        },
-        {
-          "language": "ja",
-          "name": "longest increasing sequence problem",
-          "short": "lis"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "offline_queries",
-      "isMeta": false,
-      "bojTagId": 123,
-      "problemCount": 307,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
-          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "offline queries",
-          "short": "offline query"
-        },
-        {
-          "language": "ja",
-          "name": "offline queries",
-          "short": "offline query"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "offlinequery"
         }
       ]
     },
@@ -200,7 +120,7 @@
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 583,
+      "problemCount": 582,
       "displayNames": [
         {
           "language": "ko",
@@ -221,6 +141,62 @@
       "aliases": [
         {
           "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
+        }
+      ]
+    },
+    {
+      "key": "offline_queries",
+      "isMeta": false,
+      "bojTagId": 123,
+      "problemCount": 308,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
+          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "offline queries",
+          "short": "offline query"
+        },
+        {
+          "language": "ja",
+          "name": "offline queries",
+          "short": "offline query"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "offlinequery"
+        }
+      ]
+    },
+    {
+      "key": "coordinate_compression",
+      "isMeta": false,
+      "bojTagId": 161,
+      "problemCount": 264,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
+          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
+        },
+        {
+          "language": "en",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        },
+        {
+          "language": "ja",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "zip"
         }
       ]
     }
