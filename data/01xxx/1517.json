@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 7408,
+  "acceptedUserCount": 7422,
   "level": 16,
-  "votedUserCount": 390,
+  "votedUserCount": 391,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.2439,
+  "averageTries": 3.2432,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4416,
+      "problemCount": 4413,
       "displayNames": [
         {
           "language": "ko",
@@ -52,32 +52,28 @@
       ]
     },
     {
-      "key": "divide_and_conquer",
+      "key": "sorting",
       "isMeta": false,
-      "bojTagId": 24,
-      "problemCount": 456,
+      "bojTagId": 97,
+      "problemCount": 2110,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5",
-          "short": "\ubd84\ud560 \uc815\ubcf5"
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
         },
         {
           "language": "en",
-          "name": "divide and conquer",
-          "short": "d&c"
+          "name": "sorting",
+          "short": "sorting"
         },
         {
           "language": "ja",
-          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
-          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
         }
       ],
-      "aliases": [
-        {
-          "alias": "dnc"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "segtree",
@@ -115,30 +111,6 @@
           "alias": "\ud39c\uc705"
         }
       ]
-    },
-    {
-      "key": "sorting",
-      "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2110,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
