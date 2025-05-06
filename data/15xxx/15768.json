@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 54,
   "level": 24,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,131 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "bcc",
-      "isMeta": false,
-      "bojTagId": 153,
-      "problemCount": 54,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\uc911 \uc5f0\uacb0 \uc694\uc18c",
-          "short": "\uc774\uc911 \uc5f0\uacb0 \uc694\uc18c"
-        },
-        {
-          "language": "en",
-          "name": "biconnected component",
-          "short": "biconnected component"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u91cd\u63a5\u7d9a\u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8",
-          "short": "\u4e8c\u91cd\u63a5\u7d9a"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bcc"
-        }
-      ]
-    },
-    {
-      "key": "dfs",
-      "isMeta": false,
-      "bojTagId": 127,
-      "problemCount": 888,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "depth-first search",
-          "short": "dfs"
-        },
-        {
-          "language": "ja",
-          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
-          "short": "dfs"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "depth first"
-        },
-        {
-          "alias": "depthfirst"
-        }
-      ]
-    },
-    {
-      "key": "dp",
-      "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 4559,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
-    {
-      "key": "dp_tree",
-      "isMeta": false,
-      "bojTagId": 92,
-      "problemCount": 507,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming on trees",
-          "short": "tree dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728\u4e0a\u306e\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "tree dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud2b8\ub9acdp"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4498,
+      "problemCount": 4500,
       "displayNames": [
         {
           "language": "ko",
@@ -176,7 +55,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2233,
+      "problemCount": 2232,
       "displayNames": [
         {
           "language": "ko",
@@ -204,30 +83,30 @@
       ]
     },
     {
-      "key": "trees",
+      "key": "bcc",
       "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1660,
+      "bojTagId": 153,
+      "problemCount": 54,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
+          "name": "\uc774\uc911 \uc5f0\uacb0 \uc694\uc18c",
+          "short": "\uc774\uc911 \uc5f0\uacb0 \uc694\uc18c"
         },
         {
           "language": "en",
-          "name": "tree",
-          "short": "tree"
+          "name": "biconnected component",
+          "short": "biconnected component"
         },
         {
           "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
+          "name": "\u4e8c\u91cd\u63a5\u7d9a\u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8",
+          "short": "\u4e8c\u91cd\u63a5\u7d9a"
         }
       ],
       "aliases": [
         {
-          "alias": "trees"
+          "alias": "bcc"
         }
       ]
     }

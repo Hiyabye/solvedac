@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 32,
   "level": 10,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,41 +21,34 @@
   "official": true,
   "tags": [
     {
-      "key": "dfs",
+      "key": "implementation",
       "isMeta": false,
-      "bojTagId": 127,
-      "problemCount": 888,
+      "bojTagId": 102,
+      "problemCount": 6166,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
         },
         {
           "language": "en",
-          "name": "depth-first search",
-          "short": "dfs"
+          "name": "implementation",
+          "short": "impl"
         },
         {
           "language": "ja",
-          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
-          "short": "dfs"
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
         }
       ],
-      "aliases": [
-        {
-          "alias": "depth first"
-        },
-        {
-          "alias": "depthfirst"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4498,
+      "problemCount": 4500,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +79,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2233,
+      "problemCount": 2232,
       "displayNames": [
         {
           "language": "ko",
@@ -114,58 +107,10 @@
       ]
     },
     {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6166,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "recursion",
-      "isMeta": false,
-      "bojTagId": 62,
-      "problemCount": 277,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc7ac\uadc0",
-          "short": "\uc7ac\uadc0"
-        },
-        {
-          "language": "en",
-          "name": "recursion",
-          "short": "recursion"
-        },
-        {
-          "language": "ja",
-          "name": "\u518d\u5e30",
-          "short": "\u518d\u5e30"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1660,
+      "problemCount": 1659,
       "displayNames": [
         {
           "language": "ko",
@@ -188,6 +133,61 @@
           "alias": "trees"
         }
       ]
+    },
+    {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 887,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
+    },
+    {
+      "key": "recursion",
+      "isMeta": false,
+      "bojTagId": 62,
+      "problemCount": 276,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc7ac\uadc0",
+          "short": "\uc7ac\uadc0"
+        },
+        {
+          "language": "en",
+          "name": "recursion",
+          "short": "recursion"
+        },
+        {
+          "language": "ja",
+          "name": "\u518d\u5e30",
+          "short": "\u518d\u5e30"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

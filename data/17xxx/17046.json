@@ -11,40 +11,46 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 16,
+  "acceptedUserCount": 17,
   "level": 23,
   "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.5625,
+  "averageTries": 4.0588,
   "official": true,
   "tags": [
     {
-      "key": "alien",
+      "key": "dp",
       "isMeta": false,
-      "bojTagId": 134,
-      "problemCount": 20,
+      "bojTagId": 25,
+      "problemCount": 4553,
       "displayNames": [
         {
           "language": "ko",
-          "name": "Aliens \ud2b8\ub9ad",
-          "short": "aliens \ud2b8\ub9ad"
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
         },
         {
           "language": "en",
-          "name": "aliens trick",
-          "short": "aliens trick"
+          "name": "dynamic programming",
+          "short": "dp"
         },
         {
           "language": "ja",
-          "name": "aliens\u6cd5",
-          "short": "aliens\u6cd5"
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
         }
       ],
       "aliases": [
         {
-          "alias": "alien's trick"
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
         }
       ]
     },
@@ -52,7 +58,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1445,
+      "problemCount": 1444,
       "displayNames": [
         {
           "language": "ko",
@@ -111,36 +117,30 @@
       ]
     },
     {
-      "key": "dp",
+      "key": "alien",
       "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 4559,
+      "bojTagId": 134,
+      "problemCount": 20,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+          "name": "Aliens \ud2b8\ub9ad",
+          "short": "aliens \ud2b8\ub9ad"
         },
         {
           "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
+          "name": "aliens trick",
+          "short": "aliens trick"
         },
         {
           "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
+          "name": "aliens\u6cd5",
+          "short": "aliens\u6cd5"
         }
       ],
       "aliases": [
         {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+          "alias": "alien's trick"
         }
       ]
     }

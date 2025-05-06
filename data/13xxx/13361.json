@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 360,
   "level": 21,
-  "votedUserCount": 88,
+  "votedUserCount": 89,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -27,30 +27,33 @@
   "official": true,
   "tags": [
     {
-      "key": "coordinate_compression",
+      "key": "graphs",
       "isMeta": false,
-      "bojTagId": 161,
-      "problemCount": 264,
+      "bojTagId": 7,
+      "problemCount": 4500,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
-          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
         },
         {
           "language": "en",
-          "name": "value / coordinate compression",
-          "short": "compression"
+          "name": "graph theory",
+          "short": "graph"
         },
         {
           "language": "ja",
-          "name": "value / coordinate compression",
-          "short": "compression"
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
         }
       ],
       "aliases": [
         {
-          "alias": "zip"
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
         }
       ]
     },
@@ -58,7 +61,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4414,
+      "problemCount": 4410,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +92,7 @@
       "key": "disjoint_set",
       "isMeta": false,
       "bojTagId": 81,
-      "problemCount": 563,
+      "problemCount": 561,
       "displayNames": [
         {
           "language": "ko",
@@ -126,64 +129,30 @@
       ]
     },
     {
-      "key": "graphs",
+      "key": "coordinate_compression",
       "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4498,
+      "bojTagId": 161,
+      "problemCount": 264,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
+          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
         },
         {
           "language": "en",
-          "name": "graph theory",
-          "short": "graph"
+          "name": "value / coordinate compression",
+          "short": "compression"
         },
         {
           "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
+          "name": "value / coordinate compression",
+          "short": "compression"
         }
       ],
       "aliases": [
         {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "graph_traversal",
-      "isMeta": false,
-      "bojTagId": 11,
-      "problemCount": 2233,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
-          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "graph traversal",
-          "short": "traversal"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
-          "short": "\u6a2a\u65ad"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bfs"
-        },
-        {
-          "alias": "dfs"
+          "alias": "zip"
         }
       ]
     }
