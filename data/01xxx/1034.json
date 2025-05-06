@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 2748,
   "level": 12,
-  "votedUserCount": 97,
+  "votedUserCount": 98,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -67,7 +67,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1817,
+      "problemCount": 1818,
       "displayNames": [
         {
           "language": "ko",
@@ -88,6 +88,25 @@
       "aliases": []
     },
     {
+      "key": "parity",
+      "isMeta": false,
+      "bojTagId": 230,
+      "problemCount": 31,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud640\uc9dd\uc131",
+          "short": "\ud640\uc9dd\uc131"
+        },
+        {
+          "language": "en",
+          "name": "parity",
+          "short": "parity"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "invariant",
       "isMeta": false,
       "bojTagId": 229,
@@ -102,25 +121,6 @@
           "language": "en",
           "name": "finding invariants",
           "short": "invariant"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "parity",
-      "isMeta": false,
-      "bojTagId": 230,
-      "problemCount": 27,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud640\uc9dd\uc131",
-          "short": "\ud640\uc9dd\uc131"
-        },
-        {
-          "language": "en",
-          "name": "parity",
-          "short": "parity"
         }
       ],
       "aliases": []
