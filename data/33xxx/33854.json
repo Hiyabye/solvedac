@@ -11,14 +11,67 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 0,
-  "level": 0,
-  "votedUserCount": 0,
+  "acceptedUserCount": 2,
+  "level": 21,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 0,
+  "averageTries": 20,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "ad_hoc",
+      "isMeta": false,
+      "bojTagId": 109,
+      "problemCount": 1819,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
+        },
+        {
+          "language": "en",
+          "name": "ad-hoc",
+          "short": "ad-hoc"
+        },
+        {
+          "language": "ja",
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "differential_cryptanalysis",
+      "isMeta": false,
+      "bojTagId": 185,
+      "problemCount": 10,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\ubd84 \uacf5\uaca9",
+          "short": "\ucc28\ubd84 \uacf5\uaca9"
+        },
+        {
+          "language": "en",
+          "name": "differential cryptanalysis",
+          "short": "differential cryptanalysis"
+        },
+        {
+          "language": "ja",
+          "name": "differential cryptanalysis",
+          "short": "differential cryptanalysis"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dc"
+        }
+      ]
+    }
+  ],
   "metadata": {}
 }
