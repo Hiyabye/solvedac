@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 904,
   "level": 14,
-  "votedUserCount": 28,
+  "votedUserCount": 29,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,38 +21,28 @@
   "official": true,
   "tags": [
     {
-      "key": "backtracking",
+      "key": "implementation",
       "isMeta": false,
-      "bojTagId": 5,
-      "problemCount": 590,
+      "bojTagId": 102,
+      "problemCount": 6157,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubc31\ud2b8\ub798\ud0b9",
-          "short": "\ubc31\ud2b8\ub798\ud0b9"
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
         },
         {
           "language": "en",
-          "name": "backtracking",
-          "short": "backtrack"
+          "name": "implementation",
+          "short": "impl"
         },
         {
           "language": "ja",
-          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
-          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\ubc31\ud2b8\ub798\ud0b9"
-        },
-        {
-          "alias": "\ud1f4\uac01\uac80\uc0c9"
-        },
-        {
-          "alias": "\ud1f4\uac01 \uac80\uc0c9"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "bruteforcing",
@@ -98,28 +88,38 @@
       ]
     },
     {
-      "key": "implementation",
+      "key": "backtracking",
       "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6166,
+      "bojTagId": 5,
+      "problemCount": 590,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
+          "name": "\ubc31\ud2b8\ub798\ud0b9",
+          "short": "\ubc31\ud2b8\ub798\ud0b9"
         },
         {
           "language": "en",
-          "name": "implementation",
-          "short": "impl"
+          "name": "backtracking",
+          "short": "backtrack"
         },
         {
           "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
+          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
+          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "alias": "\ud1f4\uac01\uac80\uc0c9"
+        },
+        {
+          "alias": "\ud1f4\uac01 \uac80\uc0c9"
+        }
+      ]
     }
   ],
   "metadata": {}
