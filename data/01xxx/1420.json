@@ -24,7 +24,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4500,
+      "problemCount": 4504,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "flow",
       "isMeta": false,
       "bojTagId": 45,
-      "problemCount": 359,
+      "problemCount": 360,
       "displayNames": [
         {
           "language": "ko",
@@ -102,6 +102,25 @@
           "alias": "\ud50c\ub85c\uc6b0"
         }
       ]
+    },
+    {
+      "key": "grid_graph",
+      "isMeta": false,
+      "bojTagId": 221,
+      "problemCount": 123,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
+          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "grid graph",
+          "short": "grid graph"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "mfmc",
