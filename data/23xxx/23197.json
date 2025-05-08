@@ -11,15 +11,39 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 30,
+  "acceptedUserCount": 31,
   "level": 23,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.4,
+  "averageTries": 3.3871,
   "official": true,
   "tags": [
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1771,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "binary_search",
       "isMeta": false,
@@ -52,58 +76,6 @@
       ]
     },
     {
-      "key": "geometry",
-      "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 1770,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
-        },
-        {
-          "language": "en",
-          "name": "geometry",
-          "short": "geom"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "parametric_search",
-      "isMeta": false,
-      "bojTagId": 170,
-      "problemCount": 443,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9",
-          "short": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "parametric search",
-          "short": "parametric search"
-        },
-        {
-          "language": "ja",
-          "name": "parametric search",
-          "short": "parametric search"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
-        }
-      ]
-    },
-    {
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
@@ -130,6 +102,25 @@
           "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
         }
       ]
+    },
+    {
+      "key": "bulldozer",
+      "isMeta": false,
+      "bojTagId": 238,
+      "problemCount": 10,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "bulldozer \ud2b8\ub9ad",
+          "short": "bulldozer"
+        },
+        {
+          "language": "en",
+          "name": "bulldozer trick",
+          "short": "bulldozer"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

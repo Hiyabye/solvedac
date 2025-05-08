@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 2,
   "level": 24,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "heuristics",
       "isMeta": false,
       "bojTagId": 142,
-      "problemCount": 115,
+      "problemCount": 117,
       "displayNames": [
         {
           "language": "ko",
@@ -71,6 +71,30 @@
           "alias": "\uc678\ud310\uc6d0\uc21c\ud68c"
         }
       ]
+    },
+    {
+      "key": "simulated_annealing",
+      "isMeta": false,
+      "bojTagId": 184,
+      "problemCount": 27,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2f4\uae08\uc9c8 \uae30\ubc95",
+          "short": "\ub2f4\uae08\uc9c8 \uae30\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "simulated annealing",
+          "short": "simulated annealing"
+        },
+        {
+          "language": "ja",
+          "name": "\u713c\u304d\u920d\u3057\u6cd5",
+          "short": "\u713c\u304d\u920d\u3057\u6cd5"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
