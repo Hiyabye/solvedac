@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 2,
   "level": 25,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -45,10 +45,34 @@
       "aliases": []
     },
     {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1772,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1655,
+      "problemCount": 1654,
       "displayNames": [
         {
           "language": "ko",
@@ -69,10 +93,38 @@
       "aliases": []
     },
     {
+      "key": "convex_hull",
+      "isMeta": false,
+      "bojTagId": 20,
+      "problemCount": 214,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubcfc\ub85d \uaecd\uc9c8",
+          "short": "\ubcfc\ub85d \uaecd\uc9c8"
+        },
+        {
+          "language": "en",
+          "name": "convex hull",
+          "short": "convex hull"
+        },
+        {
+          "language": "ja",
+          "name": "\u51f8\u5305",
+          "short": "\u51f8\u5305"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0"
+        }
+      ]
+    },
+    {
       "key": "sqrt_decomposition",
       "isMeta": false,
       "bojTagId": 130,
-      "problemCount": 135,
+      "problemCount": 134,
       "displayNames": [
         {
           "language": "ko",
@@ -107,6 +159,25 @@
           "alias": "sqrt"
         }
       ]
+    },
+    {
+      "key": "floor_sum",
+      "isMeta": false,
+      "bojTagId": 218,
+      "problemCount": 5,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc720\ub9ac \ub4f1\ucc28\uc218\uc5f4\uc758 \ub0b4\ub9bc \ud569",
+          "short": "\uc720\ub9ac \ub4f1\ucc28\uc218\uc5f4\uc758 \ub0b4\ub9bc \ud569"
+        },
+        {
+          "language": "en",
+          "name": "sum of floor of rational arithmetic sequence",
+          "short": "floor sum"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

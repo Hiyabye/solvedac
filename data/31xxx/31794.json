@@ -11,38 +11,42 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 45,
+  "acceptedUserCount": 46,
   "level": 18,
-  "votedUserCount": 21,
+  "votedUserCount": 22,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.1778,
+  "averageTries": 3.1304,
   "official": true,
   "tags": [
     {
-      "key": "manacher",
+      "key": "string",
       "isMeta": false,
-      "bojTagId": 44,
-      "problemCount": 28,
+      "bojTagId": 158,
+      "problemCount": 2698,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub9e4\ub0b4\ucc98",
-          "short": "\ub9e4\ub0b4\ucc98"
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
         },
         {
           "language": "en",
-          "name": "manacher's",
-          "short": "manacher's"
+          "name": "string",
+          "short": "string"
         },
         {
           "language": "ja",
-          "name": "manacher's",
-          "short": "manacher's"
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
     },
     {
       "key": "prefix_sum",
@@ -79,32 +83,28 @@
       ]
     },
     {
-      "key": "string",
+      "key": "manacher",
       "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2698,
+      "bojTagId": 44,
+      "problemCount": 28,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
+          "name": "\ub9e4\ub0b4\ucc98",
+          "short": "\ub9e4\ub0b4\ucc98"
         },
         {
           "language": "en",
-          "name": "string",
-          "short": "string"
+          "name": "manacher's",
+          "short": "manacher's"
         },
         {
           "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
+          "name": "manacher's",
+          "short": "manacher's"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc2a4\ud2b8\ub9c1"
-        }
-      ]
+      "aliases": []
     }
   ],
   "metadata": {}
