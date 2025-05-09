@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 99,
   "level": 21,
-  "votedUserCount": 22,
+  "votedUserCount": 23,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,84 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "euler_phi",
-      "isMeta": false,
-      "bojTagId": 151,
-      "problemCount": 52,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218",
-          "short": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218"
-        },
-        {
-          "language": "en",
-          "name": "euler totient function",
-          "short": "euler phi function"
-        },
-        {
-          "language": "ja",
-          "name": "euler totient function",
-          "short": "euler phi function"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc624\uc77c\ub7ec \ud30c\uc774"
-        },
-        {
-          "alias": "\ud1a0\uc158\ud2b8"
-        },
-        {
-          "alias": "eulerphi"
-        },
-        {
-          "alias": "euler phi"
-        }
-      ]
-    },
-    {
-      "key": "exponentiation_by_squaring",
-      "isMeta": false,
-      "bojTagId": 39,
-      "problemCount": 327,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1",
-          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1"
-        },
-        {
-          "language": "en",
-          "name": "exponentiation by squaring",
-          "short": "exponentiation by squaring"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57",
-          "short": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uac70\ub4ed\uc81c\uacf1"
-        },
-        {
-          "alias": "\uc81c\uacf1"
-        },
-        {
-          "alias": "power"
-        },
-        {
-          "alias": "square"
-        }
-      ]
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7228,
+      "problemCount": 7229,
       "displayNames": [
         {
           "language": "ko",
@@ -141,6 +67,80 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "exponentiation_by_squaring",
+      "isMeta": false,
+      "bojTagId": 39,
+      "problemCount": 327,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1",
+          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "language": "en",
+          "name": "exponentiation by squaring",
+          "short": "exponentiation by squaring"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57",
+          "short": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "alias": "\uc81c\uacf1"
+        },
+        {
+          "alias": "power"
+        },
+        {
+          "alias": "square"
+        }
+      ]
+    },
+    {
+      "key": "euler_phi",
+      "isMeta": false,
+      "bojTagId": 151,
+      "problemCount": 52,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218",
+          "short": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218"
+        },
+        {
+          "language": "en",
+          "name": "euler totient function",
+          "short": "euler phi function"
+        },
+        {
+          "language": "ja",
+          "name": "euler totient function",
+          "short": "euler phi function"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc624\uc77c\ub7ec \ud30c\uc774"
+        },
+        {
+          "alias": "\ud1a0\uc158\ud2b8"
+        },
+        {
+          "alias": "eulerphi"
+        },
+        {
+          "alias": "euler phi"
+        }
+      ]
     }
   ],
   "metadata": {}
