@@ -11,55 +11,74 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 68,
+  "acceptedUserCount": 69,
   "level": 13,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.9559,
+  "averageTries": 1.942,
   "official": true,
   "tags": [
     {
-      "key": "bruteforcing",
+      "key": "dp",
       "isMeta": false,
-      "bojTagId": 125,
-      "problemCount": 2458,
+      "bojTagId": 25,
+      "problemCount": 4558,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998",
-          "short": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998"
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
         },
         {
           "language": "en",
-          "name": "bruteforcing",
-          "short": "bruteforce"
+          "name": "dynamic programming",
+          "short": "dp"
         },
         {
           "language": "ja",
-          "name": "\u5168\u63a2\u7d22",
-          "short": "\u5168\u63a2\u7d22"
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc644\uc804\ud0d0\uc0c9"
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
         },
         {
-          "alias": "\uc644\uc804 \ud0d0\uc0c9"
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
         },
         {
-          "alias": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4"
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2698,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
         },
         {
-          "alias": "bruteforce"
+          "language": "en",
+          "name": "string",
+          "short": "string"
         },
         {
-          "alias": "brute force"
-        },
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
         {
-          "alias": "\uc644\ud0d0"
+          "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
     },
@@ -92,40 +111,6 @@
       ]
     },
     {
-      "key": "dp",
-      "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 4556,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
-    {
       "key": "recursion",
       "isMeta": false,
       "bojTagId": 62,
@@ -148,34 +133,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "string",
-      "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2699,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "string",
-          "short": "string"
-        },
-        {
-          "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc2a4\ud2b8\ub9c1"
-        }
-      ]
     }
   ],
   "metadata": {}

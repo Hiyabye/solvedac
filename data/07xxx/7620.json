@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 169,
   "level": 16,
-  "votedUserCount": 18,
+  "votedUserCount": 19,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -27,41 +27,10 @@
   "official": true,
   "tags": [
     {
-      "key": "bitset",
-      "isMeta": false,
-      "bojTagId": 152,
-      "problemCount": 105,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ube44\ud2b8 \uc9d1\ud569",
-          "short": "\ube44\ud2b8 \uc9d1\ud569"
-        },
-        {
-          "language": "en",
-          "name": "bit set",
-          "short": "bit set"
-        },
-        {
-          "language": "ja",
-          "name": "bit set",
-          "short": "bit set"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bitset"
-        },
-        {
-          "alias": "\ube44\ud2b8\uc14b"
-        }
-      ]
-    },
-    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4556,
+      "problemCount": 4558,
       "displayNames": [
         {
           "language": "ko",
@@ -95,7 +64,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2699,
+      "problemCount": 2698,
       "displayNames": [
         {
           "language": "ko",
@@ -116,6 +85,37 @@
       "aliases": [
         {
           "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
+      "key": "bitset",
+      "isMeta": false,
+      "bojTagId": 152,
+      "problemCount": 105,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8 \uc9d1\ud569",
+          "short": "\ube44\ud2b8 \uc9d1\ud569"
+        },
+        {
+          "language": "en",
+          "name": "bit set",
+          "short": "bit set"
+        },
+        {
+          "language": "ja",
+          "name": "bit set",
+          "short": "bit set"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bitset"
+        },
+        {
+          "alias": "\ube44\ud2b8\uc14b"
         }
       ]
     }
