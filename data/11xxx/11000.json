@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 13851,
   "level": 11,
-  "votedUserCount": 254,
+  "votedUserCount": 255,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -104,6 +104,25 @@
       "aliases": []
     },
     {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1174,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "priority_queue",
       "isMeta": false,
       "bojTagId": 59,
@@ -138,7 +157,7 @@
       "key": "difference_array",
       "isMeta": false,
       "bojTagId": 239,
-      "problemCount": 26,
+      "problemCount": 27,
       "displayNames": [
         {
           "language": "ko",
