@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 8,
-  "level": 22,
-  "votedUserCount": 3,
+  "level": 23,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,123 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "ad_hoc",
-      "isMeta": false,
-      "bojTagId": 109,
-      "problemCount": 1820,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc560\ub4dc \ud639",
-          "short": "\uc560\ub4dc \ud639"
-        },
-        {
-          "language": "en",
-          "name": "ad-hoc",
-          "short": "ad-hoc"
-        },
-        {
-          "language": "ja",
-          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
-          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "centroid",
-      "isMeta": false,
-      "bojTagId": 188,
-      "problemCount": 109,
-      "displayNames": [
-        {
-          "language": "en",
-          "name": "centroid",
-          "short": "centroid"
-        },
-        {
-          "language": "ko",
-          "name": "\uc13c\ud2b8\ub85c\uc774\ub4dc",
-          "short": "\uc13c\ud2b8\ub85c\uc774\ub4dc"
-        },
-        {
-          "language": "ja",
-          "name": "centroid",
-          "short": "centroid"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "constructive",
-      "isMeta": false,
-      "bojTagId": 128,
-      "problemCount": 1243,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574 \uad6c\uc131\ud558\uae30",
-          "short": "\ud574 \uad6c\uc131\ud558\uae30"
-        },
-        {
-          "language": "en",
-          "name": "constructive",
-          "short": "constructive"
-        },
-        {
-          "language": "ja",
-          "name": "\u69cb\u6210\u7684",
-          "short": "\u69cb\u6210\u7684"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "constructive"
-        },
-        {
-          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
-        },
-        {
-          "alias": "\uad6c\uc131\uc801"
-        }
-      ]
-    },
-    {
-      "key": "dfs",
-      "isMeta": false,
-      "bojTagId": 127,
-      "problemCount": 880,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "depth-first search",
-          "short": "dfs"
-        },
-        {
-          "language": "ja",
-          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
-          "short": "dfs"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "depth first"
-        },
-        {
-          "alias": "depthfirst"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4503,
+      "problemCount": 4502,
       "displayNames": [
         {
           "language": "ko",
@@ -196,68 +83,28 @@
       ]
     },
     {
-      "key": "hld",
+      "key": "ad_hoc",
       "isMeta": false,
-      "bojTagId": 35,
-      "problemCount": 94,
+      "bojTagId": 109,
+      "problemCount": 1822,
       "displayNames": [
         {
           "language": "ko",
-          "name": "Heavy-light \ubd84\ud560",
-          "short": "Heavy-light \ubd84\ud560"
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
         },
         {
           "language": "en",
-          "name": "heavy-light decomposition",
-          "short": "hld"
+          "name": "ad-hoc",
+          "short": "ad-hoc"
         },
         {
           "language": "ja",
-          "name": "heavy-light decomposition",
-          "short": "hld"
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "smaller_to_larger",
-      "isMeta": false,
-      "bojTagId": 169,
-      "problemCount": 151,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9",
-          "short": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9"
-        },
-        {
-          "language": "en",
-          "name": "smaller to larger technique",
-          "short": "smaller to larger"
-        },
-        {
-          "language": "ja",
-          "name": "smaller to larger technique",
-          "short": "smaller to larger"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "merge heuristics"
-        },
-        {
-          "alias": "sack"
-        },
-        {
-          "alias": "small to large"
-        },
-        {
-          "alias": "\uc791\uc740\uac70"
-        },
-        {
-          "alias": "\ud070\uac70"
-        }
-      ]
     },
     {
       "key": "trees",
@@ -286,6 +133,61 @@
           "alias": "trees"
         }
       ]
+    },
+    {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 881,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
+    },
+    {
+      "key": "centroid",
+      "isMeta": false,
+      "bojTagId": 188,
+      "problemCount": 109,
+      "displayNames": [
+        {
+          "language": "en",
+          "name": "centroid",
+          "short": "centroid"
+        },
+        {
+          "language": "ko",
+          "name": "\uc13c\ud2b8\ub85c\uc774\ub4dc",
+          "short": "\uc13c\ud2b8\ub85c\uc774\ub4dc"
+        },
+        {
+          "language": "ja",
+          "name": "centroid",
+          "short": "centroid"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

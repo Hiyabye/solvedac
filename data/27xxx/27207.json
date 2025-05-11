@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 21,
   "level": 16,
-  "votedUserCount": 10,
+  "votedUserCount": 11,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,33 +21,30 @@
   "official": true,
   "tags": [
     {
-      "key": "binary_search",
+      "key": "greedy",
       "isMeta": false,
-      "bojTagId": 12,
-      "problemCount": 1440,
+      "bojTagId": 33,
+      "problemCount": 2994,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
         },
         {
           "language": "en",
-          "name": "binary search",
-          "short": "binary search"
+          "name": "greedy",
+          "short": "greedy"
         },
         {
           "language": "ja",
-          "name": "\u4e8c\u5206\u63a2\u7d22",
-          "short": "\u4e8c\u5206\u63a2\u7d22"
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc774\ubd84\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+          "alias": "\ud0d0\uc695\ubc95"
         }
       ]
     },
@@ -55,7 +52,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2457,
+      "problemCount": 2456,
       "displayNames": [
         {
           "language": "ko",
@@ -95,30 +92,33 @@
       ]
     },
     {
-      "key": "greedy",
+      "key": "binary_search",
       "isMeta": false,
-      "bojTagId": 33,
-      "problemCount": 2996,
+      "bojTagId": 12,
+      "problemCount": 1441,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
-          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "greedy",
-          "short": "greedy"
+          "name": "binary search",
+          "short": "binary search"
         },
         {
           "language": "ja",
-          "name": "\u8caa\u6b32\u6cd5",
-          "short": "\u8caa\u6b32\u6cd5"
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
         }
       ],
       "aliases": [
         {
-          "alias": "\ud0d0\uc695\ubc95"
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
         }
       ]
     }
