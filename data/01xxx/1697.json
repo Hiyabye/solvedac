@@ -17,13 +17,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 55088,
+  "acceptedUserCount": 55112,
   "level": 10,
-  "votedUserCount": 205,
+  "votedUserCount": 206,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.774,
+  "averageTries": 3.7737,
   "official": true,
   "tags": [
     {
@@ -61,7 +61,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2229,
+      "problemCount": 2228,
       "displayNames": [
         {
           "language": "ko",
@@ -118,6 +118,25 @@
           "alias": "breadth first"
         }
       ]
+    },
+    {
+      "key": "grid_graph",
+      "isMeta": false,
+      "bojTagId": 221,
+      "problemCount": 126,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
+          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "grid graph",
+          "short": "grid graph"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

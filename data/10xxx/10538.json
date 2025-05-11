@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 321,
   "level": 20,
-  "votedUserCount": 49,
+  "votedUserCount": 50,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -27,41 +27,10 @@
   "official": true,
   "tags": [
     {
-      "key": "aho_corasick",
-      "isMeta": false,
-      "bojTagId": 2,
-      "problemCount": 34,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc544\ud638-\ucf54\ub77c\uc2dd",
-          "short": "\uc544\ud638-\ucf54\ub77c\uc2dd"
-        },
-        {
-          "language": "en",
-          "name": "aho-corasick",
-          "short": "aho-corasick"
-        },
-        {
-          "language": "ja",
-          "name": "\u30a2\u30db\u30b3\u30e9\u30b7\u30c3\u30af",
-          "short": "\u30a2\u30db\u30b3\u30e9\u30b7\u30c3\u30af"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc544\ud638\ucf54\ub77c\uc2dd"
-        },
-        {
-          "alias": "ahocorasick"
-        }
-      ]
-    },
-    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4407,
+      "problemCount": 4405,
       "displayNames": [
         {
           "language": "ko",
@@ -87,54 +56,6 @@
           "alias": "\uc790\uad6c"
         }
       ]
-    },
-    {
-      "key": "hashing",
-      "isMeta": false,
-      "bojTagId": 8,
-      "problemCount": 193,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574\uc2f1",
-          "short": "\ud574\uc2f1"
-        },
-        {
-          "language": "en",
-          "name": "hashing",
-          "short": "hash"
-        },
-        {
-          "language": "ja",
-          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
-          "short": "\u30cf\u30c3\u30b7\u30e5"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "kmp",
-      "isMeta": false,
-      "bojTagId": 40,
-      "problemCount": 103,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "KMP",
-          "short": "KMP"
-        },
-        {
-          "language": "en",
-          "name": "knuth\u2013morris\u2013pratt",
-          "short": "kmp"
-        },
-        {
-          "language": "ja",
-          "name": "\u30af\u30cc\u30fc\u30b9\u2013\u30e2\u30ea\u30b9\u2013\u30d7\u30e9\u30c3\u30c8\u6cd5",
-          "short": "kmp"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "string",
@@ -193,6 +114,49 @@
       ]
     },
     {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1176,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "hashing",
+      "isMeta": false,
+      "bojTagId": 8,
+      "problemCount": 193,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574\uc2f1",
+          "short": "\ud574\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "hashing",
+          "short": "hash"
+        },
+        {
+          "language": "ja",
+          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
+          "short": "\u30cf\u30c3\u30b7\u30e5"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "trie",
       "isMeta": false,
       "bojTagId": 79,
@@ -215,6 +179,61 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "kmp",
+      "isMeta": false,
+      "bojTagId": 40,
+      "problemCount": 103,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "KMP",
+          "short": "KMP"
+        },
+        {
+          "language": "en",
+          "name": "knuth\u2013morris\u2013pratt",
+          "short": "kmp"
+        },
+        {
+          "language": "ja",
+          "name": "\u30af\u30cc\u30fc\u30b9\u2013\u30e2\u30ea\u30b9\u2013\u30d7\u30e9\u30c3\u30c8\u6cd5",
+          "short": "kmp"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "aho_corasick",
+      "isMeta": false,
+      "bojTagId": 2,
+      "problemCount": 34,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc544\ud638-\ucf54\ub77c\uc2dd",
+          "short": "\uc544\ud638-\ucf54\ub77c\uc2dd"
+        },
+        {
+          "language": "en",
+          "name": "aho-corasick",
+          "short": "aho-corasick"
+        },
+        {
+          "language": "ja",
+          "name": "\u30a2\u30db\u30b3\u30e9\u30b7\u30c3\u30af",
+          "short": "\u30a2\u30db\u30b3\u30e9\u30b7\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc544\ud638\ucf54\ub77c\uc2dd"
+        },
+        {
+          "alias": "ahocorasick"
+        }
+      ]
     }
   ],
   "metadata": {}
