@@ -1,0 +1,315 @@
+{
+  "problemId": 33807,
+  "titleKo": "Minimum Spanning Arborescence",
+  "titles": [
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Minimum Spanning Arborescence",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 14,
+  "level": 17,
+  "votedUserCount": 5,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 1.1429,
+  "official": true,
+  "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7237,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4505,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "ad_hoc",
+      "isMeta": false,
+      "bojTagId": 109,
+      "problemCount": 1830,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
+        },
+        {
+          "language": "en",
+          "name": "ad-hoc",
+          "short": "ad-hoc"
+        },
+        {
+          "language": "ja",
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1655,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "combinatorics",
+      "isMeta": false,
+      "bojTagId": 6,
+      "problemCount": 1089,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc870\ud569\ub860",
+          "short": "\uc870\ud569\ub860"
+        },
+        {
+          "language": "en",
+          "name": "combinatorics",
+          "short": "combinatorics"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d44\u307f\u5408\u308f\u305b",
+          "short": "\u7d44\u307f\u5408\u308f\u305b"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "combination"
+        },
+        {
+          "alias": "permutation"
+        },
+        {
+          "alias": "probability"
+        },
+        {
+          "alias": "\ud655\ub960"
+        },
+        {
+          "alias": "\uc21c\uc5f4"
+        }
+      ]
+    },
+    {
+      "key": "probability",
+      "isMeta": false,
+      "bojTagId": 177,
+      "problemCount": 401,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\ub960\ub860",
+          "short": "\ud655\ub960\ub860"
+        },
+        {
+          "language": "en",
+          "name": "probability theory",
+          "short": "probability"
+        },
+        {
+          "language": "ja",
+          "name": "\u78ba\u7387\u8ad6",
+          "short": "\u78ba\u7387\u8ad6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "expected value"
+        },
+        {
+          "alias": "\uae30\ub300\uac12"
+        },
+        {
+          "alias": "\uae30\ub313\uac12"
+        }
+      ]
+    },
+    {
+      "key": "exponentiation_by_squaring",
+      "isMeta": false,
+      "bojTagId": 39,
+      "problemCount": 329,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1",
+          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "language": "en",
+          "name": "exponentiation by squaring",
+          "short": "exponentiation by squaring"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57",
+          "short": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "alias": "\uc81c\uacf1"
+        },
+        {
+          "alias": "power"
+        },
+        {
+          "alias": "square"
+        }
+      ]
+    },
+    {
+      "key": "dag",
+      "isMeta": false,
+      "bojTagId": 213,
+      "problemCount": 251,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
+          "short": "dag"
+        },
+        {
+          "language": "en",
+          "name": "directed acyclic graph",
+          "short": "dag"
+        },
+        {
+          "language": "ja",
+          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
+          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "modular_multiplicative_inverse",
+      "isMeta": false,
+      "bojTagId": 164,
+      "problemCount": 144,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
+          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
+        },
+        {
+          "language": "en",
+          "name": "modular multiplicative inverse",
+          "short": "modular multiplicative inverse"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
+          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "modinv"
+        }
+      ]
+    },
+    {
+      "key": "linearity_of_expectation",
+      "isMeta": false,
+      "bojTagId": 179,
+      "problemCount": 86,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131",
+          "short": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131"
+        },
+        {
+          "language": "en",
+          "name": "linearity of expectation",
+          "short": "linearity of expectation"
+        },
+        {
+          "language": "ja",
+          "name": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027",
+          "short": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027"
+        }
+      ],
+      "aliases": []
+    }
+  ],
+  "metadata": {}
+}

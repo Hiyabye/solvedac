@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 5,
+  "acceptedUserCount": 7,
   "level": 21,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.4,
+  "averageTries": 2.2857,
   "official": true,
   "tags": [
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4558,
+      "problemCount": 4561,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4502,
+      "problemCount": 4505,
       "displayNames": [
         {
           "language": "ko",
@@ -86,10 +86,38 @@
       ]
     },
     {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 2996,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
+    {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1661,
+      "problemCount": 1662,
       "displayNames": [
         {
           "language": "ko",
@@ -117,7 +145,7 @@
       "key": "dp_tree",
       "isMeta": false,
       "bojTagId": 92,
-      "problemCount": 504,
+      "problemCount": 503,
       "displayNames": [
         {
           "language": "ko",
@@ -173,7 +201,7 @@
       "key": "planar_graph",
       "isMeta": false,
       "bojTagId": 168,
-      "problemCount": 52,
+      "problemCount": 53,
       "displayNames": [
         {
           "language": "ko",
