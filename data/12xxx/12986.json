@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 309,
+  "acceptedUserCount": 315,
   "level": 19,
-  "votedUserCount": 60,
+  "votedUserCount": 61,
   "sprout": false,
   "givesNoRating": true,
   "isLevelLocked": false,
-  "averageTries": 1.8479,
+  "averageTries": 1.8508,
   "official": true,
   "tags": [
     {
@@ -48,68 +48,6 @@
         },
         {
           "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
-      "key": "mo",
-      "isMeta": false,
-      "bojTagId": 50,
-      "problemCount": 40,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "mo's",
-          "short": "Mo's"
-        },
-        {
-          "language": "en",
-          "name": "mo's",
-          "short": "mo's"
-        },
-        {
-          "language": "ja",
-          "name": "mo's",
-          "short": "mo's"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "squarerootdecomposition"
-        },
-        {
-          "alias": "sqrtdecomposition"
-        },
-        {
-          "alias": "\ud3c9\ubc29\ubd84\ud560\ubc95"
-        }
-      ]
-    },
-    {
-      "key": "offline_queries",
-      "isMeta": false,
-      "bojTagId": 123,
-      "problemCount": 309,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
-          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "offline queries",
-          "short": "offline query"
-        },
-        {
-          "language": "ja",
-          "name": "offline queries",
-          "short": "offline query"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "offlinequery"
         }
       ]
     },
@@ -147,6 +85,68 @@
         },
         {
           "alias": "\ud39c\uc705"
+        }
+      ]
+    },
+    {
+      "key": "offline_queries",
+      "isMeta": false,
+      "bojTagId": 123,
+      "problemCount": 309,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
+          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "offline queries",
+          "short": "offline query"
+        },
+        {
+          "language": "ja",
+          "name": "offline queries",
+          "short": "offline query"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "offlinequery"
+        }
+      ]
+    },
+    {
+      "key": "mo",
+      "isMeta": false,
+      "bojTagId": 50,
+      "problemCount": 40,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "mo's",
+          "short": "Mo's"
+        },
+        {
+          "language": "en",
+          "name": "mo's",
+          "short": "mo's"
+        },
+        {
+          "language": "ja",
+          "name": "mo's",
+          "short": "mo's"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "squarerootdecomposition"
+        },
+        {
+          "alias": "sqrtdecomposition"
+        },
+        {
+          "alias": "\ud3c9\ubc29\ubd84\ud560\ubc95"
         }
       ]
     }

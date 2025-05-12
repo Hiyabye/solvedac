@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 12472,
+  "acceptedUserCount": 12495,
   "level": 13,
-  "votedUserCount": 277,
+  "votedUserCount": 278,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.1683,
+  "averageTries": 2.1693,
   "official": true,
   "tags": [
     {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6151,
+      "problemCount": 6153,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4503,
+      "problemCount": 4501,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +110,7 @@
       "key": "simulation",
       "isMeta": false,
       "bojTagId": 141,
-      "problemCount": 1218,
+      "problemCount": 1219,
       "displayNames": [
         {
           "language": "ko",
@@ -134,7 +134,7 @@
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 1102,
+      "problemCount": 1101,
       "displayNames": [
         {
           "language": "ko",
@@ -162,10 +162,41 @@
       ]
     },
     {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 881,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
+    },
+    {
       "key": "grid_graph",
       "isMeta": false,
       "bojTagId": 221,
-      "problemCount": 126,
+      "problemCount": 127,
       "displayNames": [
         {
           "language": "ko",
