@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 223,
   "level": 21,
-  "votedUserCount": 66,
+  "votedUserCount": 67,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1661,
+      "problemCount": 1665,
       "displayNames": [
         {
           "language": "ko",
@@ -52,7 +52,7 @@
       "key": "set",
       "isMeta": false,
       "bojTagId": 225,
-      "problemCount": 1181,
+      "problemCount": 1192,
       "displayNames": [
         {
           "language": "ko",
@@ -71,7 +71,7 @@
       "key": "divide_and_conquer",
       "isMeta": false,
       "bojTagId": 24,
-      "problemCount": 456,
+      "problemCount": 457,
       "displayNames": [
         {
           "language": "ko",
@@ -96,10 +96,50 @@
       ]
     },
     {
+      "key": "smaller_to_larger",
+      "isMeta": false,
+      "bojTagId": 169,
+      "problemCount": 151,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9",
+          "short": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9"
+        },
+        {
+          "language": "en",
+          "name": "smaller to larger technique",
+          "short": "smaller to larger"
+        },
+        {
+          "language": "ja",
+          "name": "smaller to larger technique",
+          "short": "smaller to larger"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "merge heuristics"
+        },
+        {
+          "alias": "sack"
+        },
+        {
+          "alias": "small to large"
+        },
+        {
+          "alias": "\uc791\uc740\uac70"
+        },
+        {
+          "alias": "\ud070\uac70"
+        }
+      ]
+    },
+    {
       "key": "centroid",
       "isMeta": false,
       "bojTagId": 188,
-      "problemCount": 109,
+      "problemCount": 110,
       "displayNames": [
         {
           "language": "en",
@@ -123,7 +163,7 @@
       "key": "centroid_decomposition",
       "isMeta": false,
       "bojTagId": 18,
-      "problemCount": 84,
+      "problemCount": 85,
       "displayNames": [
         {
           "language": "ko",
