@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4409,
+      "problemCount": 4411,
       "displayNames": [
         {
           "language": "ko",
@@ -52,50 +52,10 @@
       ]
     },
     {
-      "key": "disjoint_set",
-      "isMeta": false,
-      "bojTagId": 81,
-      "problemCount": 557,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ub9ac \uc9d1\ud569",
-          "short": "\ubd84\ub9ac \uc9d1\ud569"
-        },
-        {
-          "language": "en",
-          "name": "disjoint set",
-          "short": "dsu"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "union"
-        },
-        {
-          "alias": "find"
-        },
-        {
-          "alias": "\uc720\ub2c8\uc628"
-        },
-        {
-          "alias": "\ud30c\uc778\ub4dc"
-        },
-        {
-          "alias": "dsu"
-        }
-      ]
-    },
-    {
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2115,
+      "problemCount": 2117,
       "displayNames": [
         {
           "language": "ko",
@@ -140,6 +100,46 @@
       "aliases": [
         {
           "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
+        }
+      ]
+    },
+    {
+      "key": "disjoint_set",
+      "isMeta": false,
+      "bojTagId": 81,
+      "problemCount": 559,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ub9ac \uc9d1\ud569",
+          "short": "\ubd84\ub9ac \uc9d1\ud569"
+        },
+        {
+          "language": "en",
+          "name": "disjoint set",
+          "short": "dsu"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "union"
+        },
+        {
+          "alias": "find"
+        },
+        {
+          "alias": "\uc720\ub2c8\uc628"
+        },
+        {
+          "alias": "\ud30c\uc778\ub4dc"
+        },
+        {
+          "alias": "dsu"
         }
       ]
     }
