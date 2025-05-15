@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 174,
   "level": 22,
-  "votedUserCount": 40,
+  "votedUserCount": 41,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4411,
+      "problemCount": 4414,
       "displayNames": [
         {
           "language": "ko",
@@ -52,72 +52,10 @@
       ]
     },
     {
-      "key": "mo",
-      "isMeta": false,
-      "bojTagId": 50,
-      "problemCount": 40,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "mo's",
-          "short": "Mo's"
-        },
-        {
-          "language": "en",
-          "name": "mo's",
-          "short": "mo's"
-        },
-        {
-          "language": "ja",
-          "name": "mo's",
-          "short": "mo's"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "squarerootdecomposition"
-        },
-        {
-          "alias": "sqrtdecomposition"
-        },
-        {
-          "alias": "\ud3c9\ubc29\ubd84\ud560\ubc95"
-        }
-      ]
-    },
-    {
-      "key": "offline_queries",
-      "isMeta": false,
-      "bojTagId": 123,
-      "problemCount": 308,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
-          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "offline queries",
-          "short": "offline query"
-        },
-        {
-          "language": "ja",
-          "name": "offline queries",
-          "short": "offline query"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "offlinequery"
-        }
-      ]
-    },
-    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1487,
+      "problemCount": 1489,
       "displayNames": [
         {
           "language": "ko",
@@ -147,6 +85,34 @@
         },
         {
           "alias": "\ud39c\uc705"
+        }
+      ]
+    },
+    {
+      "key": "offline_queries",
+      "isMeta": false,
+      "bojTagId": 123,
+      "problemCount": 309,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
+          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "offline queries",
+          "short": "offline query"
+        },
+        {
+          "language": "ja",
+          "name": "offline queries",
+          "short": "offline query"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "offlinequery"
         }
       ]
     },
@@ -187,6 +153,40 @@
         },
         {
           "alias": "sqrt"
+        }
+      ]
+    },
+    {
+      "key": "mo",
+      "isMeta": false,
+      "bojTagId": 50,
+      "problemCount": 41,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "mo's",
+          "short": "Mo's"
+        },
+        {
+          "language": "en",
+          "name": "mo's",
+          "short": "mo's"
+        },
+        {
+          "language": "ja",
+          "name": "mo's",
+          "short": "mo's"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "squarerootdecomposition"
+        },
+        {
+          "alias": "sqrtdecomposition"
+        },
+        {
+          "alias": "\ud3c9\ubc29\ubd84\ud560\ubc95"
         }
       ]
     }

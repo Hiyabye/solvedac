@@ -21,41 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "calculus",
-      "isMeta": false,
-      "bojTagId": 111,
-      "problemCount": 136,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubbf8\uc801\ubd84\ud559",
-          "short": "\ubbf8\uc801\ubd84\ud559"
-        },
-        {
-          "language": "en",
-          "name": "calculus",
-          "short": "calculus"
-        },
-        {
-          "language": "ja",
-          "name": "\u5fae\u7a4d\u5206",
-          "short": "\u5fae\u7a4d\u5206"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ubbf8\ubd84"
-        },
-        {
-          "alias": "\uc801\ubd84"
-        }
-      ]
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7241,
+      "problemCount": 7244,
       "displayNames": [
         {
           "language": "ko",
@@ -76,10 +45,34 @@
       "aliases": []
     },
     {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2117,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1171,
+      "problemCount": 1172,
       "displayNames": [
         {
           "language": "ko",
@@ -110,28 +103,35 @@
       ]
     },
     {
-      "key": "sorting",
+      "key": "calculus",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2117,
+      "bojTagId": 111,
+      "problemCount": 136,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\ubbf8\uc801\ubd84\ud559",
+          "short": "\ubbf8\uc801\ubd84\ud559"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
+          "name": "calculus",
+          "short": "calculus"
         },
         {
           "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "\u5fae\u7a4d\u5206",
+          "short": "\u5fae\u7a4d\u5206"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\ubbf8\ubd84"
+        },
+        {
+          "alias": "\uc801\ubd84"
+        }
+      ]
     }
   ],
   "metadata": {}

@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 14,
   "level": 23,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,112 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "dijkstra",
-      "isMeta": false,
-      "bojTagId": 22,
-      "problemCount": 647,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
-          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
-        },
-        {
-          "language": "en",
-          "name": "dijkstra's",
-          "short": "dijkstra's"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
-          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub2e4\uc775"
-        },
-        {
-          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
-        },
-        {
-          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
-        }
-      ]
-    },
-    {
-      "key": "dp",
-      "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 4565,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
-    {
-      "key": "floyd_warshall",
-      "isMeta": false,
-      "bojTagId": 31,
-      "problemCount": 184,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud50c\ub85c\uc774\ub4dc\u2013\uc6cc\uc15c",
-          "short": "\ud50c\ub85c\uc774\ub4dc\u2013\uc6cc\uc15c"
-        },
-        {
-          "language": "en",
-          "name": "floyd\u2013warshall",
-          "short": "floyd\u2013warshall"
-        },
-        {
-          "language": "ja",
-          "name": "\u30ef\u30fc\u30b7\u30e3\u30eb\u2013\u30d5\u30ed\u30a4\u30c9\u6cd5",
-          "short": "\u30ef\u30fc\u30b7\u30e3\u30eb\u2013\u30d5\u30ed\u30a4\u30c9\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud50c\ub85c\uc774\ub4dc"
-        },
-        {
-          "alias": "\ud50c\ub85c\uc774\ub4dc\uc640\uc15c"
-        },
-        {
-          "alias": "\ud50c\ub85c\uc774\ub4dc\uc640\uc0ec"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4508,
+      "problemCount": 4510,
       "displayNames": [
         {
           "language": "ko",
@@ -176,6 +74,74 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "dijkstra",
+      "isMeta": false,
+      "bojTagId": 22,
+      "problemCount": 647,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
+          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "language": "en",
+          "name": "dijkstra's",
+          "short": "dijkstra's"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
+          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub2e4\uc775"
+        },
+        {
+          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        }
+      ]
+    },
+    {
+      "key": "floyd_warshall",
+      "isMeta": false,
+      "bojTagId": 31,
+      "problemCount": 184,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud50c\ub85c\uc774\ub4dc\u2013\uc6cc\uc15c",
+          "short": "\ud50c\ub85c\uc774\ub4dc\u2013\uc6cc\uc15c"
+        },
+        {
+          "language": "en",
+          "name": "floyd\u2013warshall",
+          "short": "floyd\u2013warshall"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ef\u30fc\u30b7\u30e3\u30eb\u2013\u30d5\u30ed\u30a4\u30c9\u6cd5",
+          "short": "\u30ef\u30fc\u30b7\u30e3\u30eb\u2013\u30d5\u30ed\u30a4\u30c9\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud50c\ub85c\uc774\ub4dc"
+        },
+        {
+          "alias": "\ud50c\ub85c\uc774\ub4dc\uc640\uc15c"
+        },
+        {
+          "alias": "\ud50c\ub85c\uc774\ub4dc\uc640\uc0ec"
+        }
+      ]
     }
   ],
   "metadata": {}
