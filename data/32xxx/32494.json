@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 10,
   "level": 16,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,65 @@
   "official": true,
   "tags": [
     {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4414,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2118,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1444,
+      "problemCount": 1443,
       "displayNames": [
         {
           "language": "ko",
@@ -52,61 +107,36 @@
       ]
     },
     {
-      "key": "coordinate_compression",
+      "key": "prefix_sum",
       "isMeta": false,
-      "bojTagId": 161,
-      "problemCount": 264,
+      "bojTagId": 139,
+      "problemCount": 1172,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
-          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
+          "name": "\ub204\uc801 \ud569",
+          "short": "\ub204\uc801 \ud569"
         },
         {
           "language": "en",
-          "name": "value / coordinate compression",
-          "short": "compression"
+          "name": "prefix sum",
+          "short": "prefix sum"
         },
         {
           "language": "ja",
-          "name": "value / coordinate compression",
-          "short": "compression"
+          "name": "\u7d2f\u7a4d\u548c",
+          "short": "\u7d2f\u7a4d\u548c"
         }
       ],
       "aliases": [
         {
-          "alias": "zip"
-        }
-      ]
-    },
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4413,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
+          "alias": "\uad6c\uac04\ud569"
         },
         {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
+          "alias": "\ubd80\ubd84\ud569"
         },
         {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
+          "alias": "rangesum"
         }
       ]
     },
@@ -151,62 +181,32 @@
       ]
     },
     {
-      "key": "prefix_sum",
+      "key": "coordinate_compression",
       "isMeta": false,
-      "bojTagId": 139,
-      "problemCount": 1172,
+      "bojTagId": 161,
+      "problemCount": 264,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub204\uc801 \ud569",
-          "short": "\ub204\uc801 \ud569"
+          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
+          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
         },
         {
           "language": "en",
-          "name": "prefix sum",
-          "short": "prefix sum"
+          "name": "value / coordinate compression",
+          "short": "compression"
         },
         {
           "language": "ja",
-          "name": "\u7d2f\u7a4d\u548c",
-          "short": "\u7d2f\u7a4d\u548c"
+          "name": "value / coordinate compression",
+          "short": "compression"
         }
       ],
       "aliases": [
         {
-          "alias": "\uad6c\uac04\ud569"
-        },
-        {
-          "alias": "\ubd80\ubd84\ud569"
-        },
-        {
-          "alias": "rangesum"
+          "alias": "zip"
         }
       ]
-    },
-    {
-      "key": "sorting",
-      "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2117,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
