@@ -12,7 +12,7 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 16,
-  "level": 10,
+  "level": 11,
   "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
@@ -21,44 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "backtracking",
-      "isMeta": false,
-      "bojTagId": 5,
-      "problemCount": 589,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubc31\ud2b8\ub798\ud0b9",
-          "short": "\ubc31\ud2b8\ub798\ud0b9"
-        },
-        {
-          "language": "en",
-          "name": "backtracking",
-          "short": "backtrack"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
-          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ubc31\ud2b8\ub798\ud0b9"
-        },
-        {
-          "alias": "\ud1f4\uac01\uac80\uc0c9"
-        },
-        {
-          "alias": "\ud1f4\uac01 \uac80\uc0c9"
-        }
-      ]
-    },
-    {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2464,
+      "problemCount": 2465,
       "displayNames": [
         {
           "language": "ko",
@@ -94,6 +60,40 @@
         },
         {
           "alias": "\uc644\ud0d0"
+        }
+      ]
+    },
+    {
+      "key": "backtracking",
+      "isMeta": false,
+      "bojTagId": 5,
+      "problemCount": 590,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc31\ud2b8\ub798\ud0b9",
+          "short": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "backtracking",
+          "short": "backtrack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
+          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "alias": "\ud1f4\uac01\uac80\uc0c9"
+        },
+        {
+          "alias": "\ud1f4\uac01 \uac80\uc0c9"
         }
       ]
     }

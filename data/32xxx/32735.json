@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 8,
-  "level": 11,
-  "votedUserCount": 3,
+  "level": 14,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 1014,
+      "problemCount": 1015,
       "displayNames": [
         {
           "language": "ko",
@@ -53,6 +53,25 @@
           "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
         }
       ]
+    },
+    {
+      "key": "invariant",
+      "isMeta": false,
+      "bojTagId": 229,
+      "problemCount": 18,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd88\ubcc0\ub7c9 \ucc3e\uae30",
+          "short": "\ubd88\ubcc0\ub7c9"
+        },
+        {
+          "language": "en",
+          "name": "finding invariants",
+          "short": "invariant"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

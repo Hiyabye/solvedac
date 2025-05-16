@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 13,
-  "level": 27,
-  "votedUserCount": 5,
+  "level": 26,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,82 @@
   "official": true,
   "tags": [
     {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7249,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6164,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1662,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "combinatorics",
       "isMeta": false,
       "bojTagId": 6,
-      "problemCount": 1091,
+      "problemCount": 1092,
       "displayNames": [
         {
           "language": "ko",
@@ -61,82 +133,39 @@
       ]
     },
     {
-      "key": "crt",
+      "key": "primality_test",
       "isMeta": false,
-      "bojTagId": 19,
-      "problemCount": 51,
+      "bojTagId": 9,
+      "problemCount": 360,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac",
-          "short": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac"
+          "name": "\uc18c\uc218 \ud310\uc815",
+          "short": "\uc18c\uc218 \ud310\uc815"
         },
         {
           "language": "en",
-          "name": "chinese remainder theorem",
-          "short": "crt"
+          "name": "primality test",
+          "short": "primality test"
         },
         {
           "language": "ja",
-          "name": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406",
-          "short": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "cyclic_group",
-      "isMeta": false,
-      "bojTagId": 231,
-      "problemCount": 16,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc21c\ud658\uad70",
-          "short": "\uc21c\ud658\uad70"
-        },
-        {
-          "language": "en",
-          "name": "cyclic group",
-          "short": "cyclic group"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "euler_phi",
-      "isMeta": false,
-      "bojTagId": 151,
-      "problemCount": 52,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218",
-          "short": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218"
-        },
-        {
-          "language": "en",
-          "name": "euler totient function",
-          "short": "euler phi function"
-        },
-        {
-          "language": "ja",
-          "name": "euler totient function",
-          "short": "euler phi function"
+          "name": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8",
+          "short": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc624\uc77c\ub7ec \ud30c\uc774"
+          "alias": "\uc18c\uc218"
         },
         {
-          "alias": "\ud1a0\uc158\ud2b8"
+          "alias": "\uc18c\uc218\ud310\ubcc4"
         },
         {
-          "alias": "eulerphi"
+          "alias": "\uc18c\uc218\ud310\uc815"
         },
         {
-          "alias": "euler phi"
+          "alias": "prime"
         }
       ]
     },
@@ -178,49 +207,133 @@
       ]
     },
     {
-      "key": "implementation",
+      "key": "randomization",
       "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6164,
+      "bojTagId": 115,
+      "problemCount": 172,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
+          "name": "\ubb34\uc791\uc704\ud654",
+          "short": "\ubb34\uc791\uc704\ud654"
         },
         {
           "language": "en",
-          "name": "implementation",
-          "short": "impl"
+          "name": "randomization",
+          "short": "randomization"
         },
         {
           "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
+          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
+          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub79c\ub364"
+        }
+      ]
+    },
+    {
+      "key": "euler_phi",
+      "isMeta": false,
+      "bojTagId": 151,
+      "problemCount": 52,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218",
+          "short": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218"
+        },
+        {
+          "language": "en",
+          "name": "euler totient function",
+          "short": "euler phi function"
+        },
+        {
+          "language": "ja",
+          "name": "euler totient function",
+          "short": "euler phi function"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc624\uc77c\ub7ec \ud30c\uc774"
+        },
+        {
+          "alias": "\ud1a0\uc158\ud2b8"
+        },
+        {
+          "alias": "eulerphi"
+        },
+        {
+          "alias": "euler phi"
+        }
+      ]
+    },
+    {
+      "key": "crt",
+      "isMeta": false,
+      "bojTagId": 19,
+      "problemCount": 51,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac",
+          "short": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "chinese remainder theorem",
+          "short": "crt"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406",
+          "short": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406"
         }
       ],
       "aliases": []
     },
     {
-      "key": "math",
+      "key": "prime_factorization",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7244,
+      "bojTagId": 242,
+      "problemCount": 46,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\uc18c\uc778\uc218\ubd84\ud574",
+          "short": "\uc18c\uc778\uc218\ubd84\ud574"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "prime factorization",
+          "short": "prime factorization"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "pollard_rho",
+      "isMeta": false,
+      "bojTagId": 58,
+      "problemCount": 30,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud3f4\ub77c\ub4dc \ub85c",
+          "short": "\ud3f4\ub77c\ub4dc \ub85c"
+        },
+        {
+          "language": "en",
+          "name": "pollard rho",
+          "short": "pollard rho"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc\u7d20\u56e0\u6570\u5206\u89e3\u6cd5",
+          "short": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc"
         }
       ],
       "aliases": []
@@ -278,136 +391,23 @@
       ]
     },
     {
-      "key": "number_theory",
+      "key": "cyclic_group",
       "isMeta": false,
-      "bojTagId": 95,
-      "problemCount": 1662,
+      "bojTagId": 231,
+      "problemCount": 16,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\uc218\ub860",
-          "short": "\uc815\uc218\ub860"
+          "name": "\uc21c\ud658\uad70",
+          "short": "\uc21c\ud658\uad70"
         },
         {
           "language": "en",
-          "name": "number theory",
-          "short": "number theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u6574\u6570\u8ad6",
-          "short": "\u6574\u6570\u8ad6"
+          "name": "cyclic group",
+          "short": "cyclic group"
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "pollard_rho",
-      "isMeta": false,
-      "bojTagId": 58,
-      "problemCount": 30,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud3f4\ub77c\ub4dc \ub85c",
-          "short": "\ud3f4\ub77c\ub4dc \ub85c"
-        },
-        {
-          "language": "en",
-          "name": "pollard rho",
-          "short": "pollard rho"
-        },
-        {
-          "language": "ja",
-          "name": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc\u7d20\u56e0\u6570\u5206\u89e3\u6cd5",
-          "short": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "primality_test",
-      "isMeta": false,
-      "bojTagId": 9,
-      "problemCount": 360,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc18c\uc218 \ud310\uc815",
-          "short": "\uc18c\uc218 \ud310\uc815"
-        },
-        {
-          "language": "en",
-          "name": "primality test",
-          "short": "primality test"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8",
-          "short": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc18c\uc218"
-        },
-        {
-          "alias": "\uc18c\uc218\ud310\ubcc4"
-        },
-        {
-          "alias": "\uc18c\uc218\ud310\uc815"
-        },
-        {
-          "alias": "prime"
-        }
-      ]
-    },
-    {
-      "key": "prime_factorization",
-      "isMeta": false,
-      "bojTagId": 242,
-      "problemCount": 45,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc18c\uc778\uc218\ubd84\ud574",
-          "short": "\uc18c\uc778\uc218\ubd84\ud574"
-        },
-        {
-          "language": "en",
-          "name": "prime factorization",
-          "short": "prime factorization"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "randomization",
-      "isMeta": false,
-      "bojTagId": 115,
-      "problemCount": 172,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubb34\uc791\uc704\ud654",
-          "short": "\ubb34\uc791\uc704\ud654"
-        },
-        {
-          "language": "en",
-          "name": "randomization",
-          "short": "randomization"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
-          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub79c\ub364"
-        }
-      ]
     }
   ],
   "metadata": {}
