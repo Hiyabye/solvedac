@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 1242,
   "level": 16,
-  "votedUserCount": 123,
+  "votedUserCount": 124,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,75 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "euclidean",
-      "isMeta": false,
-      "bojTagId": 26,
-      "problemCount": 231,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95",
-          "short": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95"
-        },
-        {
-          "language": "en",
-          "name": "euclidean algorithm",
-          "short": "euclidean algorithm"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
-          "short": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
-        }
-      ]
-    },
-    {
-      "key": "exponentiation_by_squaring",
-      "isMeta": false,
-      "bojTagId": 39,
-      "problemCount": 330,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1",
-          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1"
-        },
-        {
-          "language": "en",
-          "name": "exponentiation by squaring",
-          "short": "exponentiation by squaring"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57",
-          "short": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uac70\ub4ed\uc81c\uacf1"
-        },
-        {
-          "alias": "\uc81c\uacf1"
-        },
-        {
-          "alias": "power"
-        },
-        {
-          "alias": "square"
-        }
-      ]
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7244,
+      "problemCount": 7249,
       "displayNames": [
         {
           "language": "ko",
@@ -132,6 +67,71 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "exponentiation_by_squaring",
+      "isMeta": false,
+      "bojTagId": 39,
+      "problemCount": 330,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1",
+          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "language": "en",
+          "name": "exponentiation by squaring",
+          "short": "exponentiation by squaring"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57",
+          "short": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "alias": "\uc81c\uacf1"
+        },
+        {
+          "alias": "power"
+        },
+        {
+          "alias": "square"
+        }
+      ]
+    },
+    {
+      "key": "euclidean",
+      "isMeta": false,
+      "bojTagId": 26,
+      "problemCount": 231,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95",
+          "short": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "euclidean algorithm",
+          "short": "euclidean algorithm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
+          "short": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
+        }
+      ]
     }
   ],
   "metadata": {}
