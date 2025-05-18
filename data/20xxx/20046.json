@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 683,
   "level": 12,
-  "votedUserCount": 42,
+  "votedUserCount": 43,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4510,
+      "problemCount": 4513,
       "displayNames": [
         {
           "language": "ko",
@@ -52,10 +52,41 @@
       ]
     },
     {
+      "key": "graph_traversal",
+      "isMeta": false,
+      "bojTagId": 11,
+      "problemCount": 2241,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
+          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "graph traversal",
+          "short": "traversal"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
+          "short": "\u6a2a\u65ad"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bfs"
+        },
+        {
+          "alias": "dfs"
+        }
+      ]
+    },
+    {
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 875,
+      "problemCount": 876,
       "displayNames": [
         {
           "language": "ko",
@@ -113,7 +144,7 @@
       "key": "grid_graph",
       "isMeta": false,
       "bojTagId": 221,
-      "problemCount": 130,
+      "problemCount": 132,
       "displayNames": [
         {
           "language": "ko",
