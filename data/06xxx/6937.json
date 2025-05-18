@@ -21,44 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "2_sat",
-      "isMeta": false,
-      "bojTagId": 1,
-      "problemCount": 68,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "2-sat",
-          "short": "2-sat"
-        },
-        {
-          "language": "en",
-          "name": "2-sat",
-          "short": "2-sat"
-        },
-        {
-          "language": "ja",
-          "name": "2-sat",
-          "short": "2-sat"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud22c\uc14b"
-        },
-        {
-          "alias": "twosat"
-        },
-        {
-          "alias": "2sat"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4510,
+      "problemCount": 4512,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +55,7 @@
       "key": "scc",
       "isMeta": false,
       "bojTagId": 76,
-      "problemCount": 170,
+      "problemCount": 171,
       "displayNames": [
         {
           "language": "ko",
@@ -110,30 +76,36 @@
       "aliases": []
     },
     {
-      "key": "string",
+      "key": "2_sat",
       "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2704,
+      "bojTagId": 1,
+      "problemCount": 68,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
+          "name": "2-sat",
+          "short": "2-sat"
         },
         {
           "language": "en",
-          "name": "string",
-          "short": "string"
+          "name": "2-sat",
+          "short": "2-sat"
         },
         {
           "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
+          "name": "2-sat",
+          "short": "2-sat"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc2a4\ud2b8\ub9c1"
+          "alias": "\ud22c\uc14b"
+        },
+        {
+          "alias": "twosat"
+        },
+        {
+          "alias": "2sat"
         }
       ]
     }
