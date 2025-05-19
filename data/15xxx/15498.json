@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 4,
   "level": 19,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7255,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2467,
+      "problemCount": 2469,
       "displayNames": [
         {
           "language": "ko",
@@ -62,88 +86,6 @@
           "alias": "\uc644\ud0d0"
         }
       ]
-    },
-    {
-      "key": "fft",
-      "isMeta": false,
-      "bojTagId": 28,
-      "problemCount": 148,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uace0\uc18d \ud478\ub9ac\uc5d0 \ubcc0\ud658",
-          "short": "\uace0\uc18d \ud478\ub9ac\uc5d0 \ubcc0\ud658"
-        },
-        {
-          "language": "en",
-          "name": "fast fourier transform",
-          "short": "fft"
-        },
-        {
-          "language": "ja",
-          "name": "\u9ad8\u901f\u30d5\u30fc\u30ea\u30a8\u5909\u63db",
-          "short": "fft"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud478\ub9ac\uc5d0\ubcc0\ud658"
-        },
-        {
-          "alias": "\ucee8\ubcfc\ub8e8\uc158"
-        },
-        {
-          "alias": "convolution"
-        }
-      ]
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7251,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "mitm",
-      "isMeta": false,
-      "bojTagId": 46,
-      "problemCount": 104,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30",
-          "short": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30"
-        },
-        {
-          "language": "en",
-          "name": "meet in the middle",
-          "short": "meet in the middle"
-        },
-        {
-          "language": "ja",
-          "name": "\u534a\u5206\u5168\u5217\u6319",
-          "short": "\u534a\u5206\u5168\u5217\u6319"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
