@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 10,
+  "acceptedUserCount": 11,
   "level": 23,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.1,
+  "averageTries": 2,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4514,
+      "problemCount": 4518,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1671,
+      "problemCount": 1672,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +83,7 @@
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 876,
+      "problemCount": 878,
       "displayNames": [
         {
           "language": "ko",
@@ -107,7 +107,7 @@
       "key": "dijkstra",
       "isMeta": false,
       "bojTagId": 22,
-      "problemCount": 649,
+      "problemCount": 650,
       "displayNames": [
         {
           "language": "ko",
@@ -200,30 +200,6 @@
           "alias": "\ud070\uac70"
         }
       ]
-    },
-    {
-      "key": "hld",
-      "isMeta": false,
-      "bojTagId": 35,
-      "problemCount": 93,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "Heavy-light \ubd84\ud560",
-          "short": "Heavy-light \ubd84\ud560"
-        },
-        {
-          "language": "en",
-          "name": "heavy-light decomposition",
-          "short": "hld"
-        },
-        {
-          "language": "ja",
-          "name": "heavy-light decomposition",
-          "short": "hld"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}

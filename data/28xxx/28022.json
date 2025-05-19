@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 9,
+  "acceptedUserCount": 10,
   "level": 17,
-  "votedUserCount": 3,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.1111,
+  "averageTries": 1.1,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4514,
+      "problemCount": 4518,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4426,
+      "problemCount": 4431,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2241,
+      "problemCount": 2243,
       "displayNames": [
         {
           "language": "ko",
@@ -114,29 +114,10 @@
       ]
     },
     {
-      "key": "set",
-      "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1219,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map",
-          "short": "set"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 1105,
+      "problemCount": 1106,
       "displayNames": [
         {
           "language": "ko",
@@ -167,7 +148,7 @@
       "key": "tree_set",
       "isMeta": false,
       "bojTagId": 74,
-      "problemCount": 532,
+      "problemCount": 534,
       "displayNames": [
         {
           "language": "ko",
@@ -217,6 +198,54 @@
           "alias": "tree"
         }
       ]
+    },
+    {
+      "key": "dag",
+      "isMeta": false,
+      "bojTagId": 213,
+      "problemCount": 260,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
+          "short": "dag"
+        },
+        {
+          "language": "en",
+          "name": "directed acyclic graph",
+          "short": "dag"
+        },
+        {
+          "language": "ja",
+          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
+          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "topological_sorting",
+      "isMeta": false,
+      "bojTagId": 78,
+      "problemCount": 212,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc704\uc0c1 \uc815\ub82c",
+          "short": "\uc704\uc0c1 \uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "topological sorting",
+          "short": "topological sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8",
+          "short": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
