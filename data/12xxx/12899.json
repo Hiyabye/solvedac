@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 1592,
   "level": 17,
-  "votedUserCount": 216,
+  "votedUserCount": 217,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4423,
+      "problemCount": 4430,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1489,
+      "problemCount": 1491,
       "displayNames": [
         {
           "language": "ko",
@@ -89,23 +89,35 @@
       ]
     },
     {
-      "key": "set",
+      "key": "binary_search",
       "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1219,
+      "bojTagId": 12,
+      "problemCount": 1445,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "set / map",
-          "short": "set"
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
     }
   ],
   "metadata": {}

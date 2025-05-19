@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 49,
   "level": 14,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,87 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "bruteforcing",
-      "isMeta": false,
-      "bojTagId": 125,
-      "problemCount": 2467,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998",
-          "short": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998"
-        },
-        {
-          "language": "en",
-          "name": "bruteforcing",
-          "short": "bruteforce"
-        },
-        {
-          "language": "ja",
-          "name": "\u5168\u63a2\u7d22",
-          "short": "\u5168\u63a2\u7d22"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc644\uc804\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc644\uc804 \ud0d0\uc0c9"
-        },
-        {
-          "alias": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4"
-        },
-        {
-          "alias": "bruteforce"
-        },
-        {
-          "alias": "brute force"
-        },
-        {
-          "alias": "\uc644\ud0d0"
-        }
-      ]
-    },
-    {
-      "key": "dijkstra",
-      "isMeta": false,
-      "bojTagId": 22,
-      "problemCount": 649,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
-          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
-        },
-        {
-          "language": "en",
-          "name": "dijkstra's",
-          "short": "dijkstra's"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
-          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub2e4\uc775"
-        },
-        {
-          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
-        },
-        {
-          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4512,
+      "problemCount": 4517,
       "displayNames": [
         {
           "language": "ko",
@@ -132,7 +55,7 @@
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 876,
+      "problemCount": 877,
       "displayNames": [
         {
           "language": "ko",
@@ -151,6 +74,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "dijkstra",
+      "isMeta": false,
+      "bojTagId": 22,
+      "problemCount": 650,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
+          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "language": "en",
+          "name": "dijkstra's",
+          "short": "dijkstra's"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
+          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub2e4\uc775"
+        },
+        {
+          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        }
+      ]
     }
   ],
   "metadata": {}
