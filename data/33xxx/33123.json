@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 12,
   "level": 21,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,41 +21,34 @@
   "official": true,
   "tags": [
     {
-      "key": "binary_search",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 12,
-      "problemCount": 1446,
+      "bojTagId": 124,
+      "problemCount": 7269,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "binary search",
-          "short": "binary search"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u4e8c\u5206\u63a2\u7d22",
-          "short": "\u4e8c\u5206\u63a2\u7d22"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc774\ubd84\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4431,
+      "problemCount": 4434,
       "displayNames": [
         {
           "language": "ko",
@@ -83,92 +76,10 @@
       ]
     },
     {
-      "key": "linearity_of_expectation",
-      "isMeta": false,
-      "bojTagId": 179,
-      "problemCount": 86,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131",
-          "short": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131"
-        },
-        {
-          "language": "en",
-          "name": "linearity of expectation",
-          "short": "linearity of expectation"
-        },
-        {
-          "language": "ja",
-          "name": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027",
-          "short": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7257,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "probability",
-      "isMeta": false,
-      "bojTagId": 177,
-      "problemCount": 403,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud655\ub960\ub860",
-          "short": "\ud655\ub960\ub860"
-        },
-        {
-          "language": "en",
-          "name": "probability theory",
-          "short": "probability"
-        },
-        {
-          "language": "ja",
-          "name": "\u78ba\u7387\u8ad6",
-          "short": "\u78ba\u7387\u8ad6"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "expected value"
-        },
-        {
-          "alias": "\uae30\ub300\uac12"
-        },
-        {
-          "alias": "\uae30\ub313\uac12"
-        }
-      ]
-    },
-    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1491,
+      "problemCount": 1492,
       "displayNames": [
         {
           "language": "ko",
@@ -200,6 +111,95 @@
           "alias": "\ud39c\uc705"
         }
       ]
+    },
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1449,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "probability",
+      "isMeta": false,
+      "bojTagId": 177,
+      "problemCount": 404,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\ub960\ub860",
+          "short": "\ud655\ub960\ub860"
+        },
+        {
+          "language": "en",
+          "name": "probability theory",
+          "short": "probability"
+        },
+        {
+          "language": "ja",
+          "name": "\u78ba\u7387\u8ad6",
+          "short": "\u78ba\u7387\u8ad6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "expected value"
+        },
+        {
+          "alias": "\uae30\ub300\uac12"
+        },
+        {
+          "alias": "\uae30\ub313\uac12"
+        }
+      ]
+    },
+    {
+      "key": "linearity_of_expectation",
+      "isMeta": false,
+      "bojTagId": 179,
+      "problemCount": 87,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131",
+          "short": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131"
+        },
+        {
+          "language": "en",
+          "name": "linearity of expectation",
+          "short": "linearity of expectation"
+        },
+        {
+          "language": "ja",
+          "name": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027",
+          "short": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 23,
   "level": 20,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,41 @@
   "official": true,
   "tags": [
     {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4526,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4431,
+      "problemCount": 4434,
       "displayNames": [
         {
           "language": "ko",
@@ -52,10 +83,38 @@
       ]
     },
     {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1674,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
+    },
+    {
       "key": "disjoint_set",
       "isMeta": false,
       "bojTagId": 81,
-      "problemCount": 562,
+      "problemCount": 563,
       "displayNames": [
         {
           "language": "ko",
@@ -92,35 +151,28 @@
       ]
     },
     {
-      "key": "graphs",
+      "key": "mst",
       "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4518,
+      "bojTagId": 49,
+      "problemCount": 230,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+          "name": "\ucd5c\uc18c \uc2a4\ud328\ub2dd \ud2b8\ub9ac",
+          "short": "\ucd5c\uc18c \uc2a4\ud328\ub2dd \ud2b8\ub9ac"
         },
         {
           "language": "en",
-          "name": "graph theory",
-          "short": "graph"
+          "name": "minimum spanning tree",
+          "short": "mst"
         },
         {
           "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
+          "name": "\u6700\u5c0f\u5168\u57df\u6728",
+          "short": "\u6700\u5c0f\u5168\u57df\u6728"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "lca",
@@ -147,34 +199,10 @@
       "aliases": []
     },
     {
-      "key": "mst",
-      "isMeta": false,
-      "bojTagId": 49,
-      "problemCount": 230,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\uc18c \uc2a4\ud328\ub2dd \ud2b8\ub9ac",
-          "short": "\ucd5c\uc18c \uc2a4\ud328\ub2dd \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "minimum spanning tree",
-          "short": "mst"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u5c0f\u5168\u57df\u6728",
-          "short": "\u6700\u5c0f\u5168\u57df\u6728"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "sparse_table",
       "isMeta": false,
       "bojTagId": 84,
-      "problemCount": 166,
+      "problemCount": 167,
       "displayNames": [
         {
           "language": "ko",
@@ -198,34 +226,6 @@
         },
         {
           "alias": "sparse table"
-        }
-      ]
-    },
-    {
-      "key": "trees",
-      "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1672,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "tree",
-          "short": "tree"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "trees"
         }
       ]
     }
