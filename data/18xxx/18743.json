@@ -48,7 +48,7 @@
       "key": "divide_and_conquer",
       "isMeta": false,
       "bojTagId": 24,
-      "problemCount": 460,
+      "problemCount": 461,
       "displayNames": [
         {
           "language": "ko",
@@ -76,7 +76,7 @@
       "key": "fft",
       "isMeta": false,
       "bojTagId": 28,
-      "problemCount": 147,
+      "problemCount": 148,
       "displayNames": [
         {
           "language": "ko",
@@ -105,6 +105,25 @@
           "alias": "convolution"
         }
       ]
+    },
+    {
+      "key": "cdq",
+      "isMeta": false,
+      "bojTagId": 237,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "cdq \ubd84\ud560 \uc815\ubcf5",
+          "short": "cdq"
+        },
+        {
+          "language": "en",
+          "name": "cdq",
+          "short": "cdq"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
