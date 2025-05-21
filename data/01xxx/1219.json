@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 2525,
   "level": 16,
-  "votedUserCount": 114,
+  "votedUserCount": 115,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,44 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "bellman_ford",
-      "isMeta": false,
-      "bojTagId": 10,
-      "problemCount": 45,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubca8\ub9cc\u2013\ud3ec\ub4dc",
-          "short": "\ubca8\ub9cc\u2013\ud3ec\ub4dc"
-        },
-        {
-          "language": "en",
-          "name": "bellman\u2013ford",
-          "short": "bellman-ford"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9\u6cd5",
-          "short": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bellmanford"
-        },
-        {
-          "alias": "\ubca8\ub9cc\ud3ec\ub4dc"
-        },
-        {
-          "alias": "spfa"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4525,
+      "problemCount": 4526,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +55,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2248,
+      "problemCount": 2249,
       "displayNames": [
         {
           "language": "ko",
@@ -139,6 +105,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "bellman_ford",
+      "isMeta": false,
+      "bojTagId": 10,
+      "problemCount": 45,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubca8\ub9cc\u2013\ud3ec\ub4dc",
+          "short": "\ubca8\ub9cc\u2013\ud3ec\ub4dc"
+        },
+        {
+          "language": "en",
+          "name": "bellman\u2013ford",
+          "short": "bellman-ford"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9\u6cd5",
+          "short": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bellmanford"
+        },
+        {
+          "alias": "\ubca8\ub9cc\ud3ec\ub4dc"
+        },
+        {
+          "alias": "spfa"
+        }
+      ]
     }
   ],
   "metadata": {}
