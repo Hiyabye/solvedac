@@ -11,82 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 68,
+  "acceptedUserCount": 69,
   "level": 21,
-  "votedUserCount": 18,
+  "votedUserCount": 19,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.3088,
+  "averageTries": 2.2899,
   "official": true,
   "tags": [
-    {
-      "key": "aho_corasick",
-      "isMeta": false,
-      "bojTagId": 2,
-      "problemCount": 34,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc544\ud638-\ucf54\ub77c\uc2dd",
-          "short": "\uc544\ud638-\ucf54\ub77c\uc2dd"
-        },
-        {
-          "language": "en",
-          "name": "aho-corasick",
-          "short": "aho-corasick"
-        },
-        {
-          "language": "ja",
-          "name": "\u30a2\u30db\u30b3\u30e9\u30b7\u30c3\u30af",
-          "short": "\u30a2\u30db\u30b3\u30e9\u30b7\u30c3\u30af"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc544\ud638\ucf54\ub77c\uc2dd"
-        },
-        {
-          "alias": "ahocorasick"
-        }
-      ]
-    },
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4434,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4584,
+      "problemCount": 4586,
       "displayNames": [
         {
           "language": "ko",
@@ -117,54 +55,33 @@
       ]
     },
     {
-      "key": "hashing",
+      "key": "data_structures",
       "isMeta": false,
-      "bojTagId": 8,
-      "problemCount": 194,
+      "bojTagId": 175,
+      "problemCount": 4436,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud574\uc2f1",
-          "short": "\ud574\uc2f1"
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
         },
         {
           "language": "en",
-          "name": "hashing",
-          "short": "hash"
+          "name": "data structures",
+          "short": "ds"
         },
         {
           "language": "ja",
-          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
-          "short": "\u30cf\u30c3\u30b7\u30e5"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "rabin_karp",
-      "isMeta": false,
-      "bojTagId": 61,
-      "problemCount": 21,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub77c\ube48\u2013\uce74\ud504",
-          "short": "\ub77c\ube48\u2013\uce74\ud504"
-        },
-        {
-          "language": "en",
-          "name": "rabin\u2013karp",
-          "short": "rabin\u2013karp"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e9\u30d3\u30f3-\u30ab\u30fc\u30d7\u6587\u5b57\u5217\u691c\u7d22",
-          "short": "\u30e9\u30d3\u30f3-\u30ab\u30fc\u30d7\u6587\u5b57\u5217\u691c\u7d22"
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
         }
       ],
       "aliases": [
         {
-          "alias": "\ub77c\ube48\uce74\ud504"
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
         }
       ]
     },
@@ -172,7 +89,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2708,
+      "problemCount": 2711,
       "displayNames": [
         {
           "language": "ko",
@@ -225,6 +142,30 @@
       ]
     },
     {
+      "key": "hashing",
+      "isMeta": false,
+      "bojTagId": 8,
+      "problemCount": 195,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574\uc2f1",
+          "short": "\ud574\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "hashing",
+          "short": "hash"
+        },
+        {
+          "language": "ja",
+          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
+          "short": "\u30cf\u30c3\u30b7\u30e5"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "trie",
       "isMeta": false,
       "bojTagId": 79,
@@ -247,6 +188,65 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "aho_corasick",
+      "isMeta": false,
+      "bojTagId": 2,
+      "problemCount": 34,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc544\ud638-\ucf54\ub77c\uc2dd",
+          "short": "\uc544\ud638-\ucf54\ub77c\uc2dd"
+        },
+        {
+          "language": "en",
+          "name": "aho-corasick",
+          "short": "aho-corasick"
+        },
+        {
+          "language": "ja",
+          "name": "\u30a2\u30db\u30b3\u30e9\u30b7\u30c3\u30af",
+          "short": "\u30a2\u30db\u30b3\u30e9\u30b7\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc544\ud638\ucf54\ub77c\uc2dd"
+        },
+        {
+          "alias": "ahocorasick"
+        }
+      ]
+    },
+    {
+      "key": "rabin_karp",
+      "isMeta": false,
+      "bojTagId": 61,
+      "problemCount": 21,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub77c\ube48\u2013\uce74\ud504",
+          "short": "\ub77c\ube48\u2013\uce74\ud504"
+        },
+        {
+          "language": "en",
+          "name": "rabin\u2013karp",
+          "short": "rabin\u2013karp"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e9\u30d3\u30f3-\u30ab\u30fc\u30d7\u6587\u5b57\u5217\u691c\u7d22",
+          "short": "\u30e9\u30d3\u30f3-\u30ab\u30fc\u30d7\u6587\u5b57\u5217\u691c\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub77c\ube48\uce74\ud504"
+        }
+      ]
     }
   ],
   "metadata": {}
