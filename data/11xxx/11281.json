@@ -21,44 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "2_sat",
-      "isMeta": false,
-      "bojTagId": 1,
-      "problemCount": 68,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "2-sat",
-          "short": "2-sat"
-        },
-        {
-          "language": "en",
-          "name": "2-sat",
-          "short": "2-sat"
-        },
-        {
-          "language": "ja",
-          "name": "2-sat",
-          "short": "2-sat"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud22c\uc14b"
-        },
-        {
-          "alias": "twosat"
-        },
-        {
-          "alias": "2sat"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4526,
+      "problemCount": 4528,
       "displayNames": [
         {
           "language": "ko",
@@ -105,6 +71,59 @@
           "language": "ja",
           "name": "\u5f37\u9023\u7d50",
           "short": "\u5f37\u9023\u7d50"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "2_sat",
+      "isMeta": false,
+      "bojTagId": 1,
+      "problemCount": 68,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "2-sat",
+          "short": "2-sat"
+        },
+        {
+          "language": "en",
+          "name": "2-sat",
+          "short": "2-sat"
+        },
+        {
+          "language": "ja",
+          "name": "2-sat",
+          "short": "2-sat"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud22c\uc14b"
+        },
+        {
+          "alias": "twosat"
+        },
+        {
+          "alias": "2sat"
+        }
+      ]
+    },
+    {
+      "key": "traceback",
+      "isMeta": false,
+      "bojTagId": 235,
+      "problemCount": 59,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc5ed\ucd94\uc801",
+          "short": "\uc5ed\ucd94\uc801"
+        },
+        {
+          "language": "en",
+          "name": "traceback",
+          "short": "traceback"
         }
       ],
       "aliases": []

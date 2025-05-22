@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 477,
   "level": 19,
-  "votedUserCount": 63,
+  "votedUserCount": 64,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4526,
+      "problemCount": 4528,
       "displayNames": [
         {
           "language": "ko",
@@ -52,29 +52,10 @@
       ]
     },
     {
-      "key": "set",
-      "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1232,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map",
-          "short": "set"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "backtracking",
       "isMeta": false,
       "bojTagId": 5,
-      "problemCount": 594,
+      "problemCount": 595,
       "displayNames": [
         {
           "language": "ko",
@@ -103,6 +84,54 @@
           "alias": "\ud1f4\uac01 \uac80\uc0c9"
         }
       ]
+    },
+    {
+      "key": "mitm",
+      "isMeta": false,
+      "bojTagId": 46,
+      "problemCount": 104,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30",
+          "short": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30"
+        },
+        {
+          "language": "en",
+          "name": "meet in the middle",
+          "short": "meet in the middle"
+        },
+        {
+          "language": "ja",
+          "name": "\u534a\u5206\u5168\u5217\u6319",
+          "short": "\u534a\u5206\u5168\u5217\u6319"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "bidirectional_search",
+      "isMeta": false,
+      "bojTagId": 129,
+      "problemCount": 10,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc591\ubc29\ud5a5 \ud0d0\uc0c9",
+          "short": "\uc591\ubc29\ud5a5 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "bidirectional search",
+          "short": "bidirectional search"
+        },
+        {
+          "language": "ja",
+          "name": "bidirectional search",
+          "short": "bidirectional search"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
