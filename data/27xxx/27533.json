@@ -13,13 +13,61 @@
   "isPartial": false,
   "acceptedUserCount": 96,
   "level": 21,
-  "votedUserCount": 27,
+  "votedUserCount": 28,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.2292,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7274,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1669,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "combinatorics",
       "isMeta": false,
@@ -61,30 +109,6 @@
       ]
     },
     {
-      "key": "lgv",
-      "isMeta": false,
-      "bojTagId": 214,
-      "problemCount": 7,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub9b0\ub4dc\uc2a4\ud2b8\ub86c\u2013\uac8c\uc140\u2013\ube44\uc5d4\ub178 \ubcf4\uc870\uc815\ub9ac",
-          "short": "lgv \ubcf4\uc870\uc815\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "lindstr\u00f6m\u2013gessel\u2013viennot lemma",
-          "short": "lgv lemma"
-        },
-        {
-          "language": "ja",
-          "name": "lindstr\u00f6m\u2013gessel\u2013viennot lemma",
-          "short": "lgv lemma"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "linear_algebra",
       "isMeta": false,
       "bojTagId": 144,
@@ -113,49 +137,25 @@
       ]
     },
     {
-      "key": "math",
+      "key": "lgv",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7273,
+      "bojTagId": 214,
+      "problemCount": 7,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\ub9b0\ub4dc\uc2a4\ud2b8\ub86c\u2013\uac8c\uc140\u2013\ube44\uc5d4\ub178 \ubcf4\uc870\uc815\ub9ac",
+          "short": "lgv \ubcf4\uc870\uc815\ub9ac"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "lindstr\u00f6m\u2013gessel\u2013viennot lemma",
+          "short": "lgv lemma"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "number_theory",
-      "isMeta": false,
-      "bojTagId": 95,
-      "problemCount": 1668,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\uc218\ub860",
-          "short": "\uc815\uc218\ub860"
-        },
-        {
-          "language": "en",
-          "name": "number theory",
-          "short": "number theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u6574\u6570\u8ad6",
-          "short": "\u6574\u6570\u8ad6"
+          "name": "lindstr\u00f6m\u2013gessel\u2013viennot lemma",
+          "short": "lgv lemma"
         }
       ],
       "aliases": []
