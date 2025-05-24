@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 76,
   "level": 14,
-  "votedUserCount": 10,
+  "votedUserCount": 12,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -55,38 +55,62 @@
       ]
     },
     {
-      "key": "knapsack",
+      "key": "greedy",
       "isMeta": false,
-      "bojTagId": 148,
-      "problemCount": 303,
+      "bojTagId": 33,
+      "problemCount": 3020,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubc30\ub0ad \ubb38\uc81c",
-          "short": "\ubc30\ub0ad"
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
         },
         {
           "language": "en",
-          "name": "knapsack",
-          "short": "knapsack"
+          "name": "greedy",
+          "short": "greedy"
         },
         {
           "language": "ja",
-          "name": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af\u554f\u984c",
-          "short": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af"
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
         }
       ],
       "aliases": [
         {
-          "alias": "\ub0c5\uc0c9"
+          "alias": "\ud0d0\uc695\ubc95"
         }
       ]
+    },
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2120,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1178,
+      "problemCount": 1179,
       "displayNames": [
         {
           "language": "ko",
@@ -117,28 +141,32 @@
       ]
     },
     {
-      "key": "sorting",
+      "key": "knapsack",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2121,
+      "bojTagId": 148,
+      "problemCount": 303,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\ubc30\ub0ad \ubb38\uc81c",
+          "short": "\ubc30\ub0ad"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
+          "name": "knapsack",
+          "short": "knapsack"
         },
         {
           "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af\u554f\u984c",
+          "short": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\ub0c5\uc0c9"
+        }
+      ]
     }
   ],
   "metadata": {}

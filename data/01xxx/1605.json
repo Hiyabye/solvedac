@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 1162,
   "level": 18,
-  "votedUserCount": 110,
+  "votedUserCount": 111,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2713,
+      "problemCount": 2712,
       "displayNames": [
         {
           "language": "ko",
@@ -95,6 +95,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "rabin_karp",
+      "isMeta": false,
+      "bojTagId": 61,
+      "problemCount": 22,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub77c\ube48\u2013\uce74\ud504",
+          "short": "\ub77c\ube48\u2013\uce74\ud504"
+        },
+        {
+          "language": "en",
+          "name": "rabin\u2013karp",
+          "short": "rabin\u2013karp"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e9\u30d3\u30f3-\u30ab\u30fc\u30d7\u6587\u5b57\u5217\u691c\u7d22",
+          "short": "\u30e9\u30d3\u30f3-\u30ab\u30fc\u30d7\u6587\u5b57\u5217\u691c\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub77c\ube48\uce74\ud504"
+        }
+      ]
     }
   ],
   "metadata": {}
