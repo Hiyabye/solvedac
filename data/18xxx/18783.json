@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 333,
   "level": 14,
-  "votedUserCount": 59,
+  "votedUserCount": 60,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4437,
+      "problemCount": 4439,
       "displayNames": [
         {
           "language": "ko",
@@ -50,30 +50,6 @@
           "alias": "\uc790\uad6c"
         }
       ]
-    },
-    {
-      "key": "permutation_cycle_decomposition",
-      "isMeta": false,
-      "bojTagId": 171,
-      "problemCount": 102,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560",
-          "short": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560"
-        },
-        {
-          "language": "en",
-          "name": "permutation cycle decomposition",
-          "short": "permutation cycle decomposition"
-        },
-        {
-          "language": "ja",
-          "name": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3",
-          "short": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "sparse_table",
@@ -105,6 +81,30 @@
           "alias": "sparse table"
         }
       ]
+    },
+    {
+      "key": "permutation_cycle_decomposition",
+      "isMeta": false,
+      "bojTagId": 171,
+      "problemCount": 102,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560",
+          "short": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560"
+        },
+        {
+          "language": "en",
+          "name": "permutation cycle decomposition",
+          "short": "permutation cycle decomposition"
+        },
+        {
+          "language": "ja",
+          "name": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3",
+          "short": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
