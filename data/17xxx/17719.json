@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 41,
   "level": 21,
-  "votedUserCount": 10,
+  "votedUserCount": 11,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4534,
+      "problemCount": 4539,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 885,
+      "problemCount": 887,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "dijkstra",
       "isMeta": false,
       "bojTagId": 22,
-      "problemCount": 654,
+      "problemCount": 655,
       "displayNames": [
         {
           "language": "ko",
@@ -108,6 +108,25 @@
           "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
         }
       ]
+    },
+    {
+      "key": "difference_array",
+      "isMeta": false,
+      "bojTagId": 239,
+      "problemCount": 30,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
+          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "difference array",
+          "short": "difference array"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
