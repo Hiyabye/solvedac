@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 8,
+  "acceptedUserCount": 9,
   "level": 23,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 6.875,
+  "averageTries": 6.2222,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7289,
+      "problemCount": 7291,
       "displayNames": [
         {
           "language": "ko",
@@ -45,34 +45,10 @@
       "aliases": []
     },
     {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6199,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4451,
+      "problemCount": 4452,
       "displayNames": [
         {
           "language": "ko",
@@ -103,7 +79,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3031,
+      "problemCount": 3033,
       "displayNames": [
         {
           "language": "ko",
@@ -168,7 +144,7 @@
       "key": "set",
       "isMeta": false,
       "bojTagId": 225,
-      "problemCount": 1245,
+      "problemCount": 1243,
       "displayNames": [
         {
           "language": "ko",
@@ -179,136 +155,6 @@
           "language": "en",
           "name": "set / map",
           "short": "set"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "prefix_sum",
-      "isMeta": false,
-      "bojTagId": 139,
-      "problemCount": 1191,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub204\uc801 \ud569",
-          "short": "\ub204\uc801 \ud569"
-        },
-        {
-          "language": "en",
-          "name": "prefix sum",
-          "short": "prefix sum"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d2f\u7a4d\u548c",
-          "short": "\u7d2f\u7a4d\u548c"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uad6c\uac04\ud569"
-        },
-        {
-          "alias": "\ubd80\ubd84\ud569"
-        },
-        {
-          "alias": "rangesum"
-        }
-      ]
-    },
-    {
-      "key": "case_work",
-      "isMeta": false,
-      "bojTagId": 137,
-      "problemCount": 1027,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
-          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
-        },
-        {
-          "language": "en",
-          "name": "case work",
-          "short": "case work"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
-          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ucf00\uc774\uc2a4"
-        },
-        {
-          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
-        },
-        {
-          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
-        }
-      ]
-    },
-    {
-      "key": "lazyprop",
-      "isMeta": false,
-      "bojTagId": 66,
-      "problemCount": 352,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub290\ub9ac\uac8c \uac31\uc2e0\ub418\ub294 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
-          "short": "\ub290\ub9ac\uac8c \uac31\uc2e0\ub418\ub294 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "segment tree with lazy propagation",
-          "short": "lazyprop"
-        },
-        {
-          "language": "ja",
-          "name": "\u9045\u5ef6\u8a55\u4fa1\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
-          "short": "\u9045\u5ef6\u8a55\u4fa1\u30bb\u30b0\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub808\uc774\uc9c0"
-        },
-        {
-          "alias": "\ub808\uc774\uc9c0\ud504\ub85c\ud37c\uac8c\uc774\uc158"
-        },
-        {
-          "alias": "\ub808\uc774\uc9c0\ud504\ub85c\ud30c\uac8c\uc774\uc158"
-        },
-        {
-          "alias": "\uad6c\uac04\ud2b8\ub9ac"
-        },
-        {
-          "alias": "fenwick"
-        },
-        {
-          "alias": "\ud39c\uc705"
-        }
-      ]
-    },
-    {
-      "key": "parity",
-      "isMeta": false,
-      "bojTagId": 230,
-      "problemCount": 52,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud640\uc9dd\uc131",
-          "short": "\ud640\uc9dd\uc131"
-        },
-        {
-          "language": "en",
-          "name": "parity",
-          "short": "parity"
         }
       ],
       "aliases": []

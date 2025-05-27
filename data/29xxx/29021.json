@@ -13,13 +13,37 @@
   "isPartial": false,
   "acceptedUserCount": 7,
   "level": 21,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 3.1429,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7291,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "combinatorics",
       "isMeta": false,
@@ -130,30 +154,6 @@
           "alias": "convolution"
         }
       ]
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7289,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
