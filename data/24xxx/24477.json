@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 51,
   "level": 22,
-  "votedUserCount": 22,
+  "votedUserCount": 23,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,41 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4451,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4598,
+      "problemCount": 4600,
       "displayNames": [
         {
           "language": "ko",
@@ -86,10 +55,41 @@
       ]
     },
     {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4452,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1500,
+      "problemCount": 1501,
       "displayNames": [
         {
           "language": "ko",
@@ -123,37 +123,6 @@
       ]
     },
     {
-      "key": "sparse_table",
-      "isMeta": false,
-      "bojTagId": 84,
-      "problemCount": 167,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud76c\uc18c \ubc30\uc5f4",
-          "short": "\ud76c\uc18c \ubc30\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "sparse table",
-          "short": "sparse table"
-        },
-        {
-          "language": "ja",
-          "name": "sparse table",
-          "short": "sparse table"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc2a4\ud30c\uc2a4\uc5b4\ub808\uc774"
-        },
-        {
-          "alias": "sparse table"
-        }
-      ]
-    },
-    {
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
@@ -178,6 +147,37 @@
       "aliases": [
         {
           "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
+        }
+      ]
+    },
+    {
+      "key": "sparse_table",
+      "isMeta": false,
+      "bojTagId": 84,
+      "problemCount": 168,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud76c\uc18c \ubc30\uc5f4",
+          "short": "\ud76c\uc18c \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "sparse table",
+          "short": "sparse table"
+        },
+        {
+          "language": "ja",
+          "name": "sparse table",
+          "short": "sparse table"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud30c\uc2a4\uc5b4\ub808\uc774"
+        },
+        {
+          "alias": "sparse table"
         }
       ]
     }
