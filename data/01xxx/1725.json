@@ -17,20 +17,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 8407,
+  "acceptedUserCount": 8413,
   "level": 16,
-  "votedUserCount": 402,
+  "votedUserCount": 403,
   "sprout": false,
   "givesNoRating": true,
   "isLevelLocked": false,
-  "averageTries": 2.5172,
+  "averageTries": 2.5171,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4450,
+      "problemCount": 4452,
       "displayNames": [
         {
           "language": "ko",
@@ -58,29 +58,47 @@
       ]
     },
     {
-      "key": "set",
+      "key": "segtree",
       "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1246,
+      "bojTagId": 65,
+      "problemCount": 1501,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
+          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
         },
         {
           "language": "en",
-          "name": "set / map",
-          "short": "set"
+          "name": "segment tree",
+          "short": "segtree"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
+          "short": "\u30bb\u30b0\u6728"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud2b8\ub9ac"
+        },
+        {
+          "alias": "\uc138\uadf8\ud2b8\ub9ac"
+        },
+        {
+          "alias": "fenwick"
+        },
+        {
+          "alias": "\ud39c\uc705"
+        }
+      ]
     },
     {
       "key": "divide_and_conquer",
       "isMeta": false,
       "bojTagId": 24,
-      "problemCount": 462,
+      "problemCount": 461,
       "displayNames": [
         {
           "language": "ko",
@@ -108,7 +126,7 @@
       "key": "stack",
       "isMeta": false,
       "bojTagId": 71,
-      "problemCount": 432,
+      "problemCount": 431,
       "displayNames": [
         {
           "language": "ko",
