@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 433,
   "level": 15,
-  "votedUserCount": 56,
+  "votedUserCount": 57,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,34 +21,41 @@
   "official": true,
   "tags": [
     {
-      "key": "dag",
+      "key": "graphs",
       "isMeta": false,
-      "bojTagId": 213,
-      "problemCount": 264,
+      "bojTagId": 7,
+      "problemCount": 4547,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
-          "short": "dag"
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
         },
         {
           "language": "en",
-          "name": "directed acyclic graph",
-          "short": "dag"
+          "name": "graph theory",
+          "short": "graph"
         },
         {
           "language": "ja",
-          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
-          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
     },
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4452,
+      "problemCount": 4453,
       "displayNames": [
         {
           "language": "ko",
@@ -116,41 +123,34 @@
       ]
     },
     {
-      "key": "graphs",
+      "key": "dag",
       "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4544,
+      "bojTagId": 213,
+      "problemCount": 263,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
+          "short": "dag"
         },
         {
           "language": "en",
-          "name": "graph theory",
-          "short": "graph"
+          "name": "directed acyclic graph",
+          "short": "dag"
         },
         {
           "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
+          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
+          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "topological_sorting",
       "isMeta": false,
       "bojTagId": 78,
-      "problemCount": 212,
+      "problemCount": 214,
       "displayNames": [
         {
           "language": "ko",

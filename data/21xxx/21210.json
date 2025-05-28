@@ -11,15 +11,101 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 49,
+  "acceptedUserCount": 50,
   "level": 18,
-  "votedUserCount": 15,
+  "votedUserCount": 16,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.4082,
+  "averageTries": 1.4,
   "official": true,
   "tags": [
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4547,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4453,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1793,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "binary_search",
       "isMeta": false,
@@ -48,37 +134,6 @@
         },
         {
           "alias": "\uc774\uc9c4\ud0d0\uc0c9"
-        }
-      ]
-    },
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4452,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
         }
       ]
     },
@@ -119,61 +174,6 @@
         },
         {
           "alias": "dsu"
-        }
-      ]
-    },
-    {
-      "key": "geometry",
-      "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 1793,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
-        },
-        {
-          "language": "en",
-          "name": "geometry",
-          "short": "geom"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4544,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
         }
       ]
     },

@@ -11,20 +11,51 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 31,
+  "acceptedUserCount": 32,
   "level": 19,
-  "votedUserCount": 11,
+  "votedUserCount": 12,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.0323,
+  "averageTries": 2.9688,
   "official": true,
   "tags": [
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4547,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
     {
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1863,
+      "problemCount": 1862,
       "displayNames": [
         {
           "language": "ko",
@@ -45,25 +76,25 @@
       "aliases": []
     },
     {
-      "key": "dag",
+      "key": "shortest_path",
       "isMeta": false,
-      "bojTagId": 213,
-      "problemCount": 264,
+      "bojTagId": 215,
+      "problemCount": 886,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
-          "short": "dag"
+          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
+          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
         },
         {
           "language": "en",
-          "name": "directed acyclic graph",
-          "short": "dag"
+          "name": "shortest path",
+          "short": "shortest path"
         },
         {
           "language": "ja",
-          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
-          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
+          "name": "\u6700\u77ed\u7d4c\u8def",
+          "short": "\u6700\u77ed\u7d4c\u8def"
         }
       ],
       "aliases": []
@@ -103,65 +134,10 @@
       ]
     },
     {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4544,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "shortest_path",
-      "isMeta": false,
-      "bojTagId": 215,
-      "problemCount": 885,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
-          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
-        },
-        {
-          "language": "en",
-          "name": "shortest path",
-          "short": "shortest path"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u77ed\u7d4c\u8def",
-          "short": "\u6700\u77ed\u7d4c\u8def"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "topological_sorting",
       "isMeta": false,
       "bojTagId": 78,
-      "problemCount": 212,
+      "problemCount": 214,
       "displayNames": [
         {
           "language": "ko",
