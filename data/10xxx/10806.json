@@ -13,13 +13,106 @@
   "isPartial": false,
   "acceptedUserCount": 203,
   "level": 22,
-  "votedUserCount": 54,
+  "votedUserCount": 55,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 5.798,
   "official": true,
   "tags": [
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4547,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1683,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
+    },
+    {
+      "key": "constructive",
+      "isMeta": false,
+      "bojTagId": 128,
+      "problemCount": 1271,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574 \uad6c\uc131\ud558\uae30",
+          "short": "\ud574 \uad6c\uc131\ud558\uae30"
+        },
+        {
+          "language": "en",
+          "name": "constructive",
+          "short": "constructive"
+        },
+        {
+          "language": "ja",
+          "name": "\u69cb\u6210\u7684",
+          "short": "\u69cb\u6210\u7684"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "constructive"
+        },
+        {
+          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
+        },
+        {
+          "alias": "\uad6c\uc131\uc801"
+        }
+      ]
+    },
     {
       "key": "articulation",
       "isMeta": false,
@@ -85,99 +178,6 @@
       "aliases": [
         {
           "alias": "bcc"
-        }
-      ]
-    },
-    {
-      "key": "constructive",
-      "isMeta": false,
-      "bojTagId": 128,
-      "problemCount": 1268,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574 \uad6c\uc131\ud558\uae30",
-          "short": "\ud574 \uad6c\uc131\ud558\uae30"
-        },
-        {
-          "language": "en",
-          "name": "constructive",
-          "short": "constructive"
-        },
-        {
-          "language": "ja",
-          "name": "\u69cb\u6210\u7684",
-          "short": "\u69cb\u6210\u7684"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "constructive"
-        },
-        {
-          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
-        },
-        {
-          "alias": "\uad6c\uc131\uc801"
-        }
-      ]
-    },
-    {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4545,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "trees",
-      "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1683,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "tree",
-          "short": "tree"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "trees"
         }
       ]
     }

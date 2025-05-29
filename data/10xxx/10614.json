@@ -12,14 +12,66 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 8,
-  "level": 17,
-  "votedUserCount": 1,
+  "level": 18,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.875,
+  "averageTries": 1.5,
   "official": true,
   "tags": [
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6203,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 3037,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
     {
       "key": "ad_hoc",
       "isMeta": false,
@@ -45,10 +97,44 @@
       "aliases": []
     },
     {
+      "key": "constructive",
+      "isMeta": false,
+      "bojTagId": 128,
+      "problemCount": 1271,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574 \uad6c\uc131\ud558\uae30",
+          "short": "\ud574 \uad6c\uc131\ud558\uae30"
+        },
+        {
+          "language": "en",
+          "name": "constructive",
+          "short": "constructive"
+        },
+        {
+          "language": "ja",
+          "name": "\u69cb\u6210\u7684",
+          "short": "\u69cb\u6210\u7684"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "constructive"
+        },
+        {
+          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
+        },
+        {
+          "alias": "\uad6c\uc131\uc801"
+        }
+      ]
+    },
+    {
       "key": "randomization",
       "isMeta": false,
       "bojTagId": 115,
-      "problemCount": 172,
+      "problemCount": 173,
       "displayNames": [
         {
           "language": "ko",

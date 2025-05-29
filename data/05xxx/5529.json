@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 172,
   "level": 17,
-  "votedUserCount": 49,
+  "votedUserCount": 50,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -27,44 +27,34 @@
   "official": true,
   "tags": [
     {
-      "key": "dijkstra",
+      "key": "implementation",
       "isMeta": false,
-      "bojTagId": 22,
-      "problemCount": 655,
+      "bojTagId": 102,
+      "problemCount": 6203,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
-          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
         },
         {
           "language": "en",
-          "name": "dijkstra's",
-          "short": "dijkstra's"
+          "name": "implementation",
+          "short": "impl"
         },
         {
           "language": "ja",
-          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
-          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\ub2e4\uc775"
-        },
-        {
-          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
-        },
-        {
-          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4545,
+      "problemCount": 4547,
       "displayNames": [
         {
           "language": "ko",
@@ -123,34 +113,10 @@
       ]
     },
     {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6199,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 886,
+      "problemCount": 885,
       "displayNames": [
         {
           "language": "ko",
@@ -169,6 +135,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "dijkstra",
+      "isMeta": false,
+      "bojTagId": 22,
+      "problemCount": 655,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
+          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "language": "en",
+          "name": "dijkstra's",
+          "short": "dijkstra's"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
+          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub2e4\uc775"
+        },
+        {
+          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        }
+      ]
     }
   ],
   "metadata": {}
