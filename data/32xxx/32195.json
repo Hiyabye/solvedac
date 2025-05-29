@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 106,
   "level": 10,
-  "votedUserCount": 18,
+  "votedUserCount": 19,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,35 +21,28 @@
   "official": true,
   "tags": [
     {
-      "key": "binary_search",
+      "key": "sorting",
       "isMeta": false,
-      "bojTagId": 12,
-      "problemCount": 1456,
+      "bojTagId": 97,
+      "problemCount": 2130,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
         },
         {
           "language": "en",
-          "name": "binary search",
-          "short": "binary search"
+          "name": "sorting",
+          "short": "sorting"
         },
         {
           "language": "ja",
-          "name": "\u4e8c\u5206\u63a2\u7d22",
-          "short": "\u4e8c\u5206\u63a2\u7d22"
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc774\ubd84\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "geometry",
@@ -76,28 +69,35 @@
       "aliases": []
     },
     {
-      "key": "sorting",
+      "key": "binary_search",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2128,
+      "bojTagId": 12,
+      "problemCount": 1455,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
+          "name": "binary search",
+          "short": "binary search"
         },
         {
           "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
     }
   ],
   "metadata": {}
