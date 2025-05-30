@@ -17,13 +17,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 7408,
+  "acceptedUserCount": 7416,
   "level": 11,
-  "votedUserCount": 130,
+  "votedUserCount": 131,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.1598,
+  "averageTries": 2.1597,
   "official": true,
   "tags": [
     {
@@ -58,10 +58,29 @@
       ]
     },
     {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1250,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1191,
+      "problemCount": 1192,
       "displayNames": [
         {
           "language": "ko",
