@@ -11,51 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 20,
+  "acceptedUserCount": 21,
   "level": 22,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.35,
+  "averageTries": 2.5714,
   "official": true,
   "tags": [
-    {
-      "key": "bitset",
-      "isMeta": false,
-      "bojTagId": 152,
-      "problemCount": 107,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ube44\ud2b8 \uc9d1\ud569",
-          "short": "\ube44\ud2b8 \uc9d1\ud569"
-        },
-        {
-          "language": "en",
-          "name": "bit set",
-          "short": "bit set"
-        },
-        {
-          "language": "ja",
-          "name": "bit set",
-          "short": "bit set"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bitset"
-        },
-        {
-          "alias": "\ube44\ud2b8\uc14b"
-        }
-      ]
-    },
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4604,
+      "problemCount": 4603,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +58,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3038,
+      "problemCount": 3039,
       "displayNames": [
         {
           "language": "ko",
@@ -112,6 +81,30 @@
           "alias": "\ud0d0\uc695\ubc95"
         }
       ]
+    },
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2129,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "knapsack",
@@ -142,28 +135,35 @@
       ]
     },
     {
-      "key": "sorting",
+      "key": "bitset",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2129,
+      "bojTagId": 152,
+      "problemCount": 107,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\ube44\ud2b8 \uc9d1\ud569",
+          "short": "\ube44\ud2b8 \uc9d1\ud569"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
+          "name": "bit set",
+          "short": "bit set"
         },
         {
           "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "bit set",
+          "short": "bit set"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "bitset"
+        },
+        {
+          "alias": "\ube44\ud2b8\uc14b"
+        }
+      ]
     }
   ],
   "metadata": {}

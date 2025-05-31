@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 10,
+  "acceptedUserCount": 11,
   "level": 24,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.8,
+  "averageTries": 2.6364,
   "official": true,
   "tags": [
     {
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1795,
+      "problemCount": 1797,
       "displayNames": [
         {
           "language": "ko",
@@ -43,6 +43,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "parametric_search",
+      "isMeta": false,
+      "bojTagId": 170,
+      "problemCount": 446,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9",
+          "short": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "parametric search",
+          "short": "parametric search"
+        },
+        {
+          "language": "ja",
+          "name": "parametric search",
+          "short": "parametric search"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
+        }
+      ]
     },
     {
       "key": "half_plane_intersection",

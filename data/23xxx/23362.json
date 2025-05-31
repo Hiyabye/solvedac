@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 68,
   "level": 20,
-  "votedUserCount": 22,
+  "votedUserCount": 23,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,47 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "euler_phi",
-      "isMeta": false,
-      "bojTagId": 151,
-      "problemCount": 52,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218",
-          "short": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218"
-        },
-        {
-          "language": "en",
-          "name": "euler totient function",
-          "short": "euler phi function"
-        },
-        {
-          "language": "ja",
-          "name": "euler totient function",
-          "short": "euler phi function"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc624\uc77c\ub7ec \ud30c\uc774"
-        },
-        {
-          "alias": "\ud1a0\uc158\ud2b8"
-        },
-        {
-          "alias": "eulerphi"
-        },
-        {
-          "alias": "euler phi"
-        }
-      ]
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7293,
+      "problemCount": 7294,
       "displayNames": [
         {
           "language": "ko",
@@ -82,34 +45,10 @@
       "aliases": []
     },
     {
-      "key": "miller_rabin",
-      "isMeta": false,
-      "bojTagId": 47,
-      "problemCount": 28,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubc00\ub7ec\u2013\ub77c\ube48 \uc18c\uc218 \ud310\ubcc4\ubc95",
-          "short": "\ubc00\ub7ec\u2013\ub77c\ube48 \uc18c\uc218 \ud310\ubcc4\ubc95"
-        },
-        {
-          "language": "en",
-          "name": "miller\u2013rabin",
-          "short": "miller\u2013rabin"
-        },
-        {
-          "language": "ja",
-          "name": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3\u7d20\u6570\u5224\u5b9a\u6cd5",
-          "short": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1675,
+      "problemCount": 1677,
       "displayNames": [
         {
           "language": "ko",
@@ -125,30 +64,6 @@
           "language": "ja",
           "name": "\u6574\u6570\u8ad6",
           "short": "\u6574\u6570\u8ad6"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "pollard_rho",
-      "isMeta": false,
-      "bojTagId": 58,
-      "problemCount": 30,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud3f4\ub77c\ub4dc \ub85c",
-          "short": "\ud3f4\ub77c\ub4dc \ub85c"
-        },
-        {
-          "language": "en",
-          "name": "pollard rho",
-          "short": "pollard rho"
-        },
-        {
-          "language": "ja",
-          "name": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc\u7d20\u56e0\u6570\u5206\u89e3\u6cd5",
-          "short": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc"
         }
       ],
       "aliases": []
@@ -205,6 +120,91 @@
           "language": "en",
           "name": "prime factorization",
           "short": "prime factorization"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "euler_phi",
+      "isMeta": false,
+      "bojTagId": 151,
+      "problemCount": 52,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218",
+          "short": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218"
+        },
+        {
+          "language": "en",
+          "name": "euler totient function",
+          "short": "euler phi function"
+        },
+        {
+          "language": "ja",
+          "name": "euler totient function",
+          "short": "euler phi function"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc624\uc77c\ub7ec \ud30c\uc774"
+        },
+        {
+          "alias": "\ud1a0\uc158\ud2b8"
+        },
+        {
+          "alias": "eulerphi"
+        },
+        {
+          "alias": "euler phi"
+        }
+      ]
+    },
+    {
+      "key": "pollard_rho",
+      "isMeta": false,
+      "bojTagId": 58,
+      "problemCount": 30,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud3f4\ub77c\ub4dc \ub85c",
+          "short": "\ud3f4\ub77c\ub4dc \ub85c"
+        },
+        {
+          "language": "en",
+          "name": "pollard rho",
+          "short": "pollard rho"
+        },
+        {
+          "language": "ja",
+          "name": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc\u7d20\u56e0\u6570\u5206\u89e3\u6cd5",
+          "short": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "miller_rabin",
+      "isMeta": false,
+      "bojTagId": 47,
+      "problemCount": 28,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc00\ub7ec\u2013\ub77c\ube48 \uc18c\uc218 \ud310\ubcc4\ubc95",
+          "short": "\ubc00\ub7ec\u2013\ub77c\ube48 \uc18c\uc218 \ud310\ubcc4\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "miller\u2013rabin",
+          "short": "miller\u2013rabin"
+        },
+        {
+          "language": "ja",
+          "name": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3\u7d20\u6570\u5224\u5b9a\u6cd5",
+          "short": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3"
         }
       ],
       "aliases": []
