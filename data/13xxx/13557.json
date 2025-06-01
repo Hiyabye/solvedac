@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 427,
+  "acceptedUserCount": 429,
   "level": 21,
-  "votedUserCount": 121,
+  "votedUserCount": 122,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.6511,
+  "averageTries": 3.655,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4457,
+      "problemCount": 4460,
       "displayNames": [
         {
           "language": "ko",
@@ -87,6 +87,25 @@
           "alias": "\ud39c\uc705"
         }
       ]
+    },
+    {
+      "key": "maximum_subarray",
+      "isMeta": false,
+      "bojTagId": 234,
+      "problemCount": 23,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4 \ubb38\uc81c",
+          "short": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "maximum subarray",
+          "short": "maximum subarray"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

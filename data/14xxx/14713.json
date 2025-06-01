@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 1261,
   "level": 9,
-  "votedUserCount": 41,
+  "votedUserCount": 42,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6207,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4457,
+      "problemCount": 4460,
       "displayNames": [
         {
           "language": "ko",
@@ -50,54 +74,6 @@
           "alias": "\uc790\uad6c"
         }
       ]
-    },
-    {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6205,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "queue",
-      "isMeta": false,
-      "bojTagId": 72,
-      "problemCount": 71,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud050",
-          "short": "\ud050"
-        },
-        {
-          "language": "en",
-          "name": "queue",
-          "short": "queue"
-        },
-        {
-          "language": "ja",
-          "name": "\u30ad\u30e5\u30fc",
-          "short": "\u30ad\u30e5\u30fc"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "string",
@@ -126,6 +102,30 @@
           "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
+    },
+    {
+      "key": "queue",
+      "isMeta": false,
+      "bojTagId": 72,
+      "problemCount": 71,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud050",
+          "short": "\ud050"
+        },
+        {
+          "language": "en",
+          "name": "queue",
+          "short": "queue"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ad\u30e5\u30fc",
+          "short": "\u30ad\u30e5\u30fc"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
