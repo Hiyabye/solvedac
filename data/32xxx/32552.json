@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 16,
+  "acceptedUserCount": 17,
   "level": 18,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.25,
+  "averageTries": 1.2353,
   "official": true,
   "tags": [
     {
@@ -58,7 +58,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4459,
+      "problemCount": 4460,
       "displayNames": [
         {
           "language": "ko",
@@ -121,6 +121,30 @@
           "alias": "\ud39c\uc705"
         }
       ]
+    },
+    {
+      "key": "lis",
+      "isMeta": false,
+      "bojTagId": 43,
+      "problemCount": 97,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4 \ubb38\uc81c",
+          "short": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "longest increasing sequence problem",
+          "short": "lis"
+        },
+        {
+          "language": "ja",
+          "name": "longest increasing sequence problem",
+          "short": "lis"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

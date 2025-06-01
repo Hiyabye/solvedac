@@ -12,13 +12,73 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 0,
-  "level": 0,
-  "votedUserCount": 0,
+  "level": 15,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 0,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "bitmask",
+      "isMeta": false,
+      "bojTagId": 14,
+      "problemCount": 861,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
+          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "bitmask",
+          "short": "bitmask"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
+          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ube44\ud2b8\ud544\ub4dc"
+        },
+        {
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+        }
+      ]
+    },
+    {
+      "key": "tsp",
+      "isMeta": false,
+      "bojTagId": 138,
+      "problemCount": 63,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc678\ud310\uc6d0 \uc21c\ud68c \ubb38\uc81c",
+          "short": "\uc678\ud310\uc6d0 \uc21c\ud68c"
+        },
+        {
+          "language": "en",
+          "name": "travelling salesman problem",
+          "short": "tsp"
+        },
+        {
+          "language": "ja",
+          "name": "\u5de1\u56de\u30bb\u30fc\u30eb\u30b9\u30de\u30f3\u554f\u984c",
+          "short": "\u5de1\u56de\u30bb\u30fc\u30eb\u30b9\u30de\u30f3"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc678\ud310\uc6d0\uc21c\ud68c"
+        }
+      ]
+    }
+  ],
   "metadata": {}
 }
