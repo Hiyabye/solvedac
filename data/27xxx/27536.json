@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 85,
   "level": 13,
-  "votedUserCount": 20,
+  "votedUserCount": 21,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4460,
+      "problemCount": 4470,
       "displayNames": [
         {
           "language": "ko",
@@ -50,30 +50,6 @@
           "alias": "\uc790\uad6c"
         }
       ]
-    },
-    {
-      "key": "stack",
-      "isMeta": false,
-      "bojTagId": 71,
-      "problemCount": 433,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc2a4\ud0dd",
-          "short": "\uc2a4\ud0dd"
-        },
-        {
-          "language": "en",
-          "name": "stack",
-          "short": "stack"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b9\u30bf\u30c3\u30af",
-          "short": "\u30b9\u30bf\u30c3\u30af"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "tree_set",
@@ -131,20 +107,25 @@
       ]
     },
     {
-      "key": "set",
+      "key": "stack",
       "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1254,
+      "bojTagId": 71,
+      "problemCount": 433,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
+          "name": "\uc2a4\ud0dd",
+          "short": "\uc2a4\ud0dd"
         },
         {
           "language": "en",
-          "name": "set / map",
-          "short": "set"
+          "name": "stack",
+          "short": "stack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b9\u30bf\u30c3\u30af",
+          "short": "\u30b9\u30bf\u30c3\u30af"
         }
       ],
       "aliases": []
