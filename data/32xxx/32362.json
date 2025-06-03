@@ -13,44 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 7,
   "level": 21,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 7.2857,
   "official": true,
   "tags": [
-    {
-      "key": "bitset",
-      "isMeta": false,
-      "bojTagId": 152,
-      "problemCount": 107,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ube44\ud2b8 \uc9d1\ud569",
-          "short": "\ube44\ud2b8 \uc9d1\ud569"
-        },
-        {
-          "language": "en",
-          "name": "bit set",
-          "short": "bit set"
-        },
-        {
-          "language": "ja",
-          "name": "bit set",
-          "short": "bit set"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bitset"
-        },
-        {
-          "alias": "\ube44\ud2b8\uc14b"
-        }
-      ]
-    },
     {
       "key": "dp",
       "isMeta": false,
@@ -86,6 +55,34 @@
       ]
     },
     {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2723,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        },
+        {
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
       "key": "hashing",
       "isMeta": false,
       "bojTagId": 8,
@@ -108,6 +105,37 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "bitset",
+      "isMeta": false,
+      "bojTagId": 152,
+      "problemCount": 107,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8 \uc9d1\ud569",
+          "short": "\ube44\ud2b8 \uc9d1\ud569"
+        },
+        {
+          "language": "en",
+          "name": "bit set",
+          "short": "bit set"
+        },
+        {
+          "language": "ja",
+          "name": "bit set",
+          "short": "bit set"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bitset"
+        },
+        {
+          "alias": "\ube44\ud2b8\uc14b"
+        }
+      ]
     },
     {
       "key": "rabin_karp",
@@ -134,34 +162,6 @@
       "aliases": [
         {
           "alias": "\ub77c\ube48\uce74\ud504"
-        }
-      ]
-    },
-    {
-      "key": "string",
-      "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2723,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "string",
-          "short": "string"
-        },
-        {
-          "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
     },
