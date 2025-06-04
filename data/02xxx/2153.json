@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7310,
+      "problemCount": 7311,
       "displayNames": [
         {
           "language": "ko",
@@ -45,10 +45,38 @@
       "aliases": []
     },
     {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2723,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        },
+        {
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1681,
+      "problemCount": 1682,
       "displayNames": [
         {
           "language": "ko",
@@ -102,34 +130,6 @@
         },
         {
           "alias": "prime"
-        }
-      ]
-    },
-    {
-      "key": "string",
-      "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2723,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "string",
-          "short": "string"
-        },
-        {
-          "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
     }

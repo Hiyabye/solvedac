@@ -18,14 +18,66 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 53,
-  "level": 21,
-  "votedUserCount": 17,
+  "level": 20,
+  "votedUserCount": 19,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 4.1132,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7311,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 3050,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
     {
       "key": "bruteforcing",
       "isMeta": false,
@@ -68,58 +120,6 @@
           "alias": "\uc644\ud0d0"
         }
       ]
-    },
-    {
-      "key": "greedy",
-      "isMeta": false,
-      "bojTagId": 33,
-      "problemCount": 3050,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
-          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
-        },
-        {
-          "language": "en",
-          "name": "greedy",
-          "short": "greedy"
-        },
-        {
-          "language": "ja",
-          "name": "\u8caa\u6b32\u6cd5",
-          "short": "\u8caa\u6b32\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud0d0\uc695\ubc95"
-        }
-      ]
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7310,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
