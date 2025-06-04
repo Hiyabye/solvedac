@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 59,
-  "level": 18,
-  "votedUserCount": 17,
+  "acceptedUserCount": 60,
+  "level": 19,
+  "votedUserCount": 18,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.3559,
+  "averageTries": 3.4,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4560,
+      "problemCount": 4561,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2273,
+      "problemCount": 2274,
       "displayNames": [
         {
           "language": "ko",
@@ -114,7 +114,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1276,
+      "problemCount": 1278,
       "displayNames": [
         {
           "language": "ko",
@@ -148,7 +148,7 @@
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 1119,
+      "problemCount": 1118,
       "displayNames": [
         {
           "language": "ko",
@@ -179,7 +179,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 894,
+      "problemCount": 893,
       "displayNames": [
         {
           "language": "ko",
@@ -205,6 +205,30 @@
           "alias": "depthfirst"
         }
       ]
+    },
+    {
+      "key": "centroid",
+      "isMeta": false,
+      "bojTagId": 188,
+      "problemCount": 114,
+      "displayNames": [
+        {
+          "language": "en",
+          "name": "centroid",
+          "short": "centroid"
+        },
+        {
+          "language": "ko",
+          "name": "\uc13c\ud2b8\ub85c\uc774\ub4dc",
+          "short": "\uc13c\ud2b8\ub85c\uc774\ub4dc"
+        },
+        {
+          "language": "ja",
+          "name": "centroid",
+          "short": "centroid"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

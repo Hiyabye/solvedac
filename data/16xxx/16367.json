@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 815,
+  "acceptedUserCount": 827,
   "level": 19,
   "votedUserCount": 131,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.5423,
+  "averageTries": 1.5175,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4560,
+      "problemCount": 4561,
       "displayNames": [
         {
           "language": "ko",
@@ -76,6 +76,25 @@
       "aliases": []
     },
     {
+      "key": "traceback",
+      "isMeta": false,
+      "bojTagId": 235,
+      "problemCount": 70,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc5ed\ucd94\uc801",
+          "short": "\uc5ed\ucd94\uc801"
+        },
+        {
+          "language": "en",
+          "name": "traceback",
+          "short": "traceback"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "2_sat",
       "isMeta": false,
       "bojTagId": 1,
@@ -108,25 +127,6 @@
           "alias": "2sat"
         }
       ]
-    },
-    {
-      "key": "traceback",
-      "isMeta": false,
-      "bojTagId": 235,
-      "problemCount": 68,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc5ed\ucd94\uc801",
-          "short": "\uc5ed\ucd94\uc801"
-        },
-        {
-          "language": "en",
-          "name": "traceback",
-          "short": "traceback"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
