@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 4,
   "level": 24,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,50 +21,34 @@
   "official": true,
   "tags": [
     {
-      "key": "combinatorics",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 6,
-      "problemCount": 1112,
+      "bojTagId": 124,
+      "problemCount": 7312,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc870\ud569\ub860",
-          "short": "\uc870\ud569\ub860"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "combinatorics",
-          "short": "combinatorics"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u7d44\u307f\u5408\u308f\u305b",
-          "short": "\u7d44\u307f\u5408\u308f\u305b"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
-      "aliases": [
-        {
-          "alias": "combination"
-        },
-        {
-          "alias": "permutation"
-        },
-        {
-          "alias": "probability"
-        },
-        {
-          "alias": "\ud655\ub960"
-        },
-        {
-          "alias": "\uc21c\uc5f4"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4469,
+      "problemCount": 4470,
       "displayNames": [
         {
           "language": "ko",
@@ -92,28 +76,32 @@
       ]
     },
     {
-      "key": "math",
+      "key": "trees",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7311,
+      "bojTagId": 120,
+      "problemCount": 1685,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "tree",
+          "short": "tree"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "\u6728",
+          "short": "\u6728"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
     },
     {
       "key": "segtree",
@@ -153,30 +141,42 @@
       ]
     },
     {
-      "key": "trees",
+      "key": "combinatorics",
       "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1685,
+      "bojTagId": 6,
+      "problemCount": 1112,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
+          "name": "\uc870\ud569\ub860",
+          "short": "\uc870\ud569\ub860"
         },
         {
           "language": "en",
-          "name": "tree",
-          "short": "tree"
+          "name": "combinatorics",
+          "short": "combinatorics"
         },
         {
           "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
+          "name": "\u7d44\u307f\u5408\u308f\u305b",
+          "short": "\u7d44\u307f\u5408\u308f\u305b"
         }
       ],
       "aliases": [
         {
-          "alias": "trees"
+          "alias": "combination"
+        },
+        {
+          "alias": "permutation"
+        },
+        {
+          "alias": "probability"
+        },
+        {
+          "alias": "\ud655\ub960"
+        },
+        {
+          "alias": "\uc21c\uc5f4"
         }
       ]
     }
