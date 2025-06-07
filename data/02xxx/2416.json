@@ -17,49 +17,15 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 87,
+  "acceptedUserCount": 88,
   "level": 18,
-  "votedUserCount": 25,
+  "votedUserCount": 26,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4.069,
+  "averageTries": 4.0341,
   "official": true,
   "tags": [
-    {
-      "key": "2_sat",
-      "isMeta": false,
-      "bojTagId": 1,
-      "problemCount": 69,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "2-sat",
-          "short": "2-sat"
-        },
-        {
-          "language": "en",
-          "name": "2-sat",
-          "short": "2-sat"
-        },
-        {
-          "language": "ja",
-          "name": "2-sat",
-          "short": "2-sat"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud22c\uc14b"
-        },
-        {
-          "alias": "twosat"
-        },
-        {
-          "alias": "2sat"
-        }
-      ]
-    },
     {
       "key": "graphs",
       "isMeta": false,
@@ -114,6 +80,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "2_sat",
+      "isMeta": false,
+      "bojTagId": 1,
+      "problemCount": 69,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "2-sat",
+          "short": "2-sat"
+        },
+        {
+          "language": "en",
+          "name": "2-sat",
+          "short": "2-sat"
+        },
+        {
+          "language": "ja",
+          "name": "2-sat",
+          "short": "2-sat"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud22c\uc14b"
+        },
+        {
+          "alias": "twosat"
+        },
+        {
+          "alias": "2sat"
+        }
+      ]
     }
   ],
   "metadata": {}

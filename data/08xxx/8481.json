@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 86,
   "level": 23,
-  "votedUserCount": 43,
+  "votedUserCount": 44,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -48,7 +48,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6214,
+      "problemCount": 6215,
       "displayNames": [
         {
           "language": "ko",
@@ -72,7 +72,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4607,
+      "problemCount": 4608,
       "displayNames": [
         {
           "language": "ko",
@@ -165,7 +165,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2277,
+      "problemCount": 2276,
       "displayNames": [
         {
           "language": "ko",
@@ -318,7 +318,7 @@
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 1031,
+      "problemCount": 1033,
       "displayNames": [
         {
           "language": "ko",
@@ -352,7 +352,7 @@
       "key": "bitmask",
       "isMeta": false,
       "bojTagId": 14,
-      "problemCount": 863,
+      "problemCount": 864,
       "displayNames": [
         {
           "language": "ko",
@@ -435,7 +435,7 @@
       "key": "primality_test",
       "isMeta": false,
       "bojTagId": 9,
-      "problemCount": 363,
+      "problemCount": 362,
       "displayNames": [
         {
           "language": "ko",
@@ -612,6 +612,25 @@
           "alias": "prime"
         }
       ]
+    },
+    {
+      "key": "grid_graph",
+      "isMeta": false,
+      "bojTagId": 221,
+      "problemCount": 137,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
+          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "grid graph",
+          "short": "grid graph"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
