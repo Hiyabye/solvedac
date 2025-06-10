@@ -13,13 +13,61 @@
   "isPartial": false,
   "acceptedUserCount": 339,
   "level": 13,
-  "votedUserCount": 58,
+  "votedUserCount": 59,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 3.882,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7313,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1684,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "divide_and_conquer",
       "isMeta": false,
@@ -52,7 +100,7 @@
       "key": "exponentiation_by_squaring",
       "isMeta": false,
       "bojTagId": 39,
-      "problemCount": 332,
+      "problemCount": 333,
       "displayNames": [
         {
           "language": "ko",
@@ -86,58 +134,10 @@
       ]
     },
     {
-      "key": "flt",
-      "isMeta": false,
-      "bojTagId": 29,
-      "problemCount": 71,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac",
-          "short": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "fermat's little theorem",
-          "short": "fermat's little thm"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d5\u30a7\u30eb\u30de\u30fc\u306e\u5c0f\u5b9a\u7406",
-          "short": "\u30d5\u30a7\u30eb\u30de\u30fc"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7313,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "modular_multiplicative_inverse",
       "isMeta": false,
       "bojTagId": 164,
-      "problemCount": 151,
+      "problemCount": 152,
       "displayNames": [
         {
           "language": "ko",
@@ -162,25 +162,25 @@
       ]
     },
     {
-      "key": "number_theory",
+      "key": "flt",
       "isMeta": false,
-      "bojTagId": 95,
-      "problemCount": 1682,
+      "bojTagId": 29,
+      "problemCount": 71,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\uc218\ub860",
-          "short": "\uc815\uc218\ub860"
+          "name": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac",
+          "short": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac"
         },
         {
           "language": "en",
-          "name": "number theory",
-          "short": "number theory"
+          "name": "fermat's little theorem",
+          "short": "fermat's little thm"
         },
         {
           "language": "ja",
-          "name": "\u6574\u6570\u8ad6",
-          "short": "\u6574\u6570\u8ad6"
+          "name": "\u30d5\u30a7\u30eb\u30de\u30fc\u306e\u5c0f\u5b9a\u7406",
+          "short": "\u30d5\u30a7\u30eb\u30de\u30fc"
         }
       ],
       "aliases": []
