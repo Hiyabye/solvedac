@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 37,
   "level": 20,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -27,10 +27,34 @@
   "official": true,
   "tags": [
     {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6222,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4611,
+      "problemCount": 4613,
       "displayNames": [
         {
           "language": "ko",
@@ -61,25 +85,20 @@
       ]
     },
     {
-      "key": "implementation",
+      "key": "dp_digit",
       "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6220,
+      "bojTagId": 217,
+      "problemCount": 28,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
+          "name": "\uc790\ub9bf\uc218\ub97c \uc774\uc6a9\ud55c \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\uc790\ub9bf\uc218 dp"
         },
         {
           "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
+          "name": "digit dp",
+          "short": "digit dp"
         }
       ],
       "aliases": []

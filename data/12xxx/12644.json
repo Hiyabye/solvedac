@@ -13,13 +13,37 @@
   "isPartial": false,
   "acceptedUserCount": 13,
   "level": 14,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.5385,
   "official": true,
   "tags": [
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6222,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "data_structures",
       "isMeta": false,
@@ -52,58 +76,10 @@
       ]
     },
     {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6220,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "parsing",
-      "isMeta": false,
-      "bojTagId": 96,
-      "problemCount": 516,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud30c\uc2f1",
-          "short": "\ud30c\uc2f1"
-        },
-        {
-          "language": "en",
-          "name": "parsing",
-          "short": "parsing"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
-          "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2726,
+      "problemCount": 2727,
       "displayNames": [
         {
           "language": "ko",
@@ -131,7 +107,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1688,
+      "problemCount": 1691,
       "displayNames": [
         {
           "language": "ko",
@@ -154,6 +130,30 @@
           "alias": "trees"
         }
       ]
+    },
+    {
+      "key": "parsing",
+      "isMeta": false,
+      "bojTagId": 96,
+      "problemCount": 516,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud30c\uc2f1",
+          "short": "\ud30c\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "parsing",
+          "short": "parsing"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
+          "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
