@@ -13,13 +13,61 @@
   "isPartial": false,
   "acceptedUserCount": 191,
   "level": 3,
-  "votedUserCount": 24,
+  "votedUserCount": 25,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2.9319,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7315,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6222,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "arithmetic",
       "isMeta": false,
@@ -70,52 +118,38 @@
       ]
     },
     {
-      "key": "implementation",
+      "key": "case_work",
       "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6222,
+      "bojTagId": 137,
+      "problemCount": 1038,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
+          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
+          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
         },
         {
           "language": "en",
-          "name": "implementation",
-          "short": "impl"
+          "name": "case work",
+          "short": "case work"
         },
         {
           "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
+          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
+          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
         }
       ],
-      "aliases": []
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7313,
-      "displayNames": [
+      "aliases": [
         {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "alias": "\ucf00\uc774\uc2a4"
         },
         {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
         },
         {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
         }
-      ],
-      "aliases": []
+      ]
     }
   ],
   "metadata": {}

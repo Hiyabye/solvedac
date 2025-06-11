@@ -12,38 +12,14 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 9,
-  "level": 24,
-  "votedUserCount": 3,
+  "level": 25,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 6,
   "official": true,
   "tags": [
-    {
-      "key": "splay_tree",
-      "isMeta": false,
-      "bojTagId": 69,
-      "problemCount": 44,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc2a4\ud50c\ub808\uc774 \ud2b8\ub9ac",
-          "short": "\uc2a4\ud50c\ub808\uc774 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "splay tree",
-          "short": "splay tree"
-        },
-        {
-          "language": "ja",
-          "name": "splay tree",
-          "short": "splay tree"
-        }
-      ],
-      "aliases": []
-    },
     {
       "key": "trees",
       "isMeta": false,
@@ -71,6 +47,30 @@
           "alias": "trees"
         }
       ]
+    },
+    {
+      "key": "splay_tree",
+      "isMeta": false,
+      "bojTagId": 69,
+      "problemCount": 44,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2a4\ud50c\ub808\uc774 \ud2b8\ub9ac",
+          "short": "\uc2a4\ud50c\ub808\uc774 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "splay tree",
+          "short": "splay tree"
+        },
+        {
+          "language": "ja",
+          "name": "splay tree",
+          "short": "splay tree"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

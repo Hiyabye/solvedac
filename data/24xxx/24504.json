@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 42,
   "level": 20,
-  "votedUserCount": 22,
+  "votedUserCount": 23,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,50 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "articulation",
-      "isMeta": false,
-      "bojTagId": 4,
-      "problemCount": 66,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120",
-          "short": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120"
-        },
-        {
-          "language": "en",
-          "name": "articulation points and bridges",
-          "short": "articulation points and bridges"
-        },
-        {
-          "language": "ja",
-          "name": "\u95a2\u7bc0\u70b9\u3068\u6a4b",
-          "short": "\u95a2\u7bc0\u70b9\u3068\u6a4b"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub2e8\uc808\uc810"
-        },
-        {
-          "alias": "\ub2e8\uc808\uc120"
-        },
-        {
-          "alias": "\ube0c\ub9ac\uc9c0"
-        },
-        {
-          "alias": "\ube0c\ub9bf\uc9c0"
-        },
-        {
-          "alias": "bridge"
-        }
-      ]
-    },
-    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4613,
+      "problemCount": 4614,
       "displayNames": [
         {
           "language": "ko",
@@ -91,34 +51,6 @@
         },
         {
           "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
-    {
-      "key": "dp_tree",
-      "isMeta": false,
-      "bojTagId": 92,
-      "problemCount": 515,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming on trees",
-          "short": "tree dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728\u4e0a\u306e\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "tree dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud2b8\ub9acdp"
         }
       ]
     },
@@ -178,6 +110,74 @@
       "aliases": [
         {
           "alias": "trees"
+        }
+      ]
+    },
+    {
+      "key": "dp_tree",
+      "isMeta": false,
+      "bojTagId": 92,
+      "problemCount": 515,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming on trees",
+          "short": "tree dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728\u4e0a\u306e\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "tree dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud2b8\ub9acdp"
+        }
+      ]
+    },
+    {
+      "key": "articulation",
+      "isMeta": false,
+      "bojTagId": 4,
+      "problemCount": 66,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120",
+          "short": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120"
+        },
+        {
+          "language": "en",
+          "name": "articulation points and bridges",
+          "short": "articulation points and bridges"
+        },
+        {
+          "language": "ja",
+          "name": "\u95a2\u7bc0\u70b9\u3068\u6a4b",
+          "short": "\u95a2\u7bc0\u70b9\u3068\u6a4b"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub2e8\uc808\uc810"
+        },
+        {
+          "alias": "\ub2e8\uc808\uc120"
+        },
+        {
+          "alias": "\ube0c\ub9ac\uc9c0"
+        },
+        {
+          "alias": "\ube0c\ub9bf\uc9c0"
+        },
+        {
+          "alias": "bridge"
         }
       ]
     }
