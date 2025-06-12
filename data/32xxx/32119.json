@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 28,
   "level": 22,
-  "votedUserCount": 14,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,41 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "binary_search",
-      "isMeta": false,
-      "bojTagId": 12,
-      "problemCount": 1459,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\uc774\ubd84 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "binary search",
-          "short": "binary search"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u5206\u63a2\u7d22",
-          "short": "\u4e8c\u5206\u63a2\u7d22"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc774\ubd84\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
-        }
-      ]
-    },
-    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4476,
+      "problemCount": 4478,
       "displayNames": [
         {
           "language": "ko",
@@ -79,6 +48,102 @@
         },
         {
           "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2730,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        },
+        {
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
+      "key": "segtree",
+      "isMeta": false,
+      "bojTagId": 65,
+      "problemCount": 1510,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "segment tree",
+          "short": "segtree"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
+          "short": "\u30bb\u30b0\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud2b8\ub9ac"
+        },
+        {
+          "alias": "\uc138\uadf8\ud2b8\ub9ac"
+        },
+        {
+          "alias": "fenwick"
+        },
+        {
+          "alias": "\ud39c\uc705"
+        }
+      ]
+    },
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1458,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
         }
       ]
     },
@@ -117,75 +182,10 @@
       ]
     },
     {
-      "key": "segtree",
-      "isMeta": false,
-      "bojTagId": 65,
-      "problemCount": 1509,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
-          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "segment tree",
-          "short": "segtree"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
-          "short": "\u30bb\u30b0\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uad6c\uac04\ud2b8\ub9ac"
-        },
-        {
-          "alias": "\uc138\uadf8\ud2b8\ub9ac"
-        },
-        {
-          "alias": "fenwick"
-        },
-        {
-          "alias": "\ud39c\uc705"
-        }
-      ]
-    },
-    {
-      "key": "string",
-      "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2729,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "string",
-          "short": "string"
-        },
-        {
-          "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc2a4\ud2b8\ub9c1"
-        }
-      ]
-    },
-    {
       "key": "suffix_array",
       "isMeta": false,
       "bojTagId": 77,
-      "problemCount": 122,
+      "problemCount": 123,
       "displayNames": [
         {
           "language": "ko",

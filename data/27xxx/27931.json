@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 318,
   "level": 8,
-  "votedUserCount": 28,
+  "votedUserCount": 29,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3057,
+      "problemCount": 3055,
       "displayNames": [
         {
           "language": "ko",
@@ -52,7 +52,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2133,
+      "problemCount": 2135,
       "displayNames": [
         {
           "language": "ko",
@@ -108,6 +108,25 @@
           "alias": "twopointer"
         }
       ]
+    },
+    {
+      "key": "parity",
+      "isMeta": false,
+      "bojTagId": 230,
+      "problemCount": 62,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud640\uc9dd\uc131",
+          "short": "\ud640\uc9dd\uc131"
+        },
+        {
+          "language": "en",
+          "name": "parity",
+          "short": "parity"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

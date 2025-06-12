@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 30,
   "level": 20,
-  "votedUserCount": 11,
+  "votedUserCount": 12,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,41 @@
   "official": true,
   "tags": [
     {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4478,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3057,
+      "problemCount": 3055,
       "displayNames": [
         {
           "language": "ko",
@@ -52,7 +83,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2729,
+      "problemCount": 2730,
       "displayNames": [
         {
           "language": "ko",
@@ -80,7 +111,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1459,
+      "problemCount": 1458,
       "displayNames": [
         {
           "language": "ko",
@@ -132,10 +163,34 @@
       "aliases": []
     },
     {
+      "key": "suffix_array",
+      "isMeta": false,
+      "bojTagId": 77,
+      "problemCount": 123,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc811\ubbf8\uc0ac \ubc30\uc5f4\uacfc LCP \ubc30\uc5f4",
+          "short": "\uc811\ubbf8\uc0ac \ubc30\uc5f4\uacfc LCP \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "suffix array and lcp array",
+          "short": "suffix array and lcp array"
+        },
+        {
+          "language": "ja",
+          "name": "\u63a5\u5c3e\u8f9e\u914d\u5217\u30fbLCP\u914d\u5217",
+          "short": "\u63a5\u5c3e\u8f9e\u914d\u5217\u30fbLCP\u914d\u5217"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "kmp",
       "isMeta": false,
       "bojTagId": 40,
-      "problemCount": 102,
+      "problemCount": 103,
       "displayNames": [
         {
           "language": "ko",

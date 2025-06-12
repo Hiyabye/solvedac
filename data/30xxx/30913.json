@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 13,
-  "level": 26,
-  "votedUserCount": 6,
+  "acceptedUserCount": 14,
+  "level": 27,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 10.5385,
+  "averageTries": 10.2143,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7313,
+      "problemCount": 7315,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6222,
+      "problemCount": 6225,
       "displayNames": [
         {
           "language": "ko",
@@ -72,7 +72,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1684,
+      "problemCount": 1683,
       "displayNames": [
         {
           "language": "ko",
@@ -91,46 +91,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "combinatorics",
-      "isMeta": false,
-      "bojTagId": 6,
-      "problemCount": 1113,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc870\ud569\ub860",
-          "short": "\uc870\ud569\ub860"
-        },
-        {
-          "language": "en",
-          "name": "combinatorics",
-          "short": "combinatorics"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d44\u307f\u5408\u308f\u305b",
-          "short": "\u7d44\u307f\u5408\u308f\u305b"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "combination"
-        },
-        {
-          "alias": "permutation"
-        },
-        {
-          "alias": "probability"
-        },
-        {
-          "alias": "\ud655\ub960"
-        },
-        {
-          "alias": "\uc21c\uc5f4"
-        }
-      ]
     },
     {
       "key": "primality_test",
@@ -235,6 +195,25 @@
       ]
     },
     {
+      "key": "prime_factorization",
+      "isMeta": false,
+      "bojTagId": 242,
+      "problemCount": 64,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc18c\uc778\uc218\ubd84\ud574",
+          "short": "\uc18c\uc778\uc218\ubd84\ud574"
+        },
+        {
+          "language": "en",
+          "name": "prime factorization",
+          "short": "prime factorization"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "euler_phi",
       "isMeta": false,
       "bojTagId": 151,
@@ -291,25 +270,6 @@
           "language": "ja",
           "name": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406",
           "short": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "prime_factorization",
-      "isMeta": false,
-      "bojTagId": 242,
-      "problemCount": 63,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc18c\uc778\uc218\ubd84\ud574",
-          "short": "\uc18c\uc778\uc218\ubd84\ud574"
-        },
-        {
-          "language": "en",
-          "name": "prime factorization",
-          "short": "prime factorization"
         }
       ],
       "aliases": []

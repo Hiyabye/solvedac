@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 6,
   "level": 20,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,35 +21,28 @@
   "official": true,
   "tags": [
     {
-      "key": "bitmask",
+      "key": "implementation",
       "isMeta": false,
-      "bojTagId": 14,
-      "problemCount": 868,
+      "bojTagId": 102,
+      "problemCount": 6225,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
-          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
         },
         {
           "language": "en",
-          "name": "bitmask",
-          "short": "bitmask"
+          "name": "implementation",
+          "short": "impl"
         },
         {
           "language": "ja",
-          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
-          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\ube44\ud2b8\ud544\ub4dc"
-        },
-        {
-          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "dp",
@@ -82,6 +75,37 @@
         },
         {
           "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "bitmask",
+      "isMeta": false,
+      "bojTagId": 14,
+      "problemCount": 869,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
+          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "bitmask",
+          "short": "bitmask"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
+          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ube44\ud2b8\ud544\ub4dc"
+        },
+        {
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
         }
       ]
     },

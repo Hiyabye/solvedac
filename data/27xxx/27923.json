@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 187,
   "level": 12,
-  "votedUserCount": 28,
+  "votedUserCount": 29,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -30,7 +30,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3057,
+      "problemCount": 3055,
       "displayNames": [
         {
           "language": "ko",
@@ -53,6 +53,30 @@
           "alias": "\ud0d0\uc695\ubc95"
         }
       ]
+    },
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2135,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "prefix_sum",
@@ -89,25 +113,20 @@
       ]
     },
     {
-      "key": "sorting",
+      "key": "difference_array",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2133,
+      "bojTagId": 239,
+      "problemCount": 35,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
+          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "difference array",
+          "short": "difference array"
         }
       ],
       "aliases": []
