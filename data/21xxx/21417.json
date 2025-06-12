@@ -11,51 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 29,
+  "acceptedUserCount": 30,
   "level": 6,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.4138,
+  "averageTries": 2.5,
   "official": true,
   "tags": [
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4476,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
     {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6222,
+      "problemCount": 6223,
       "displayNames": [
         {
           "language": "ko",
@@ -71,78 +40,6 @@
           "language": "ja",
           "name": "\u5b9f\u88c5",
           "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "queue",
-      "isMeta": false,
-      "bojTagId": 72,
-      "problemCount": 72,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud050",
-          "short": "\ud050"
-        },
-        {
-          "language": "en",
-          "name": "queue",
-          "short": "queue"
-        },
-        {
-          "language": "ja",
-          "name": "\u30ad\u30e5\u30fc",
-          "short": "\u30ad\u30e5\u30fc"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "simulation",
-      "isMeta": false,
-      "bojTagId": 141,
-      "problemCount": 1231,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc2dc\ubbac\ub808\uc774\uc158",
-          "short": "\uc2dc\ubbac\ub808\uc774\uc158"
-        },
-        {
-          "language": "en",
-          "name": "simulation",
-          "short": "simulation"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
-          "short": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "stack",
-      "isMeta": false,
-      "bojTagId": 71,
-      "problemCount": 433,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc2a4\ud0dd",
-          "short": "\uc2a4\ud0dd"
-        },
-        {
-          "language": "en",
-          "name": "stack",
-          "short": "stack"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b9\u30bf\u30c3\u30af",
-          "short": "\u30b9\u30bf\u30c3\u30af"
         }
       ],
       "aliases": []
@@ -174,6 +71,30 @@
           "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
+    },
+    {
+      "key": "simulation",
+      "isMeta": false,
+      "bojTagId": 141,
+      "problemCount": 1231,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2dc\ubbac\ub808\uc774\uc158",
+          "short": "\uc2dc\ubbac\ub808\uc774\uc158"
+        },
+        {
+          "language": "en",
+          "name": "simulation",
+          "short": "simulation"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+          "short": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
