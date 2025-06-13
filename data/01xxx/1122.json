@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 90,
   "level": 17,
-  "votedUserCount": 21,
+  "votedUserCount": 22,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,75 +21,34 @@
   "official": true,
   "tags": [
     {
-      "key": "bfs",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 126,
-      "problemCount": 1118,
+      "bojTagId": 124,
+      "problemCount": 7315,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "breadth-first search",
-          "short": "bfs"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u5e45\u512a\u5148\u691c\u7d22",
-          "short": "bfs"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
-      "aliases": [
-        {
-          "alias": "breadthfirst"
-        },
-        {
-          "alias": "breadth first"
-        }
-      ]
-    },
-    {
-      "key": "case_work",
-      "isMeta": false,
-      "bojTagId": 137,
-      "problemCount": 1038,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
-          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
-        },
-        {
-          "language": "en",
-          "name": "case work",
-          "short": "case work"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
-          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ucf00\uc774\uc2a4"
-        },
-        {
-          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
-        },
-        {
-          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4565,
+      "problemCount": 4564,
       "displayNames": [
         {
           "language": "ko",
@@ -148,28 +107,69 @@
       ]
     },
     {
-      "key": "math",
+      "key": "bfs",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7315,
+      "bojTagId": 126,
+      "problemCount": 1118,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "breadth-first search",
+          "short": "bfs"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "\u5e45\u512a\u5148\u691c\u7d22",
+          "short": "bfs"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "breadthfirst"
+        },
+        {
+          "alias": "breadth first"
+        }
+      ]
+    },
+    {
+      "key": "case_work",
+      "isMeta": false,
+      "bojTagId": 137,
+      "problemCount": 1040,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
+          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
+        },
+        {
+          "language": "en",
+          "name": "case work",
+          "short": "case work"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
+          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucf00\uc774\uc2a4"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
+        }
+      ]
     }
   ],
   "metadata": {}
