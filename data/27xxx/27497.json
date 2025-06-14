@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 815,
   "level": 9,
-  "votedUserCount": 35,
+  "votedUserCount": 36,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4478,
+      "problemCount": 4479,
       "displayNames": [
         {
           "language": "ko",
@@ -52,28 +52,32 @@
       ]
     },
     {
-      "key": "deque",
+      "key": "string",
       "isMeta": false,
-      "bojTagId": 73,
-      "problemCount": 139,
+      "bojTagId": 158,
+      "problemCount": 2733,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub371",
-          "short": "\ub371"
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
         },
         {
           "language": "en",
-          "name": "deque",
-          "short": "deque"
+          "name": "string",
+          "short": "string"
         },
         {
           "language": "ja",
-          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
-          "short": "deque"
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
     },
     {
       "key": "stack",
@@ -100,32 +104,28 @@
       "aliases": []
     },
     {
-      "key": "string",
+      "key": "deque",
       "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2731,
+      "bojTagId": 73,
+      "problemCount": 139,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
+          "name": "\ub371",
+          "short": "\ub371"
         },
         {
           "language": "en",
-          "name": "string",
-          "short": "string"
+          "name": "deque",
+          "short": "deque"
         },
         {
           "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
+          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
+          "short": "deque"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc2a4\ud2b8\ub9c1"
-        }
-      ]
+      "aliases": []
     }
   ],
   "metadata": {}
