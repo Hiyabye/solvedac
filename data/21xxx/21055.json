@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 26,
   "level": 21,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,38 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "bayes",
-      "isMeta": false,
-      "bojTagId": 114,
-      "problemCount": 7,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubca0\uc774\uc988 \uc815\ub9ac",
-          "short": "\ubca0\uc774\uc988 \uc815\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "bayes theorem",
-          "short": "bayes thm"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d9\u30a4\u30ba\u306e\u5b9a\u7406",
-          "short": "\u30d9\u30a4\u30ba"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc870\uac74\ubd80\ud655\ub960"
-        }
-      ]
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7315,
+      "problemCount": 7317,
       "displayNames": [
         {
           "language": "ko",
@@ -129,6 +101,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "bayes",
+      "isMeta": false,
+      "bojTagId": 114,
+      "problemCount": 7,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubca0\uc774\uc988 \uc815\ub9ac",
+          "short": "\ubca0\uc774\uc988 \uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "bayes theorem",
+          "short": "bayes thm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d9\u30a4\u30ba\u306e\u5b9a\u7406",
+          "short": "\u30d9\u30a4\u30ba"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc870\uac74\ubd80\ud655\ub960"
+        }
+      ]
     }
   ],
   "metadata": {}

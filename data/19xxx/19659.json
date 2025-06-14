@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 3,
-  "level": 23,
-  "votedUserCount": 2,
+  "level": 24,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,33 +21,36 @@
   "official": true,
   "tags": [
     {
-      "key": "cht",
+      "key": "dp",
       "isMeta": false,
-      "bojTagId": 89,
-      "problemCount": 117,
+      "bojTagId": 25,
+      "problemCount": 4617,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
-          "short": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
         },
         {
           "language": "en",
-          "name": "convex hull trick",
-          "short": "cht"
+          "name": "dynamic programming",
+          "short": "dp"
         },
         {
           "language": "ja",
-          "name": "convex hull trick",
-          "short": "cht"
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
         }
       ],
       "aliases": [
         {
-          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ud2b8\ub9ad"
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
         },
         {
-          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ucd5c\uc801\ud654"
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
         }
       ]
     },
@@ -55,7 +58,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4478,
+      "problemCount": 4479,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +89,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1804,
+      "problemCount": 1806,
       "displayNames": [
         {
           "language": "ko",
@@ -105,6 +108,37 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "cht",
+      "isMeta": false,
+      "bojTagId": 89,
+      "problemCount": 117,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
+          "short": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
+        },
+        {
+          "language": "en",
+          "name": "convex hull trick",
+          "short": "cht"
+        },
+        {
+          "language": "ja",
+          "name": "convex hull trick",
+          "short": "cht"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ud2b8\ub9ad"
+        },
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ucd5c\uc801\ud654"
+        }
+      ]
     }
   ],
   "metadata": {}

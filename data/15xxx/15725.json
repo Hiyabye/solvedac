@@ -21,33 +21,78 @@
   "official": true,
   "tags": [
     {
-      "key": "calculus",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 111,
-      "problemCount": 140,
+      "bojTagId": 124,
+      "problemCount": 7317,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubbf8\uc801\ubd84\ud559",
-          "short": "\ubbf8\uc801\ubd84\ud559"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "calculus",
-          "short": "calculus"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u5fae\u7a4d\u5206",
-          "short": "\u5fae\u7a4d\u5206"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6228,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2732,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        },
+        {
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
         }
       ],
       "aliases": [
         {
-          "alias": "\ubbf8\ubd84"
-        },
-        {
-          "alias": "\uc801\ubd84"
+          "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
     },
@@ -55,7 +100,7 @@
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 1040,
+      "problemCount": 1042,
       "displayNames": [
         {
           "language": "ko",
@@ -86,54 +131,6 @@
       ]
     },
     {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6227,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7315,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "parsing",
       "isMeta": false,
       "bojTagId": 96,
@@ -158,30 +155,33 @@
       "aliases": []
     },
     {
-      "key": "string",
+      "key": "calculus",
       "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2730,
+      "bojTagId": 111,
+      "problemCount": 140,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
+          "name": "\ubbf8\uc801\ubd84\ud559",
+          "short": "\ubbf8\uc801\ubd84\ud559"
         },
         {
           "language": "en",
-          "name": "string",
-          "short": "string"
+          "name": "calculus",
+          "short": "calculus"
         },
         {
           "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
+          "name": "\u5fae\u7a4d\u5206",
+          "short": "\u5fae\u7a4d\u5206"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc2a4\ud2b8\ub9c1"
+          "alias": "\ubbf8\ubd84"
+        },
+        {
+          "alias": "\uc801\ubd84"
         }
       ]
     }

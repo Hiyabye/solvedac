@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 795,
+  "acceptedUserCount": 804,
   "level": 12,
-  "votedUserCount": 36,
+  "votedUserCount": 37,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.1132,
+  "averageTries": 3.1045,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4478,
+      "problemCount": 4479,
       "displayNames": [
         {
           "language": "ko",
@@ -52,34 +52,10 @@
       ]
     },
     {
-      "key": "geometry",
-      "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 1804,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
-        },
-        {
-          "language": "en",
-          "name": "geometry",
-          "short": "geom"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2136,
+      "problemCount": 2138,
       "displayNames": [
         {
           "language": "ko",
@@ -100,25 +76,25 @@
       "aliases": []
     },
     {
-      "key": "stack",
+      "key": "geometry",
       "isMeta": false,
-      "bojTagId": 71,
-      "problemCount": 432,
+      "bojTagId": 100,
+      "problemCount": 1806,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc2a4\ud0dd",
-          "short": "\uc2a4\ud0dd"
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
         },
         {
           "language": "en",
-          "name": "stack",
-          "short": "stack"
+          "name": "geometry",
+          "short": "geom"
         },
         {
           "language": "ja",
-          "name": "\u30b9\u30bf\u30c3\u30af",
-          "short": "\u30b9\u30bf\u30c3\u30af"
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
         }
       ],
       "aliases": []
@@ -127,7 +103,7 @@
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 589,
+      "problemCount": 591,
       "displayNames": [
         {
           "language": "ko",
@@ -150,6 +126,30 @@
           "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
         }
       ]
+    },
+    {
+      "key": "stack",
+      "isMeta": false,
+      "bojTagId": 71,
+      "problemCount": 433,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2a4\ud0dd",
+          "short": "\uc2a4\ud0dd"
+        },
+        {
+          "language": "en",
+          "name": "stack",
+          "short": "stack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b9\u30bf\u30c3\u30af",
+          "short": "\u30b9\u30bf\u30c3\u30af"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
