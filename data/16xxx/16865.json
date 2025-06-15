@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 36,
   "level": 6,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6230,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2487,
+      "problemCount": 2488,
       "displayNames": [
         {
           "language": "ko",
@@ -64,25 +88,25 @@
       ]
     },
     {
-      "key": "implementation",
+      "key": "recursion",
       "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6228,
+      "bojTagId": 62,
+      "problemCount": 284,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
+          "name": "\uc7ac\uadc0",
+          "short": "\uc7ac\uadc0"
         },
         {
           "language": "en",
-          "name": "implementation",
-          "short": "impl"
+          "name": "recursion",
+          "short": "recursion"
         },
         {
           "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
+          "name": "\u518d\u5e30",
+          "short": "\u518d\u5e30"
         }
       ],
       "aliases": []
