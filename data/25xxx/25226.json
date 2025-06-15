@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 12,
-  "level": 20,
-  "votedUserCount": 1,
+  "level": 21,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1806,
+      "problemCount": 1807,
       "displayNames": [
         {
           "language": "ko",
@@ -40,6 +40,58 @@
           "language": "ja",
           "name": "\u5e7e\u4f55\u5b66",
           "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "sweeping",
+      "isMeta": false,
+      "bojTagId": 106,
+      "problemCount": 592,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2a4\uc704\ud551",
+          "short": "\uc2a4\uc704\ud551"
+        },
+        {
+          "language": "en",
+          "name": "sweeping",
+          "short": "sweeping"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e73\u9762\u8d70\u67fb",
+          "short": "\u5e73\u9762\u8d70\u67fb"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
+        }
+      ]
+    },
+    {
+      "key": "ternary_search",
+      "isMeta": false,
+      "bojTagId": 101,
+      "problemCount": 127,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc0bc\ubd84 \ud0d0\uc0c9",
+          "short": "\uc0bc\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "ternary search",
+          "short": "ternary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e09\u5206\u63a2\u7d22",
+          "short": "\u4e09\u5206\u63a2\u7d22"
         }
       ],
       "aliases": []
@@ -69,34 +121,6 @@
       "aliases": [
         {
           "alias": "\ub113\uc774"
-        }
-      ]
-    },
-    {
-      "key": "sweeping",
-      "isMeta": false,
-      "bojTagId": 106,
-      "problemCount": 591,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc2a4\uc704\ud551",
-          "short": "\uc2a4\uc704\ud551"
-        },
-        {
-          "language": "en",
-          "name": "sweeping",
-          "short": "sweeping"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e73\u9762\u8d70\u67fb",
-          "short": "\u5e73\u9762\u8d70\u67fb"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
         }
       ]
     }

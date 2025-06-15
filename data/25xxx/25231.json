@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 25,
-  "level": 18,
-  "votedUserCount": 5,
+  "level": 19,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6230,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4567,
+      "problemCount": 4568,
       "displayNames": [
         {
           "language": "ko",
@@ -81,6 +105,58 @@
           "alias": "dfs"
         }
       ]
+    },
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1693,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
+    },
+    {
+      "key": "functional_graph",
+      "isMeta": false,
+      "bojTagId": 211,
+      "problemCount": 45,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud568\uc218\ud615 \uadf8\ub798\ud504",
+          "short": "\ud568\uc218\ud615 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "functional graph",
+          "short": "functional graph"
+        },
+        {
+          "language": "ja",
+          "name": "functional graph",
+          "short": "functional graph"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

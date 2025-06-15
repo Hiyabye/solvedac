@@ -13,37 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 33,
   "level": 20,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 3.1818,
   "official": true,
   "tags": [
-    {
-      "key": "ad_hoc",
-      "isMeta": false,
-      "bojTagId": 109,
-      "problemCount": 1874,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc560\ub4dc \ud639",
-          "short": "\uc560\ub4dc \ud639"
-        },
-        {
-          "language": "en",
-          "name": "ad-hoc",
-          "short": "ad-hoc"
-        },
-        {
-          "language": "ja",
-          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
-          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
-        }
-      ],
-      "aliases": []
-    },
     {
       "key": "data_structures",
       "isMeta": false,
@@ -76,35 +52,52 @@
       ]
     },
     {
-      "key": "merge_sort_tree",
+      "key": "sorting",
       "isMeta": false,
-      "bojTagId": 155,
-      "problemCount": 27,
+      "bojTagId": 97,
+      "problemCount": 2138,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uba38\uc9c0 \uc18c\ud2b8 \ud2b8\ub9ac",
-          "short": "\uba38\uc9c0 \uc18c\ud2b8 \ud2b8\ub9ac"
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
         },
         {
           "language": "en",
-          "name": "merge sort tree",
-          "short": "merge sort tree"
+          "name": "sorting",
+          "short": "sorting"
         },
         {
           "language": "ja",
-          "name": "\u30de\u30fc\u30b8\u30bd\u30fc\u30c8\u6728",
-          "short": "\u30de\u30fc\u30b8\u30bd\u30fc\u30c8\u6728"
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
         }
       ],
-      "aliases": [
+      "aliases": []
+    },
+    {
+      "key": "ad_hoc",
+      "isMeta": false,
+      "bojTagId": 109,
+      "problemCount": 1875,
+      "displayNames": [
         {
-          "alias": "\ubcd1\ud569\uc815\ub82c\ud2b8\ub9ac"
+          "language": "ko",
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
         },
         {
-          "alias": "\ud569\ubcd1\uc815\ub82c\ud2b8\ub9ac"
+          "language": "en",
+          "name": "ad-hoc",
+          "short": "ad-hoc"
+        },
+        {
+          "language": "ja",
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
         }
-      ]
+      ],
+      "aliases": []
     },
     {
       "key": "segtree",
@@ -144,28 +137,35 @@
       ]
     },
     {
-      "key": "sorting",
+      "key": "merge_sort_tree",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2138,
+      "bojTagId": 155,
+      "problemCount": 27,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\uba38\uc9c0 \uc18c\ud2b8 \ud2b8\ub9ac",
+          "short": "\uba38\uc9c0 \uc18c\ud2b8 \ud2b8\ub9ac"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
+          "name": "merge sort tree",
+          "short": "merge sort tree"
         },
         {
           "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "\u30de\u30fc\u30b8\u30bd\u30fc\u30c8\u6728",
+          "short": "\u30de\u30fc\u30b8\u30bd\u30fc\u30c8\u6728"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\ubcd1\ud569\uc815\ub82c\ud2b8\ub9ac"
+        },
+        {
+          "alias": "\ud569\ubcd1\uc815\ub82c\ud2b8\ub9ac"
+        }
+      ]
     }
   ],
   "metadata": {}
