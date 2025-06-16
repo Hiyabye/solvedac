@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 18,
+  "acceptedUserCount": 19,
   "level": 22,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.1111,
+  "averageTries": 2.5789,
   "official": true,
   "tags": [
     {
@@ -52,28 +52,32 @@
       ]
     },
     {
-      "key": "lca",
+      "key": "trees",
       "isMeta": false,
-      "bojTagId": 41,
-      "problemCount": 197,
+      "bojTagId": 120,
+      "problemCount": 1693,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
-          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
         },
         {
           "language": "en",
-          "name": "lowest common ancestor",
-          "short": "lca"
+          "name": "tree",
+          "short": "tree"
         },
         {
           "language": "ja",
-          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
-          "short": "lca"
+          "name": "\u6728",
+          "short": "\u6728"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
     },
     {
       "key": "segtree",
@@ -113,32 +117,28 @@
       ]
     },
     {
-      "key": "trees",
+      "key": "lca",
       "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1692,
+      "bojTagId": 41,
+      "problemCount": 197,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
+          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
+          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
         },
         {
           "language": "en",
-          "name": "tree",
-          "short": "tree"
+          "name": "lowest common ancestor",
+          "short": "lca"
         },
         {
           "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
+          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
+          "short": "lca"
         }
       ],
-      "aliases": [
-        {
-          "alias": "trees"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "trie",
@@ -160,6 +160,30 @@
           "language": "ja",
           "name": "\u30c8\u30e9\u30a4\u6728",
           "short": "\u30c8\u30e9\u30a4"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "tree_compression",
+      "isMeta": false,
+      "bojTagId": 193,
+      "problemCount": 21,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac \uc555\ucd95",
+          "short": "\ud2b8\ub9ac \uc555\ucd95"
+        },
+        {
+          "language": "en",
+          "name": "tree compression",
+          "short": "tree compression"
+        },
+        {
+          "language": "ja",
+          "name": "tree compression",
+          "short": "tree compression"
         }
       ],
       "aliases": []
