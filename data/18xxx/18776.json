@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 52,
-  "level": 20,
-  "votedUserCount": 15,
+  "level": 21,
+  "votedUserCount": 16,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,38 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "discrete_log",
-      "isMeta": false,
-      "bojTagId": 146,
-      "problemCount": 12,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\uc0b0 \ub85c\uadf8",
-          "short": "\uc774\uc0b0 \ub85c\uadf8"
-        },
-        {
-          "language": "en",
-          "name": "discrete logarithm",
-          "short": "discrete logarithm"
-        },
-        {
-          "language": "ja",
-          "name": "\u96e2\u6563\u5bfe\u6570",
-          "short": "\u96e2\u6563\u5bfe\u6570"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "order"
-        }
-      ]
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7321,
+      "problemCount": 7327,
       "displayNames": [
         {
           "language": "ko",
@@ -68,30 +40,6 @@
           "language": "ja",
           "name": "\u6570\u5b66",
           "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "mitm",
-      "isMeta": false,
-      "bojTagId": 46,
-      "problemCount": 106,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30",
-          "short": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30"
-        },
-        {
-          "language": "en",
-          "name": "meet in the middle",
-          "short": "meet in the middle"
-        },
-        {
-          "language": "ja",
-          "name": "\u534a\u5206\u5168\u5217\u6319",
-          "short": "\u534a\u5206\u5168\u5217\u6319"
         }
       ],
       "aliases": []
@@ -124,7 +72,7 @@
       "key": "precomputation",
       "isMeta": false,
       "bojTagId": 172,
-      "problemCount": 223,
+      "problemCount": 224,
       "displayNames": [
         {
           "language": "ko",
@@ -151,6 +99,86 @@
         },
         {
           "alias": "database"
+        }
+      ]
+    },
+    {
+      "key": "linear_algebra",
+      "isMeta": false,
+      "bojTagId": 144,
+      "problemCount": 211,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc120\ud615\ub300\uc218\ud559",
+          "short": "\uc120\ud615\ub300\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "linear algebra",
+          "short": "linear algebra"
+        },
+        {
+          "language": "ja",
+          "name": "\u7dda\u5f62\u4ee3\u6570",
+          "short": "\u7dda\u4ee3"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc120\ud615\ub300\uc218"
+        }
+      ]
+    },
+    {
+      "key": "mitm",
+      "isMeta": false,
+      "bojTagId": 46,
+      "problemCount": 106,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30",
+          "short": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30"
+        },
+        {
+          "language": "en",
+          "name": "meet in the middle",
+          "short": "meet in the middle"
+        },
+        {
+          "language": "ja",
+          "name": "\u534a\u5206\u5168\u5217\u6319",
+          "short": "\u534a\u5206\u5168\u5217\u6319"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "discrete_log",
+      "isMeta": false,
+      "bojTagId": 146,
+      "problemCount": 12,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\uc0b0 \ub85c\uadf8",
+          "short": "\uc774\uc0b0 \ub85c\uadf8"
+        },
+        {
+          "language": "en",
+          "name": "discrete logarithm",
+          "short": "discrete logarithm"
+        },
+        {
+          "language": "ja",
+          "name": "\u96e2\u6563\u5bfe\u6570",
+          "short": "\u96e2\u6563\u5bfe\u6570"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "order"
         }
       ]
     }
