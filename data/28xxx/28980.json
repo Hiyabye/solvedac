@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 28,
-  "level": 5,
-  "votedUserCount": 3,
+  "level": 6,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,59 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "arithmetic",
-      "isMeta": false,
-      "bojTagId": 121,
-      "problemCount": 1231,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc0ac\uce59\uc5f0\uc0b0",
-          "short": "\uc0ac\uce59\uc5f0\uc0b0"
-        },
-        {
-          "language": "en",
-          "name": "arithmetic",
-          "short": "arithmetic"
-        },
-        {
-          "language": "ja",
-          "name": "\u7b97\u6570",
-          "short": "\u7b97\u6570"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub367\uc148"
-        },
-        {
-          "alias": "\ube84\uc148"
-        },
-        {
-          "alias": "\uacf1\uc148"
-        },
-        {
-          "alias": "\ub098\ub217\uc148"
-        },
-        {
-          "alias": "\ub354\ud558\uae30"
-        },
-        {
-          "alias": "\ube7c\uae30"
-        },
-        {
-          "alias": "\uacf1\ud558\uae30"
-        },
-        {
-          "alias": "\ub098\ub204\uae30"
-        }
-      ]
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7321,
+      "problemCount": 7328,
       "displayNames": [
         {
           "language": "ko",
@@ -118,6 +69,55 @@
       "aliases": [
         {
           "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
+      "key": "arithmetic",
+      "isMeta": false,
+      "bojTagId": 121,
+      "problemCount": 1232,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc0ac\uce59\uc5f0\uc0b0",
+          "short": "\uc0ac\uce59\uc5f0\uc0b0"
+        },
+        {
+          "language": "en",
+          "name": "arithmetic",
+          "short": "arithmetic"
+        },
+        {
+          "language": "ja",
+          "name": "\u7b97\u6570",
+          "short": "\u7b97\u6570"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub367\uc148"
+        },
+        {
+          "alias": "\ube84\uc148"
+        },
+        {
+          "alias": "\uacf1\uc148"
+        },
+        {
+          "alias": "\ub098\ub217\uc148"
+        },
+        {
+          "alias": "\ub354\ud558\uae30"
+        },
+        {
+          "alias": "\ube7c\uae30"
+        },
+        {
+          "alias": "\uacf1\ud558\uae30"
+        },
+        {
+          "alias": "\ub098\ub204\uae30"
         }
       ]
     }
