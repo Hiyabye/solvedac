@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 15,
+  "acceptedUserCount": 16,
   "level": 27,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 7.4667,
+  "averageTries": 8.5625,
   "official": true,
   "tags": [
     {
@@ -79,7 +79,7 @@
       "key": "stack",
       "isMeta": false,
       "bojTagId": 71,
-      "problemCount": 433,
+      "problemCount": 434,
       "displayNames": [
         {
           "language": "ko",
@@ -95,6 +95,25 @@
           "language": "ja",
           "name": "\u30b9\u30bf\u30c3\u30af",
           "short": "\u30b9\u30bf\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "angle_sorting",
+      "isMeta": false,
+      "bojTagId": 240,
+      "problemCount": 21,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac01\ub3c4 \uc815\ub82c",
+          "short": "\uac01\ub3c4 \uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "angle sorting",
+          "short": "angle sorting"
         }
       ],
       "aliases": []

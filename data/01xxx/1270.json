@@ -11,15 +11,39 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 1540,
+  "acceptedUserCount": 1541,
   "level": 8,
-  "votedUserCount": 56,
+  "votedUserCount": 57,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.2195,
+  "averageTries": 3.2193,
   "official": true,
   "tags": [
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6235,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "data_structures",
       "isMeta": false,
@@ -105,73 +129,6 @@
           "alias": "dict"
         }
       ]
-    },
-    {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6234,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "majority_vote",
-      "isMeta": false,
-      "bojTagId": 160,
-      "problemCount": 3,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubcf4\uc774\uc5b4\u2013\ubb34\uc5b4 \ub2e4\uc218\uacb0 \ud22c\ud45c",
-          "short": "\ubcf4\uc774\uc5b4\u2013\ubb34\uc5b4 \ub2e4\uc218\uacb0 \ud22c\ud45c"
-        },
-        {
-          "language": "en",
-          "name": "boyer\u2013moore majority vote",
-          "short": "majority vote"
-        },
-        {
-          "language": "ja",
-          "name": "boyer\u2013moore majority vote",
-          "short": "majority vote"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "set",
-      "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1287,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map",
-          "short": "set"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}

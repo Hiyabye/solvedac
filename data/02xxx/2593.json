@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 429,
+  "acceptedUserCount": 431,
   "level": 16,
-  "votedUserCount": 53,
+  "votedUserCount": 54,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4.0326,
+  "averageTries": 4.0232,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4569,
+      "problemCount": 4570,
       "displayNames": [
         {
           "language": "ko",
@@ -112,6 +112,25 @@
           "alias": "breadth first"
         }
       ]
+    },
+    {
+      "key": "traceback",
+      "isMeta": false,
+      "bojTagId": 235,
+      "problemCount": 78,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc5ed\ucd94\uc801",
+          "short": "\uc5ed\ucd94\uc801"
+        },
+        {
+          "language": "en",
+          "name": "traceback",
+          "short": "traceback"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

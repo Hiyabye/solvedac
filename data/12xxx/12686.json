@@ -11,15 +11,70 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 6,
+  "acceptedUserCount": 7,
   "level": 25,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.1667,
+  "averageTries": 2.5714,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7329,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4570,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
     {
       "key": "game_theory",
       "isMeta": false,
@@ -53,6 +108,86 @@
           "alias": "nim"
         }
       ]
+    },
+    {
+      "key": "linear_algebra",
+      "isMeta": false,
+      "bojTagId": 144,
+      "problemCount": 211,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc120\ud615\ub300\uc218\ud559",
+          "short": "\uc120\ud615\ub300\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "linear algebra",
+          "short": "linear algebra"
+        },
+        {
+          "language": "ja",
+          "name": "\u7dda\u5f62\u4ee3\u6570",
+          "short": "\u7dda\u4ee3"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc120\ud615\ub300\uc218"
+        }
+      ]
+    },
+    {
+      "key": "randomization",
+      "isMeta": false,
+      "bojTagId": 115,
+      "problemCount": 175,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb34\uc791\uc704\ud654",
+          "short": "\ubb34\uc791\uc704\ud654"
+        },
+        {
+          "language": "en",
+          "name": "randomization",
+          "short": "randomization"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
+          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub79c\ub364"
+        }
+      ]
+    },
+    {
+      "key": "gaussian_elimination",
+      "isMeta": false,
+      "bojTagId": 32,
+      "problemCount": 94,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95",
+          "short": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "gaussian elimination",
+          "short": "gaussian elimination"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5",
+          "short": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "general_matching",
@@ -94,37 +229,6 @@
         },
         {
           "alias": "\ubd80\ud569"
-        }
-      ]
-    },
-    {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4569,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
         }
       ]
     }

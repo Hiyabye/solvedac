@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 11,
+  "acceptedUserCount": 12,
   "level": 12,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7273,
+  "averageTries": 1.9167,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4569,
+      "problemCount": 4570,
       "displayNames": [
         {
           "language": "ko",
@@ -48,6 +48,37 @@
         },
         {
           "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "eulerian_path",
+      "isMeta": false,
+      "bojTagId": 93,
+      "problemCount": 71,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\uc77c\ub7ec \uacbd\ub85c",
+          "short": "\uc624\uc77c\ub7ec \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "eulerian path / circuit",
+          "short": "eulerian path"
+        },
+        {
+          "language": "ja",
+          "name": "eulerian path / circuit",
+          "short": "eulerian path"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "eulerian circuit"
+        },
+        {
+          "alias": "euler tour"
         }
       ]
     }
