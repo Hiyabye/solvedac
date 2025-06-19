@@ -12,14 +12,196 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 3,
-  "level": 22,
-  "votedUserCount": 1,
+  "level": 23,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 8.6667,
   "official": true,
   "tags": [
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 4621,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4571,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2735,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        },
+        {
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
+      "key": "bitmask",
+      "isMeta": false,
+      "bojTagId": 14,
+      "problemCount": 870,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
+          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "bitmask",
+          "short": "bitmask"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
+          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ube44\ud2b8\ud544\ub4dc"
+        },
+        {
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+        }
+      ]
+    },
+    {
+      "key": "dp_bitfield",
+      "isMeta": false,
+      "bojTagId": 87,
+      "problemCount": 348,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8\ud544\ub4dc\ub97c \uc774\uc6a9\ud55c \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ube44\ud2b8\ud544\ub4dc\ub97c \uc774\uc6a9\ud55c \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming using bitfield",
+          "short": "bitfield dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d3\u30c3\u30c8\u3092\u4f7f\u7528\u3057\u305f\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "\u30d3\u30c3\u30c8dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+        },
+        {
+          "alias": "\ube44\ud2b8dp"
+        }
+      ]
+    },
+    {
+      "key": "scc",
+      "isMeta": false,
+      "bojTagId": 76,
+      "problemCount": 174,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c",
+          "short": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c"
+        },
+        {
+          "language": "en",
+          "name": "strongly connected component",
+          "short": "scc"
+        },
+        {
+          "language": "ja",
+          "name": "\u5f37\u9023\u7d50",
+          "short": "\u5f37\u9023\u7d50"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "2_sat",
       "isMeta": false,
@@ -55,56 +237,25 @@
       ]
     },
     {
-      "key": "graphs",
+      "key": "z",
       "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4570,
+      "bojTagId": 83,
+      "problemCount": 19,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+          "name": "z",
+          "short": "Z"
         },
         {
           "language": "en",
-          "name": "graph theory",
-          "short": "graph"
+          "name": "z",
+          "short": "z"
         },
         {
           "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "scc",
-      "isMeta": false,
-      "bojTagId": 76,
-      "problemCount": 174,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c",
-          "short": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c"
-        },
-        {
-          "language": "en",
-          "name": "strongly connected component",
-          "short": "scc"
-        },
-        {
-          "language": "ja",
-          "name": "\u5f37\u9023\u7d50",
-          "short": "\u5f37\u9023\u7d50"
+          "name": "z",
+          "short": "z"
         }
       ],
       "aliases": []
