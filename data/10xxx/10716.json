@@ -19,13 +19,75 @@
   "isPartial": false,
   "acceptedUserCount": 67,
   "level": 23,
-  "votedUserCount": 14,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2.2537,
   "official": true,
   "tags": [
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 4620,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1692,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
+    },
     {
       "key": "binary_search",
       "isMeta": false,
@@ -58,44 +120,10 @@
       ]
     },
     {
-      "key": "dp",
-      "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 4619,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
-    {
       "key": "dp_tree",
       "isMeta": false,
       "bojTagId": 92,
-      "problemCount": 515,
+      "problemCount": 516,
       "displayNames": [
         {
           "language": "ko",
@@ -144,34 +172,6 @@
       "aliases": [
         {
           "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
-        }
-      ]
-    },
-    {
-      "key": "trees",
-      "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1692,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "tree",
-          "short": "tree"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "trees"
         }
       ]
     }
