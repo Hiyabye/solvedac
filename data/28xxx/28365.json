@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 11,
   "level": 24,
-  "votedUserCount": 4,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,75 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "exponentiation_by_squaring",
-      "isMeta": false,
-      "bojTagId": 39,
-      "problemCount": 334,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1",
-          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1"
-        },
-        {
-          "language": "en",
-          "name": "exponentiation by squaring",
-          "short": "exponentiation by squaring"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57",
-          "short": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uac70\ub4ed\uc81c\uacf1"
-        },
-        {
-          "alias": "\uc81c\uacf1"
-        },
-        {
-          "alias": "power"
-        },
-        {
-          "alias": "square"
-        }
-      ]
-    },
-    {
-      "key": "linear_algebra",
-      "isMeta": false,
-      "bojTagId": 144,
-      "problemCount": 211,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc120\ud615\ub300\uc218\ud559",
-          "short": "\uc120\ud615\ub300\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "linear algebra",
-          "short": "linear algebra"
-        },
-        {
-          "language": "ja",
-          "name": "\u7dda\u5f62\u4ee3\u6570",
-          "short": "\u7dda\u4ee3"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc120\ud615\ub300\uc218"
-        }
-      ]
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7330,
+      "problemCount": 7332,
       "displayNames": [
         {
           "language": "ko",
@@ -134,100 +69,64 @@
       "aliases": []
     },
     {
-      "key": "pollard_rho",
+      "key": "case_work",
       "isMeta": false,
-      "bojTagId": 58,
-      "problemCount": 30,
+      "bojTagId": 137,
+      "problemCount": 1045,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud3f4\ub77c\ub4dc \ub85c",
-          "short": "\ud3f4\ub77c\ub4dc \ub85c"
+          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
+          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
         },
         {
           "language": "en",
-          "name": "pollard rho",
-          "short": "pollard rho"
+          "name": "case work",
+          "short": "case work"
         },
         {
           "language": "ja",
-          "name": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc\u7d20\u56e0\u6570\u5206\u89e3\u6cd5",
-          "short": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "primality_test",
-      "isMeta": false,
-      "bojTagId": 9,
-      "problemCount": 363,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc18c\uc218 \ud310\uc815",
-          "short": "\uc18c\uc218 \ud310\uc815"
-        },
-        {
-          "language": "en",
-          "name": "primality test",
-          "short": "primality test"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8",
-          "short": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8"
+          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
+          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc18c\uc218"
+          "alias": "\ucf00\uc774\uc2a4"
         },
         {
-          "alias": "\uc18c\uc218\ud310\ubcc4"
+          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
         },
         {
-          "alias": "\uc18c\uc218\ud310\uc815"
-        },
-        {
-          "alias": "prime"
+          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
         }
       ]
     },
     {
-      "key": "sieve",
+      "key": "linear_algebra",
       "isMeta": false,
-      "bojTagId": 67,
-      "problemCount": 216,
+      "bojTagId": 144,
+      "problemCount": 211,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc5d0\ub77c\ud1a0\uc2a4\ud14c\ub124\uc2a4\uc758 \uccb4",
-          "short": "\uc5d0\ub77c\ud1a0\uc2a4\ud14c\ub124\uc2a4\uc758 \uccb4"
+          "name": "\uc120\ud615\ub300\uc218\ud559",
+          "short": "\uc120\ud615\ub300\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "sieve of eratosthenes",
-          "short": "eratosthenes"
+          "name": "linear algebra",
+          "short": "linear algebra"
         },
         {
           "language": "ja",
-          "name": "\u30a8\u30e9\u30c8\u30b9\u30c6\u30cd\u30b9\u306e\u7be9",
-          "short": "\u30a8\u30e9\u30c8\u30b9\u30c6\u30cd\u30b9"
+          "name": "\u7dda\u5f62\u4ee3\u6570",
+          "short": "\u7dda\u4ee3"
         }
       ],
       "aliases": [
         {
-          "alias": "sieve"
-        },
-        {
-          "alias": "\uc5d0\ub77c\uccb4"
-        },
-        {
-          "alias": "\uc18c\uc218"
-        },
-        {
-          "alias": "prime"
+          "alias": "\uc120\ud615\ub300\uc218"
         }
       ]
     },
@@ -246,6 +145,25 @@
           "language": "en",
           "name": "prime factorization",
           "short": "prime factorization"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "pisano",
+      "isMeta": false,
+      "bojTagId": 232,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud53c\uc0ac\ub178 \uc8fc\uae30",
+          "short": "\ud53c\uc0ac\ub178"
+        },
+        {
+          "language": "en",
+          "name": "pisano period",
+          "short": "pisano"
         }
       ],
       "aliases": []

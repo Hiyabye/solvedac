@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 0,
-  "level": 21,
-  "votedUserCount": 3,
+  "acceptedUserCount": 4,
+  "level": 22,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 0,
+  "averageTries": 3,
   "official": true,
   "tags": [
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4625,
+      "problemCount": 4627,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4488,
+      "problemCount": 4490,
       "displayNames": [
         {
           "language": "ko",
@@ -119,83 +119,6 @@
         },
         {
           "alias": "\ud39c\uc705"
-        }
-      ]
-    },
-    {
-      "key": "disjoint_set",
-      "isMeta": false,
-      "bojTagId": 81,
-      "problemCount": 571,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ub9ac \uc9d1\ud569",
-          "short": "\ubd84\ub9ac \uc9d1\ud569"
-        },
-        {
-          "language": "en",
-          "name": "disjoint set",
-          "short": "dsu"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "union"
-        },
-        {
-          "alias": "find"
-        },
-        {
-          "alias": "\uc720\ub2c8\uc628"
-        },
-        {
-          "alias": "\ud30c\uc778\ub4dc"
-        },
-        {
-          "alias": "dsu"
-        }
-      ]
-    },
-    {
-      "key": "two_pointer",
-      "isMeta": false,
-      "bojTagId": 80,
-      "problemCount": 456,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub450 \ud3ec\uc778\ud130",
-          "short": "\ub450 \ud3ec\uc778\ud130"
-        },
-        {
-          "language": "en",
-          "name": "two-pointer",
-          "short": "two-pointer"
-        },
-        {
-          "language": "ja",
-          "name": "\u5c3a\u53d6\u308a\u6cd5",
-          "short": "\u5c3a\u53d6\u308a"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud22c\ud3ec\uc778\ud130"
-        },
-        {
-          "alias": "\uc778\uce58\uc6dc"
-        },
-        {
-          "alias": "inchworm"
-        },
-        {
-          "alias": "twopointer"
         }
       ]
     },
