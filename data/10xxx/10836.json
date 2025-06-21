@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 1622,
   "level": 13,
-  "votedUserCount": 68,
+  "votedUserCount": 69,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6239,
+      "problemCount": 6238,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "simulation",
       "isMeta": false,
       "bojTagId": 141,
-      "problemCount": 1234,
+      "problemCount": 1232,
       "displayNames": [
         {
           "language": "ko",
@@ -72,7 +72,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1201,
+      "problemCount": 1202,
       "displayNames": [
         {
           "language": "ko",
@@ -101,6 +101,25 @@
           "alias": "rangesum"
         }
       ]
+    },
+    {
+      "key": "difference_array",
+      "isMeta": false,
+      "bojTagId": 239,
+      "problemCount": 39,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
+          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "difference array",
+          "short": "difference array"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
