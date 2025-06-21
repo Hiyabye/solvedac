@@ -13,37 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 53,
   "level": 18,
-  "votedUserCount": 16,
+  "votedUserCount": 17,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 4.0377,
   "official": true,
   "tags": [
-    {
-      "key": "kmp",
-      "isMeta": false,
-      "bojTagId": 40,
-      "problemCount": 105,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "KMP",
-          "short": "KMP"
-        },
-        {
-          "language": "en",
-          "name": "knuth\u2013morris\u2013pratt",
-          "short": "kmp"
-        },
-        {
-          "language": "ja",
-          "name": "\u30af\u30cc\u30fc\u30b9\u2013\u30e2\u30ea\u30b9\u2013\u30d7\u30e9\u30c3\u30c8\u6cd5",
-          "short": "kmp"
-        }
-      ],
-      "aliases": []
-    },
     {
       "key": "string",
       "isMeta": false,
@@ -76,7 +52,7 @@
       "key": "two_pointer",
       "isMeta": false,
       "bojTagId": 80,
-      "problemCount": 456,
+      "problemCount": 455,
       "displayNames": [
         {
           "language": "ko",
@@ -108,6 +84,30 @@
           "alias": "twopointer"
         }
       ]
+    },
+    {
+      "key": "kmp",
+      "isMeta": false,
+      "bojTagId": 40,
+      "problemCount": 105,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "KMP",
+          "short": "KMP"
+        },
+        {
+          "language": "en",
+          "name": "knuth\u2013morris\u2013pratt",
+          "short": "kmp"
+        },
+        {
+          "language": "ja",
+          "name": "\u30af\u30cc\u30fc\u30b9\u2013\u30e2\u30ea\u30b9\u2013\u30d7\u30e9\u30c3\u30c8\u6cd5",
+          "short": "kmp"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
