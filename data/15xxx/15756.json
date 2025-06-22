@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 78,
   "level": 20,
-  "votedUserCount": 16,
+  "votedUserCount": 17,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4488,
+      "problemCount": 4493,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1693,
+      "problemCount": 1694,
       "displayNames": [
         {
           "language": "ko",
@@ -78,6 +78,70 @@
           "alias": "trees"
         }
       ]
+    },
+    {
+      "key": "disjoint_set",
+      "isMeta": false,
+      "bojTagId": 81,
+      "problemCount": 573,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ub9ac \uc9d1\ud569",
+          "short": "\ubd84\ub9ac \uc9d1\ud569"
+        },
+        {
+          "language": "en",
+          "name": "disjoint set",
+          "short": "dsu"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "union"
+        },
+        {
+          "alias": "find"
+        },
+        {
+          "alias": "\uc720\ub2c8\uc628"
+        },
+        {
+          "alias": "\ud30c\uc778\ub4dc"
+        },
+        {
+          "alias": "dsu"
+        }
+      ]
+    },
+    {
+      "key": "lca",
+      "isMeta": false,
+      "bojTagId": 41,
+      "problemCount": 198,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
+          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
+        },
+        {
+          "language": "en",
+          "name": "lowest common ancestor",
+          "short": "lca"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
+          "short": "lca"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "smaller_to_larger",

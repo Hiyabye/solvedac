@@ -13,13 +13,102 @@
   "isPartial": false,
   "acceptedUserCount": 22,
   "level": 20,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.6818,
   "official": true,
   "tags": [
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4574,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "constructive",
+      "isMeta": false,
+      "bojTagId": 128,
+      "problemCount": 1289,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574 \uad6c\uc131\ud558\uae30",
+          "short": "\ud574 \uad6c\uc131\ud558\uae30"
+        },
+        {
+          "language": "en",
+          "name": "constructive",
+          "short": "constructive"
+        },
+        {
+          "language": "ja",
+          "name": "\u69cb\u6210\u7684",
+          "short": "\u69cb\u6210\u7684"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "constructive"
+        },
+        {
+          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
+        },
+        {
+          "alias": "\uad6c\uc131\uc801"
+        }
+      ]
+    },
+    {
+      "key": "scc",
+      "isMeta": false,
+      "bojTagId": 76,
+      "problemCount": 174,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c",
+          "short": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c"
+        },
+        {
+          "language": "en",
+          "name": "strongly connected component",
+          "short": "scc"
+        },
+        {
+          "language": "ja",
+          "name": "\u5f37\u9023\u7d50",
+          "short": "\u5f37\u9023\u7d50"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "2_sat",
       "isMeta": false,
@@ -53,95 +142,6 @@
           "alias": "2sat"
         }
       ]
-    },
-    {
-      "key": "constructive",
-      "isMeta": false,
-      "bojTagId": 128,
-      "problemCount": 1288,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574 \uad6c\uc131\ud558\uae30",
-          "short": "\ud574 \uad6c\uc131\ud558\uae30"
-        },
-        {
-          "language": "en",
-          "name": "constructive",
-          "short": "constructive"
-        },
-        {
-          "language": "ja",
-          "name": "\u69cb\u6210\u7684",
-          "short": "\u69cb\u6210\u7684"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "constructive"
-        },
-        {
-          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
-        },
-        {
-          "alias": "\uad6c\uc131\uc801"
-        }
-      ]
-    },
-    {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4571,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "scc",
-      "isMeta": false,
-      "bojTagId": 76,
-      "problemCount": 174,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c",
-          "short": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c"
-        },
-        {
-          "language": "en",
-          "name": "strongly connected component",
-          "short": "scc"
-        },
-        {
-          "language": "ja",
-          "name": "\u5f37\u9023\u7d50",
-          "short": "\u5f37\u9023\u7d50"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
