@@ -11,48 +11,44 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 6,
+  "acceptedUserCount": 7,
   "level": 17,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.6667,
+  "averageTries": 3.4286,
   "official": true,
   "tags": [
     {
-      "key": "bayes",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 114,
-      "problemCount": 7,
+      "bojTagId": 124,
+      "problemCount": 7334,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubca0\uc774\uc988 \uc815\ub9ac",
-          "short": "\ubca0\uc774\uc988 \uc815\ub9ac"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "bayes theorem",
-          "short": "bayes thm"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u30d9\u30a4\u30ba\u306e\u5b9a\u7406",
-          "short": "\u30d9\u30a4\u30ba"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc870\uac74\ubd80\ud655\ub960"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "combinatorics",
       "isMeta": false,
       "bojTagId": 6,
-      "problemCount": 1119,
+      "problemCount": 1120,
       "displayNames": [
         {
           "language": "ko",
@@ -89,54 +85,6 @@
       ]
     },
     {
-      "key": "heuristics",
-      "isMeta": false,
-      "bojTagId": 142,
-      "problemCount": 122,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud734\ub9ac\uc2a4\ud2f1",
-          "short": "\ud734\ub9ac\uc2a4\ud2f1"
-        },
-        {
-          "language": "en",
-          "name": "heuristics",
-          "short": "heuristics"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
-          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7335,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "probability",
       "isMeta": false,
       "bojTagId": 177,
@@ -167,6 +115,58 @@
         },
         {
           "alias": "\uae30\ub313\uac12"
+        }
+      ]
+    },
+    {
+      "key": "heuristics",
+      "isMeta": false,
+      "bojTagId": 142,
+      "problemCount": 122,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud734\ub9ac\uc2a4\ud2f1",
+          "short": "\ud734\ub9ac\uc2a4\ud2f1"
+        },
+        {
+          "language": "en",
+          "name": "heuristics",
+          "short": "heuristics"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
+          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "bayes",
+      "isMeta": false,
+      "bojTagId": 114,
+      "problemCount": 7,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubca0\uc774\uc988 \uc815\ub9ac",
+          "short": "\ubca0\uc774\uc988 \uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "bayes theorem",
+          "short": "bayes thm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d9\u30a4\u30ba\u306e\u5b9a\u7406",
+          "short": "\u30d9\u30a4\u30ba"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc870\uac74\ubd80\ud655\ub960"
         }
       ]
     }
