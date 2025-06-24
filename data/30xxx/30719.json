@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 0,
+  "acceptedUserCount": 1,
   "level": 22,
   "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 0,
+  "averageTries": 1,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4578,
+      "problemCount": 4579,
       "displayNames": [
         {
           "language": "ko",
@@ -114,10 +114,34 @@
       ]
     },
     {
+      "key": "bipartite_graph",
+      "isMeta": false,
+      "bojTagId": 197,
+      "problemCount": 81,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \uadf8\ub798\ud504",
+          "short": "\uc774\ubd84 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "bipartite graph",
+          "short": "bipartite graph"
+        },
+        {
+          "language": "ja",
+          "name": "2\u90e8\u30b0\u30e9\u30d5",
+          "short": "2\u90e8\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "articulation",
       "isMeta": false,
       "bojTagId": 4,
-      "problemCount": 67,
+      "problemCount": 68,
       "displayNames": [
         {
           "language": "ko",

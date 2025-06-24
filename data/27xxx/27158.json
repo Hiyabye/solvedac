@@ -11,15 +11,39 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 28,
+  "acceptedUserCount": 29,
   "level": 24,
-  "votedUserCount": 14,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.8929,
+  "averageTries": 3.8276,
   "official": true,
   "tags": [
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6240,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "backtracking",
       "isMeta": false,
@@ -55,54 +79,6 @@
       ]
     },
     {
-      "key": "dancing_links",
-      "isMeta": false,
-      "bojTagId": 173,
-      "problemCount": 8,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucda4\ucd94\ub294 \ub9c1\ud06c",
-          "short": "\ucda4\ucd94\ub294 \ub9c1\ud06c"
-        },
-        {
-          "language": "en",
-          "name": "dancing links",
-          "short": "dancing links"
-        },
-        {
-          "language": "ja",
-          "name": "dancing links",
-          "short": "dancing links"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6238,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "knuth_x",
       "isMeta": false,
       "bojTagId": 174,
@@ -122,6 +98,30 @@
           "language": "ja",
           "name": "knuth's x",
           "short": "x"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "dancing_links",
+      "isMeta": false,
+      "bojTagId": 173,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucda4\ucd94\ub294 \ub9c1\ud06c",
+          "short": "\ucda4\ucd94\ub294 \ub9c1\ud06c"
+        },
+        {
+          "language": "en",
+          "name": "dancing links",
+          "short": "dancing links"
+        },
+        {
+          "language": "ja",
+          "name": "dancing links",
+          "short": "dancing links"
         }
       ],
       "aliases": []

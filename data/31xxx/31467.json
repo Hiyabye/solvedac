@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 49,
   "level": 19,
-  "votedUserCount": 20,
+  "votedUserCount": 21,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,50 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "articulation",
-      "isMeta": false,
-      "bojTagId": 4,
-      "problemCount": 67,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120",
-          "short": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120"
-        },
-        {
-          "language": "en",
-          "name": "articulation points and bridges",
-          "short": "articulation points and bridges"
-        },
-        {
-          "language": "ja",
-          "name": "\u95a2\u7bc0\u70b9\u3068\u6a4b",
-          "short": "\u95a2\u7bc0\u70b9\u3068\u6a4b"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub2e8\uc808\uc810"
-        },
-        {
-          "alias": "\ub2e8\uc808\uc120"
-        },
-        {
-          "alias": "\ube0c\ub9ac\uc9c0"
-        },
-        {
-          "alias": "\ube0c\ub9bf\uc9c0"
-        },
-        {
-          "alias": "bridge"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4578,
+      "problemCount": 4579,
       "displayNames": [
         {
           "language": "ko",
@@ -116,6 +76,46 @@
       "aliases": [
         {
           "alias": "trees"
+        }
+      ]
+    },
+    {
+      "key": "articulation",
+      "isMeta": false,
+      "bojTagId": 4,
+      "problemCount": 68,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120",
+          "short": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120"
+        },
+        {
+          "language": "en",
+          "name": "articulation points and bridges",
+          "short": "articulation points and bridges"
+        },
+        {
+          "language": "ja",
+          "name": "\u95a2\u7bc0\u70b9\u3068\u6a4b",
+          "short": "\u95a2\u7bc0\u70b9\u3068\u6a4b"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub2e8\uc808\uc810"
+        },
+        {
+          "alias": "\ub2e8\uc808\uc120"
+        },
+        {
+          "alias": "\ube0c\ub9ac\uc9c0"
+        },
+        {
+          "alias": "\ube0c\ub9bf\uc9c0"
+        },
+        {
+          "alias": "bridge"
         }
       ]
     }
