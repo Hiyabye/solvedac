@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 4,
   "level": 25,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,41 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "berlekamp_massey",
-      "isMeta": false,
-      "bojTagId": 110,
-      "problemCount": 25,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubc8c\ub9ac\ucea0\ud504\u2013\ub9e4\uc2dc",
-          "short": "\ubc8c\ub9ac\ucea0\ud504\u2013\ub9e4\uc2dc"
-        },
-        {
-          "language": "en",
-          "name": "berlekamp\u2013massey",
-          "short": "berlekamp\u2013massey"
-        },
-        {
-          "language": "ja",
-          "name": "berlekamp\u2013massey",
-          "short": "berlekamp\u2013massey"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ubc8c\ub808\ucea0\ud504"
-        },
-        {
-          "alias": "\ubc8c\ub798\ucea0\ud504"
-        }
-      ]
-    },
-    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4629,
+      "problemCount": 4633,
       "displayNames": [
         {
           "language": "ko",
@@ -110,6 +79,37 @@
       "aliases": [
         {
           "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        }
+      ]
+    },
+    {
+      "key": "berlekamp_massey",
+      "isMeta": false,
+      "bojTagId": 110,
+      "problemCount": 25,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc8c\ub9ac\ucea0\ud504\u2013\ub9e4\uc2dc",
+          "short": "\ubc8c\ub9ac\ucea0\ud504\u2013\ub9e4\uc2dc"
+        },
+        {
+          "language": "en",
+          "name": "berlekamp\u2013massey",
+          "short": "berlekamp\u2013massey"
+        },
+        {
+          "language": "ja",
+          "name": "berlekamp\u2013massey",
+          "short": "berlekamp\u2013massey"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ubc8c\ub808\ucea0\ud504"
+        },
+        {
+          "alias": "\ubc8c\ub798\ucea0\ud504"
         }
       ]
     },
