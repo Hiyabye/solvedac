@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 439,
   "level": 18,
-  "votedUserCount": 100,
+  "votedUserCount": 101,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4576,
+      "problemCount": 4579,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4493,
+      "problemCount": 4499,
       "displayNames": [
         {
           "language": "ko",
@@ -114,7 +114,7 @@
       "key": "disjoint_set",
       "isMeta": false,
       "bojTagId": 81,
-      "problemCount": 573,
+      "problemCount": 575,
       "displayNames": [
         {
           "language": "ko",
@@ -147,58 +147,6 @@
         },
         {
           "alias": "dsu"
-        }
-      ]
-    },
-    {
-      "key": "flow",
-      "isMeta": false,
-      "bojTagId": 45,
-      "problemCount": 363,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub300 \uc720\ub7c9",
-          "short": "\ucd5c\ub300 \uc720\ub7c9"
-        },
-        {
-          "language": "en",
-          "name": "maximum flow",
-          "short": "flow"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u5927\u30d5\u30ed\u30fc",
-          "short": "flow"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dinic"
-        },
-        {
-          "alias": "dinitz"
-        },
-        {
-          "alias": "ford"
-        },
-        {
-          "alias": "fulkerson"
-        },
-        {
-          "alias": "fordfulkerson"
-        },
-        {
-          "alias": "\ub514\ub2c9"
-        },
-        {
-          "alias": "\ub514\ub2c8\uce20"
-        },
-        {
-          "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
-        },
-        {
-          "alias": "\ud50c\ub85c\uc6b0"
         }
       ]
     }
