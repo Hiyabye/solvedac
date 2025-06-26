@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 23,
   "level": 21,
-  "votedUserCount": 14,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6239,
+      "problemCount": 6240,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1807,
+      "problemCount": 1809,
       "displayNames": [
         {
           "language": "ko",
@@ -67,6 +67,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "convex_hull",
+      "isMeta": false,
+      "bojTagId": 20,
+      "problemCount": 219,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubcfc\ub85d \uaecd\uc9c8",
+          "short": "\ubcfc\ub85d \uaecd\uc9c8"
+        },
+        {
+          "language": "en",
+          "name": "convex hull",
+          "short": "convex hull"
+        },
+        {
+          "language": "ja",
+          "name": "\u51f8\u5305",
+          "short": "\u51f8\u5305"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0"
+        }
+      ]
     },
     {
       "key": "line_intersection",

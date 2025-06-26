@@ -13,44 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 32,
   "level": 20,
-  "votedUserCount": 12,
+  "votedUserCount": 13,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2.375,
   "official": true,
   "tags": [
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4503,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
     {
       "key": "greedy",
       "isMeta": false,
@@ -83,7 +52,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2741,
+      "problemCount": 2742,
       "displayNames": [
         {
           "language": "ko",
@@ -111,7 +80,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1460,
+      "problemCount": 1461,
       "displayNames": [
         {
           "language": "ko",
@@ -142,7 +111,7 @@
       "key": "hashing",
       "isMeta": false,
       "bojTagId": 8,
-      "problemCount": 200,
+      "problemCount": 201,
       "displayNames": [
         {
           "language": "ko",
@@ -158,54 +127,6 @@
           "language": "ja",
           "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
           "short": "\u30cf\u30c3\u30b7\u30e5"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "suffix_array",
-      "isMeta": false,
-      "bojTagId": 77,
-      "problemCount": 123,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc811\ubbf8\uc0ac \ubc30\uc5f4\uacfc LCP \ubc30\uc5f4",
-          "short": "\uc811\ubbf8\uc0ac \ubc30\uc5f4\uacfc LCP \ubc30\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "suffix array and lcp array",
-          "short": "suffix array and lcp array"
-        },
-        {
-          "language": "ja",
-          "name": "\u63a5\u5c3e\u8f9e\u914d\u5217\u30fbLCP\u914d\u5217",
-          "short": "\u63a5\u5c3e\u8f9e\u914d\u5217\u30fbLCP\u914d\u5217"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "kmp",
-      "isMeta": false,
-      "bojTagId": 40,
-      "problemCount": 105,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "KMP",
-          "short": "KMP"
-        },
-        {
-          "language": "en",
-          "name": "knuth\u2013morris\u2013pratt",
-          "short": "kmp"
-        },
-        {
-          "language": "ja",
-          "name": "\u30af\u30cc\u30fc\u30b9\u2013\u30e2\u30ea\u30b9\u2013\u30d7\u30e9\u30c3\u30c8\u6cd5",
-          "short": "kmp"
         }
       ],
       "aliases": []
