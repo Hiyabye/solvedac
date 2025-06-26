@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 13,
   "level": 15,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2148,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1460,
+      "problemCount": 1461,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +79,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1203,
+      "problemCount": 1205,
       "displayNames": [
         {
           "language": "ko",
@@ -86,25 +110,54 @@
       ]
     },
     {
-      "key": "sorting",
+      "key": "precomputation",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2146,
+      "bojTagId": 172,
+      "problemCount": 223,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac",
+          "short": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
+          "name": "precomputation",
+          "short": "precomputation"
         },
         {
           "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "\u4e8b\u524d\u8a08\u7b97",
+          "short": "\u4e8b\u524d\u8a08\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "lookup table"
+        },
+        {
+          "alias": "db"
+        },
+        {
+          "alias": "database"
+        }
+      ]
+    },
+    {
+      "key": "difference_array",
+      "isMeta": false,
+      "bojTagId": 239,
+      "problemCount": 39,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
+          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "difference array",
+          "short": "difference array"
         }
       ],
       "aliases": []
