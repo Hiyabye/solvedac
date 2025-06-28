@@ -11,38 +11,99 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 36,
+  "acceptedUserCount": 37,
   "level": 24,
-  "votedUserCount": 15,
+  "votedUserCount": 16,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 5.0556,
+  "averageTries": 5.027,
   "official": true,
   "tags": [
     {
-      "key": "crt",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 19,
-      "problemCount": 54,
+      "bojTagId": 124,
+      "problemCount": 7344,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac",
-          "short": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "chinese remainder theorem",
-          "short": "crt"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406",
-          "short": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1691,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "primality_test",
+      "isMeta": false,
+      "bojTagId": 9,
+      "problemCount": 364,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc18c\uc218 \ud310\uc815",
+          "short": "\uc18c\uc218 \ud310\uc815"
+        },
+        {
+          "language": "en",
+          "name": "primality test",
+          "short": "primality test"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8",
+          "short": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc18c\uc218"
+        },
+        {
+          "alias": "\uc18c\uc218\ud310\ubcc4"
+        },
+        {
+          "alias": "\uc18c\uc218\ud310\uc815"
+        },
+        {
+          "alias": "prime"
+        }
+      ]
     },
     {
       "key": "exponentiation_by_squaring",
@@ -82,139 +143,6 @@
       ]
     },
     {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7344,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "miller_rabin",
-      "isMeta": false,
-      "bojTagId": 47,
-      "problemCount": 28,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubc00\ub7ec\u2013\ub77c\ube48 \uc18c\uc218 \ud310\ubcc4\ubc95",
-          "short": "\ubc00\ub7ec\u2013\ub77c\ube48 \uc18c\uc218 \ud310\ubcc4\ubc95"
-        },
-        {
-          "language": "en",
-          "name": "miller\u2013rabin",
-          "short": "miller\u2013rabin"
-        },
-        {
-          "language": "ja",
-          "name": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3\u7d20\u6570\u5224\u5b9a\u6cd5",
-          "short": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "number_theory",
-      "isMeta": false,
-      "bojTagId": 95,
-      "problemCount": 1690,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\uc218\ub860",
-          "short": "\uc815\uc218\ub860"
-        },
-        {
-          "language": "en",
-          "name": "number theory",
-          "short": "number theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u6574\u6570\u8ad6",
-          "short": "\u6574\u6570\u8ad6"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "pollard_rho",
-      "isMeta": false,
-      "bojTagId": 58,
-      "problemCount": 29,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud3f4\ub77c\ub4dc \ub85c",
-          "short": "\ud3f4\ub77c\ub4dc \ub85c"
-        },
-        {
-          "language": "en",
-          "name": "pollard rho",
-          "short": "pollard rho"
-        },
-        {
-          "language": "ja",
-          "name": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc\u7d20\u56e0\u6570\u5206\u89e3\u6cd5",
-          "short": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "primality_test",
-      "isMeta": false,
-      "bojTagId": 9,
-      "problemCount": 363,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc18c\uc218 \ud310\uc815",
-          "short": "\uc18c\uc218 \ud310\uc815"
-        },
-        {
-          "language": "en",
-          "name": "primality test",
-          "short": "primality test"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8",
-          "short": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc18c\uc218"
-        },
-        {
-          "alias": "\uc18c\uc218\ud310\ubcc4"
-        },
-        {
-          "alias": "\uc18c\uc218\ud310\uc815"
-        },
-        {
-          "alias": "prime"
-        }
-      ]
-    },
-    {
       "key": "randomization",
       "isMeta": false,
       "bojTagId": 115,
@@ -246,7 +174,7 @@
       "key": "prime_factorization",
       "isMeta": false,
       "bojTagId": 242,
-      "problemCount": 68,
+      "problemCount": 70,
       "displayNames": [
         {
           "language": "ko",
@@ -257,6 +185,78 @@
           "language": "en",
           "name": "prime factorization",
           "short": "prime factorization"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "crt",
+      "isMeta": false,
+      "bojTagId": 19,
+      "problemCount": 54,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac",
+          "short": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "chinese remainder theorem",
+          "short": "crt"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406",
+          "short": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "pollard_rho",
+      "isMeta": false,
+      "bojTagId": 58,
+      "problemCount": 29,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud3f4\ub77c\ub4dc \ub85c",
+          "short": "\ud3f4\ub77c\ub4dc \ub85c"
+        },
+        {
+          "language": "en",
+          "name": "pollard rho",
+          "short": "pollard rho"
+        },
+        {
+          "language": "ja",
+          "name": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc\u7d20\u56e0\u6570\u5206\u89e3\u6cd5",
+          "short": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "miller_rabin",
+      "isMeta": false,
+      "bojTagId": 47,
+      "problemCount": 28,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc00\ub7ec\u2013\ub77c\ube48 \uc18c\uc218 \ud310\ubcc4\ubc95",
+          "short": "\ubc00\ub7ec\u2013\ub77c\ube48 \uc18c\uc218 \ud310\ubcc4\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "miller\u2013rabin",
+          "short": "miller\u2013rabin"
+        },
+        {
+          "language": "ja",
+          "name": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3\u7d20\u6570\u5224\u5b9a\u6cd5",
+          "short": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3"
         }
       ],
       "aliases": []

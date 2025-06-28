@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 31,
+  "acceptedUserCount": 32,
   "level": 23,
-  "votedUserCount": 12,
+  "votedUserCount": 13,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7742,
+  "averageTries": 1.75,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4584,
+      "problemCount": 4585,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2148,
+      "problemCount": 2150,
       "displayNames": [
         {
           "language": "ko",
@@ -95,6 +95,30 @@
           "language": "ja",
           "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
           "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "scc",
+      "isMeta": false,
+      "bojTagId": 76,
+      "problemCount": 173,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c",
+          "short": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c"
+        },
+        {
+          "language": "en",
+          "name": "strongly connected component",
+          "short": "scc"
+        },
+        {
+          "language": "ja",
+          "name": "\u5f37\u9023\u7d50",
+          "short": "\u5f37\u9023\u7d50"
         }
       ],
       "aliases": []
