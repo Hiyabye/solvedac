@@ -15,7 +15,7 @@
   "level": 12,
   "votedUserCount": 2,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
   "averageTries": 2.4667,
   "official": true,
@@ -86,7 +86,7 @@
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 1123,
+      "problemCount": 1124,
       "displayNames": [
         {
           "language": "ko",
@@ -117,7 +117,7 @@
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 894,
+      "problemCount": 895,
       "displayNames": [
         {
           "language": "ko",
@@ -157,5 +157,12 @@
       "aliases": []
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "no-special-judge",
+        "data": "https://www.acmicpc.net/board/view/160779"
+      }
+    ]
+  }
 }
