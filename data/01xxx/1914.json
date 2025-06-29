@@ -13,13 +13,37 @@
   "isPartial": false,
   "acceptedUserCount": 7630,
   "level": 11,
-  "votedUserCount": 133,
+  "votedUserCount": 134,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 4.2986,
   "official": true,
   "tags": [
+    {
+      "key": "recursion",
+      "isMeta": false,
+      "bojTagId": 62,
+      "problemCount": 287,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc7ac\uadc0",
+          "short": "\uc7ac\uadc0"
+        },
+        {
+          "language": "en",
+          "name": "recursion",
+          "short": "recursion"
+        },
+        {
+          "language": "ja",
+          "name": "\u518d\u5e30",
+          "short": "\u518d\u5e30"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "arbitrary_precision",
       "isMeta": false,
@@ -56,30 +80,6 @@
           "alias": "bigdecimal"
         }
       ]
-    },
-    {
-      "key": "recursion",
-      "isMeta": false,
-      "bojTagId": 62,
-      "problemCount": 287,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc7ac\uadc0",
-          "short": "\uc7ac\uadc0"
-        },
-        {
-          "language": "en",
-          "name": "recursion",
-          "short": "recursion"
-        },
-        {
-          "language": "ja",
-          "name": "\u518d\u5e30",
-          "short": "\u518d\u5e30"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}

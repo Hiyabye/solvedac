@@ -13,9 +13,9 @@
   "isPartial": false,
   "acceptedUserCount": 51,
   "level": 5,
-  "votedUserCount": 5,
+  "votedUserCount": 4,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
   "averageTries": 2.3922,
   "official": true,
@@ -24,7 +24,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6242,
+      "problemCount": 6243,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "simulation",
       "isMeta": false,
       "bojTagId": 141,
-      "problemCount": 1236,
+      "problemCount": 1237,
       "displayNames": [
         {
           "language": "ko",
@@ -69,5 +69,12 @@
       "aliases": []
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "wrong-inputs",
+        "data": "https://www.acmicpc.net/board/view/134699"
+      }
+    ]
+  }
 }

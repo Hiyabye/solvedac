@@ -15,45 +15,11 @@
   "level": 15,
   "votedUserCount": 3,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
   "averageTries": 5.3077,
   "official": true,
   "tags": [
-    {
-      "key": "dijkstra",
-      "isMeta": false,
-      "bojTagId": 22,
-      "problemCount": 659,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
-          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
-        },
-        {
-          "language": "en",
-          "name": "dijkstra's",
-          "short": "dijkstra's"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
-          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub2e4\uc775"
-        },
-        {
-          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
-        },
-        {
-          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
-        }
-      ]
-    },
     {
       "key": "graphs",
       "isMeta": false,
@@ -139,7 +105,48 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "dijkstra",
+      "isMeta": false,
+      "bojTagId": 22,
+      "problemCount": 659,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
+          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "language": "en",
+          "name": "dijkstra's",
+          "short": "dijkstra's"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
+          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub2e4\uc775"
+        },
+        {
+          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        }
+      ]
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "wrong-inputs",
+        "data": "https://www.acmicpc.net/board/view/156043"
+      }
+    ]
+  }
 }

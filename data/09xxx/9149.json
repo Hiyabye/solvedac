@@ -13,47 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 8,
   "level": 12,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 3,
   "official": true,
   "tags": [
-    {
-      "key": "floyd_warshall",
-      "isMeta": false,
-      "bojTagId": 31,
-      "problemCount": 185,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud50c\ub85c\uc774\ub4dc\u2013\uc6cc\uc15c",
-          "short": "\ud50c\ub85c\uc774\ub4dc\u2013\uc6cc\uc15c"
-        },
-        {
-          "language": "en",
-          "name": "floyd\u2013warshall",
-          "short": "floyd\u2013warshall"
-        },
-        {
-          "language": "ja",
-          "name": "\u30ef\u30fc\u30b7\u30e3\u30eb\u2013\u30d5\u30ed\u30a4\u30c9\u6cd5",
-          "short": "\u30ef\u30fc\u30b7\u30e3\u30eb\u2013\u30d5\u30ed\u30a4\u30c9\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud50c\ub85c\uc774\ub4dc"
-        },
-        {
-          "alias": "\ud50c\ub85c\uc774\ub4dc\uc640\uc15c"
-        },
-        {
-          "alias": "\ud50c\ub85c\uc774\ub4dc\uc640\uc0ec"
-        }
-      ]
-    },
     {
       "key": "graphs",
       "isMeta": false,
@@ -108,6 +74,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "floyd_warshall",
+      "isMeta": false,
+      "bojTagId": 31,
+      "problemCount": 185,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud50c\ub85c\uc774\ub4dc\u2013\uc6cc\uc15c",
+          "short": "\ud50c\ub85c\uc774\ub4dc\u2013\uc6cc\uc15c"
+        },
+        {
+          "language": "en",
+          "name": "floyd\u2013warshall",
+          "short": "floyd\u2013warshall"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ef\u30fc\u30b7\u30e3\u30eb\u2013\u30d5\u30ed\u30a4\u30c9\u6cd5",
+          "short": "\u30ef\u30fc\u30b7\u30e3\u30eb\u2013\u30d5\u30ed\u30a4\u30c9\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud50c\ub85c\uc774\ub4dc"
+        },
+        {
+          "alias": "\ud50c\ub85c\uc774\ub4dc\uc640\uc15c"
+        },
+        {
+          "alias": "\ud50c\ub85c\uc774\ub4dc\uc640\uc0ec"
+        }
+      ]
     }
   ],
   "metadata": {}

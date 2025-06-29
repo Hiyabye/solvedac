@@ -15,7 +15,7 @@
   "level": 11,
   "votedUserCount": 9,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
   "averageTries": 1.3947,
   "official": true,
@@ -24,7 +24,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6242,
+      "problemCount": 6243,
       "displayNames": [
         {
           "language": "ko",
@@ -169,5 +169,12 @@
       ]
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "wrong-inputs",
+        "data": "https://www.acmicpc.net/board/view/147750"
+      }
+    ]
+  }
 }
