@@ -12,11 +12,11 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 115,
-  "level": 10,
-  "votedUserCount": 15,
+  "level": 0,
+  "votedUserCount": 16,
   "sprout": false,
   "givesNoRating": false,
-  "isLevelLocked": false,
+  "isLevelLocked": true,
   "averageTries": 1.5565,
   "official": true,
   "tags": [
@@ -24,7 +24,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2150,
+      "problemCount": 2151,
       "displayNames": [
         {
           "language": "ko",
@@ -40,6 +40,30 @@
           "language": "ja",
           "name": "\u30bd\u30fc\u30c8",
           "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "physics",
+      "isMeta": false,
+      "bojTagId": 116,
+      "problemCount": 72,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb3c\ub9ac\ud559",
+          "short": "\ubb3c\ub9ac\ud559"
+        },
+        {
+          "language": "en",
+          "name": "physics",
+          "short": "physics"
+        },
+        {
+          "language": "ja",
+          "name": "\u7269\u7406",
+          "short": "\u7269\u7406"
         }
       ],
       "aliases": []
