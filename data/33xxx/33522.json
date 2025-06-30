@@ -13,13 +13,37 @@
   "isPartial": false,
   "acceptedUserCount": 54,
   "level": 19,
-  "votedUserCount": 16,
+  "votedUserCount": 17,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2.3333,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7344,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "ad_hoc",
       "isMeta": false,
@@ -40,64 +64,6 @@
           "language": "ja",
           "name": "\u30a2\u30c9\u30db\u30c3\u30af",
           "short": "\u30a2\u30c9\u30db\u30c3\u30af"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "constructive",
-      "isMeta": false,
-      "bojTagId": 128,
-      "problemCount": 1288,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574 \uad6c\uc131\ud558\uae30",
-          "short": "\ud574 \uad6c\uc131\ud558\uae30"
-        },
-        {
-          "language": "en",
-          "name": "constructive",
-          "short": "constructive"
-        },
-        {
-          "language": "ja",
-          "name": "\u69cb\u6210\u7684",
-          "short": "\u69cb\u6210\u7684"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "constructive"
-        },
-        {
-          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
-        },
-        {
-          "alias": "\uad6c\uc131\uc801"
-        }
-      ]
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7345,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
         }
       ],
       "aliases": []
@@ -127,28 +93,38 @@
       "aliases": []
     },
     {
-      "key": "pigeonhole_principle",
+      "key": "constructive",
       "isMeta": false,
-      "bojTagId": 189,
-      "problemCount": 56,
+      "bojTagId": 128,
+      "problemCount": 1287,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ube44\ub458\uae30\uc9d1 \uc6d0\ub9ac",
-          "short": "\ube44\ub458\uae30\uc9d1"
+          "name": "\ud574 \uad6c\uc131\ud558\uae30",
+          "short": "\ud574 \uad6c\uc131\ud558\uae30"
         },
         {
           "language": "en",
-          "name": "pigeonhole principle",
-          "short": "pigeonhole"
+          "name": "constructive",
+          "short": "constructive"
         },
         {
           "language": "ja",
-          "name": "\u9ce9\u306e\u5de3\u539f\u7406",
-          "short": "\u9ce9"
+          "name": "\u69cb\u6210\u7684",
+          "short": "\u69cb\u6210\u7684"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "constructive"
+        },
+        {
+          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
+        },
+        {
+          "alias": "\uad6c\uc131\uc801"
+        }
+      ]
     },
     {
       "key": "primality_test",
@@ -186,6 +162,30 @@
           "alias": "prime"
         }
       ]
+    },
+    {
+      "key": "pigeonhole_principle",
+      "isMeta": false,
+      "bojTagId": 189,
+      "problemCount": 56,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ub458\uae30\uc9d1 \uc6d0\ub9ac",
+          "short": "\ube44\ub458\uae30\uc9d1"
+        },
+        {
+          "language": "en",
+          "name": "pigeonhole principle",
+          "short": "pigeonhole"
+        },
+        {
+          "language": "ja",
+          "name": "\u9ce9\u306e\u5de3\u539f\u7406",
+          "short": "\u9ce9"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

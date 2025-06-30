@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 241,
   "level": 9,
-  "votedUserCount": 23,
+  "votedUserCount": 24,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,56 +21,25 @@
   "official": true,
   "tags": [
     {
-      "key": "data_structures",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4505,
+      "bojTagId": 124,
+      "problemCount": 7344,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "data structures",
-          "short": "ds"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
-      "key": "deque",
-      "isMeta": false,
-      "bojTagId": 73,
-      "problemCount": 139,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub371",
-          "short": "\ub371"
-        },
-        {
-          "language": "en",
-          "name": "deque",
-          "short": "deque"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
-          "short": "deque"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
       "aliases": []
@@ -100,28 +69,35 @@
       "aliases": []
     },
     {
-      "key": "math",
+      "key": "data_structures",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7345,
+      "bojTagId": 175,
+      "problemCount": 4508,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "data structures",
+          "short": "ds"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
     },
     {
       "key": "number_theory",
@@ -220,6 +196,30 @@
           "alias": "prime"
         }
       ]
+    },
+    {
+      "key": "deque",
+      "isMeta": false,
+      "bojTagId": 73,
+      "problemCount": 140,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub371",
+          "short": "\ub371"
+        },
+        {
+          "language": "en",
+          "name": "deque",
+          "short": "deque"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
+          "short": "deque"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

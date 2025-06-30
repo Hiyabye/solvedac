@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 132,
+  "acceptedUserCount": 133,
   "level": 14,
-  "votedUserCount": 36,
+  "votedUserCount": 37,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.2879,
+  "averageTries": 1.2932,
   "official": true,
   "tags": [
     {
@@ -48,7 +48,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4585,
+      "problemCount": 4586,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4505,
+      "problemCount": 4508,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +110,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2287,
+      "problemCount": 2286,
       "displayNames": [
         {
           "language": "ko",
@@ -202,6 +202,25 @@
       ]
     },
     {
+      "key": "grid_graph",
+      "isMeta": false,
+      "bojTagId": 221,
+      "problemCount": 145,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
+          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "grid graph",
+          "short": "grid graph"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "geometry_3d",
       "isMeta": false,
       "bojTagId": 131,
@@ -221,25 +240,6 @@
           "language": "ja",
           "name": "3\u6b21\u5143\u5e7e\u4f55\u5b66",
           "short": "3d"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "grid_graph",
-      "isMeta": false,
-      "bojTagId": 221,
-      "problemCount": 144,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
-          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
-        },
-        {
-          "language": "en",
-          "name": "grid graph",
-          "short": "grid graph"
         }
       ],
       "aliases": []
