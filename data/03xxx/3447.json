@@ -19,37 +19,13 @@
   "isPartial": false,
   "acceptedUserCount": 953,
   "level": 5,
-  "votedUserCount": 34,
+  "votedUserCount": 35,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2.2938,
   "official": true,
   "tags": [
-    {
-      "key": "parsing",
-      "isMeta": false,
-      "bojTagId": 96,
-      "problemCount": 520,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud30c\uc2f1",
-          "short": "\ud30c\uc2f1"
-        },
-        {
-          "language": "en",
-          "name": "parsing",
-          "short": "parsing"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
-          "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
-        }
-      ],
-      "aliases": []
-    },
     {
       "key": "string",
       "isMeta": false,
@@ -77,6 +53,30 @@
           "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
+    },
+    {
+      "key": "parsing",
+      "isMeta": false,
+      "bojTagId": 96,
+      "problemCount": 520,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud30c\uc2f1",
+          "short": "\ud30c\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "parsing",
+          "short": "parsing"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
+          "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
