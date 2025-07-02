@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 65,
   "level": 15,
-  "votedUserCount": 29,
+  "votedUserCount": 30,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2148,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1461,
+      "problemCount": 1462,
       "displayNames": [
         {
           "language": "ko",
@@ -52,25 +76,20 @@
       ]
     },
     {
-      "key": "sorting",
+      "key": "set",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2148,
+      "bojTagId": 225,
+      "problemCount": 1298,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "set / map",
+          "short": "set"
         }
       ],
       "aliases": []
