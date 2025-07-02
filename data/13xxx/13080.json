@@ -12,14 +12,38 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 13,
-  "level": 19,
-  "votedUserCount": 1,
+  "level": 18,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.1538,
   "official": true,
   "tags": [
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1811,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "binary_search",
       "isMeta": false,
@@ -52,25 +76,25 @@
       ]
     },
     {
-      "key": "geometry",
+      "key": "line_intersection",
       "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 1810,
+      "bojTagId": 42,
+      "problemCount": 154,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
+          "name": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815",
+          "short": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815"
         },
         {
           "language": "en",
-          "name": "geometry",
-          "short": "geom"
+          "name": "line segment intersection check",
+          "short": "line segment intersection check"
         },
         {
           "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
+          "name": "\u76f4\u7dda\u306e\u4ea4\u70b9",
+          "short": "\u76f4\u7dda\u306e\u4ea4\u70b9"
         }
       ],
       "aliases": []
