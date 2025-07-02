@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 406,
   "level": 18,
-  "votedUserCount": 55,
+  "votedUserCount": 56,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -52,32 +52,28 @@
       ]
     },
     {
-      "key": "offline_queries",
+      "key": "sorting",
       "isMeta": false,
-      "bojTagId": 123,
-      "problemCount": 319,
+      "bojTagId": 97,
+      "problemCount": 2148,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
-          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
         },
         {
           "language": "en",
-          "name": "offline queries",
-          "short": "offline query"
+          "name": "sorting",
+          "short": "sorting"
         },
         {
           "language": "ja",
-          "name": "offline queries",
-          "short": "offline query"
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
         }
       ],
-      "aliases": [
-        {
-          "alias": "offlinequery"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "segtree",
@@ -117,28 +113,32 @@
       ]
     },
     {
-      "key": "sorting",
+      "key": "offline_queries",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2148,
+      "bojTagId": 123,
+      "problemCount": 319,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
+          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
+          "name": "offline queries",
+          "short": "offline query"
         },
         {
           "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "offline queries",
+          "short": "offline query"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "offlinequery"
+        }
+      ]
     }
   ],
   "metadata": {}
