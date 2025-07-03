@@ -13,44 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 33,
   "level": 22,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.5758,
   "official": true,
   "tags": [
-    {
-      "key": "binary_search",
-      "isMeta": false,
-      "bojTagId": 12,
-      "problemCount": 1462,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\uc774\ubd84 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "binary search",
-          "short": "binary search"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u5206\u63a2\u7d22",
-          "short": "\u4e8c\u5206\u63a2\u7d22"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc774\ubd84\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
-        }
-      ]
-    },
     {
       "key": "data_structures",
       "isMeta": false,
@@ -86,7 +55,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3069,
+      "problemCount": 3076,
       "displayNames": [
         {
           "language": "ko",
@@ -111,25 +80,25 @@
       ]
     },
     {
-      "key": "pbs",
+      "key": "sorting",
       "isMeta": false,
-      "bojTagId": 54,
-      "problemCount": 37,
+      "bojTagId": 97,
+      "problemCount": 2149,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubcd1\ub82c \uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\ubcd1\ub82c \uc774\ubd84 \ud0d0\uc0c9"
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
         },
         {
           "language": "en",
-          "name": "parallel binary search",
-          "short": "pbs"
+          "name": "sorting",
+          "short": "sorting"
         },
         {
           "language": "ja",
-          "name": "parallel binary search",
-          "short": "pbs"
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
         }
       ],
       "aliases": []
@@ -172,25 +141,56 @@
       ]
     },
     {
-      "key": "sorting",
+      "key": "binary_search",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2148,
+      "bojTagId": 12,
+      "problemCount": 1462,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
+          "name": "binary search",
+          "short": "binary search"
         },
         {
           "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "pbs",
+      "isMeta": false,
+      "bojTagId": 54,
+      "problemCount": 37,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubcd1\ub82c \uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\ubcd1\ub82c \uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "parallel binary search",
+          "short": "pbs"
+        },
+        {
+          "language": "ja",
+          "name": "parallel binary search",
+          "short": "pbs"
         }
       ],
       "aliases": []

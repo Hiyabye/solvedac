@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 63,
   "level": 20,
-  "votedUserCount": 23,
+  "votedUserCount": 24,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4648,
+      "problemCount": 4652,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4590,
+      "problemCount": 4594,
       "displayNames": [
         {
           "language": "ko",
@@ -120,7 +120,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2287,
+      "problemCount": 2291,
       "displayNames": [
         {
           "language": "ko",
@@ -151,7 +151,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1698,
+      "problemCount": 1700,
       "displayNames": [
         {
           "language": "ko",
@@ -179,7 +179,7 @@
       "key": "dp_tree",
       "isMeta": false,
       "bojTagId": 92,
-      "problemCount": 522,
+      "problemCount": 524,
       "displayNames": [
         {
           "language": "ko",
@@ -226,6 +226,37 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "sparse_table",
+      "isMeta": false,
+      "bojTagId": 84,
+      "problemCount": 175,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud76c\uc18c \ubc30\uc5f4",
+          "short": "\ud76c\uc18c \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "sparse table",
+          "short": "sparse table"
+        },
+        {
+          "language": "ja",
+          "name": "sparse table",
+          "short": "sparse table"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud30c\uc2a4\uc5b4\ub808\uc774"
+        },
+        {
+          "alias": "sparse table"
+        }
+      ]
     },
     {
       "key": "tree_diameter",
