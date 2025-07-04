@@ -13,13 +13,98 @@
   "isPartial": false,
   "acceptedUserCount": 10,
   "level": 12,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2.7,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7353,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1695,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "primality_test",
+      "isMeta": false,
+      "bojTagId": 9,
+      "problemCount": 365,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc18c\uc218 \ud310\uc815",
+          "short": "\uc18c\uc218 \ud310\uc815"
+        },
+        {
+          "language": "en",
+          "name": "primality test",
+          "short": "primality test"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8",
+          "short": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc18c\uc218"
+        },
+        {
+          "alias": "\uc18c\uc218\ud310\ubcc4"
+        },
+        {
+          "alias": "\uc18c\uc218\ud310\uc815"
+        },
+        {
+          "alias": "prime"
+        }
+      ]
+    },
     {
       "key": "exponentiation_by_squaring",
       "isMeta": false,
@@ -58,95 +143,10 @@
       ]
     },
     {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7350,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "number_theory",
-      "isMeta": false,
-      "bojTagId": 95,
-      "problemCount": 1692,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\uc218\ub860",
-          "short": "\uc815\uc218\ub860"
-        },
-        {
-          "language": "en",
-          "name": "number theory",
-          "short": "number theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u6574\u6570\u8ad6",
-          "short": "\u6574\u6570\u8ad6"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "primality_test",
-      "isMeta": false,
-      "bojTagId": 9,
-      "problemCount": 364,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc18c\uc218 \ud310\uc815",
-          "short": "\uc18c\uc218 \ud310\uc815"
-        },
-        {
-          "language": "en",
-          "name": "primality test",
-          "short": "primality test"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8",
-          "short": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc18c\uc218"
-        },
-        {
-          "alias": "\uc18c\uc218\ud310\ubcc4"
-        },
-        {
-          "alias": "\uc18c\uc218\ud310\uc815"
-        },
-        {
-          "alias": "prime"
-        }
-      ]
-    },
-    {
       "key": "sieve",
       "isMeta": false,
       "bojTagId": 67,
-      "problemCount": 215,
+      "problemCount": 216,
       "displayNames": [
         {
           "language": "ko",

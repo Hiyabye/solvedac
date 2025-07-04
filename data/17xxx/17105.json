@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 133,
   "level": 22,
-  "votedUserCount": 39,
+  "votedUserCount": 40,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,68 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "fft",
-      "isMeta": false,
-      "bojTagId": 28,
-      "problemCount": 150,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uace0\uc18d \ud478\ub9ac\uc5d0 \ubcc0\ud658",
-          "short": "\uace0\uc18d \ud478\ub9ac\uc5d0 \ubcc0\ud658"
-        },
-        {
-          "language": "en",
-          "name": "fast fourier transform",
-          "short": "fft"
-        },
-        {
-          "language": "ja",
-          "name": "\u9ad8\u901f\u30d5\u30fc\u30ea\u30a8\u5909\u63db",
-          "short": "fft"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud478\ub9ac\uc5d0\ubcc0\ud658"
-        },
-        {
-          "alias": "\ucee8\ubcfc\ub8e8\uc158"
-        },
-        {
-          "alias": "convolution"
-        }
-      ]
-    },
-    {
-      "key": "inclusion_and_exclusion",
-      "isMeta": false,
-      "bojTagId": 38,
-      "problemCount": 198,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac",
-          "short": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "inclusion and exclusion",
-          "short": "inclusion and exclusion"
-        },
-        {
-          "language": "ja",
-          "name": "\u5305\u9664\u539f\u7406",
-          "short": "\u5305\u9664\u539f\u7406"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7350,
+      "problemCount": 7353,
       "displayNames": [
         {
           "language": "ko",
@@ -106,7 +48,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1692,
+      "problemCount": 1695,
       "displayNames": [
         {
           "language": "ko",
@@ -130,7 +72,7 @@
       "key": "primality_test",
       "isMeta": false,
       "bojTagId": 9,
-      "problemCount": 364,
+      "problemCount": 365,
       "displayNames": [
         {
           "language": "ko",
@@ -167,7 +109,7 @@
       "key": "sieve",
       "isMeta": false,
       "bojTagId": 67,
-      "problemCount": 215,
+      "problemCount": 216,
       "displayNames": [
         {
           "language": "ko",
@@ -197,6 +139,64 @@
         },
         {
           "alias": "prime"
+        }
+      ]
+    },
+    {
+      "key": "inclusion_and_exclusion",
+      "isMeta": false,
+      "bojTagId": 38,
+      "problemCount": 198,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac",
+          "short": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "inclusion and exclusion",
+          "short": "inclusion and exclusion"
+        },
+        {
+          "language": "ja",
+          "name": "\u5305\u9664\u539f\u7406",
+          "short": "\u5305\u9664\u539f\u7406"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "fft",
+      "isMeta": false,
+      "bojTagId": 28,
+      "problemCount": 150,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uace0\uc18d \ud478\ub9ac\uc5d0 \ubcc0\ud658",
+          "short": "\uace0\uc18d \ud478\ub9ac\uc5d0 \ubcc0\ud658"
+        },
+        {
+          "language": "en",
+          "name": "fast fourier transform",
+          "short": "fft"
+        },
+        {
+          "language": "ja",
+          "name": "\u9ad8\u901f\u30d5\u30fc\u30ea\u30a8\u5909\u63db",
+          "short": "fft"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud478\ub9ac\uc5d0\ubcc0\ud658"
+        },
+        {
+          "alias": "\ucee8\ubcfc\ub8e8\uc158"
+        },
+        {
+          "alias": "convolution"
         }
       ]
     }

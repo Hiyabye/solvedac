@@ -21,100 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4511,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
-      "key": "divide_and_conquer",
-      "isMeta": false,
-      "bojTagId": 24,
-      "problemCount": 467,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5",
-          "short": "\ubd84\ud560 \uc815\ubcf5"
-        },
-        {
-          "language": "en",
-          "name": "divide and conquer",
-          "short": "d&c"
-        },
-        {
-          "language": "ja",
-          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
-          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dnc"
-        }
-      ]
-    },
-    {
-      "key": "divide_and_conquer_optimization",
-      "isMeta": false,
-      "bojTagId": 91,
-      "problemCount": 44,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc0ac\uc6a9\ud55c \ucd5c\uc801\ud654",
-          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc0ac\uc6a9\ud55c \ucd5c\uc801\ud654"
-        },
-        {
-          "language": "en",
-          "name": "divide and conquer optimization",
-          "short": "d&c optimization"
-        },
-        {
-          "language": "ja",
-          "name": "divide and conquer optimization",
-          "short": "d&c optimization"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ubd84\ud560 \uc815\ubcf5 \ucd5c\uc801\ud654"
-        },
-        {
-          "alias": "dnc opt"
-        }
-      ]
-    },
-    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4651,
+      "problemCount": 4656,
       "displayNames": [
         {
           "language": "ko",
@@ -145,28 +55,35 @@
       ]
     },
     {
-      "key": "lis",
+      "key": "data_structures",
       "isMeta": false,
-      "bojTagId": 43,
-      "problemCount": 99,
+      "bojTagId": 175,
+      "problemCount": 4513,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4 \ubb38\uc81c",
-          "short": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4"
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
         },
         {
           "language": "en",
-          "name": "longest increasing sequence problem",
-          "short": "lis"
+          "name": "data structures",
+          "short": "ds"
         },
         {
           "language": "ja",
-          "name": "longest increasing sequence problem",
-          "short": "lis"
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
     },
     {
       "key": "segtree",
@@ -202,6 +119,89 @@
         },
         {
           "alias": "\ud39c\uc705"
+        }
+      ]
+    },
+    {
+      "key": "divide_and_conquer",
+      "isMeta": false,
+      "bojTagId": 24,
+      "problemCount": 467,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
+        },
+        {
+          "language": "en",
+          "name": "divide and conquer",
+          "short": "d&c"
+        },
+        {
+          "language": "ja",
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dnc"
+        }
+      ]
+    },
+    {
+      "key": "lis",
+      "isMeta": false,
+      "bojTagId": 43,
+      "problemCount": 99,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4 \ubb38\uc81c",
+          "short": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "longest increasing sequence problem",
+          "short": "lis"
+        },
+        {
+          "language": "ja",
+          "name": "longest increasing sequence problem",
+          "short": "lis"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "divide_and_conquer_optimization",
+      "isMeta": false,
+      "bojTagId": 91,
+      "problemCount": 44,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc0ac\uc6a9\ud55c \ucd5c\uc801\ud654",
+          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc0ac\uc6a9\ud55c \ucd5c\uc801\ud654"
+        },
+        {
+          "language": "en",
+          "name": "divide and conquer optimization",
+          "short": "d&c optimization"
+        },
+        {
+          "language": "ja",
+          "name": "divide and conquer optimization",
+          "short": "d&c optimization"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ubd84\ud560 \uc815\ubcf5 \ucd5c\uc801\ud654"
+        },
+        {
+          "alias": "dnc opt"
         }
       ]
     }
