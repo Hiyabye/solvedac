@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 2575,
   "level": 12,
-  "votedUserCount": 78,
+  "votedUserCount": 79,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -30,7 +30,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4510,
+      "problemCount": 4513,
       "displayNames": [
         {
           "language": "ko",
@@ -61,7 +61,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2742,
+      "problemCount": 2744,
       "displayNames": [
         {
           "language": "ko",
@@ -129,10 +129,41 @@
       ]
     },
     {
+      "key": "bitmask",
+      "isMeta": false,
+      "bojTagId": 14,
+      "problemCount": 875,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
+          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "bitmask",
+          "short": "bitmask"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
+          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ube44\ud2b8\ud544\ub4dc"
+        },
+        {
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+        }
+      ]
+    },
+    {
       "key": "stack",
       "isMeta": false,
       "bojTagId": 71,
-      "problemCount": 436,
+      "problemCount": 437,
       "displayNames": [
         {
           "language": "ko",

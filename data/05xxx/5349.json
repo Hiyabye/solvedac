@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 173,
   "level": 6,
-  "votedUserCount": 13,
+  "votedUserCount": 14,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6244,
+      "problemCount": 6245,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4510,
+      "problemCount": 4513,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2149,
+      "problemCount": 2151,
       "displayNames": [
         {
           "language": "ko",
@@ -103,7 +103,7 @@
       "key": "set",
       "isMeta": false,
       "bojTagId": 225,
-      "problemCount": 1298,
+      "problemCount": 1302,
       "displayNames": [
         {
           "language": "ko",
@@ -122,7 +122,7 @@
       "key": "hash_set",
       "isMeta": false,
       "bojTagId": 136,
-      "problemCount": 776,
+      "problemCount": 777,
       "displayNames": [
         {
           "language": "ko",
@@ -170,61 +170,6 @@
         },
         {
           "alias": "dict"
-        }
-      ]
-    },
-    {
-      "key": "tree_set",
-      "isMeta": false,
-      "bojTagId": 74,
-      "problemCount": 530,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
-          "short": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map by trees",
-          "short": "treeset"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
-          "short": "treeset"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc9d1\ud569"
-        },
-        {
-          "alias": "\ub9f5"
-        },
-        {
-          "alias": "\uc14b"
-        },
-        {
-          "alias": "\ub515\uc154\ub108\ub9ac"
-        },
-        {
-          "alias": "dictionary"
-        },
-        {
-          "alias": "map"
-        },
-        {
-          "alias": "set"
-        },
-        {
-          "alias": "bbst"
-        },
-        {
-          "alias": "\ud2b8\ub9ac"
-        },
-        {
-          "alias": "tree"
         }
       ]
     }
