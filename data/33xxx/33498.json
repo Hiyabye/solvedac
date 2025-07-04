@@ -12,7 +12,7 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 9,
-  "level": 19,
+  "level": 20,
   "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4652,
+      "problemCount": 4657,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4594,
+      "problemCount": 4598,
       "displayNames": [
         {
           "language": "ko",
@@ -82,6 +82,40 @@
         },
         {
           "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "prefix_sum",
+      "isMeta": false,
+      "bojTagId": 139,
+      "problemCount": 1208,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub204\uc801 \ud569",
+          "short": "\ub204\uc801 \ud569"
+        },
+        {
+          "language": "en",
+          "name": "prefix sum",
+          "short": "prefix sum"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d2f\u7a4d\u548c",
+          "short": "\u7d2f\u7a4d\u548c"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud569"
+        },
+        {
+          "alias": "\ubd80\ubd84\ud569"
+        },
+        {
+          "alias": "rangesum"
         }
       ]
     }

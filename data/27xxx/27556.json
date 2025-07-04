@@ -21,6 +21,40 @@
   "official": true,
   "tags": [
     {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 4657,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
       "key": "bitmask",
       "isMeta": false,
       "bojTagId": 14,
@@ -48,40 +82,6 @@
         },
         {
           "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
-        }
-      ]
-    },
-    {
-      "key": "dp",
-      "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 4652,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
         }
       ]
     }
