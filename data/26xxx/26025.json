@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 29,
   "level": 18,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,68 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "ad_hoc",
-      "isMeta": false,
-      "bojTagId": 109,
-      "problemCount": 1899,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc560\ub4dc \ud639",
-          "short": "\uc560\ub4dc \ud639"
-        },
-        {
-          "language": "en",
-          "name": "ad-hoc",
-          "short": "ad-hoc"
-        },
-        {
-          "language": "ja",
-          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
-          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "constructive",
-      "isMeta": false,
-      "bojTagId": 128,
-      "problemCount": 1287,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574 \uad6c\uc131\ud558\uae30",
-          "short": "\ud574 \uad6c\uc131\ud558\uae30"
-        },
-        {
-          "language": "en",
-          "name": "constructive",
-          "short": "constructive"
-        },
-        {
-          "language": "ja",
-          "name": "\u69cb\u6210\u7684",
-          "short": "\u69cb\u6210\u7684"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "constructive"
-        },
-        {
-          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
-        },
-        {
-          "alias": "\uad6c\uc131\uc801"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4598,
+      "problemCount": 4599,
       "displayNames": [
         {
           "language": "ko",
@@ -113,7 +55,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2294,
+      "problemCount": 2295,
       "displayNames": [
         {
           "language": "ko",
@@ -141,6 +83,30 @@
       ]
     },
     {
+      "key": "ad_hoc",
+      "isMeta": false,
+      "bojTagId": 109,
+      "problemCount": 1900,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
+        },
+        {
+          "language": "en",
+          "name": "ad-hoc",
+          "short": "ad-hoc"
+        },
+        {
+          "language": "ja",
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
@@ -165,6 +131,40 @@
       "aliases": [
         {
           "alias": "trees"
+        }
+      ]
+    },
+    {
+      "key": "constructive",
+      "isMeta": false,
+      "bojTagId": 128,
+      "problemCount": 1288,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574 \uad6c\uc131\ud558\uae30",
+          "short": "\ud574 \uad6c\uc131\ud558\uae30"
+        },
+        {
+          "language": "en",
+          "name": "constructive",
+          "short": "constructive"
+        },
+        {
+          "language": "ja",
+          "name": "\u69cb\u6210\u7684",
+          "short": "\u69cb\u6210\u7684"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "constructive"
+        },
+        {
+          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
+        },
+        {
+          "alias": "\uad6c\uc131\uc801"
         }
       ]
     }
