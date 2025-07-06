@@ -13,61 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 17,
   "level": 23,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.4706,
   "official": true,
   "tags": [
-    {
-      "key": "dominator_tree",
-      "isMeta": false,
-      "bojTagId": 135,
-      "problemCount": 9,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub3c4\ubbf8\ub124\uc774\ud130 \ud2b8\ub9ac",
-          "short": "\ub3c4\ubbf8\ub124\uc774\ud130 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "dominator tree",
-          "short": "dominator tree"
-        },
-        {
-          "language": "ja",
-          "name": "dominator tree",
-          "short": "dominator tree"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "lca",
-      "isMeta": false,
-      "bojTagId": 41,
-      "problemCount": 199,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
-          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
-        },
-        {
-          "language": "en",
-          "name": "lowest common ancestor",
-          "short": "lca"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
-          "short": "lca"
-        }
-      ],
-      "aliases": []
-    },
     {
       "key": "trees",
       "isMeta": false,
@@ -95,6 +47,54 @@
           "alias": "trees"
         }
       ]
+    },
+    {
+      "key": "lca",
+      "isMeta": false,
+      "bojTagId": 41,
+      "problemCount": 199,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
+          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
+        },
+        {
+          "language": "en",
+          "name": "lowest common ancestor",
+          "short": "lca"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
+          "short": "lca"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "dominator_tree",
+      "isMeta": false,
+      "bojTagId": 135,
+      "problemCount": 9,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub3c4\ubbf8\ub124\uc774\ud130 \ud2b8\ub9ac",
+          "short": "\ub3c4\ubbf8\ub124\uc774\ud130 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "dominator tree",
+          "short": "dominator tree"
+        },
+        {
+          "language": "ja",
+          "name": "dominator tree",
+          "short": "dominator tree"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

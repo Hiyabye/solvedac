@@ -11,15 +11,80 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 28,
+  "acceptedUserCount": 29,
   "level": 16,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.3571,
+  "averageTries": 2.4828,
   "official": true,
   "tags": [
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4600,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "prefix_sum",
+      "isMeta": false,
+      "bojTagId": 139,
+      "problemCount": 1210,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub204\uc801 \ud569",
+          "short": "\ub204\uc801 \ud569"
+        },
+        {
+          "language": "en",
+          "name": "prefix sum",
+          "short": "prefix sum"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d2f\u7a4d\u548c",
+          "short": "\u7d2f\u7a4d\u548c"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud569"
+        },
+        {
+          "alias": "\ubd80\ubd84\ud569"
+        },
+        {
+          "alias": "rangesum"
+        }
+      ]
+    },
     {
       "key": "coordinate_compression",
       "isMeta": false,
@@ -49,100 +114,23 @@
       ]
     },
     {
-      "key": "graphs",
+      "key": "difference_array",
       "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4598,
+      "bojTagId": 239,
+      "problemCount": 43,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
+          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
         },
         {
           "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
+          "name": "difference array",
+          "short": "difference array"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "graph_traversal",
-      "isMeta": false,
-      "bojTagId": 11,
-      "problemCount": 2294,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
-          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "graph traversal",
-          "short": "traversal"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
-          "short": "\u6a2a\u65ad"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bfs"
-        },
-        {
-          "alias": "dfs"
-        }
-      ]
-    },
-    {
-      "key": "prefix_sum",
-      "isMeta": false,
-      "bojTagId": 139,
-      "problemCount": 1208,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub204\uc801 \ud569",
-          "short": "\ub204\uc801 \ud569"
-        },
-        {
-          "language": "en",
-          "name": "prefix sum",
-          "short": "prefix sum"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d2f\u7a4d\u548c",
-          "short": "\u7d2f\u7a4d\u548c"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uad6c\uac04\ud569"
-        },
-        {
-          "alias": "\ubd80\ubd84\ud569"
-        },
-        {
-          "alias": "rangesum"
-        }
-      ]
+      "aliases": []
     }
   ],
   "metadata": {}
