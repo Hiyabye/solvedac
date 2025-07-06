@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 15,
   "level": 20,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,34 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "cartesian_tree",
-      "isMeta": false,
-      "bojTagId": 206,
-      "problemCount": 18,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub370\uce74\ub974\ud2b8 \ud2b8\ub9ac",
-          "short": "\ub370\uce74\ub974\ud2b8 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "cartesian tree",
-          "short": "cartesian tree"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30ab\u30eb\u30c8\u6728",
-          "short": "\u30c7\u30ab\u30eb\u30c8\u6728"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7356,
+      "problemCount": 7357,
       "displayNames": [
         {
           "language": "ko",
@@ -69,30 +45,30 @@
       "aliases": []
     },
     {
-      "key": "modular_multiplicative_inverse",
+      "key": "trees",
       "isMeta": false,
-      "bojTagId": 164,
-      "problemCount": 156,
+      "bojTagId": 120,
+      "problemCount": 1703,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
-          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
         },
         {
           "language": "en",
-          "name": "modular multiplicative inverse",
-          "short": "modular multiplicative inverse"
+          "name": "tree",
+          "short": "tree"
         },
         {
           "language": "ja",
-          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
-          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
+          "name": "\u6728",
+          "short": "\u6728"
         }
       ],
       "aliases": [
         {
-          "alias": "modinv"
+          "alias": "trees"
         }
       ]
     },
@@ -100,7 +76,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1695,
+      "problemCount": 1696,
       "displayNames": [
         {
           "language": "ko",
@@ -155,32 +131,56 @@
       ]
     },
     {
-      "key": "trees",
+      "key": "modular_multiplicative_inverse",
       "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1703,
+      "bojTagId": 164,
+      "problemCount": 156,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
+          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
+          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
         },
         {
           "language": "en",
-          "name": "tree",
-          "short": "tree"
+          "name": "modular multiplicative inverse",
+          "short": "modular multiplicative inverse"
         },
         {
           "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
+          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
+          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
         }
       ],
       "aliases": [
         {
-          "alias": "trees"
+          "alias": "modinv"
         }
       ]
+    },
+    {
+      "key": "cartesian_tree",
+      "isMeta": false,
+      "bojTagId": 206,
+      "problemCount": 18,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub370\uce74\ub974\ud2b8 \ud2b8\ub9ac",
+          "short": "\ub370\uce74\ub974\ud2b8 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "cartesian tree",
+          "short": "cartesian tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30ab\u30eb\u30c8\u6728",
+          "short": "\u30c7\u30ab\u30eb\u30c8\u6728"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
