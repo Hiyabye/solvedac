@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 157,
   "level": 12,
-  "votedUserCount": 21,
+  "votedUserCount": 22,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7362,
+      "problemCount": 7364,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1212,
+      "problemCount": 1211,
       "displayNames": [
         {
           "language": "ko",
@@ -77,6 +77,25 @@
           "alias": "rangesum"
         }
       ]
+    },
+    {
+      "key": "difference_array",
+      "isMeta": false,
+      "bojTagId": 239,
+      "problemCount": 44,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
+          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "difference array",
+          "short": "difference array"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
