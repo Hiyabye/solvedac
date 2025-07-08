@@ -11,48 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 32,
+  "acceptedUserCount": 33,
   "level": 23,
-  "votedUserCount": 10,
+  "votedUserCount": 11,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 5.0313,
+  "averageTries": 4.9394,
   "official": true,
   "tags": [
-    {
-      "key": "bcc",
-      "isMeta": false,
-      "bojTagId": 153,
-      "problemCount": 56,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\uc911 \uc5f0\uacb0 \uc694\uc18c",
-          "short": "\uc774\uc911 \uc5f0\uacb0 \uc694\uc18c"
-        },
-        {
-          "language": "en",
-          "name": "biconnected component",
-          "short": "biconnected component"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u91cd\u63a5\u7d9a\u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8",
-          "short": "\u4e8c\u91cd\u63a5\u7d9a"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bcc"
-        }
-      ]
-    },
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4601,
+      "problemCount": 4606,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +55,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2296,
+      "problemCount": 2298,
       "displayNames": [
         {
           "language": "ko",
@@ -107,6 +79,34 @@
         },
         {
           "alias": "dfs"
+        }
+      ]
+    },
+    {
+      "key": "bcc",
+      "isMeta": false,
+      "bojTagId": 153,
+      "problemCount": 56,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\uc911 \uc5f0\uacb0 \uc694\uc18c",
+          "short": "\uc774\uc911 \uc5f0\uacb0 \uc694\uc18c"
+        },
+        {
+          "language": "en",
+          "name": "biconnected component",
+          "short": "biconnected component"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u91cd\u63a5\u7d9a\u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8",
+          "short": "\u4e8c\u91cd\u63a5\u7d9a"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bcc"
         }
       ]
     }
