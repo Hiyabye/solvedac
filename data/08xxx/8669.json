@@ -11,20 +11,44 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 127,
+  "acceptedUserCount": 128,
   "level": 4,
-  "votedUserCount": 18,
+  "votedUserCount": 19,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7323,
+  "averageTries": 1.7344,
   "official": true,
   "tags": [
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6249,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4515,
+      "problemCount": 4521,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +79,7 @@
       "key": "hash_set",
       "isMeta": false,
       "bojTagId": 136,
-      "problemCount": 778,
+      "problemCount": 780,
       "displayNames": [
         {
           "language": "ko",
@@ -105,49 +129,6 @@
           "alias": "dict"
         }
       ]
-    },
-    {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6247,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "set",
-      "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1311,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map",
-          "short": "set"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
