@@ -13,13 +13,96 @@
   "isPartial": false,
   "acceptedUserCount": 23,
   "level": 23,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 3.4348,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7369,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4524,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 3092,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
     {
       "key": "binary_search",
       "isMeta": false,
@@ -52,92 +135,61 @@
       ]
     },
     {
-      "key": "cht",
+      "key": "priority_queue",
       "isMeta": false,
-      "bojTagId": 89,
-      "problemCount": 116,
+      "bojTagId": 59,
+      "problemCount": 497,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
-          "short": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
+          "name": "\uc6b0\uc120\uc21c\uc704 \ud050",
+          "short": "\uc6b0\uc120\uc21c\uc704 \ud050"
         },
         {
           "language": "en",
-          "name": "convex hull trick",
-          "short": "cht"
+          "name": "priority queue",
+          "short": "priority queue"
         },
         {
           "language": "ja",
-          "name": "convex hull trick",
-          "short": "cht"
+          "name": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc",
+          "short": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc"
         }
       ],
       "aliases": [
         {
-          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ud2b8\ub9ad"
+          "alias": "heap"
         },
         {
-          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ucd5c\uc801\ud654"
+          "alias": "\ud799"
         }
       ]
     },
     {
-      "key": "data_structures",
+      "key": "parametric_search",
       "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4521,
+      "bojTagId": 170,
+      "problemCount": 456,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
+          "name": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9",
+          "short": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "data structures",
-          "short": "ds"
+          "name": "parametric search",
+          "short": "parametric search"
         },
         {
           "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
+          "name": "parametric search",
+          "short": "parametric search"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
-      "key": "greedy",
-      "isMeta": false,
-      "bojTagId": 33,
-      "problemCount": 3091,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
-          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
-        },
-        {
-          "language": "en",
-          "name": "greedy",
-          "short": "greedy"
-        },
-        {
-          "language": "ja",
-          "name": "\u8caa\u6b32\u6cd5",
-          "short": "\u8caa\u6b32\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud0d0\uc695\ubc95"
+          "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
         }
       ]
     },
@@ -170,85 +222,64 @@
       ]
     },
     {
-      "key": "math",
+      "key": "calculus",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7367,
+      "bojTagId": 111,
+      "problemCount": 141,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\ubbf8\uc801\ubd84\ud559",
+          "short": "\ubbf8\uc801\ubd84\ud559"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "calculus",
+          "short": "calculus"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "parametric_search",
-      "isMeta": false,
-      "bojTagId": 170,
-      "problemCount": 456,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9",
-          "short": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "parametric search",
-          "short": "parametric search"
-        },
-        {
-          "language": "ja",
-          "name": "parametric search",
-          "short": "parametric search"
+          "name": "\u5fae\u7a4d\u5206",
+          "short": "\u5fae\u7a4d\u5206"
         }
       ],
       "aliases": [
         {
-          "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
+          "alias": "\ubbf8\ubd84"
+        },
+        {
+          "alias": "\uc801\ubd84"
         }
       ]
     },
     {
-      "key": "priority_queue",
+      "key": "cht",
       "isMeta": false,
-      "bojTagId": 59,
-      "problemCount": 496,
+      "bojTagId": 89,
+      "problemCount": 115,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc6b0\uc120\uc21c\uc704 \ud050",
-          "short": "\uc6b0\uc120\uc21c\uc704 \ud050"
+          "name": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
+          "short": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
         },
         {
           "language": "en",
-          "name": "priority queue",
-          "short": "priority queue"
+          "name": "convex hull trick",
+          "short": "cht"
         },
         {
           "language": "ja",
-          "name": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc",
-          "short": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc"
+          "name": "convex hull trick",
+          "short": "cht"
         }
       ],
       "aliases": [
         {
-          "alias": "heap"
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ud2b8\ub9ad"
         },
         {
-          "alias": "\ud799"
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ucd5c\uc801\ud654"
         }
       ]
     }
