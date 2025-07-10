@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 31,
   "level": 23,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,35 +21,52 @@
   "official": true,
   "tags": [
     {
-      "key": "calculus",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 111,
-      "problemCount": 140,
+      "bojTagId": 124,
+      "problemCount": 7369,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubbf8\uc801\ubd84\ud559",
-          "short": "\ubbf8\uc801\ubd84\ud559"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "calculus",
-          "short": "calculus"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u5fae\u7a4d\u5206",
-          "short": "\u5fae\u7a4d\u5206"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
-      "aliases": [
+      "aliases": []
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1813,
+      "displayNames": [
         {
-          "alias": "\ubbf8\ubd84"
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
         },
         {
-          "alias": "\uc801\ubd84"
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
         }
-      ]
+      ],
+      "aliases": []
     },
     {
       "key": "convex_hull",
@@ -80,52 +97,35 @@
       ]
     },
     {
-      "key": "geometry",
+      "key": "calculus",
       "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 1813,
+      "bojTagId": 111,
+      "problemCount": 141,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
+          "name": "\ubbf8\uc801\ubd84\ud559",
+          "short": "\ubbf8\uc801\ubd84\ud559"
         },
         {
           "language": "en",
-          "name": "geometry",
-          "short": "geom"
+          "name": "calculus",
+          "short": "calculus"
         },
         {
           "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
+          "name": "\u5fae\u7a4d\u5206",
+          "short": "\u5fae\u7a4d\u5206"
         }
       ],
-      "aliases": []
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7368,
-      "displayNames": [
+      "aliases": [
         {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "alias": "\ubbf8\ubd84"
         },
         {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "alias": "\uc801\ubd84"
         }
-      ],
-      "aliases": []
+      ]
     }
   ],
   "metadata": {}
