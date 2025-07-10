@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 6,
   "level": 14,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4524,
+      "problemCount": 4525,
       "displayNames": [
         {
           "language": "ko",
@@ -50,30 +50,6 @@
           "alias": "\uc790\uad6c"
         }
       ]
-    },
-    {
-      "key": "queue",
-      "isMeta": false,
-      "bojTagId": 72,
-      "problemCount": 70,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud050",
-          "short": "\ud050"
-        },
-        {
-          "language": "en",
-          "name": "queue",
-          "short": "queue"
-        },
-        {
-          "language": "ja",
-          "name": "\u30ad\u30e5\u30fc",
-          "short": "\u30ad\u30e5\u30fc"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "tree_set",
@@ -131,20 +107,73 @@
       ]
     },
     {
-      "key": "set",
+      "key": "deque",
       "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1316,
+      "bojTagId": 73,
+      "problemCount": 142,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
+          "name": "\ub371",
+          "short": "\ub371"
         },
         {
           "language": "en",
-          "name": "set / map",
-          "short": "set"
+          "name": "deque",
+          "short": "deque"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
+          "short": "deque"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "queue",
+      "isMeta": false,
+      "bojTagId": 72,
+      "problemCount": 70,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud050",
+          "short": "\ud050"
+        },
+        {
+          "language": "en",
+          "name": "queue",
+          "short": "queue"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ad\u30e5\u30fc",
+          "short": "\u30ad\u30e5\u30fc"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "deque_trick",
+      "isMeta": false,
+      "bojTagId": 216,
+      "problemCount": 54,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub371\uc744 \uc774\uc6a9\ud55c \uad6c\uac04 \ucd5c\ub313\uac12 \ud2b8\ub9ad",
+          "short": "\ub371 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "deque range maximum trick",
+          "short": "deque rmq trick"
+        },
+        {
+          "language": "ja",
+          "name": "deque range maximum trick",
+          "short": "deque rmq trick"
         }
       ],
       "aliases": []

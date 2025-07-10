@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 8,
-  "level": 12,
-  "votedUserCount": 1,
+  "level": 14,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7369,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4524,
+      "problemCount": 4525,
       "displayNames": [
         {
           "language": "ko",
@@ -52,30 +76,6 @@
       ]
     },
     {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7368,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
@@ -100,38 +100,91 @@
       "aliases": []
     },
     {
-      "key": "precomputation",
+      "key": "segtree",
       "isMeta": false,
-      "bojTagId": 172,
-      "problemCount": 224,
+      "bojTagId": 65,
+      "problemCount": 1520,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac",
-          "short": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac"
+          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
         },
         {
           "language": "en",
-          "name": "precomputation",
-          "short": "precomputation"
+          "name": "segment tree",
+          "short": "segtree"
         },
         {
           "language": "ja",
-          "name": "\u4e8b\u524d\u8a08\u7b97",
-          "short": "\u4e8b\u524d\u8a08\u7b97"
+          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
+          "short": "\u30bb\u30b0\u6728"
         }
       ],
       "aliases": [
         {
-          "alias": "lookup table"
+          "alias": "\uad6c\uac04\ud2b8\ub9ac"
         },
         {
-          "alias": "db"
+          "alias": "\uc138\uadf8\ud2b8\ub9ac"
         },
         {
-          "alias": "database"
+          "alias": "fenwick"
+        },
+        {
+          "alias": "\ud39c\uc705"
         }
       ]
+    },
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1465,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1315,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "primality_test",
@@ -171,6 +224,40 @@
       ]
     },
     {
+      "key": "precomputation",
+      "isMeta": false,
+      "bojTagId": 172,
+      "problemCount": 224,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac",
+          "short": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "precomputation",
+          "short": "precomputation"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8b\u524d\u8a08\u7b97",
+          "short": "\u4e8b\u524d\u8a08\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "lookup table"
+        },
+        {
+          "alias": "db"
+        },
+        {
+          "alias": "database"
+        }
+      ]
+    },
+    {
       "key": "sieve",
       "isMeta": false,
       "bojTagId": 67,
@@ -206,6 +293,25 @@
           "alias": "prime"
         }
       ]
+    },
+    {
+      "key": "prime_factorization",
+      "isMeta": false,
+      "bojTagId": 242,
+      "problemCount": 76,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc18c\uc778\uc218\ubd84\ud574",
+          "short": "\uc18c\uc778\uc218\ubd84\ud574"
+        },
+        {
+          "language": "en",
+          "name": "prime factorization",
+          "short": "prime factorization"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
