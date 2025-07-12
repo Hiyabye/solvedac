@@ -13,77 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 11,
   "level": 19,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1,
   "official": true,
   "tags": [
-    {
-      "key": "combinatorics",
-      "isMeta": false,
-      "bojTagId": 6,
-      "problemCount": 1132,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc870\ud569\ub860",
-          "short": "\uc870\ud569\ub860"
-        },
-        {
-          "language": "en",
-          "name": "combinatorics",
-          "short": "combinatorics"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d44\u307f\u5408\u308f\u305b",
-          "short": "\u7d44\u307f\u5408\u308f\u305b"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "combination"
-        },
-        {
-          "alias": "permutation"
-        },
-        {
-          "alias": "probability"
-        },
-        {
-          "alias": "\ud655\ub960"
-        },
-        {
-          "alias": "\uc21c\uc5f4"
-        }
-      ]
-    },
-    {
-      "key": "linearity_of_expectation",
-      "isMeta": false,
-      "bojTagId": 179,
-      "problemCount": 88,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131",
-          "short": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131"
-        },
-        {
-          "language": "en",
-          "name": "linearity of expectation",
-          "short": "linearity of expectation"
-        },
-        {
-          "language": "ja",
-          "name": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027",
-          "short": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027"
-        }
-      ],
-      "aliases": []
-    },
     {
       "key": "math",
       "isMeta": false,
@@ -141,6 +77,30 @@
           "alias": "\uae30\ub313\uac12"
         }
       ]
+    },
+    {
+      "key": "linearity_of_expectation",
+      "isMeta": false,
+      "bojTagId": 179,
+      "problemCount": 88,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131",
+          "short": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131"
+        },
+        {
+          "language": "en",
+          "name": "linearity of expectation",
+          "short": "linearity of expectation"
+        },
+        {
+          "language": "ja",
+          "name": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027",
+          "short": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
