@@ -17,20 +17,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 28,
+  "acceptedUserCount": 34,
   "level": 21,
-  "votedUserCount": 14,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.0714,
+  "averageTries": 3.1471,
   "official": true,
   "tags": [
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4674,
+      "problemCount": 4676,
       "displayNames": [
         {
           "language": "ko",
@@ -64,7 +64,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4531,
+      "problemCount": 4533,
       "displayNames": [
         {
           "language": "ko",
@@ -95,7 +95,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2164,
+      "problemCount": 2166,
       "displayNames": [
         {
           "language": "ko",
@@ -119,7 +119,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1520,
+      "problemCount": 1521,
       "displayNames": [
         {
           "language": "ko",
@@ -156,7 +156,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1216,
+      "problemCount": 1217,
       "displayNames": [
         {
           "language": "ko",
@@ -190,7 +190,7 @@
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 600,
+      "problemCount": 603,
       "displayNames": [
         {
           "language": "ko",
@@ -213,53 +213,6 @@
           "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
         }
       ]
-    },
-    {
-      "key": "divide_and_conquer",
-      "isMeta": false,
-      "bojTagId": 24,
-      "problemCount": 467,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5",
-          "short": "\ubd84\ud560 \uc815\ubcf5"
-        },
-        {
-          "language": "en",
-          "name": "divide and conquer",
-          "short": "d&c"
-        },
-        {
-          "language": "ja",
-          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
-          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dnc"
-        }
-      ]
-    },
-    {
-      "key": "cdq",
-      "isMeta": false,
-      "bojTagId": 237,
-      "problemCount": 12,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "cdq \ubd84\ud560 \uc815\ubcf5",
-          "short": "cdq"
-        },
-        {
-          "language": "en",
-          "name": "cdq",
-          "short": "cdq"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
