@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 54,
   "level": 18,
-  "votedUserCount": 16,
+  "votedUserCount": 17,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7383,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4676,
+      "problemCount": 4678,
       "displayNames": [
         {
           "language": "ko",
@@ -55,110 +79,10 @@
       ]
     },
     {
-      "key": "flt",
-      "isMeta": false,
-      "bojTagId": 29,
-      "problemCount": 72,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac",
-          "short": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "fermat's little theorem",
-          "short": "fermat's little thm"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d5\u30a7\u30eb\u30de\u30fc\u306e\u5c0f\u5b9a\u7406",
-          "short": "\u30d5\u30a7\u30eb\u30de\u30fc"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "linearity_of_expectation",
-      "isMeta": false,
-      "bojTagId": 179,
-      "problemCount": 88,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131",
-          "short": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131"
-        },
-        {
-          "language": "en",
-          "name": "linearity of expectation",
-          "short": "linearity of expectation"
-        },
-        {
-          "language": "ja",
-          "name": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027",
-          "short": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7379,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "modular_multiplicative_inverse",
-      "isMeta": false,
-      "bojTagId": 164,
-      "problemCount": 160,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
-          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
-        },
-        {
-          "language": "en",
-          "name": "modular multiplicative inverse",
-          "short": "modular multiplicative inverse"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
-          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "modinv"
-        }
-      ]
-    },
-    {
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1704,
+      "problemCount": 1706,
       "displayNames": [
         {
           "language": "ko",
@@ -211,6 +135,82 @@
           "alias": "\uae30\ub313\uac12"
         }
       ]
+    },
+    {
+      "key": "modular_multiplicative_inverse",
+      "isMeta": false,
+      "bojTagId": 164,
+      "problemCount": 161,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
+          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
+        },
+        {
+          "language": "en",
+          "name": "modular multiplicative inverse",
+          "short": "modular multiplicative inverse"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
+          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "modinv"
+        }
+      ]
+    },
+    {
+      "key": "linearity_of_expectation",
+      "isMeta": false,
+      "bojTagId": 179,
+      "problemCount": 88,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131",
+          "short": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131"
+        },
+        {
+          "language": "en",
+          "name": "linearity of expectation",
+          "short": "linearity of expectation"
+        },
+        {
+          "language": "ja",
+          "name": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027",
+          "short": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "flt",
+      "isMeta": false,
+      "bojTagId": 29,
+      "problemCount": 72,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac",
+          "short": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "fermat's little theorem",
+          "short": "fermat's little thm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d5\u30a7\u30eb\u30de\u30fc\u306e\u5c0f\u5b9a\u7406",
+          "short": "\u30d5\u30a7\u30eb\u30de\u30fc"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
