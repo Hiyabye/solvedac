@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 437,
+  "acceptedUserCount": 438,
   "level": 13,
-  "votedUserCount": 38,
+  "votedUserCount": 39,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.4805,
+  "averageTries": 2.4772,
   "official": true,
   "tags": [
     {
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2165,
+      "problemCount": 2166,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 602,
+      "problemCount": 603,
       "displayNames": [
         {
           "language": "ko",
@@ -76,7 +76,7 @@
       "key": "coordinate_compression",
       "isMeta": false,
       "bojTagId": 161,
-      "problemCount": 271,
+      "problemCount": 272,
       "displayNames": [
         {
           "language": "ko",
@@ -99,6 +99,25 @@
           "alias": "zip"
         }
       ]
+    },
+    {
+      "key": "difference_array",
+      "isMeta": false,
+      "bojTagId": 239,
+      "problemCount": 51,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
+          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "difference array",
+          "short": "difference array"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
