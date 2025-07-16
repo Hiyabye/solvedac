@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 916,
   "level": 15,
-  "votedUserCount": 37,
+  "votedUserCount": 38,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -27,10 +27,34 @@
   "official": true,
   "tags": [
     {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6262,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "backtracking",
       "isMeta": false,
       "bojTagId": 5,
-      "problemCount": 607,
+      "problemCount": 608,
       "displayNames": [
         {
           "language": "ko",
@@ -59,30 +83,6 @@
           "alias": "\ud1f4\uac01 \uac80\uc0c9"
         }
       ]
-    },
-    {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6261,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
