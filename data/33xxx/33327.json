@@ -12,13 +12,112 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 0,
-  "level": 0,
-  "votedUserCount": 0,
+  "level": 26,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 0,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7388,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "combinatorics",
+      "isMeta": false,
+      "bojTagId": 6,
+      "problemCount": 1136,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc870\ud569\ub860",
+          "short": "\uc870\ud569\ub860"
+        },
+        {
+          "language": "en",
+          "name": "combinatorics",
+          "short": "combinatorics"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d44\u307f\u5408\u308f\u305b",
+          "short": "\u7d44\u307f\u5408\u308f\u305b"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "combination"
+        },
+        {
+          "alias": "permutation"
+        },
+        {
+          "alias": "probability"
+        },
+        {
+          "alias": "\ud655\ub960"
+        },
+        {
+          "alias": "\uc21c\uc5f4"
+        }
+      ]
+    },
+    {
+      "key": "fft",
+      "isMeta": false,
+      "bojTagId": 28,
+      "problemCount": 151,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uace0\uc18d \ud478\ub9ac\uc5d0 \ubcc0\ud658",
+          "short": "\uace0\uc18d \ud478\ub9ac\uc5d0 \ubcc0\ud658"
+        },
+        {
+          "language": "en",
+          "name": "fast fourier transform",
+          "short": "fft"
+        },
+        {
+          "language": "ja",
+          "name": "\u9ad8\u901f\u30d5\u30fc\u30ea\u30a8\u5909\u63db",
+          "short": "fft"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud478\ub9ac\uc5d0\ubcc0\ud658"
+        },
+        {
+          "alias": "\ucee8\ubcfc\ub8e8\uc158"
+        },
+        {
+          "alias": "convolution"
+        }
+      ]
+    }
+  ],
   "metadata": {}
 }
