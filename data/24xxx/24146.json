@@ -11,20 +11,44 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 42,
+  "acceptedUserCount": 43,
   "level": 13,
-  "votedUserCount": 11,
+  "votedUserCount": 12,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.8333,
+  "averageTries": 1.814,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7387,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4535,
+      "problemCount": 4539,
       "displayNames": [
         {
           "language": "ko",
@@ -52,25 +76,20 @@
       ]
     },
     {
-      "key": "math",
+      "key": "set",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7382,
+      "bojTagId": 225,
+      "problemCount": 1318,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "set / map",
+          "short": "set"
         }
       ],
       "aliases": []
@@ -79,7 +98,7 @@
       "key": "priority_queue",
       "isMeta": false,
       "bojTagId": 59,
-      "problemCount": 499,
+      "problemCount": 500,
       "displayNames": [
         {
           "language": "ko",
