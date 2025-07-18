@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 17723,
+  "acceptedUserCount": 17747,
   "level": 3,
   "votedUserCount": 107,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.9535,
+  "averageTries": 1.954,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7390,
+      "problemCount": 7394,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6262,
+      "problemCount": 6269,
       "displayNames": [
         {
           "language": "ko",
@@ -69,10 +69,34 @@
       "aliases": []
     },
     {
+      "key": "simulation",
+      "isMeta": false,
+      "bojTagId": 141,
+      "problemCount": 1244,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2dc\ubbac\ub808\uc774\uc158",
+          "short": "\uc2dc\ubbac\ub808\uc774\uc158"
+        },
+        {
+          "language": "en",
+          "name": "simulation",
+          "short": "simulation"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+          "short": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "arithmetic",
       "isMeta": false,
       "bojTagId": 121,
-      "problemCount": 1237,
+      "problemCount": 1238,
       "displayNames": [
         {
           "language": "ko",
@@ -116,30 +140,6 @@
           "alias": "\ub098\ub204\uae30"
         }
       ]
-    },
-    {
-      "key": "simulation",
-      "isMeta": false,
-      "bojTagId": 141,
-      "problemCount": 1244,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc2dc\ubbac\ub808\uc774\uc158",
-          "short": "\uc2dc\ubbac\ub808\uc774\uc158"
-        },
-        {
-          "language": "en",
-          "name": "simulation",
-          "short": "simulation"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
-          "short": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
