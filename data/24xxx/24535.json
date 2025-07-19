@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 22,
   "level": 16,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2519,
+      "problemCount": 2520,
       "displayNames": [
         {
           "language": "ko",
@@ -64,32 +64,23 @@
       ]
     },
     {
-      "key": "coordinate_compression",
+      "key": "set",
       "isMeta": false,
-      "bojTagId": 161,
-      "problemCount": 273,
+      "bojTagId": 225,
+      "problemCount": 1325,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
-          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
         },
         {
           "language": "en",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        },
-        {
-          "language": "ja",
-          "name": "value / coordinate compression",
-          "short": "compression"
+          "name": "set / map",
+          "short": "set"
         }
       ],
-      "aliases": [
-        {
-          "alias": "zip"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "prefix_sum",
@@ -150,6 +141,34 @@
       "aliases": [
         {
           "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
+        }
+      ]
+    },
+    {
+      "key": "coordinate_compression",
+      "isMeta": false,
+      "bojTagId": 161,
+      "problemCount": 273,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
+          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
+        },
+        {
+          "language": "en",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        },
+        {
+          "language": "ja",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "zip"
         }
       ]
     }
