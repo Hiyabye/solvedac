@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 32,
   "level": 18,
-  "votedUserCount": 12,
+  "votedUserCount": 13,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -49,34 +49,10 @@
       ]
     },
     {
-      "key": "manacher",
-      "isMeta": false,
-      "bojTagId": 44,
-      "problemCount": 31,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub9e4\ub0b4\ucc98",
-          "short": "\ub9e4\ub0b4\ucc98"
-        },
-        {
-          "language": "en",
-          "name": "manacher's",
-          "short": "manacher's"
-        },
-        {
-          "language": "ja",
-          "name": "manacher's",
-          "short": "manacher's"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2754,
+      "problemCount": 2755,
       "displayNames": [
         {
           "language": "ko",
@@ -99,6 +75,30 @@
           "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
+    },
+    {
+      "key": "manacher",
+      "isMeta": false,
+      "bojTagId": 44,
+      "problemCount": 31,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9e4\ub0b4\ucc98",
+          "short": "\ub9e4\ub0b4\ucc98"
+        },
+        {
+          "language": "en",
+          "name": "manacher's",
+          "short": "manacher's"
+        },
+        {
+          "language": "ja",
+          "name": "manacher's",
+          "short": "manacher's"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
