@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 145,
   "level": 15,
-  "votedUserCount": 31,
+  "votedUserCount": 32,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -27,35 +27,23 @@
   "official": true,
   "tags": [
     {
-      "key": "bitmask",
+      "key": "set",
       "isMeta": false,
-      "bojTagId": 14,
-      "problemCount": 878,
+      "bojTagId": 225,
+      "problemCount": 1329,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
-          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
         },
         {
           "language": "en",
-          "name": "bitmask",
-          "short": "bitmask"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
-          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+          "name": "set / map",
+          "short": "set"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\ube44\ud2b8\ud544\ub4dc"
-        },
-        {
-          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "prefix_sum",
@@ -90,6 +78,56 @@
           "alias": "rangesum"
         }
       ]
+    },
+    {
+      "key": "bitmask",
+      "isMeta": false,
+      "bojTagId": 14,
+      "problemCount": 878,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
+          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "bitmask",
+          "short": "bitmask"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
+          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ube44\ud2b8\ud544\ub4dc"
+        },
+        {
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+        }
+      ]
+    },
+    {
+      "key": "parity",
+      "isMeta": false,
+      "bojTagId": 230,
+      "problemCount": 81,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud640\uc9dd\uc131",
+          "short": "\ud640\uc9dd\uc131"
+        },
+        {
+          "language": "en",
+          "name": "parity",
+          "short": "parity"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

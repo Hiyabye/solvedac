@@ -11,49 +11,15 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 59,
+  "acceptedUserCount": 60,
   "level": 8,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.3729,
+  "averageTries": 1.3667,
   "official": true,
   "tags": [
-    {
-      "key": "backtracking",
-      "isMeta": false,
-      "bojTagId": 5,
-      "problemCount": 608,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubc31\ud2b8\ub798\ud0b9",
-          "short": "\ubc31\ud2b8\ub798\ud0b9"
-        },
-        {
-          "language": "en",
-          "name": "backtracking",
-          "short": "backtrack"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
-          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ubc31\ud2b8\ub798\ud0b9"
-        },
-        {
-          "alias": "\ud1f4\uac01\uac80\uc0c9"
-        },
-        {
-          "alias": "\ud1f4\uac01 \uac80\uc0c9"
-        }
-      ]
-    },
     {
       "key": "dp",
       "isMeta": false,
@@ -89,30 +55,6 @@
       ]
     },
     {
-      "key": "parsing",
-      "isMeta": false,
-      "bojTagId": 96,
-      "problemCount": 522,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud30c\uc2f1",
-          "short": "\ud30c\uc2f1"
-        },
-        {
-          "language": "en",
-          "name": "parsing",
-          "short": "parsing"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
-          "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
@@ -139,6 +81,64 @@
           "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
+    },
+    {
+      "key": "backtracking",
+      "isMeta": false,
+      "bojTagId": 5,
+      "problemCount": 608,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc31\ud2b8\ub798\ud0b9",
+          "short": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "backtracking",
+          "short": "backtrack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
+          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "alias": "\ud1f4\uac01\uac80\uc0c9"
+        },
+        {
+          "alias": "\ud1f4\uac01 \uac80\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "parsing",
+      "isMeta": false,
+      "bojTagId": 96,
+      "problemCount": 522,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud30c\uc2f1",
+          "short": "\ud30c\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "parsing",
+          "short": "parsing"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
+          "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

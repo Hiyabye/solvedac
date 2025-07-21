@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 30,
   "level": 17,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,35 +21,28 @@
   "official": true,
   "tags": [
     {
-      "key": "bitmask",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 14,
-      "problemCount": 878,
+      "bojTagId": 124,
+      "problemCount": 7396,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
-          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "bitmask",
-          "short": "bitmask"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
-          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\ube44\ud2b8\ud544\ub4dc"
-        },
-        {
-          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "dp",
@@ -82,6 +75,77 @@
         },
         {
           "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "combinatorics",
+      "isMeta": false,
+      "bojTagId": 6,
+      "problemCount": 1139,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc870\ud569\ub860",
+          "short": "\uc870\ud569\ub860"
+        },
+        {
+          "language": "en",
+          "name": "combinatorics",
+          "short": "combinatorics"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d44\u307f\u5408\u308f\u305b",
+          "short": "\u7d44\u307f\u5408\u308f\u305b"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "combination"
+        },
+        {
+          "alias": "permutation"
+        },
+        {
+          "alias": "probability"
+        },
+        {
+          "alias": "\ud655\ub960"
+        },
+        {
+          "alias": "\uc21c\uc5f4"
+        }
+      ]
+    },
+    {
+      "key": "bitmask",
+      "isMeta": false,
+      "bojTagId": 14,
+      "problemCount": 878,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
+          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "bitmask",
+          "short": "bitmask"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
+          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ube44\ud2b8\ud544\ub4dc"
+        },
+        {
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
         }
       ]
     },
@@ -123,7 +187,7 @@
       "key": "precomputation",
       "isMeta": false,
       "bojTagId": 172,
-      "problemCount": 224,
+      "problemCount": 223,
       "displayNames": [
         {
           "language": "ko",
@@ -152,6 +216,30 @@
           "alias": "database"
         }
       ]
+    },
+    {
+      "key": "inclusion_and_exclusion",
+      "isMeta": false,
+      "bojTagId": 38,
+      "problemCount": 199,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac",
+          "short": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "inclusion and exclusion",
+          "short": "inclusion and exclusion"
+        },
+        {
+          "language": "ja",
+          "name": "\u5305\u9664\u539f\u7406",
+          "short": "\u5305\u9664\u539f\u7406"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
