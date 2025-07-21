@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 148,
   "level": 4,
-  "votedUserCount": 16,
+  "votedUserCount": 17,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6270,
+      "problemCount": 6271,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2755,
+      "problemCount": 2756,
       "displayNames": [
         {
           "language": "ko",
@@ -71,6 +71,25 @@
           "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
+    },
+    {
+      "key": "parity",
+      "isMeta": false,
+      "bojTagId": 230,
+      "problemCount": 82,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud640\uc9dd\uc131",
+          "short": "\ud640\uc9dd\uc131"
+        },
+        {
+          "language": "en",
+          "name": "parity",
+          "short": "parity"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
