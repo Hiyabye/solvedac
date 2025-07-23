@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 14,
-  "level": 22,
-  "votedUserCount": 5,
+  "level": 23,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4552,
+      "problemCount": 4557,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3105,
+      "problemCount": 3106,
       "displayNames": [
         {
           "language": "ko",
@@ -80,52 +80,32 @@
       ]
     },
     {
-      "key": "hld",
+      "key": "trees",
       "isMeta": false,
-      "bojTagId": 35,
-      "problemCount": 94,
+      "bojTagId": 120,
+      "problemCount": 1715,
       "displayNames": [
         {
           "language": "ko",
-          "name": "Heavy-light \ubd84\ud560",
-          "short": "Heavy-light \ubd84\ud560"
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
         },
         {
           "language": "en",
-          "name": "heavy-light decomposition",
-          "short": "hld"
+          "name": "tree",
+          "short": "tree"
         },
         {
           "language": "ja",
-          "name": "heavy-light decomposition",
-          "short": "hld"
+          "name": "\u6728",
+          "short": "\u6728"
         }
       ],
-      "aliases": []
-    },
-    {
-      "key": "lca",
-      "isMeta": false,
-      "bojTagId": 41,
-      "problemCount": 201,
-      "displayNames": [
+      "aliases": [
         {
-          "language": "ko",
-          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
-          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
-        },
-        {
-          "language": "en",
-          "name": "lowest common ancestor",
-          "short": "lca"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
-          "short": "lca"
+          "alias": "trees"
         }
-      ],
-      "aliases": []
+      ]
     },
     {
       "key": "priority_queue",
@@ -159,6 +139,30 @@
       ]
     },
     {
+      "key": "lca",
+      "isMeta": false,
+      "bojTagId": 41,
+      "problemCount": 201,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
+          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
+        },
+        {
+          "language": "en",
+          "name": "lowest common ancestor",
+          "short": "lca"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
+          "short": "lca"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "sparse_table",
       "isMeta": false,
       "bojTagId": 84,
@@ -190,32 +194,28 @@
       ]
     },
     {
-      "key": "trees",
+      "key": "hld",
       "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1714,
+      "bojTagId": 35,
+      "problemCount": 94,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
+          "name": "Heavy-light \ubd84\ud560",
+          "short": "Heavy-light \ubd84\ud560"
         },
         {
           "language": "en",
-          "name": "tree",
-          "short": "tree"
+          "name": "heavy-light decomposition",
+          "short": "hld"
         },
         {
           "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
+          "name": "heavy-light decomposition",
+          "short": "hld"
         }
       ],
-      "aliases": [
-        {
-          "alias": "trees"
-        }
-      ]
+      "aliases": []
     }
   ],
   "metadata": {}
