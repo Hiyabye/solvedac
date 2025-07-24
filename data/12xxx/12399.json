@@ -12,13 +12,121 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 1,
-  "level": 0,
-  "votedUserCount": 0,
+  "level": 22,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4628,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2176,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "sweeping",
+      "isMeta": false,
+      "bojTagId": 106,
+      "problemCount": 603,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2a4\uc704\ud551",
+          "short": "\uc2a4\uc704\ud551"
+        },
+        {
+          "language": "en",
+          "name": "sweeping",
+          "short": "sweeping"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e73\u9762\u8d70\u67fb",
+          "short": "\u5e73\u9762\u8d70\u67fb"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
+        }
+      ]
+    },
+    {
+      "key": "bipartite_graph",
+      "isMeta": false,
+      "bojTagId": 197,
+      "problemCount": 84,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \uadf8\ub798\ud504",
+          "short": "\uc774\ubd84 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "bipartite graph",
+          "short": "bipartite graph"
+        },
+        {
+          "language": "ja",
+          "name": "2\u90e8\u30b0\u30e9\u30d5",
+          "short": "2\u90e8\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
+    }
+  ],
   "metadata": {}
 }
