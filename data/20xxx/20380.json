@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 16,
   "level": 10,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,62 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6272,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "linear_algebra",
-      "isMeta": false,
-      "bojTagId": 144,
-      "problemCount": 214,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc120\ud615\ub300\uc218\ud559",
-          "short": "\uc120\ud615\ub300\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "linear algebra",
-          "short": "linear algebra"
-        },
-        {
-          "language": "ja",
-          "name": "\u7dda\u5f62\u4ee3\u6570",
-          "short": "\u7dda\u4ee3"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc120\ud615\ub300\uc218"
-        }
-      ]
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7398,
+      "problemCount": 7399,
       "displayNames": [
         {
           "language": "ko",
@@ -97,10 +45,34 @@
       "aliases": []
     },
     {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6275,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2757,
+      "problemCount": 2758,
       "displayNames": [
         {
           "language": "ko",
@@ -121,6 +93,34 @@
       "aliases": [
         {
           "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
+      "key": "linear_algebra",
+      "isMeta": false,
+      "bojTagId": 144,
+      "problemCount": 215,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc120\ud615\ub300\uc218\ud559",
+          "short": "\uc120\ud615\ub300\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "linear algebra",
+          "short": "linear algebra"
+        },
+        {
+          "language": "ja",
+          "name": "\u7dda\u5f62\u4ee3\u6570",
+          "short": "\u7dda\u4ee3"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc120\ud615\ub300\uc218"
         }
       ]
     }
