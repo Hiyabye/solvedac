@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 3,
   "level": 17,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4557,
+      "problemCount": 4558,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3106,
+      "problemCount": 3107,
       "displayNames": [
         {
           "language": "ko",
@@ -80,34 +80,10 @@
       ]
     },
     {
-      "key": "queue",
-      "isMeta": false,
-      "bojTagId": 72,
-      "problemCount": 71,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud050",
-          "short": "\ud050"
-        },
-        {
-          "language": "en",
-          "name": "queue",
-          "short": "queue"
-        },
-        {
-          "language": "ja",
-          "name": "\u30ad\u30e5\u30fc",
-          "short": "\u30ad\u30e5\u30fc"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1526,
+      "problemCount": 1525,
       "displayNames": [
         {
           "language": "ko",
@@ -139,6 +115,30 @@
           "alias": "\ud39c\uc705"
         }
       ]
+    },
+    {
+      "key": "queue",
+      "isMeta": false,
+      "bojTagId": 72,
+      "problemCount": 71,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud050",
+          "short": "\ud050"
+        },
+        {
+          "language": "en",
+          "name": "queue",
+          "short": "queue"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ad\u30e5\u30fc",
+          "short": "\u30ad\u30e5\u30fc"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
