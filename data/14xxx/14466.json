@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 1494,
   "level": 13,
-  "votedUserCount": 57,
+  "votedUserCount": 58,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -92,7 +92,7 @@
       "key": "set",
       "isMeta": false,
       "bojTagId": 225,
-      "problemCount": 1338,
+      "problemCount": 1336,
       "displayNames": [
         {
           "language": "ko",
@@ -137,6 +137,25 @@
           "alias": "breadth first"
         }
       ]
+    },
+    {
+      "key": "grid_graph",
+      "isMeta": false,
+      "bojTagId": 221,
+      "problemCount": 159,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
+          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "grid graph",
+          "short": "grid graph"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
