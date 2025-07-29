@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 12,
   "level": 25,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4573,
+      "problemCount": 4576,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3115,
+      "problemCount": 3117,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +83,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1723,
+      "problemCount": 1722,
       "displayNames": [
         {
           "language": "ko",
@@ -104,6 +104,40 @@
       "aliases": [
         {
           "alias": "trees"
+        }
+      ]
+    },
+    {
+      "key": "prefix_sum",
+      "isMeta": false,
+      "bojTagId": 139,
+      "problemCount": 1223,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub204\uc801 \ud569",
+          "short": "\ub204\uc801 \ud569"
+        },
+        {
+          "language": "en",
+          "name": "prefix sum",
+          "short": "prefix sum"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d2f\u7a4d\u548c",
+          "short": "\u7d2f\u7a4d\u548c"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud569"
+        },
+        {
+          "alias": "\ubd80\ubd84\ud569"
+        },
+        {
+          "alias": "rangesum"
         }
       ]
     },

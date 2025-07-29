@@ -17,20 +17,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 5,
-  "level": 0,
-  "votedUserCount": 3,
+  "acceptedUserCount": 7,
+  "level": 25,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.2,
+  "averageTries": 4.5714,
   "official": true,
   "tags": [
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4698,
+      "problemCount": 4701,
       "displayNames": [
         {
           "language": "ko",
@@ -64,7 +64,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4638,
+      "problemCount": 4645,
       "displayNames": [
         {
           "language": "ko",
@@ -95,7 +95,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4573,
+      "problemCount": 4576,
       "displayNames": [
         {
           "language": "ko",
@@ -126,7 +126,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1939,
+      "problemCount": 1943,
       "displayNames": [
         {
           "language": "ko",
@@ -150,7 +150,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1723,
+      "problemCount": 1722,
       "displayNames": [
         {
           "language": "ko",
@@ -241,54 +241,6 @@
           "alias": "\ud2b8\ub9acdp"
         }
       ]
-    },
-    {
-      "key": "hld",
-      "isMeta": false,
-      "bojTagId": 35,
-      "problemCount": 95,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "Heavy-light \ubd84\ud560",
-          "short": "Heavy-light \ubd84\ud560"
-        },
-        {
-          "language": "en",
-          "name": "heavy-light decomposition",
-          "short": "hld"
-        },
-        {
-          "language": "ja",
-          "name": "heavy-light decomposition",
-          "short": "hld"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "tree_compression",
-      "isMeta": false,
-      "bojTagId": 193,
-      "problemCount": 23,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac \uc555\ucd95",
-          "short": "\ud2b8\ub9ac \uc555\ucd95"
-        },
-        {
-          "language": "en",
-          "name": "tree compression",
-          "short": "tree compression"
-        },
-        {
-          "language": "ja",
-          "name": "tree compression",
-          "short": "tree compression"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
