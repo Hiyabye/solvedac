@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 76,
   "level": 16,
-  "votedUserCount": 18,
+  "votedUserCount": 19,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,34 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "functional_graph",
-      "isMeta": false,
-      "bojTagId": 211,
-      "problemCount": 48,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud568\uc218\ud615 \uadf8\ub798\ud504",
-          "short": "\ud568\uc218\ud615 \uadf8\ub798\ud504"
-        },
-        {
-          "language": "en",
-          "name": "functional graph",
-          "short": "functional graph"
-        },
-        {
-          "language": "ja",
-          "name": "functional graph",
-          "short": "functional graph"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4641,
+      "problemCount": 4644,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +55,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2319,
+      "problemCount": 2320,
       "displayNames": [
         {
           "language": "ko",
@@ -105,6 +81,30 @@
           "alias": "dfs"
         }
       ]
+    },
+    {
+      "key": "functional_graph",
+      "isMeta": false,
+      "bojTagId": 211,
+      "problemCount": 48,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud568\uc218\ud615 \uadf8\ub798\ud504",
+          "short": "\ud568\uc218\ud615 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "functional graph",
+          "short": "functional graph"
+        },
+        {
+          "language": "ja",
+          "name": "functional graph",
+          "short": "functional graph"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

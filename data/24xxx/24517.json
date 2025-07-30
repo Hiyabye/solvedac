@@ -11,46 +11,15 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 57,
+  "acceptedUserCount": 58,
   "level": 17,
-  "votedUserCount": 20,
+  "votedUserCount": 21,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.4386,
+  "averageTries": 2.431,
   "official": true,
   "tags": [
-    {
-      "key": "bitmask",
-      "isMeta": false,
-      "bojTagId": 14,
-      "problemCount": 879,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
-          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
-        },
-        {
-          "language": "en",
-          "name": "bitmask",
-          "short": "bitmask"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
-          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ube44\ud2b8\ud544\ub4dc"
-        },
-        {
-          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
-        }
-      ]
-    },
     {
       "key": "dp",
       "isMeta": false,
@@ -86,36 +55,33 @@
       ]
     },
     {
-      "key": "dp_bitfield",
+      "key": "bitmask",
       "isMeta": false,
-      "bojTagId": 87,
-      "problemCount": 351,
+      "bojTagId": 14,
+      "problemCount": 879,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ube44\ud2b8\ud544\ub4dc\ub97c \uc774\uc6a9\ud55c \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ube44\ud2b8\ud544\ub4dc\ub97c \uc774\uc6a9\ud55c \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
+          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
         },
         {
           "language": "en",
-          "name": "dynamic programming using bitfield",
-          "short": "bitfield dp"
+          "name": "bitmask",
+          "short": "bitmask"
         },
         {
           "language": "ja",
-          "name": "\u30d3\u30c3\u30c8\u3092\u4f7f\u7528\u3057\u305f\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "\u30d3\u30c3\u30c8dp"
+          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
+          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
         }
       ],
       "aliases": [
         {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+          "alias": "\ube44\ud2b8\ud544\ub4dc"
         },
         {
           "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
-        },
-        {
-          "alias": "\ube44\ud2b8dp"
         }
       ]
     },
@@ -150,6 +116,40 @@
         },
         {
           "alias": "nim"
+        }
+      ]
+    },
+    {
+      "key": "dp_bitfield",
+      "isMeta": false,
+      "bojTagId": 87,
+      "problemCount": 351,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8\ud544\ub4dc\ub97c \uc774\uc6a9\ud55c \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ube44\ud2b8\ud544\ub4dc\ub97c \uc774\uc6a9\ud55c \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming using bitfield",
+          "short": "bitfield dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d3\u30c3\u30c8\u3092\u4f7f\u7528\u3057\u305f\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "\u30d3\u30c3\u30c8dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+        },
+        {
+          "alias": "\ube44\ud2b8dp"
         }
       ]
     }
