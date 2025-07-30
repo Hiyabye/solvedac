@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 11,
   "level": 20,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -30,7 +30,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4645,
+      "problemCount": 4644,
       "displayNames": [
         {
           "language": "ko",
@@ -61,7 +61,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4576,
+      "problemCount": 4577,
       "displayNames": [
         {
           "language": "ko",
@@ -151,7 +151,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 912,
+      "problemCount": 913,
       "displayNames": [
         {
           "language": "ko",
@@ -177,6 +177,30 @@
           "alias": "depthfirst"
         }
       ]
+    },
+    {
+      "key": "hashing",
+      "isMeta": false,
+      "bojTagId": 8,
+      "problemCount": 205,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574\uc2f1",
+          "short": "\ud574\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "hashing",
+          "short": "hash"
+        },
+        {
+          "language": "ja",
+          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
+          "short": "\u30cf\u30c3\u30b7\u30e5"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "lca",
