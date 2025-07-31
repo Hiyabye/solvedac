@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 8,
-  "level": 24,
-  "votedUserCount": 4,
+  "acceptedUserCount": 11,
+  "level": 25,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1,
+  "averageTries": 1.3636,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7413,
+      "problemCount": 7415,
       "displayNames": [
         {
           "language": "ko",
@@ -43,49 +43,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "bruteforcing",
-      "isMeta": false,
-      "bojTagId": 125,
-      "problemCount": 2529,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998",
-          "short": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998"
-        },
-        {
-          "language": "en",
-          "name": "bruteforcing",
-          "short": "bruteforce"
-        },
-        {
-          "language": "ja",
-          "name": "\u5168\u63a2\u7d22",
-          "short": "\u5168\u63a2\u7d22"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc644\uc804\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc644\uc804 \ud0d0\uc0c9"
-        },
-        {
-          "alias": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4"
-        },
-        {
-          "alias": "bruteforce"
-        },
-        {
-          "alias": "brute force"
-        },
-        {
-          "alias": "\uc644\ud0d0"
-        }
-      ]
     },
     {
       "key": "exponentiation_by_squaring",
@@ -123,64 +80,6 @@
           "alias": "square"
         }
       ]
-    },
-    {
-      "key": "precomputation",
-      "isMeta": false,
-      "bojTagId": 172,
-      "problemCount": 224,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac",
-          "short": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "precomputation",
-          "short": "precomputation"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8b\u524d\u8a08\u7b97",
-          "short": "\u4e8b\u524d\u8a08\u7b97"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "lookup table"
-        },
-        {
-          "alias": "db"
-        },
-        {
-          "alias": "database"
-        }
-      ]
-    },
-    {
-      "key": "hashing",
-      "isMeta": false,
-      "bojTagId": 8,
-      "problemCount": 205,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574\uc2f1",
-          "short": "\ud574\uc2f1"
-        },
-        {
-          "language": "en",
-          "name": "hashing",
-          "short": "hash"
-        },
-        {
-          "language": "ja",
-          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
-          "short": "\u30cf\u30c3\u30b7\u30e5"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
