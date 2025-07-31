@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 10,
-  "level": 28,
-  "votedUserCount": 4,
+  "level": 29,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6286,
+      "problemCount": 6284,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1825,
+      "problemCount": 1826,
       "displayNames": [
         {
           "language": "ko",
@@ -103,7 +103,7 @@
       "key": "set",
       "isMeta": false,
       "bojTagId": 225,
-      "problemCount": 1345,
+      "problemCount": 1348,
       "displayNames": [
         {
           "language": "ko",
@@ -184,7 +184,7 @@
       "key": "tree_set",
       "isMeta": false,
       "bojTagId": 74,
-      "problemCount": 530,
+      "problemCount": 529,
       "displayNames": [
         {
           "language": "ko",
@@ -255,6 +255,30 @@
           "language": "ja",
           "name": "\u76f4\u7dda\u306e\u4ea4\u70b9",
           "short": "\u76f4\u7dda\u306e\u4ea4\u70b9"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "point_in_convex_polygon",
+      "isMeta": false,
+      "bojTagId": 56,
+      "problemCount": 56,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubcfc\ub85d \ub2e4\uac01\ud615 \ub0b4\ubd80\uc758 \uc810 \ud310\uc815",
+          "short": "\ubcfc\ub85d \ub2e4\uac01\ud615 \ub0b4\ubd80\uc758 \uc810 \ud310\uc815"
+        },
+        {
+          "language": "en",
+          "name": "point in convex polygon check",
+          "short": "point in convex polygon check"
+        },
+        {
+          "language": "ja",
+          "name": "\u51f8\u591a\u89d2\u5f62\u306e\u70b9\u5305\u542b\u5224\u5b9a",
+          "short": "\u51f8\u591a\u89d2\u5f62\u306e\u70b9\u5305\u542b\u5224\u5b9a"
         }
       ],
       "aliases": []
