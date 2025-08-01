@@ -11,20 +11,44 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 2,
-  "level": 14,
-  "votedUserCount": 1,
+  "acceptedUserCount": 3,
+  "level": 16,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3,
+  "averageTries": 2.6667,
   "official": true,
   "tags": [
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2185,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1826,
+      "problemCount": 1827,
       "displayNames": [
         {
           "language": "ko",
@@ -40,6 +64,30 @@
           "language": "ja",
           "name": "\u5e7e\u4f55\u5b66",
           "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "line_intersection",
+      "isMeta": false,
+      "bojTagId": 42,
+      "problemCount": 159,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815",
+          "short": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815"
+        },
+        {
+          "language": "en",
+          "name": "line segment intersection check",
+          "short": "line segment intersection check"
+        },
+        {
+          "language": "ja",
+          "name": "\u76f4\u7dda\u306e\u4ea4\u70b9",
+          "short": "\u76f4\u7dda\u306e\u4ea4\u70b9"
         }
       ],
       "aliases": []
