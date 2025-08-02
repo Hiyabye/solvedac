@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 27,
   "level": 16,
-  "votedUserCount": 12,
+  "votedUserCount": 14,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2766,
+      "problemCount": 2765,
       "displayNames": [
         {
           "language": "ko",
@@ -52,7 +52,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1944,
+      "problemCount": 1945,
       "displayNames": [
         {
           "language": "ko",
@@ -105,6 +105,25 @@
           "alias": "\uad6c\uc131\uc801"
         }
       ]
+    },
+    {
+      "key": "lcs",
+      "isMeta": false,
+      "bojTagId": 219,
+      "problemCount": 22,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc7a5 \uacf5\ud1b5 \ubd80\ubd84 \uc218\uc5f4 \ubb38\uc81c",
+          "short": "\ucd5c\uc7a5 \uacf5\ud1b5 \ubd80\ubd84 \uc218\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "longest common subsequence",
+          "short": "lcs"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
