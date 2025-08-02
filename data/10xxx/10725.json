@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 79,
   "level": 13,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,44 +21,34 @@
   "official": true,
   "tags": [
     {
-      "key": "backtracking",
+      "key": "implementation",
       "isMeta": false,
-      "bojTagId": 5,
-      "problemCount": 610,
+      "bojTagId": 102,
+      "problemCount": 6286,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubc31\ud2b8\ub798\ud0b9",
-          "short": "\ubc31\ud2b8\ub798\ud0b9"
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
         },
         {
           "language": "en",
-          "name": "backtracking",
-          "short": "backtrack"
+          "name": "implementation",
+          "short": "impl"
         },
         {
           "language": "ja",
-          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
-          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\ubc31\ud2b8\ub798\ud0b9"
-        },
-        {
-          "alias": "\ud1f4\uac01\uac80\uc0c9"
-        },
-        {
-          "alias": "\ud1f4\uac01 \uac80\uc0c9"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2532,
+      "problemCount": 2533,
       "displayNames": [
         {
           "language": "ko",
@@ -98,10 +88,34 @@
       ]
     },
     {
+      "key": "simulation",
+      "isMeta": false,
+      "bojTagId": 141,
+      "problemCount": 1252,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2dc\ubbac\ub808\uc774\uc158",
+          "short": "\uc2dc\ubbac\ub808\uc774\uc158"
+        },
+        {
+          "language": "en",
+          "name": "simulation",
+          "short": "simulation"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+          "short": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 1056,
+      "problemCount": 1057,
       "displayNames": [
         {
           "language": "ko",
@@ -132,52 +146,38 @@
       ]
     },
     {
-      "key": "implementation",
+      "key": "backtracking",
       "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6284,
+      "bojTagId": 5,
+      "problemCount": 608,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
+          "name": "\ubc31\ud2b8\ub798\ud0b9",
+          "short": "\ubc31\ud2b8\ub798\ud0b9"
         },
         {
           "language": "en",
-          "name": "implementation",
-          "short": "impl"
+          "name": "backtracking",
+          "short": "backtrack"
         },
         {
           "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
+          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
+          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
         }
       ],
-      "aliases": []
-    },
-    {
-      "key": "simulation",
-      "isMeta": false,
-      "bojTagId": 141,
-      "problemCount": 1252,
-      "displayNames": [
+      "aliases": [
         {
-          "language": "ko",
-          "name": "\uc2dc\ubbac\ub808\uc774\uc158",
-          "short": "\uc2dc\ubbac\ub808\uc774\uc158"
+          "alias": "\ubc31\ud2b8\ub798\ud0b9"
         },
         {
-          "language": "en",
-          "name": "simulation",
-          "short": "simulation"
+          "alias": "\ud1f4\uac01\uac80\uc0c9"
         },
         {
-          "language": "ja",
-          "name": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
-          "short": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
+          "alias": "\ud1f4\uac01 \uac80\uc0c9"
         }
-      ],
-      "aliases": []
+      ]
     }
   ],
   "metadata": {}
