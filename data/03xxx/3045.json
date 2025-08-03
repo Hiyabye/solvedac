@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 203,
   "level": 18,
-  "votedUserCount": 24,
+  "votedUserCount": 25,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -58,6 +58,30 @@
       ]
     },
     {
+      "key": "lis",
+      "isMeta": false,
+      "bojTagId": 43,
+      "problemCount": 101,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4 \ubb38\uc81c",
+          "short": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "longest increasing sequence problem",
+          "short": "lis"
+        },
+        {
+          "language": "ja",
+          "name": "longest increasing sequence problem",
+          "short": "lis"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "linked_list",
       "isMeta": false,
       "bojTagId": 154,
@@ -84,30 +108,6 @@
           "alias": "\ub9c1\ud06c\ub4dc\ub9ac\uc2a4\ud2b8"
         }
       ]
-    },
-    {
-      "key": "lis",
-      "isMeta": false,
-      "bojTagId": 43,
-      "problemCount": 101,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4 \ubb38\uc81c",
-          "short": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "longest increasing sequence problem",
-          "short": "lis"
-        },
-        {
-          "language": "ja",
-          "name": "longest increasing sequence problem",
-          "short": "lis"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}

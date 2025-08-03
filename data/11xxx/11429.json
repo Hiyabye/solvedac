@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 35,
+  "acceptedUserCount": 36,
   "level": 16,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.2857,
+  "averageTries": 1.2778,
   "official": true,
   "tags": [
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4703,
+      "problemCount": 4702,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4644,
+      "problemCount": 4645,
       "displayNames": [
         {
           "language": "ko",
@@ -148,7 +148,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 913,
+      "problemCount": 914,
       "displayNames": [
         {
           "language": "ko",
@@ -202,6 +202,25 @@
           "alias": "\ud2b8\ub9acdp"
         }
       ]
+    },
+    {
+      "key": "tree_diameter",
+      "isMeta": false,
+      "bojTagId": 222,
+      "problemCount": 32,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\uc758 \uc9c0\ub984",
+          "short": "\ud2b8\ub9ac\uc758 \uc9c0\ub984"
+        },
+        {
+          "language": "en",
+          "name": "diameter of a tree",
+          "short": "tree diameter"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

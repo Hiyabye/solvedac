@@ -11,46 +11,71 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 16,
-  "level": 11,
-  "votedUserCount": 3,
+  "acceptedUserCount": 17,
+  "level": 12,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 5.0625,
+  "averageTries": 5.3529,
   "official": true,
   "tags": [
     {
-      "key": "backtracking",
+      "key": "graphs",
       "isMeta": false,
-      "bojTagId": 5,
-      "problemCount": 608,
+      "bojTagId": 7,
+      "problemCount": 4645,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubc31\ud2b8\ub798\ud0b9",
-          "short": "\ubc31\ud2b8\ub798\ud0b9"
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
         },
         {
           "language": "en",
-          "name": "backtracking",
-          "short": "backtrack"
+          "name": "graph theory",
+          "short": "graph"
         },
         {
           "language": "ja",
-          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
-          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
         }
       ],
       "aliases": [
         {
-          "alias": "\ubc31\ud2b8\ub798\ud0b9"
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
         },
         {
-          "alias": "\ud1f4\uac01\uac80\uc0c9"
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2766,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
         },
         {
-          "alias": "\ud1f4\uac01 \uac80\uc0c9"
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        },
+        {
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
     },
@@ -58,7 +83,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2533,
+      "problemCount": 2534,
       "displayNames": [
         {
           "language": "ko",
@@ -98,61 +123,6 @@
       ]
     },
     {
-      "key": "flood_fill",
-      "isMeta": false,
-      "bojTagId": 210,
-      "problemCount": 63,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud50c\ub7ec\ub4dc \ud544",
-          "short": "\ud50c\ub7ec\ub4dc \ud544"
-        },
-        {
-          "language": "en",
-          "name": "flood-fill",
-          "short": "ff"
-        },
-        {
-          "language": "ja",
-          "name": "flood-fill",
-          "short": "ff"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4644,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
@@ -184,56 +154,62 @@
       ]
     },
     {
-      "key": "parsing",
+      "key": "backtracking",
       "isMeta": false,
-      "bojTagId": 96,
-      "problemCount": 525,
+      "bojTagId": 5,
+      "problemCount": 608,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud30c\uc2f1",
-          "short": "\ud30c\uc2f1"
+          "name": "\ubc31\ud2b8\ub798\ud0b9",
+          "short": "\ubc31\ud2b8\ub798\ud0b9"
         },
         {
           "language": "en",
-          "name": "parsing",
-          "short": "parsing"
+          "name": "backtracking",
+          "short": "backtrack"
         },
         {
           "language": "ja",
-          "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
-          "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "string",
-      "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2765,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "string",
-          "short": "string"
-        },
-        {
-          "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
+          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
+          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc2a4\ud2b8\ub9c1"
+          "alias": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "alias": "\ud1f4\uac01\uac80\uc0c9"
+        },
+        {
+          "alias": "\ud1f4\uac01 \uac80\uc0c9"
         }
       ]
+    },
+    {
+      "key": "flood_fill",
+      "isMeta": false,
+      "bojTagId": 210,
+      "problemCount": 64,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud50c\ub7ec\ub4dc \ud544",
+          "short": "\ud50c\ub7ec\ub4dc \ud544"
+        },
+        {
+          "language": "en",
+          "name": "flood-fill",
+          "short": "ff"
+        },
+        {
+          "language": "ja",
+          "name": "flood-fill",
+          "short": "ff"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
