@@ -11,20 +11,44 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 14,
+  "acceptedUserCount": 15,
   "level": 22,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7857,
+  "averageTries": 1.7333,
   "official": true,
   "tags": [
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6289,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1830,
+      "problemCount": 1832,
       "displayNames": [
         {
           "language": "ko",
@@ -40,30 +64,6 @@
           "language": "ja",
           "name": "\u5e7e\u4f55\u5b66",
           "short": "\u5e7e\u4f55"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "rotating_calipers",
-      "isMeta": false,
-      "bojTagId": 64,
-      "problemCount": 36,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud68c\uc804\ud558\ub294 \uce98\ub9ac\ud37c\uc2a4",
-          "short": "\ud68c\uc804\ud558\ub294 \uce98\ub9ac\ud37c\uc2a4"
-        },
-        {
-          "language": "en",
-          "name": "rotating calipers",
-          "short": "rotating calipers"
-        },
-        {
-          "language": "ja",
-          "name": "rotating calipers",
-          "short": "rotating calipers"
         }
       ],
       "aliases": []
@@ -88,6 +88,30 @@
           "language": "ja",
           "name": "\u4e09\u5206\u63a2\u7d22",
           "short": "\u4e09\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "rotating_calipers",
+      "isMeta": false,
+      "bojTagId": 64,
+      "problemCount": 36,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud68c\uc804\ud558\ub294 \uce98\ub9ac\ud37c\uc2a4",
+          "short": "\ud68c\uc804\ud558\ub294 \uce98\ub9ac\ud37c\uc2a4"
+        },
+        {
+          "language": "en",
+          "name": "rotating calipers",
+          "short": "rotating calipers"
+        },
+        {
+          "language": "ja",
+          "name": "rotating calipers",
+          "short": "rotating calipers"
         }
       ],
       "aliases": []

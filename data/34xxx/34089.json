@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 11,
+  "acceptedUserCount": 12,
   "level": 22,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 14.6364,
+  "averageTries": 13.75,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4580,
+      "problemCount": 4581,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3120,
+      "problemCount": 3121,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +83,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2766,
+      "problemCount": 2767,
       "displayNames": [
         {
           "language": "ko",
@@ -145,10 +145,44 @@
       ]
     },
     {
+      "key": "case_work",
+      "isMeta": false,
+      "bojTagId": 137,
+      "problemCount": 1059,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
+          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
+        },
+        {
+          "language": "en",
+          "name": "case work",
+          "short": "case work"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
+          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucf00\uc774\uc2a4"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
+        }
+      ]
+    },
+    {
       "key": "hashing",
       "isMeta": false,
       "bojTagId": 8,
-      "problemCount": 204,
+      "problemCount": 203,
       "displayNames": [
         {
           "language": "ko",
@@ -191,6 +225,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "pst",
+      "isMeta": false,
+      "bojTagId": 55,
+      "problemCount": 56,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud37c\uc2dc\uc2a4\ud134\ud2b8 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\ud37c\uc2dc\uc2a4\ud134\ud2b8 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "persistent segment tree",
+          "short": "pst"
+        },
+        {
+          "language": "ja",
+          "name": "\u6c38\u7d9a\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
+          "short": "\u6c38\u7d9a\u30bb\u30b0\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud37c\uc2dc\uc2a4\ud134\ud2b8\uad6c\uac04\ud2b8\ub9ac"
+        },
+        {
+          "alias": "\uad6c\uac04\ud2b8\ub9ac"
+        },
+        {
+          "alias": "\ud37c\uc2dc\uc2a4\ud134\ud2b8\uc138\uadf8\ud2b8\ub9ac"
+        }
+      ]
     }
   ],
   "metadata": {}
