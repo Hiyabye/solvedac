@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 66,
   "level": 21,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,72 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "aho_corasick",
-      "isMeta": false,
-      "bojTagId": 2,
-      "problemCount": 34,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc544\ud638-\ucf54\ub77c\uc2dd",
-          "short": "\uc544\ud638-\ucf54\ub77c\uc2dd"
-        },
-        {
-          "language": "en",
-          "name": "aho-corasick",
-          "short": "aho-corasick"
-        },
-        {
-          "language": "ja",
-          "name": "\u30a2\u30db\u30b3\u30e9\u30b7\u30c3\u30af",
-          "short": "\u30a2\u30db\u30b3\u30e9\u30b7\u30c3\u30af"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc544\ud638\ucf54\ub77c\uc2dd"
-        },
-        {
-          "alias": "ahocorasick"
-        }
-      ]
-    },
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4581,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4706,
+      "problemCount": 4708,
       "displayNames": [
         {
           "language": "ko",
@@ -117,10 +55,41 @@
       ]
     },
     {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4585,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3121,
+      "problemCount": 3122,
       "displayNames": [
         {
           "language": "ko",
@@ -148,7 +117,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2767,
+      "problemCount": 2768,
       "displayNames": [
         {
           "language": "ko",
@@ -176,7 +145,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1723,
+      "problemCount": 1724,
       "displayNames": [
         {
           "language": "ko",
@@ -223,6 +192,37 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "aho_corasick",
+      "isMeta": false,
+      "bojTagId": 2,
+      "problemCount": 34,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc544\ud638-\ucf54\ub77c\uc2dd",
+          "short": "\uc544\ud638-\ucf54\ub77c\uc2dd"
+        },
+        {
+          "language": "en",
+          "name": "aho-corasick",
+          "short": "aho-corasick"
+        },
+        {
+          "language": "ja",
+          "name": "\u30a2\u30db\u30b3\u30e9\u30b7\u30c3\u30af",
+          "short": "\u30a2\u30db\u30b3\u30e9\u30b7\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc544\ud638\ucf54\ub77c\uc2dd"
+        },
+        {
+          "alias": "ahocorasick"
+        }
+      ]
     }
   ],
   "metadata": {}
