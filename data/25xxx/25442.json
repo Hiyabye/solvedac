@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 38,
   "level": 23,
-  "votedUserCount": 11,
+  "votedUserCount": 14,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -54,7 +54,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1480,
+      "problemCount": 1484,
       "displayNames": [
         {
           "language": "ko",
@@ -80,30 +80,6 @@
           "alias": "\uc774\uc9c4\ud0d0\uc0c9"
         }
       ]
-    },
-    {
-      "key": "heuristics",
-      "isMeta": false,
-      "bojTagId": 142,
-      "problemCount": 122,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud734\ub9ac\uc2a4\ud2f1",
-          "short": "\ud734\ub9ac\uc2a4\ud2f1"
-        },
-        {
-          "language": "en",
-          "name": "heuristics",
-          "short": "heuristics"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
-          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "parametric_search",
@@ -160,6 +136,30 @@
           "alias": "\ub79c\ub364"
         }
       ]
+    },
+    {
+      "key": "heuristics",
+      "isMeta": false,
+      "bojTagId": 142,
+      "problemCount": 122,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud734\ub9ac\uc2a4\ud2f1",
+          "short": "\ud734\ub9ac\uc2a4\ud2f1"
+        },
+        {
+          "language": "en",
+          "name": "heuristics",
+          "short": "heuristics"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
+          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
