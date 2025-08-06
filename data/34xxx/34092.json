@@ -17,20 +17,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 15,
-  "level": 20,
-  "votedUserCount": 9,
+  "acceptedUserCount": 17,
+  "level": 21,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 5.6,
+  "averageTries": 7.2353,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4647,
+      "problemCount": 4649,
       "displayNames": [
         {
           "language": "ko",
@@ -61,7 +61,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2322,
+      "problemCount": 2323,
       "displayNames": [
         {
           "language": "ko",
@@ -115,6 +115,30 @@
           "alias": "trees"
         }
       ]
+    },
+    {
+      "key": "lca",
+      "isMeta": false,
+      "bojTagId": 41,
+      "problemCount": 202,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
+          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
+        },
+        {
+          "language": "en",
+          "name": "lowest common ancestor",
+          "short": "lca"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
+          "short": "lca"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

@@ -21,36 +21,57 @@
   "official": true,
   "tags": [
     {
-      "key": "case_work",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 137,
-      "problemCount": 1061,
+      "bojTagId": 124,
+      "problemCount": 7427,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
-          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "case work",
-          "short": "case work"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
-          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4649,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
         }
       ],
       "aliases": [
         {
-          "alias": "\ucf00\uc774\uc2a4"
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
         },
         {
-          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
-        },
-        {
-          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
+          "alias": "\uadf8\ub798\ud504"
         }
       ]
     },
@@ -58,7 +79,7 @@
       "key": "combinatorics",
       "isMeta": false,
       "bojTagId": 6,
-      "problemCount": 1145,
+      "problemCount": 1147,
       "displayNames": [
         {
           "language": "ko",
@@ -95,59 +116,38 @@
       ]
     },
     {
-      "key": "graphs",
+      "key": "case_work",
       "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4647,
+      "bojTagId": 137,
+      "problemCount": 1059,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
+          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
         },
         {
           "language": "en",
-          "name": "graph theory",
-          "short": "graph"
+          "name": "case work",
+          "short": "case work"
         },
         {
           "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
+          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
+          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
         }
       ],
       "aliases": [
         {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+          "alias": "\ucf00\uc774\uc2a4"
         },
         {
-          "alias": "\uadf8\ub798\ud504"
+          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
         }
       ]
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7425,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
