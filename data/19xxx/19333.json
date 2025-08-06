@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 28,
   "level": 20,
-  "votedUserCount": 6,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4708,
+      "problemCount": 4707,
       "displayNames": [
         {
           "language": "ko",
@@ -83,32 +83,23 @@
       ]
     },
     {
-      "key": "offline_queries",
+      "key": "cdq",
       "isMeta": false,
-      "bojTagId": 123,
-      "problemCount": 325,
+      "bojTagId": 237,
+      "problemCount": 12,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
-          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+          "name": "cdq \ubd84\ud560 \uc815\ubcf5",
+          "short": "cdq"
         },
         {
           "language": "en",
-          "name": "offline queries",
-          "short": "offline query"
-        },
-        {
-          "language": "ja",
-          "name": "offline queries",
-          "short": "offline query"
+          "name": "cdq",
+          "short": "cdq"
         }
       ],
-      "aliases": [
-        {
-          "alias": "offlinequery"
-        }
-      ]
+      "aliases": []
     }
   ],
   "metadata": {}
