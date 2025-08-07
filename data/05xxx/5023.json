@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 5,
-  "level": 16,
-  "votedUserCount": 1,
+  "acceptedUserCount": 6,
+  "level": 17,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.2,
+  "averageTries": 1.1667,
   "official": true,
   "tags": [
     {
@@ -43,6 +43,96 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "probability",
+      "isMeta": false,
+      "bojTagId": 177,
+      "problemCount": 419,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\ub960\ub860",
+          "short": "\ud655\ub960\ub860"
+        },
+        {
+          "language": "en",
+          "name": "probability theory",
+          "short": "probability"
+        },
+        {
+          "language": "ja",
+          "name": "\u78ba\u7387\u8ad6",
+          "short": "\u78ba\u7387\u8ad6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "expected value"
+        },
+        {
+          "alias": "\uae30\ub300\uac12"
+        },
+        {
+          "alias": "\uae30\ub313\uac12"
+        }
+      ]
+    },
+    {
+      "key": "linear_algebra",
+      "isMeta": false,
+      "bojTagId": 144,
+      "problemCount": 216,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc120\ud615\ub300\uc218\ud559",
+          "short": "\uc120\ud615\ub300\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "linear algebra",
+          "short": "linear algebra"
+        },
+        {
+          "language": "ja",
+          "name": "\u7dda\u5f62\u4ee3\u6570",
+          "short": "\u7dda\u4ee3"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc120\ud615\ub300\uc218"
+        }
+      ]
+    },
+    {
+      "key": "bayes",
+      "isMeta": false,
+      "bojTagId": 114,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubca0\uc774\uc988 \uc815\ub9ac",
+          "short": "\ubca0\uc774\uc988 \uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "bayes theorem",
+          "short": "bayes thm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d9\u30a4\u30ba\u306e\u5b9a\u7406",
+          "short": "\u30d9\u30a4\u30ba"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc870\uac74\ubd80\ud655\ub960"
+        }
+      ]
     }
   ],
   "metadata": {}
