@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 192,
+  "acceptedUserCount": 199,
   "level": 12,
-  "votedUserCount": 14,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.0677,
+  "averageTries": 3.0452,
   "official": true,
   "tags": [
     {
@@ -58,7 +58,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4651,
+      "problemCount": 4655,
       "displayNames": [
         {
           "language": "ko",
@@ -86,35 +86,23 @@
       ]
     },
     {
-      "key": "graph_traversal",
+      "key": "grid_graph",
       "isMeta": false,
-      "bojTagId": 11,
-      "problemCount": 2324,
+      "bojTagId": 221,
+      "problemCount": 171,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
-          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
+          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
         },
         {
           "language": "en",
-          "name": "graph traversal",
-          "short": "traversal"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
-          "short": "\u6a2a\u65ad"
+          "name": "grid graph",
+          "short": "grid graph"
         }
       ],
-      "aliases": [
-        {
-          "alias": "bfs"
-        },
-        {
-          "alias": "dfs"
-        }
-      ]
+      "aliases": []
     }
   ],
   "metadata": {}

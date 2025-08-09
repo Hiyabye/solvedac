@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 6,
+  "acceptedUserCount": 7,
   "level": 27,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.6667,
+  "averageTries": 7.5714,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7427,
+      "problemCount": 7429,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1720,
+      "problemCount": 1719,
       "displayNames": [
         {
           "language": "ko",
@@ -67,6 +67,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "fft",
+      "isMeta": false,
+      "bojTagId": 28,
+      "problemCount": 153,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uace0\uc18d \ud478\ub9ac\uc5d0 \ubcc0\ud658",
+          "short": "\uace0\uc18d \ud478\ub9ac\uc5d0 \ubcc0\ud658"
+        },
+        {
+          "language": "en",
+          "name": "fast fourier transform",
+          "short": "fft"
+        },
+        {
+          "language": "ja",
+          "name": "\u9ad8\u901f\u30d5\u30fc\u30ea\u30a8\u5909\u63db",
+          "short": "fft"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud478\ub9ac\uc5d0\ubcc0\ud658"
+        },
+        {
+          "alias": "\ucee8\ubcfc\ub8e8\uc158"
+        },
+        {
+          "alias": "convolution"
+        }
+      ]
     }
   ],
   "metadata": {}
