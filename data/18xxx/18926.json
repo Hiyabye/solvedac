@@ -11,15 +11,46 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 46,
+  "acceptedUserCount": 47,
   "level": 23,
-  "votedUserCount": 15,
+  "votedUserCount": 16,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.1957,
+  "averageTries": 2.1702,
   "official": true,
   "tags": [
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4594,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
     {
       "key": "cht",
       "isMeta": false,
@@ -52,35 +83,23 @@
       ]
     },
     {
-      "key": "data_structures",
+      "key": "li_chao_tree",
       "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4590,
+      "bojTagId": 227,
+      "problemCount": 14,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
+          "name": "\ub9ac\u2013\ucc28\uc624 \ud2b8\ub9ac",
+          "short": "\ub9ac\u2013\ucc28\uc624"
         },
         {
           "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
+          "name": "li\u2013chao tree",
+          "short": "lichao"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
+      "aliases": []
     }
   ],
   "metadata": {}

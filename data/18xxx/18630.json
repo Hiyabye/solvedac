@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 20,
   "level": 27,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,96 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "game_theory",
-      "isMeta": false,
-      "bojTagId": 140,
-      "problemCount": 454,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac8c\uc784 \uc774\ub860",
-          "short": "\uac8c\uc784 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "game theory",
-          "short": "game theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b2\u30fc\u30e0\u7406\u8ad6",
-          "short": "\u30b2\u30fc\u30e0"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uac8c\uc784\uc774\ub860"
-        },
-        {
-          "alias": "\ub2d8"
-        },
-        {
-          "alias": "nim"
-        }
-      ]
-    },
-    {
-      "key": "gaussian_elimination",
-      "isMeta": false,
-      "bojTagId": 32,
-      "problemCount": 98,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95",
-          "short": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95"
-        },
-        {
-          "language": "en",
-          "name": "gaussian elimination",
-          "short": "gaussian elimination"
-        },
-        {
-          "language": "ja",
-          "name": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5",
-          "short": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "linear_algebra",
-      "isMeta": false,
-      "bojTagId": 144,
-      "problemCount": 216,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc120\ud615\ub300\uc218\ud559",
-          "short": "\uc120\ud615\ub300\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "linear algebra",
-          "short": "linear algebra"
-        },
-        {
-          "language": "ja",
-          "name": "\u7dda\u5f62\u4ee3\u6570",
-          "short": "\u7dda\u4ee3"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc120\ud615\ub300\uc218"
-        }
-      ]
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7434,
+      "problemCount": 7435,
       "displayNames": [
         {
           "language": "ko",
@@ -150,6 +64,92 @@
           "language": "ja",
           "name": "\u6574\u6570\u8ad6",
           "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "game_theory",
+      "isMeta": false,
+      "bojTagId": 140,
+      "problemCount": 455,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac8c\uc784 \uc774\ub860",
+          "short": "\uac8c\uc784 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "game theory",
+          "short": "game theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b2\u30fc\u30e0\u7406\u8ad6",
+          "short": "\u30b2\u30fc\u30e0"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uac8c\uc784\uc774\ub860"
+        },
+        {
+          "alias": "\ub2d8"
+        },
+        {
+          "alias": "nim"
+        }
+      ]
+    },
+    {
+      "key": "linear_algebra",
+      "isMeta": false,
+      "bojTagId": 144,
+      "problemCount": 216,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc120\ud615\ub300\uc218\ud559",
+          "short": "\uc120\ud615\ub300\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "linear algebra",
+          "short": "linear algebra"
+        },
+        {
+          "language": "ja",
+          "name": "\u7dda\u5f62\u4ee3\u6570",
+          "short": "\u7dda\u4ee3"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc120\ud615\ub300\uc218"
+        }
+      ]
+    },
+    {
+      "key": "gaussian_elimination",
+      "isMeta": false,
+      "bojTagId": 32,
+      "problemCount": 98,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95",
+          "short": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "gaussian elimination",
+          "short": "gaussian elimination"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5",
+          "short": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5"
         }
       ],
       "aliases": []
