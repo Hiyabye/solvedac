@@ -13,13 +13,44 @@
   "isPartial": false,
   "acceptedUserCount": 38,
   "level": 22,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2.8421,
   "official": true,
   "tags": [
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4660,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
     {
       "key": "flow",
       "isMeta": false,
@@ -73,40 +104,6 @@
       ]
     },
     {
-      "key": "hungarian",
-      "isMeta": false,
-      "bojTagId": 36,
-      "problemCount": 21,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud5dd\uac00\ub9ac\uc548",
-          "short": "\ud5dd\uac00\ub9ac\uc548"
-        },
-        {
-          "language": "en",
-          "name": "hungarian",
-          "short": "hungarian"
-        },
-        {
-          "language": "ja",
-          "name": "hungarian",
-          "short": "hungarian"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud5dd\uac00\ub9ac\uc548"
-        },
-        {
-          "alias": "assignment problem"
-        },
-        {
-          "alias": "weighted bipartite matching"
-        }
-      ]
-    },
-    {
       "key": "mcmf",
       "isMeta": false,
       "bojTagId": 48,
@@ -156,33 +153,36 @@
       ]
     },
     {
-      "key": "graphs",
+      "key": "hungarian",
       "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4658,
+      "bojTagId": 36,
+      "problemCount": 21,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+          "name": "\ud5dd\uac00\ub9ac\uc548",
+          "short": "\ud5dd\uac00\ub9ac\uc548"
         },
         {
           "language": "en",
-          "name": "graph theory",
-          "short": "graph"
+          "name": "hungarian",
+          "short": "hungarian"
         },
         {
           "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
+          "name": "hungarian",
+          "short": "hungarian"
         }
       ],
       "aliases": [
         {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+          "alias": "\ud5dd\uac00\ub9ac\uc548"
         },
         {
-          "alias": "\uadf8\ub798\ud504"
+          "alias": "assignment problem"
+        },
+        {
+          "alias": "weighted bipartite matching"
         }
       ]
     }
