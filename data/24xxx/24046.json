@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 37,
   "level": 16,
-  "votedUserCount": 15,
+  "votedUserCount": 16,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,25 +21,25 @@
   "official": true,
   "tags": [
     {
-      "key": "ad_hoc",
+      "key": "implementation",
       "isMeta": false,
-      "bojTagId": 109,
-      "problemCount": 1954,
+      "bojTagId": 102,
+      "problemCount": 6305,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc560\ub4dc \ud639",
-          "short": "\uc560\ub4dc \ud639"
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
         },
         {
           "language": "en",
-          "name": "ad-hoc",
-          "short": "ad-hoc"
+          "name": "implementation",
+          "short": "impl"
         },
         {
           "language": "ja",
-          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
-          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
         }
       ],
       "aliases": []
@@ -48,7 +48,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4603,
+      "problemCount": 4605,
       "displayNames": [
         {
           "language": "ko",
@@ -76,34 +76,10 @@
       ]
     },
     {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6305,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2194,
+      "problemCount": 2195,
       "displayNames": [
         {
           "language": "ko",
@@ -119,6 +95,30 @@
           "language": "ja",
           "name": "\u30bd\u30fc\u30c8",
           "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "ad_hoc",
+      "isMeta": false,
+      "bojTagId": 109,
+      "problemCount": 1955,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
+        },
+        {
+          "language": "en",
+          "name": "ad-hoc",
+          "short": "ad-hoc"
+        },
+        {
+          "language": "ja",
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
         }
       ],
       "aliases": []

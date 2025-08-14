@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 62,
   "level": 8,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6305,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4603,
+      "problemCount": 4605,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +79,7 @@
       "key": "deque",
       "isMeta": false,
       "bojTagId": 73,
-      "problemCount": 144,
+      "problemCount": 143,
       "displayNames": [
         {
           "language": "ko",
@@ -71,30 +95,6 @@
           "language": "ja",
           "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
           "short": "deque"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6305,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
         }
       ],
       "aliases": []
