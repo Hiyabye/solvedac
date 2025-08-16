@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 122,
+  "acceptedUserCount": 123,
   "level": 17,
-  "votedUserCount": 32,
+  "votedUserCount": 33,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7049,
+  "averageTries": 1.7073,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4663,
+      "problemCount": 4664,
       "displayNames": [
         {
           "language": "ko",
@@ -83,10 +83,34 @@
       ]
     },
     {
+      "key": "shortest_path",
+      "isMeta": false,
+      "bojTagId": 215,
+      "problemCount": 907,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
+          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "shortest path",
+          "short": "shortest path"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u77ed\u7d4c\u8def",
+          "short": "\u6700\u77ed\u7d4c\u8def"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "floyd_warshall",
       "isMeta": false,
       "bojTagId": 31,
-      "problemCount": 185,
+      "problemCount": 184,
       "displayNames": [
         {
           "language": "ko",
