@@ -11,15 +11,34 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 108,
+  "acceptedUserCount": 110,
   "level": 16,
-  "votedUserCount": 28,
+  "votedUserCount": 29,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.8611,
+  "averageTries": 1.8545,
   "official": true,
   "tags": [
+    {
+      "key": "traceback",
+      "isMeta": false,
+      "bojTagId": 235,
+      "problemCount": 113,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc5ed\ucd94\uc801",
+          "short": "\uc5ed\ucd94\uc801"
+        },
+        {
+          "language": "en",
+          "name": "traceback",
+          "short": "traceback"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "lis",
       "isMeta": false,
@@ -45,20 +64,20 @@
       "aliases": []
     },
     {
-      "key": "traceback",
+      "key": "lcs",
       "isMeta": false,
-      "bojTagId": 235,
-      "problemCount": 113,
+      "bojTagId": 219,
+      "problemCount": 25,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc5ed\ucd94\uc801",
-          "short": "\uc5ed\ucd94\uc801"
+          "name": "\ucd5c\uc7a5 \uacf5\ud1b5 \ubd80\ubd84 \uc218\uc5f4 \ubb38\uc81c",
+          "short": "\ucd5c\uc7a5 \uacf5\ud1b5 \ubd80\ubd84 \uc218\uc5f4"
         },
         {
           "language": "en",
-          "name": "traceback",
-          "short": "traceback"
+          "name": "longest common subsequence",
+          "short": "lcs"
         }
       ],
       "aliases": []
