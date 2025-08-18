@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 80,
   "level": 18,
-  "votedUserCount": 19,
+  "votedUserCount": 20,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,41 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "binary_search",
-      "isMeta": false,
-      "bojTagId": 12,
-      "problemCount": 1490,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\uc774\ubd84 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "binary search",
-          "short": "binary search"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u5206\u63a2\u7d22",
-          "short": "\u4e8c\u5206\u63a2\u7d22"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc774\ubd84\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
-        }
-      ]
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7442,
+      "problemCount": 7440,
       "displayNames": [
         {
           "language": "ko",
@@ -71,6 +40,30 @@
           "language": "ja",
           "name": "\u6570\u5b66",
           "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2200,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
         }
       ],
       "aliases": []
@@ -100,30 +93,33 @@
       "aliases": []
     },
     {
-      "key": "offline_queries",
+      "key": "binary_search",
       "isMeta": false,
-      "bojTagId": 123,
-      "problemCount": 329,
+      "bojTagId": 12,
+      "problemCount": 1491,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
-          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "offline queries",
-          "short": "offline query"
+          "name": "binary search",
+          "short": "binary search"
         },
         {
           "language": "ja",
-          "name": "offline queries",
-          "short": "offline query"
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
         }
       ],
       "aliases": [
         {
-          "alias": "offlinequery"
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
         }
       ]
     },
@@ -165,6 +161,34 @@
       ]
     },
     {
+      "key": "offline_queries",
+      "isMeta": false,
+      "bojTagId": 123,
+      "problemCount": 329,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
+          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "offline queries",
+          "short": "offline query"
+        },
+        {
+          "language": "ja",
+          "name": "offline queries",
+          "short": "offline query"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "offlinequery"
+        }
+      ]
+    },
+    {
       "key": "sieve",
       "isMeta": false,
       "bojTagId": 67,
@@ -200,30 +224,6 @@
           "alias": "prime"
         }
       ]
-    },
-    {
-      "key": "sorting",
-      "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2196,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}

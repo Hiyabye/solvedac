@@ -11,20 +11,72 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 55,
+  "acceptedUserCount": 56,
   "level": 7,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.8182,
+  "averageTries": 2.7857,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7440,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 3144,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
     {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2546,
+      "problemCount": 2545,
       "displayNames": [
         {
           "language": "ko",
@@ -64,81 +116,25 @@
       ]
     },
     {
-      "key": "euclidean",
+      "key": "sorting",
       "isMeta": false,
-      "bojTagId": 26,
-      "problemCount": 236,
+      "bojTagId": 97,
+      "problemCount": 2200,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95",
-          "short": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95"
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
         },
         {
           "language": "en",
-          "name": "euclidean algorithm",
-          "short": "euclidean algorithm"
+          "name": "sorting",
+          "short": "sorting"
         },
         {
           "language": "ja",
-          "name": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
-          "short": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
-        }
-      ]
-    },
-    {
-      "key": "greedy",
-      "isMeta": false,
-      "bojTagId": 33,
-      "problemCount": 3141,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
-          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
-        },
-        {
-          "language": "en",
-          "name": "greedy",
-          "short": "greedy"
-        },
-        {
-          "language": "ja",
-          "name": "\u8caa\u6b32\u6cd5",
-          "short": "\u8caa\u6b32\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud0d0\uc695\ubc95"
-        }
-      ]
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7442,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
         }
       ],
       "aliases": []
@@ -168,28 +164,32 @@
       "aliases": []
     },
     {
-      "key": "sorting",
+      "key": "euclidean",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2196,
+      "bojTagId": 26,
+      "problemCount": 236,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95",
+          "short": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
+          "name": "euclidean algorithm",
+          "short": "euclidean algorithm"
         },
         {
           "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
+          "short": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
+        }
+      ]
     }
   ],
   "metadata": {}
