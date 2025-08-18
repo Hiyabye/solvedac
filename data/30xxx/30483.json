@@ -13,44 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 19,
   "level": 23,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 4.2105,
   "official": true,
   "tags": [
-    {
-      "key": "binary_search",
-      "isMeta": false,
-      "bojTagId": 12,
-      "problemCount": 1490,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\uc774\ubd84 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "binary search",
-          "short": "binary search"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u5206\u63a2\u7d22",
-          "short": "\u4e8c\u5206\u63a2\u7d22"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc774\ubd84\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
-        }
-      ]
-    },
     {
       "key": "geometry",
       "isMeta": false,
@@ -76,28 +45,35 @@
       "aliases": []
     },
     {
-      "key": "half_plane_intersection",
+      "key": "binary_search",
       "isMeta": false,
-      "bojTagId": 190,
-      "problemCount": 38,
+      "bojTagId": 12,
+      "problemCount": 1491,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubc18\ud3c9\uba74 \uad50\uc9d1\ud569",
-          "short": "\ubc18\ud3c9\uba74 \uad50\uc9d1\ud569"
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "half plane intersection",
-          "short": "hpi"
+          "name": "binary search",
+          "short": "binary search"
         },
         {
           "language": "ja",
-          "name": "half plane intersection",
-          "short": "hpi"
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
     },
     {
       "key": "parametric_search",
@@ -126,6 +102,30 @@
           "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
         }
       ]
+    },
+    {
+      "key": "half_plane_intersection",
+      "isMeta": false,
+      "bojTagId": 190,
+      "problemCount": 38,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc18\ud3c9\uba74 \uad50\uc9d1\ud569",
+          "short": "\ubc18\ud3c9\uba74 \uad50\uc9d1\ud569"
+        },
+        {
+          "language": "en",
+          "name": "half plane intersection",
+          "short": "hpi"
+        },
+        {
+          "language": "ja",
+          "name": "half plane intersection",
+          "short": "hpi"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

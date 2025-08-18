@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 25,
   "level": 18,
-  "votedUserCount": 13,
+  "votedUserCount": 14,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,38 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "coordinate_compression",
-      "isMeta": false,
-      "bojTagId": 161,
-      "problemCount": 282,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
-          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
-        },
-        {
-          "language": "en",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        },
-        {
-          "language": "ja",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "zip"
-        }
-      ]
-    },
-    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4607,
+      "problemCount": 4612,
       "displayNames": [
         {
           "language": "ko",
@@ -80,44 +52,34 @@
       ]
     },
     {
-      "key": "prefix_sum",
+      "key": "sorting",
       "isMeta": false,
-      "bojTagId": 139,
-      "problemCount": 1232,
+      "bojTagId": 97,
+      "problemCount": 2200,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub204\uc801 \ud569",
-          "short": "\ub204\uc801 \ud569"
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
         },
         {
           "language": "en",
-          "name": "prefix sum",
-          "short": "prefix sum"
+          "name": "sorting",
+          "short": "sorting"
         },
         {
           "language": "ja",
-          "name": "\u7d2f\u7a4d\u548c",
-          "short": "\u7d2f\u7a4d\u548c"
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uad6c\uac04\ud569"
-        },
-        {
-          "alias": "\ubd80\ubd84\ud569"
-        },
-        {
-          "alias": "rangesum"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1543,
+      "problemCount": 1545,
       "displayNames": [
         {
           "language": "ko",
@@ -151,28 +113,66 @@
       ]
     },
     {
-      "key": "sorting",
+      "key": "prefix_sum",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2198,
+      "bojTagId": 139,
+      "problemCount": 1233,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\ub204\uc801 \ud569",
+          "short": "\ub204\uc801 \ud569"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
+          "name": "prefix sum",
+          "short": "prefix sum"
         },
         {
           "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "\u7d2f\u7a4d\u548c",
+          "short": "\u7d2f\u7a4d\u548c"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud569"
+        },
+        {
+          "alias": "\ubd80\ubd84\ud569"
+        },
+        {
+          "alias": "rangesum"
+        }
+      ]
+    },
+    {
+      "key": "coordinate_compression",
+      "isMeta": false,
+      "bojTagId": 161,
+      "problemCount": 282,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
+          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
+        },
+        {
+          "language": "en",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        },
+        {
+          "language": "ja",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "zip"
+        }
+      ]
     }
   ],
   "metadata": {}
