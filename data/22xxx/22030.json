@@ -19,44 +19,13 @@
   "isPartial": false,
   "acceptedUserCount": 9,
   "level": 30,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 4.1111,
   "official": true,
   "tags": [
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4612,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
     {
       "key": "dp",
       "isMeta": false,
@@ -95,7 +64,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4662,
+      "problemCount": 4663,
       "displayNames": [
         {
           "language": "ko",
@@ -123,28 +92,35 @@
       ]
     },
     {
-      "key": "monotone_queue_optimization",
+      "key": "data_structures",
       "isMeta": false,
-      "bojTagId": 165,
-      "problemCount": 14,
+      "bojTagId": 175,
+      "problemCount": 4612,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub2e8\uc870 \ud050\ub97c \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
-          "short": "\ub2e8\uc870 \ud050\ub97c \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
         },
         {
           "language": "en",
-          "name": "monotone queue optimization",
-          "short": "monotone queue optimization"
+          "name": "data structures",
+          "short": "ds"
         },
         {
           "language": "ja",
-          "name": "monotone queue optimization",
-          "short": "monotone queue optimization"
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
     },
     {
       "key": "segtree",
@@ -239,20 +215,25 @@
       ]
     },
     {
-      "key": "set",
+      "key": "monotone_queue_optimization",
       "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1373,
+      "bojTagId": 165,
+      "problemCount": 14,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
+          "name": "\ub2e8\uc870 \ud050\ub97c \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
+          "short": "\ub2e8\uc870 \ud050\ub97c \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
         },
         {
           "language": "en",
-          "name": "set / map",
-          "short": "set"
+          "name": "monotone queue optimization",
+          "short": "monotone queue optimization"
+        },
+        {
+          "language": "ja",
+          "name": "monotone queue optimization",
+          "short": "monotone queue optimization"
         }
       ],
       "aliases": []
