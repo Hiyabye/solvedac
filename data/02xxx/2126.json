@@ -19,44 +19,13 @@
   "isPartial": false,
   "acceptedUserCount": 152,
   "level": 18,
-  "votedUserCount": 26,
+  "votedUserCount": 27,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2.9868,
   "official": true,
   "tags": [
-    {
-      "key": "binary_search",
-      "isMeta": false,
-      "bojTagId": 12,
-      "problemCount": 1490,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\uc774\ubd84 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "binary search",
-          "short": "binary search"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u5206\u63a2\u7d22",
-          "short": "\u4e8c\u5206\u63a2\u7d22"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc774\ubd84\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
-        }
-      ]
-    },
     {
       "key": "graphs",
       "isMeta": false,
@@ -89,28 +58,35 @@
       ]
     },
     {
-      "key": "mst",
+      "key": "binary_search",
       "isMeta": false,
-      "bojTagId": 49,
-      "problemCount": 235,
+      "bojTagId": 12,
+      "problemCount": 1490,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ucd5c\uc18c \uc2a4\ud328\ub2dd \ud2b8\ub9ac",
-          "short": "\ucd5c\uc18c \uc2a4\ud328\ub2dd \ud2b8\ub9ac"
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "minimum spanning tree",
-          "short": "mst"
+          "name": "binary search",
+          "short": "binary search"
         },
         {
           "language": "ja",
-          "name": "\u6700\u5c0f\u5168\u57df\u6728",
-          "short": "\u6700\u5c0f\u5168\u57df\u6728"
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
     },
     {
       "key": "parametric_search",
@@ -139,6 +115,30 @@
           "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
         }
       ]
+    },
+    {
+      "key": "mst",
+      "isMeta": false,
+      "bojTagId": 49,
+      "problemCount": 235,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uc2a4\ud328\ub2dd \ud2b8\ub9ac",
+          "short": "\ucd5c\uc18c \uc2a4\ud328\ub2dd \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "minimum spanning tree",
+          "short": "mst"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5c0f\u5168\u57df\u6728",
+          "short": "\u6700\u5c0f\u5168\u57df\u6728"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
