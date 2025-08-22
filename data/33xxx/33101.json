@@ -13,61 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 5,
   "level": 22,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2,
   "official": true,
   "tags": [
-    {
-      "key": "dag",
-      "isMeta": false,
-      "bojTagId": 213,
-      "problemCount": 283,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
-          "short": "dag"
-        },
-        {
-          "language": "en",
-          "name": "directed acyclic graph",
-          "short": "dag"
-        },
-        {
-          "language": "ja",
-          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
-          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "dominator_tree",
-      "isMeta": false,
-      "bojTagId": 135,
-      "problemCount": 9,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub3c4\ubbf8\ub124\uc774\ud130 \ud2b8\ub9ac",
-          "short": "\ub3c4\ubbf8\ub124\uc774\ud130 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "dominator tree",
-          "short": "dominator tree"
-        },
-        {
-          "language": "ja",
-          "name": "dominator tree",
-          "short": "dominator tree"
-        }
-      ],
-      "aliases": []
-    },
     {
       "key": "graphs",
       "isMeta": false,
@@ -126,6 +78,54 @@
           "alias": "trees"
         }
       ]
+    },
+    {
+      "key": "dag",
+      "isMeta": false,
+      "bojTagId": 213,
+      "problemCount": 282,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
+          "short": "dag"
+        },
+        {
+          "language": "en",
+          "name": "directed acyclic graph",
+          "short": "dag"
+        },
+        {
+          "language": "ja",
+          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
+          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "dominator_tree",
+      "isMeta": false,
+      "bojTagId": 135,
+      "problemCount": 9,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub3c4\ubbf8\ub124\uc774\ud130 \ud2b8\ub9ac",
+          "short": "\ub3c4\ubbf8\ub124\uc774\ud130 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "dominator tree",
+          "short": "dominator tree"
+        },
+        {
+          "language": "ja",
+          "name": "dominator tree",
+          "short": "dominator tree"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

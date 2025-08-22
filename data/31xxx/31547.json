@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 6,
-  "level": 26,
-  "votedUserCount": 5,
+  "level": 27,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,188 +21,58 @@
   "official": true,
   "tags": [
     {
-      "key": "ad_hoc",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 109,
-      "problemCount": 1962,
+      "bojTagId": 124,
+      "problemCount": 7454,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc560\ub4dc \ud639",
-          "short": "\uc560\ub4dc \ud639"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "ad-hoc",
-          "short": "ad-hoc"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
-          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
       "aliases": []
     },
     {
-      "key": "combinatorics",
+      "key": "implementation",
       "isMeta": false,
-      "bojTagId": 6,
-      "problemCount": 1152,
+      "bojTagId": 102,
+      "problemCount": 6324,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc870\ud569\ub860",
-          "short": "\uc870\ud569\ub860"
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
         },
         {
           "language": "en",
-          "name": "combinatorics",
-          "short": "combinatorics"
+          "name": "implementation",
+          "short": "impl"
         },
         {
           "language": "ja",
-          "name": "\u7d44\u307f\u5408\u308f\u305b",
-          "short": "\u7d44\u307f\u5408\u308f\u305b"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "combination"
-        },
-        {
-          "alias": "permutation"
-        },
-        {
-          "alias": "probability"
-        },
-        {
-          "alias": "\ud655\ub960"
-        },
-        {
-          "alias": "\uc21c\uc5f4"
-        }
-      ]
-    },
-    {
-      "key": "dag",
-      "isMeta": false,
-      "bojTagId": 213,
-      "problemCount": 283,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
-          "short": "dag"
-        },
-        {
-          "language": "en",
-          "name": "directed acyclic graph",
-          "short": "dag"
-        },
-        {
-          "language": "ja",
-          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
-          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4615,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
-      "key": "dfs",
-      "isMeta": false,
-      "bojTagId": 127,
-      "problemCount": 918,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "depth-first search",
-          "short": "dfs"
-        },
-        {
-          "language": "ja",
-          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
-          "short": "dfs"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "depth first"
-        },
-        {
-          "alias": "depthfirst"
-        }
-      ]
-    },
-    {
-      "key": "differential_cryptanalysis",
-      "isMeta": false,
-      "bojTagId": 185,
-      "problemCount": 10,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucc28\ubd84 \uacf5\uaca9",
-          "short": "\ucc28\ubd84 \uacf5\uaca9"
-        },
-        {
-          "language": "en",
-          "name": "differential cryptanalysis",
-          "short": "differential cryptanalysis"
-        },
-        {
-          "language": "ja",
-          "name": "differential cryptanalysis",
-          "short": "differential cryptanalysis"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dc"
-        }
-      ]
     },
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4722,
+      "problemCount": 4725,
       "displayNames": [
         {
           "language": "ko",
@@ -229,40 +99,6 @@
         },
         {
           "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
-    {
-      "key": "game_theory",
-      "isMeta": false,
-      "bojTagId": 140,
-      "problemCount": 458,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac8c\uc784 \uc774\ub860",
-          "short": "\uac8c\uc784 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "game theory",
-          "short": "game theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b2\u30fc\u30e0\u7406\u8ad6",
-          "short": "\u30b2\u30fc\u30e0"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uac8c\uc784\uc774\ub860"
-        },
-        {
-          "alias": "\ub2d8"
-        },
-        {
-          "alias": "nim"
         }
       ]
     },
@@ -298,6 +134,37 @@
       ]
     },
     {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4616,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
@@ -329,114 +196,34 @@
       ]
     },
     {
-      "key": "implementation",
+      "key": "ad_hoc",
       "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6320,
+      "bojTagId": 109,
+      "problemCount": 1966,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
         },
         {
           "language": "en",
-          "name": "implementation",
-          "short": "impl"
+          "name": "ad-hoc",
+          "short": "ad-hoc"
         },
         {
           "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "linear_algebra",
-      "isMeta": false,
-      "bojTagId": 144,
-      "problemCount": 216,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc120\ud615\ub300\uc218\ud559",
-          "short": "\uc120\ud615\ub300\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "linear algebra",
-          "short": "linear algebra"
-        },
-        {
-          "language": "ja",
-          "name": "\u7dda\u5f62\u4ee3\u6570",
-          "short": "\u7dda\u4ee3"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc120\ud615\ub300\uc218"
-        }
-      ]
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7445,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "modular_multiplicative_inverse",
-      "isMeta": false,
-      "bojTagId": 164,
-      "problemCount": 167,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
-          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
-        },
-        {
-          "language": "en",
-          "name": "modular multiplicative inverse",
-          "short": "modular multiplicative inverse"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
-          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "modinv"
-        }
-      ]
     },
     {
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1724,
+      "problemCount": 1725,
       "displayNames": [
         {
           "language": "ko",
@@ -455,74 +242,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "precomputation",
-      "isMeta": false,
-      "bojTagId": 172,
-      "problemCount": 225,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac",
-          "short": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "precomputation",
-          "short": "precomputation"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8b\u524d\u8a08\u7b97",
-          "short": "\u4e8b\u524d\u8a08\u7b97"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "lookup table"
-        },
-        {
-          "alias": "db"
-        },
-        {
-          "alias": "database"
-        }
-      ]
-    },
-    {
-      "key": "probability",
-      "isMeta": false,
-      "bojTagId": 177,
-      "problemCount": 423,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud655\ub960\ub860",
-          "short": "\ud655\ub960\ub860"
-        },
-        {
-          "language": "en",
-          "name": "probability theory",
-          "short": "probability"
-        },
-        {
-          "language": "ja",
-          "name": "\u78ba\u7387\u8ad6",
-          "short": "\u78ba\u7387\u8ad6"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "expected value"
-        },
-        {
-          "alias": "\uae30\ub300\uac12"
-        },
-        {
-          "alias": "\uae30\ub313\uac12"
-        }
-      ]
     },
     {
       "key": "segtree",
@@ -562,10 +281,287 @@
       ]
     },
     {
+      "key": "combinatorics",
+      "isMeta": false,
+      "bojTagId": 6,
+      "problemCount": 1155,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc870\ud569\ub860",
+          "short": "\uc870\ud569\ub860"
+        },
+        {
+          "language": "en",
+          "name": "combinatorics",
+          "short": "combinatorics"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d44\u307f\u5408\u308f\u305b",
+          "short": "\u7d44\u307f\u5408\u308f\u305b"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "combination"
+        },
+        {
+          "alias": "permutation"
+        },
+        {
+          "alias": "probability"
+        },
+        {
+          "alias": "\ud655\ub960"
+        },
+        {
+          "alias": "\uc21c\uc5f4"
+        }
+      ]
+    },
+    {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 919,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
+    },
+    {
+      "key": "game_theory",
+      "isMeta": false,
+      "bojTagId": 140,
+      "problemCount": 459,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac8c\uc784 \uc774\ub860",
+          "short": "\uac8c\uc784 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "game theory",
+          "short": "game theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b2\u30fc\u30e0\u7406\u8ad6",
+          "short": "\u30b2\u30fc\u30e0"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uac8c\uc784\uc774\ub860"
+        },
+        {
+          "alias": "\ub2d8"
+        },
+        {
+          "alias": "nim"
+        }
+      ]
+    },
+    {
+      "key": "probability",
+      "isMeta": false,
+      "bojTagId": 177,
+      "problemCount": 423,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\ub960\ub860",
+          "short": "\ud655\ub960\ub860"
+        },
+        {
+          "language": "en",
+          "name": "probability theory",
+          "short": "probability"
+        },
+        {
+          "language": "ja",
+          "name": "\u78ba\u7387\u8ad6",
+          "short": "\u78ba\u7387\u8ad6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "expected value"
+        },
+        {
+          "alias": "\uae30\ub300\uac12"
+        },
+        {
+          "alias": "\uae30\ub313\uac12"
+        }
+      ]
+    },
+    {
+      "key": "dag",
+      "isMeta": false,
+      "bojTagId": 213,
+      "problemCount": 282,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
+          "short": "dag"
+        },
+        {
+          "language": "en",
+          "name": "directed acyclic graph",
+          "short": "dag"
+        },
+        {
+          "language": "ja",
+          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
+          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "precomputation",
+      "isMeta": false,
+      "bojTagId": 172,
+      "problemCount": 225,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac",
+          "short": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "precomputation",
+          "short": "precomputation"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8b\u524d\u8a08\u7b97",
+          "short": "\u4e8b\u524d\u8a08\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "lookup table"
+        },
+        {
+          "alias": "db"
+        },
+        {
+          "alias": "database"
+        }
+      ]
+    },
+    {
+      "key": "topological_sorting",
+      "isMeta": false,
+      "bojTagId": 78,
+      "problemCount": 218,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc704\uc0c1 \uc815\ub82c",
+          "short": "\uc704\uc0c1 \uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "topological sorting",
+          "short": "topological sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8",
+          "short": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "linear_algebra",
+      "isMeta": false,
+      "bojTagId": 144,
+      "problemCount": 216,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc120\ud615\ub300\uc218\ud559",
+          "short": "\uc120\ud615\ub300\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "linear algebra",
+          "short": "linear algebra"
+        },
+        {
+          "language": "ja",
+          "name": "\u7dda\u5f62\u4ee3\u6570",
+          "short": "\u7dda\u4ee3"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc120\ud615\ub300\uc218"
+        }
+      ]
+    },
+    {
+      "key": "modular_multiplicative_inverse",
+      "isMeta": false,
+      "bojTagId": 164,
+      "problemCount": 167,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
+          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
+        },
+        {
+          "language": "en",
+          "name": "modular multiplicative inverse",
+          "short": "modular multiplicative inverse"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
+          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "modinv"
+        }
+      ]
+    },
+    {
       "key": "sprague_grundy",
       "isMeta": false,
       "bojTagId": 70,
-      "problemCount": 116,
+      "problemCount": 117,
       "displayNames": [
         {
           "language": "ko",
@@ -593,28 +589,51 @@
       ]
     },
     {
-      "key": "topological_sorting",
+      "key": "difference_array",
       "isMeta": false,
-      "bojTagId": 78,
-      "problemCount": 218,
+      "bojTagId": 239,
+      "problemCount": 63,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc704\uc0c1 \uc815\ub82c",
-          "short": "\uc704\uc0c1 \uc815\ub82c"
+          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
+          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
         },
         {
           "language": "en",
-          "name": "topological sorting",
-          "short": "topological sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8",
-          "short": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8"
+          "name": "difference array",
+          "short": "difference array"
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "differential_cryptanalysis",
+      "isMeta": false,
+      "bojTagId": 185,
+      "problemCount": 10,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\ubd84 \uacf5\uaca9",
+          "short": "\ucc28\ubd84 \uacf5\uaca9"
+        },
+        {
+          "language": "en",
+          "name": "differential cryptanalysis",
+          "short": "differential cryptanalysis"
+        },
+        {
+          "language": "ja",
+          "name": "differential cryptanalysis",
+          "short": "differential cryptanalysis"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dc"
+        }
+      ]
     }
   ],
   "metadata": {}
