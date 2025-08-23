@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 11,
   "level": 26,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,121 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "centroid",
-      "isMeta": false,
-      "bojTagId": 188,
-      "problemCount": 112,
-      "displayNames": [
-        {
-          "language": "en",
-          "name": "centroid",
-          "short": "centroid"
-        },
-        {
-          "language": "ko",
-          "name": "\uc13c\ud2b8\ub85c\uc774\ub4dc",
-          "short": "\uc13c\ud2b8\ub85c\uc774\ub4dc"
-        },
-        {
-          "language": "ja",
-          "name": "centroid",
-          "short": "centroid"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "centroid_decomposition",
-      "isMeta": false,
-      "bojTagId": 18,
-      "problemCount": 86,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc13c\ud2b8\ub85c\uc774\ub4dc \ubd84\ud560",
-          "short": "\uc13c\ud2b8\ub85c\uc774\ub4dc \ubd84\ud560"
-        },
-        {
-          "language": "en",
-          "name": "centroid decomposition",
-          "short": "centroid decomposition"
-        },
-        {
-          "language": "ja",
-          "name": "centroid decomposition",
-          "short": "centroid decomposition"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc13c\ud2b8\ub85c\uc774\ub4dc"
-        }
-      ]
-    },
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4616,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
-      "key": "divide_and_conquer",
-      "isMeta": false,
-      "bojTagId": 24,
-      "problemCount": 468,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5",
-          "short": "\ubd84\ud560 \uc815\ubcf5"
-        },
-        {
-          "language": "en",
-          "name": "divide and conquer",
-          "short": "d&c"
-        },
-        {
-          "language": "ja",
-          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
-          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dnc"
-        }
-      ]
-    },
-    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4725,
+      "problemCount": 4728,
       "displayNames": [
         {
           "language": "ko",
@@ -166,62 +55,41 @@
       ]
     },
     {
-      "key": "dp_tree",
+      "key": "data_structures",
       "isMeta": false,
-      "bojTagId": 92,
-      "problemCount": 536,
+      "bojTagId": 175,
+      "problemCount": 4617,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
         },
         {
           "language": "en",
-          "name": "dynamic programming on trees",
-          "short": "tree dp"
+          "name": "data structures",
+          "short": "ds"
         },
         {
           "language": "ja",
-          "name": "\u6728\u4e0a\u306e\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "tree dp"
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
         }
       ],
       "aliases": [
         {
-          "alias": "\ud2b8\ub9acdp"
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
         }
       ]
-    },
-    {
-      "key": "lca",
-      "isMeta": false,
-      "bojTagId": 41,
-      "problemCount": 203,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
-          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
-        },
-        {
-          "language": "en",
-          "name": "lowest common ancestor",
-          "short": "lca"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
-          "short": "lca"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1729,
+      "problemCount": 1730,
       "displayNames": [
         {
           "language": "ko",
@@ -242,6 +110,53 @@
       "aliases": [
         {
           "alias": "trees"
+        }
+      ]
+    },
+    {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1378,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "dp_tree",
+      "isMeta": false,
+      "bojTagId": 92,
+      "problemCount": 537,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming on trees",
+          "short": "tree dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728\u4e0a\u306e\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "tree dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud2b8\ub9acdp"
         }
       ]
     },
@@ -301,23 +216,108 @@
       ]
     },
     {
-      "key": "set",
+      "key": "divide_and_conquer",
       "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1378,
+      "bojTagId": 24,
+      "problemCount": 469,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
         },
         {
           "language": "en",
-          "name": "set / map",
-          "short": "set"
+          "name": "divide and conquer",
+          "short": "d&c"
+        },
+        {
+          "language": "ja",
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dnc"
+        }
+      ]
+    },
+    {
+      "key": "lca",
+      "isMeta": false,
+      "bojTagId": 41,
+      "problemCount": 203,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
+          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
+        },
+        {
+          "language": "en",
+          "name": "lowest common ancestor",
+          "short": "lca"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
+          "short": "lca"
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "centroid",
+      "isMeta": false,
+      "bojTagId": 188,
+      "problemCount": 112,
+      "displayNames": [
+        {
+          "language": "en",
+          "name": "centroid",
+          "short": "centroid"
+        },
+        {
+          "language": "ko",
+          "name": "\uc13c\ud2b8\ub85c\uc774\ub4dc",
+          "short": "\uc13c\ud2b8\ub85c\uc774\ub4dc"
+        },
+        {
+          "language": "ja",
+          "name": "centroid",
+          "short": "centroid"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "centroid_decomposition",
+      "isMeta": false,
+      "bojTagId": 18,
+      "problemCount": 86,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc13c\ud2b8\ub85c\uc774\ub4dc \ubd84\ud560",
+          "short": "\uc13c\ud2b8\ub85c\uc774\ub4dc \ubd84\ud560"
+        },
+        {
+          "language": "en",
+          "name": "centroid decomposition",
+          "short": "centroid decomposition"
+        },
+        {
+          "language": "ja",
+          "name": "centroid decomposition",
+          "short": "centroid decomposition"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc13c\ud2b8\ub85c\uc774\ub4dc"
+        }
+      ]
     }
   ],
   "metadata": {}

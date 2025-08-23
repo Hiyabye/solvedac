@@ -11,20 +11,44 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 21,
+  "acceptedUserCount": 22,
   "level": 21,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.5238,
+  "averageTries": 2.5,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7457,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4725,
+      "problemCount": 4728,
       "displayNames": [
         {
           "language": "ko",
@@ -55,10 +79,71 @@
       ]
     },
     {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1726,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "primality_test",
+      "isMeta": false,
+      "bojTagId": 9,
+      "problemCount": 369,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc18c\uc218 \ud310\uc815",
+          "short": "\uc18c\uc218 \ud310\uc815"
+        },
+        {
+          "language": "en",
+          "name": "primality test",
+          "short": "primality test"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8",
+          "short": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc18c\uc218"
+        },
+        {
+          "alias": "\uc18c\uc218\ud310\ubcc4"
+        },
+        {
+          "alias": "\uc18c\uc218\ud310\uc815"
+        },
+        {
+          "alias": "prime"
+        }
+      ]
+    },
+    {
       "key": "recursion",
       "isMeta": false,
       "bojTagId": 62,
-      "problemCount": 294,
+      "problemCount": 293,
       "displayNames": [
         {
           "language": "ko",
@@ -74,6 +159,25 @@
           "language": "ja",
           "name": "\u518d\u5e30",
           "short": "\u518d\u5e30"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "traceback",
+      "isMeta": false,
+      "bojTagId": 235,
+      "problemCount": 114,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc5ed\ucd94\uc801",
+          "short": "\uc5ed\ucd94\uc801"
+        },
+        {
+          "language": "en",
+          "name": "traceback",
+          "short": "traceback"
         }
       ],
       "aliases": []
