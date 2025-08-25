@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 213,
   "level": 22,
-  "votedUserCount": 62,
+  "votedUserCount": 63,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7460,
+      "problemCount": 7472,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1726,
+      "problemCount": 1730,
       "displayNames": [
         {
           "language": "ko",
@@ -72,7 +72,7 @@
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 1067,
+      "problemCount": 1071,
       "displayNames": [
         {
           "language": "ko",
@@ -143,7 +143,7 @@
       "key": "prime_factorization",
       "isMeta": false,
       "bojTagId": 242,
-      "problemCount": 87,
+      "problemCount": 88,
       "displayNames": [
         {
           "language": "ko",
@@ -154,30 +154,6 @@
           "language": "en",
           "name": "prime factorization",
           "short": "prime factorization"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "pollard_rho",
-      "isMeta": false,
-      "bojTagId": 58,
-      "problemCount": 29,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud3f4\ub77c\ub4dc \ub85c",
-          "short": "\ud3f4\ub77c\ub4dc \ub85c"
-        },
-        {
-          "language": "en",
-          "name": "pollard rho",
-          "short": "pollard rho"
-        },
-        {
-          "language": "ja",
-          "name": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc\u7d20\u56e0\u6570\u5206\u89e3\u6cd5",
-          "short": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc"
         }
       ],
       "aliases": []
@@ -202,6 +178,30 @@
           "language": "ja",
           "name": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3\u7d20\u6570\u5224\u5b9a\u6cd5",
           "short": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "pollard_rho",
+      "isMeta": false,
+      "bojTagId": 58,
+      "problemCount": 29,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud3f4\ub77c\ub4dc \ub85c",
+          "short": "\ud3f4\ub77c\ub4dc \ub85c"
+        },
+        {
+          "language": "en",
+          "name": "pollard rho",
+          "short": "pollard rho"
+        },
+        {
+          "language": "ja",
+          "name": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc\u7d20\u56e0\u6570\u5206\u89e3\u6cd5",
+          "short": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc"
         }
       ],
       "aliases": []
