@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 264,
   "level": 7,
-  "votedUserCount": 14,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6328,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4623,
+      "problemCount": 4629,
       "displayNames": [
         {
           "language": "ko",
@@ -52,10 +76,53 @@
       ]
     },
     {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2204,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1384,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "hash_set",
       "isMeta": false,
       "bojTagId": 136,
-      "problemCount": 788,
+      "problemCount": 787,
       "displayNames": [
         {
           "language": "ko",
@@ -107,58 +174,10 @@
       ]
     },
     {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6325,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "sorting",
-      "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2204,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "tree_set",
       "isMeta": false,
       "bojTagId": 74,
-      "problemCount": 528,
+      "problemCount": 529,
       "displayNames": [
         {
           "language": "ko",
@@ -208,25 +227,6 @@
           "alias": "tree"
         }
       ]
-    },
-    {
-      "key": "set",
-      "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1380,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map",
-          "short": "set"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}

@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 12,
   "level": 8,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,28 +21,35 @@
   "official": true,
   "tags": [
     {
-      "key": "ad_hoc",
+      "key": "graphs",
       "isMeta": false,
-      "bojTagId": 109,
-      "problemCount": 1972,
+      "bojTagId": 7,
+      "problemCount": 4673,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc560\ub4dc \ud639",
-          "short": "\uc560\ub4dc \ud639"
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
         },
         {
           "language": "en",
-          "name": "ad-hoc",
-          "short": "ad-hoc"
+          "name": "graph theory",
+          "short": "graph"
         },
         {
           "language": "ja",
-          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
-          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
     },
     {
       "key": "greedy",
@@ -71,6 +78,30 @@
           "alias": "\ud0d0\uc695\ubc95"
         }
       ]
+    },
+    {
+      "key": "ad_hoc",
+      "isMeta": false,
+      "bojTagId": 109,
+      "problemCount": 1974,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
+        },
+        {
+          "language": "en",
+          "name": "ad-hoc",
+          "short": "ad-hoc"
+        },
+        {
+          "language": "ja",
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

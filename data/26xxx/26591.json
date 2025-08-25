@@ -13,9 +13,9 @@
   "isPartial": false,
   "acceptedUserCount": 16,
   "level": 12,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
-  "givesNoRating": true,
+  "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.25,
   "official": true,
@@ -24,7 +24,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4671,
+      "problemCount": 4673,
       "displayNames": [
         {
           "language": "ko",
@@ -135,11 +135,6 @@
     }
   ],
   "metadata": {
-    "warn": [
-      {
-        "type": "wrong-inputs",
-        "data": "https://www.acmicpc.net/board/view/131166"
-      }
-    ]
+    "warn": []
   }
 }

@@ -11,14 +11,189 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 1,
-  "level": 0,
-  "votedUserCount": 0,
+  "acceptedUserCount": 3,
+  "level": 30,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1,
+  "averageTries": 16,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7475,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1731,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "linear_algebra",
+      "isMeta": false,
+      "bojTagId": 144,
+      "problemCount": 218,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc120\ud615\ub300\uc218\ud559",
+          "short": "\uc120\ud615\ub300\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "linear algebra",
+          "short": "linear algebra"
+        },
+        {
+          "language": "ja",
+          "name": "\u7dda\u5f62\u4ee3\u6570",
+          "short": "\u7dda\u4ee3"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc120\ud615\ub300\uc218"
+        }
+      ]
+    },
+    {
+      "key": "bitset",
+      "isMeta": false,
+      "bojTagId": 152,
+      "problemCount": 110,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8 \uc9d1\ud569",
+          "short": "\ube44\ud2b8 \uc9d1\ud569"
+        },
+        {
+          "language": "en",
+          "name": "bit set",
+          "short": "bit set"
+        },
+        {
+          "language": "ja",
+          "name": "bit set",
+          "short": "bit set"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bitset"
+        },
+        {
+          "alias": "\ube44\ud2b8\uc14b"
+        }
+      ]
+    },
+    {
+      "key": "permutation_cycle_decomposition",
+      "isMeta": false,
+      "bojTagId": 171,
+      "problemCount": 107,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560",
+          "short": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560"
+        },
+        {
+          "language": "en",
+          "name": "permutation cycle decomposition",
+          "short": "permutation cycle decomposition"
+        },
+        {
+          "language": "ja",
+          "name": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3",
+          "short": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "gaussian_elimination",
+      "isMeta": false,
+      "bojTagId": 32,
+      "problemCount": 100,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95",
+          "short": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "gaussian elimination",
+          "short": "gaussian elimination"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5",
+          "short": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "xor_basis",
+      "isMeta": false,
+      "bojTagId": 236,
+      "problemCount": 12,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc30\ud0c0\uc801 \ub17c\ub9ac\ud569 \uae30\uc800 (gf(2))",
+          "short": "\ubc30\ud0c0\uc801 \ub17c\ub9ac\ud569 \uae30\uc800"
+        },
+        {
+          "language": "en",
+          "name": "xor basis (gf(2))",
+          "short": "xor basis"
+        }
+      ],
+      "aliases": []
+    }
+  ],
   "metadata": {}
 }
