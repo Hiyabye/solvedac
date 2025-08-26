@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 826,
+  "acceptedUserCount": 830,
   "level": 16,
-  "votedUserCount": 46,
+  "votedUserCount": 47,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 7.2264,
+  "averageTries": 7.2289,
   "official": true,
   "tags": [
     {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6326,
+      "problemCount": 6328,
       "displayNames": [
         {
           "language": "ko",
@@ -40,6 +40,30 @@
           "language": "ja",
           "name": "\u5b9f\u88c5",
           "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1850,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
         }
       ],
       "aliases": []
@@ -64,6 +88,30 @@
           "language": "ja",
           "name": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
           "short": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "line_intersection",
+      "isMeta": false,
+      "bojTagId": 42,
+      "problemCount": 160,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815",
+          "short": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815"
+        },
+        {
+          "language": "en",
+          "name": "line segment intersection check",
+          "short": "line segment intersection check"
+        },
+        {
+          "language": "ja",
+          "name": "\u76f4\u7dda\u306e\u4ea4\u70b9",
+          "short": "\u76f4\u7dda\u306e\u4ea4\u70b9"
         }
       ],
       "aliases": []
