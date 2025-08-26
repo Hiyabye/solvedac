@@ -11,51 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 329,
+  "acceptedUserCount": 331,
   "level": 11,
-  "votedUserCount": 30,
+  "votedUserCount": 31,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.459,
+  "averageTries": 3.4441,
   "official": true,
   "tags": [
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4628,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4673,
+      "problemCount": 4676,
       "displayNames": [
         {
           "language": "ko",
@@ -83,10 +52,41 @@
       ]
     },
     {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4632,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2334,
+      "problemCount": 2336,
       "displayNames": [
         {
           "language": "ko",
@@ -114,10 +114,29 @@
       ]
     },
     {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1387,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "hash_set",
       "isMeta": false,
       "bojTagId": 136,
-      "problemCount": 788,
+      "problemCount": 787,
       "displayNames": [
         {
           "language": "ko",
@@ -167,25 +186,6 @@
           "alias": "dict"
         }
       ]
-    },
-    {
-      "key": "set",
-      "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1383,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map",
-          "short": "set"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
