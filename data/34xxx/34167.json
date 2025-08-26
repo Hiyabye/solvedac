@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 7,
+  "acceptedUserCount": 9,
   "level": 22,
-  "votedUserCount": 4,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.4286,
+  "averageTries": 2.3333,
   "official": true,
   "tags": [
     {
@@ -48,7 +48,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1974,
+      "problemCount": 1975,
       "displayNames": [
         {
           "language": "ko",
@@ -69,10 +69,34 @@
       "aliases": []
     },
     {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1733,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1332,
+      "problemCount": 1333,
       "displayNames": [
         {
           "language": "ko",
@@ -122,6 +146,105 @@
           "language": "ja",
           "name": "\u518d\u5e30",
           "short": "\u518d\u5e30"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "euclidean",
+      "isMeta": false,
+      "bojTagId": 26,
+      "problemCount": 240,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95",
+          "short": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "euclidean algorithm",
+          "short": "euclidean algorithm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
+          "short": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
+        }
+      ]
+    },
+    {
+      "key": "linear_algebra",
+      "isMeta": false,
+      "bojTagId": 144,
+      "problemCount": 220,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc120\ud615\ub300\uc218\ud559",
+          "short": "\uc120\ud615\ub300\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "linear algebra",
+          "short": "linear algebra"
+        },
+        {
+          "language": "ja",
+          "name": "\u7dda\u5f62\u4ee3\u6570",
+          "short": "\u7dda\u4ee3"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc120\ud615\ub300\uc218"
+        }
+      ]
+    },
+    {
+      "key": "traceback",
+      "isMeta": false,
+      "bojTagId": 235,
+      "problemCount": 119,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc5ed\ucd94\uc801",
+          "short": "\uc5ed\ucd94\uc801"
+        },
+        {
+          "language": "en",
+          "name": "traceback",
+          "short": "traceback"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "gaussian_elimination",
+      "isMeta": false,
+      "bojTagId": 32,
+      "problemCount": 101,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95",
+          "short": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "gaussian elimination",
+          "short": "gaussian elimination"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5",
+          "short": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5"
         }
       ],
       "aliases": []
