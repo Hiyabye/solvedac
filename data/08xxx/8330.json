@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 53,
   "level": 18,
-  "votedUserCount": 13,
+  "votedUserCount": 14,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -30,7 +30,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4629,
+      "problemCount": 4634,
       "displayNames": [
         {
           "language": "ko",
@@ -61,7 +61,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3157,
+      "problemCount": 3158,
       "displayNames": [
         {
           "language": "ko",
@@ -86,10 +86,47 @@
       ]
     },
     {
+      "key": "segtree",
+      "isMeta": false,
+      "bojTagId": 65,
+      "problemCount": 1548,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "segment tree",
+          "short": "segtree"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
+          "short": "\u30bb\u30b0\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud2b8\ub9ac"
+        },
+        {
+          "alias": "\uc138\uadf8\ud2b8\ub9ac"
+        },
+        {
+          "alias": "fenwick"
+        },
+        {
+          "alias": "\ud39c\uc705"
+        }
+      ]
+    },
+    {
       "key": "lazyprop",
       "isMeta": false,
       "bojTagId": 66,
-      "problemCount": 368,
+      "problemCount": 367,
       "displayNames": [
         {
           "language": "ko",
@@ -119,43 +156,6 @@
         },
         {
           "alias": "\uad6c\uac04\ud2b8\ub9ac"
-        },
-        {
-          "alias": "fenwick"
-        },
-        {
-          "alias": "\ud39c\uc705"
-        }
-      ]
-    },
-    {
-      "key": "segtree",
-      "isMeta": false,
-      "bojTagId": 65,
-      "problemCount": 1547,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
-          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "segment tree",
-          "short": "segtree"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
-          "short": "\u30bb\u30b0\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uad6c\uac04\ud2b8\ub9ac"
-        },
-        {
-          "alias": "\uc138\uadf8\ud2b8\ub9ac"
         },
         {
           "alias": "fenwick"

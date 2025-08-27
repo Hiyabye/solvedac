@@ -11,14 +11,146 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 1,
+  "acceptedUserCount": 2,
   "level": 0,
-  "votedUserCount": 0,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 11,
+  "averageTries": 15.5,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4634,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2780,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        },
+        {
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
+      "key": "parsing",
+      "isMeta": false,
+      "bojTagId": 96,
+      "problemCount": 527,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud30c\uc2f1",
+          "short": "\ud30c\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "parsing",
+          "short": "parsing"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
+          "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "deque",
+      "isMeta": false,
+      "bojTagId": 73,
+      "problemCount": 143,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub371",
+          "short": "\ub371"
+        },
+        {
+          "language": "en",
+          "name": "deque",
+          "short": "deque"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
+          "short": "deque"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "utf8",
+      "isMeta": false,
+      "bojTagId": 199,
+      "problemCount": 10,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "utf-8 \uc785\ub825 \ucc98\ub9ac",
+          "short": "utf-8"
+        },
+        {
+          "language": "en",
+          "name": "utf-8 inputs",
+          "short": "utf-8"
+        },
+        {
+          "language": "ja",
+          "name": "utf-8\u5165\u529b\u306e\u51e6\u7406",
+          "short": "utf-8"
+        }
+      ],
+      "aliases": []
+    }
+  ],
   "metadata": {}
 }
