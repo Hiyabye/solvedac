@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 24,
   "level": 17,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,34 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "geometry",
-      "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 1849,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
-        },
-        {
-          "language": "en",
-          "name": "geometry",
-          "short": "geom"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2205,
+      "problemCount": 2207,
       "displayNames": [
         {
           "language": "ko",
@@ -64,6 +40,30 @@
           "language": "ja",
           "name": "\u30bd\u30fc\u30c8",
           "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1850,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
         }
       ],
       "aliases": []
@@ -95,6 +95,25 @@
           "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
         }
       ]
+    },
+    {
+      "key": "angle_sorting",
+      "isMeta": false,
+      "bojTagId": 240,
+      "problemCount": 30,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac01\ub3c4 \uc815\ub82c",
+          "short": "\uac01\ub3c4 \uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "angle sorting",
+          "short": "angle sorting"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
