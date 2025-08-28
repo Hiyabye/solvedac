@@ -45,28 +45,32 @@
       "aliases": []
     },
     {
-      "key": "parsing",
+      "key": "string",
       "isMeta": false,
-      "bojTagId": 96,
-      "problemCount": 527,
+      "bojTagId": 158,
+      "problemCount": 2781,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud30c\uc2f1",
-          "short": "\ud30c\uc2f1"
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
         },
         {
           "language": "en",
-          "name": "parsing",
-          "short": "parsing"
+          "name": "string",
+          "short": "string"
         },
         {
           "language": "ja",
-          "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
-          "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
     },
     {
       "key": "simulation",
@@ -93,32 +97,28 @@
       "aliases": []
     },
     {
-      "key": "string",
+      "key": "parsing",
       "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2780,
+      "bojTagId": 96,
+      "problemCount": 527,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
+          "name": "\ud30c\uc2f1",
+          "short": "\ud30c\uc2f1"
         },
         {
           "language": "en",
-          "name": "string",
-          "short": "string"
+          "name": "parsing",
+          "short": "parsing"
         },
         {
           "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
+          "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
+          "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc2a4\ud2b8\ub9c1"
-        }
-      ]
+      "aliases": []
     }
   ],
   "metadata": {}

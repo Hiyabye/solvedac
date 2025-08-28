@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 68,
   "level": 17,
-  "votedUserCount": 20,
+  "votedUserCount": 21,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,41 +21,34 @@
   "official": true,
   "tags": [
     {
-      "key": "data_structures",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4636,
+      "bojTagId": 124,
+      "problemCount": 7475,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "data structures",
-          "short": "ds"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4736,
+      "problemCount": 4737,
       "displayNames": [
         {
           "language": "ko",
@@ -86,62 +79,41 @@
       ]
     },
     {
-      "key": "knapsack",
+      "key": "data_structures",
       "isMeta": false,
-      "bojTagId": 148,
-      "problemCount": 313,
+      "bojTagId": 175,
+      "problemCount": 4639,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubc30\ub0ad \ubb38\uc81c",
-          "short": "\ubc30\ub0ad"
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
         },
         {
           "language": "en",
-          "name": "knapsack",
-          "short": "knapsack"
+          "name": "data structures",
+          "short": "ds"
         },
         {
           "language": "ja",
-          "name": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af\u554f\u984c",
-          "short": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af"
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
         }
       ],
       "aliases": [
         {
-          "alias": "\ub0c5\uc0c9"
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
         }
       ]
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7475,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1733,
+      "problemCount": 1734,
       "displayNames": [
         {
           "language": "ko",
@@ -195,6 +167,34 @@
         },
         {
           "alias": "prime"
+        }
+      ]
+    },
+    {
+      "key": "knapsack",
+      "isMeta": false,
+      "bojTagId": 148,
+      "problemCount": 313,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc30\ub0ad \ubb38\uc81c",
+          "short": "\ubc30\ub0ad"
+        },
+        {
+          "language": "en",
+          "name": "knapsack",
+          "short": "knapsack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af\u554f\u984c",
+          "short": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub0c5\uc0c9"
         }
       ]
     }
