@@ -11,45 +11,38 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 27,
+  "acceptedUserCount": 28,
   "level": 25,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.4444,
+  "averageTries": 2.3929,
   "official": true,
   "tags": [
     {
-      "key": "graphs",
+      "key": "shortest_path",
       "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4678,
+      "bojTagId": 215,
+      "problemCount": 912,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
+          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
         },
         {
           "language": "en",
-          "name": "graph theory",
-          "short": "graph"
+          "name": "shortest path",
+          "short": "shortest path"
         },
         {
           "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
+          "name": "\u6700\u77ed\u7d4c\u8def",
+          "short": "\u6700\u77ed\u7d4c\u8def"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "linear_programming",
@@ -78,30 +71,6 @@
           "alias": "\ub9ac\ub2c8\uc5b4\ud504\ub85c\uadf8\ub798\ubc0d"
         }
       ]
-    },
-    {
-      "key": "shortest_path",
-      "isMeta": false,
-      "bojTagId": 215,
-      "problemCount": 912,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
-          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
-        },
-        {
-          "language": "en",
-          "name": "shortest path",
-          "short": "shortest path"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u77ed\u7d4c\u8def",
-          "short": "\u6700\u77ed\u7d4c\u8def"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
