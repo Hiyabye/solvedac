@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 40,
-  "level": 19,
-  "votedUserCount": 6,
+  "level": 18,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -49,30 +49,6 @@
       ]
     },
     {
-      "key": "hashing",
-      "isMeta": false,
-      "bojTagId": 8,
-      "problemCount": 201,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574\uc2f1",
-          "short": "\ud574\uc2f1"
-        },
-        {
-          "language": "en",
-          "name": "hashing",
-          "short": "hash"
-        },
-        {
-          "language": "ja",
-          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
-          "short": "\u30cf\u30c3\u30b7\u30e5"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
@@ -101,6 +77,30 @@
       ]
     },
     {
+      "key": "hashing",
+      "isMeta": false,
+      "bojTagId": 8,
+      "problemCount": 202,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574\uc2f1",
+          "short": "\ud574\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "hashing",
+          "short": "hash"
+        },
+        {
+          "language": "ja",
+          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
+          "short": "\u30cf\u30c3\u30b7\u30e5"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "suffix_array",
       "isMeta": false,
       "bojTagId": 77,
@@ -123,6 +123,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "rabin_karp",
+      "isMeta": false,
+      "bojTagId": 61,
+      "problemCount": 25,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub77c\ube48\u2013\uce74\ud504",
+          "short": "\ub77c\ube48\u2013\uce74\ud504"
+        },
+        {
+          "language": "en",
+          "name": "rabin\u2013karp",
+          "short": "rabin\u2013karp"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e9\u30d3\u30f3-\u30ab\u30fc\u30d7\u6587\u5b57\u5217\u691c\u7d22",
+          "short": "\u30e9\u30d3\u30f3-\u30ab\u30fc\u30d7\u6587\u5b57\u5217\u691c\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub77c\ube48\uce74\ud504"
+        }
+      ]
     }
   ],
   "metadata": {}

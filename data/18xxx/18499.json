@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 7,
+  "acceptedUserCount": 8,
   "level": 22,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.5714,
+  "averageTries": 3.5,
   "official": true,
   "tags": [
     {
@@ -48,7 +48,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1733,
+      "problemCount": 1734,
       "displayNames": [
         {
           "language": "ko",
@@ -72,7 +72,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1496,
+      "problemCount": 1497,
       "displayNames": [
         {
           "language": "ko",
@@ -170,6 +170,46 @@
         },
         {
           "alias": "\uc21c\uc5f4"
+        }
+      ]
+    },
+    {
+      "key": "sqrt_decomposition",
+      "isMeta": false,
+      "bojTagId": 130,
+      "problemCount": 150,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc81c\uacf1\uadfc \ubd84\ud560\ubc95",
+          "short": "\uc81c\uacf1\uadfc \ubd84\ud560\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "square root decomposition",
+          "short": "sqrt decomposition"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e73\u65b9\u5206\u5272",
+          "short": "\u5e73\u65b9\u5206\u5272"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub8e8\ud2b8\ubd84\ud560\ubc95"
+        },
+        {
+          "alias": "\ud3c9\ubc29\ubd84\ud560\ubc95"
+        },
+        {
+          "alias": "\ubaa8"
+        },
+        {
+          "alias": "mo"
+        },
+        {
+          "alias": "sqrt"
         }
       ]
     }
