@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 12,
   "level": 6,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,44 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "case_work",
-      "isMeta": false,
-      "bojTagId": 137,
-      "problemCount": 1072,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
-          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
-        },
-        {
-          "language": "en",
-          "name": "case work",
-          "short": "case work"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
-          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ucf00\uc774\uc2a4"
-        },
-        {
-          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
-        },
-        {
-          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
-        }
-      ]
-    },
-    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4738,
+      "problemCount": 4737,
       "displayNames": [
         {
           "language": "ko",
@@ -92,7 +58,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3158,
+      "problemCount": 3157,
       "displayNames": [
         {
           "language": "ko",
@@ -113,6 +79,68 @@
       "aliases": [
         {
           "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
+    {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2781,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        },
+        {
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
+      "key": "case_work",
+      "isMeta": false,
+      "bojTagId": 137,
+      "problemCount": 1073,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
+          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
+        },
+        {
+          "language": "en",
+          "name": "case work",
+          "short": "case work"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
+          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucf00\uc774\uc2a4"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
         }
       ]
     }
