@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 87,
   "level": 14,
-  "votedUserCount": 21,
+  "votedUserCount": 22,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7475,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1978,
+      "problemCount": 1979,
       "displayNames": [
         {
           "language": "ko",
@@ -43,37 +67,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "bitmask",
-      "isMeta": false,
-      "bojTagId": 14,
-      "problemCount": 887,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
-          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
-        },
-        {
-          "language": "en",
-          "name": "bitmask",
-          "short": "bitmask"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
-          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ube44\ud2b8\ud544\ub4dc"
-        },
-        {
-          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
-        }
-      ]
     },
     {
       "key": "combinatorics",
@@ -116,28 +109,35 @@
       ]
     },
     {
-      "key": "math",
+      "key": "bitmask",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7475,
+      "bojTagId": 14,
+      "problemCount": 887,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
+          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "bitmask",
+          "short": "bitmask"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
+          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\ube44\ud2b8\ud544\ub4dc"
+        },
+        {
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+        }
+      ]
     }
   ],
   "metadata": {}
