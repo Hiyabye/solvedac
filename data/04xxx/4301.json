@@ -12,13 +12,105 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 2,
-  "level": 18,
-  "votedUserCount": 1,
+  "level": 19,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.5,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7476,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "statistics",
+      "isMeta": false,
+      "bojTagId": 178,
+      "problemCount": 24,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud1b5\uacc4\ud559",
+          "short": "\ud1b5\uacc4\ud559"
+        },
+        {
+          "language": "en",
+          "name": "statistics",
+          "short": "stats"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d71\u8a08\u5b66",
+          "short": "\u7d71\u8a08"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "average"
+        },
+        {
+          "alias": "\ud3c9\uade0"
+        },
+        {
+          "alias": "variance"
+        },
+        {
+          "alias": "\ubd84\uc0b0"
+        },
+        {
+          "alias": "\ud45c\uc900\ud3b8\ucc28"
+        },
+        {
+          "alias": "\ud45c\uc900 \ud3b8\ucc28"
+        }
+      ]
+    },
+    {
+      "key": "gradient_descent",
+      "isMeta": false,
+      "bojTagId": 208,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uacbd\uc0ac \ud558\uac15\ubc95",
+          "short": "\uacbd\uc0ac \ud558\uac15\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "gradient descent",
+          "short": "gradient descent"
+        },
+        {
+          "language": "ja",
+          "name": "\u52fe\u914d\u964d\u4e0b\u6cd5",
+          "short": "\u52fe\u914d\u964d\u4e0b\u6cd5"
+        }
+      ],
+      "aliases": []
+    }
+  ],
   "metadata": {}
 }
