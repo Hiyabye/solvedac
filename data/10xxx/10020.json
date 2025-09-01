@@ -11,39 +11,15 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 34,
+  "acceptedUserCount": 35,
   "level": 18,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.7941,
+  "averageTries": 2.7714,
   "official": true,
   "tags": [
-    {
-      "key": "degree_sequence",
-      "isMeta": false,
-      "bojTagId": 200,
-      "problemCount": 11,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucc28\uc218\uc5f4",
-          "short": "\ucc28\uc218\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "degree sequence",
-          "short": "degree sequence"
-        },
-        {
-          "language": "ja",
-          "name": "degree sequence",
-          "short": "degree sequence"
-        }
-      ],
-      "aliases": []
-    },
     {
       "key": "graphs",
       "isMeta": false,
@@ -74,6 +50,30 @@
           "alias": "\uadf8\ub798\ud504"
         }
       ]
+    },
+    {
+      "key": "degree_sequence",
+      "isMeta": false,
+      "bojTagId": 200,
+      "problemCount": 11,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\uc218\uc5f4",
+          "short": "\ucc28\uc218\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "degree sequence",
+          "short": "degree sequence"
+        },
+        {
+          "language": "ja",
+          "name": "degree sequence",
+          "short": "degree sequence"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
