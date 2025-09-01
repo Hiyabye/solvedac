@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 10,
   "level": 24,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4738,
+      "problemCount": 4743,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3156,
+      "problemCount": 3159,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "bitmask",
       "isMeta": false,
       "bojTagId": 14,
-      "problemCount": 887,
+      "problemCount": 888,
       "displayNames": [
         {
           "language": "ko",
@@ -117,7 +117,7 @@
       "key": "dp_bitfield",
       "isMeta": false,
       "bojTagId": 87,
-      "problemCount": 354,
+      "problemCount": 355,
       "displayNames": [
         {
           "language": "ko",
@@ -144,6 +144,37 @@
         },
         {
           "alias": "\ube44\ud2b8dp"
+        }
+      ]
+    },
+    {
+      "key": "bitset",
+      "isMeta": false,
+      "bojTagId": 152,
+      "problemCount": 111,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8 \uc9d1\ud569",
+          "short": "\ube44\ud2b8 \uc9d1\ud569"
+        },
+        {
+          "language": "en",
+          "name": "bit set",
+          "short": "bit set"
+        },
+        {
+          "language": "ja",
+          "name": "bit set",
+          "short": "bit set"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bitset"
+        },
+        {
+          "alias": "\ube44\ud2b8\uc14b"
         }
       ]
     }
