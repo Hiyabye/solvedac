@@ -11,51 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 26,
+  "acceptedUserCount": 27,
   "level": 21,
-  "votedUserCount": 10,
+  "votedUserCount": 11,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.6538,
+  "averageTries": 3.7778,
   "official": true,
   "tags": [
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4639,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4739,
+      "problemCount": 4744,
       "displayNames": [
         {
           "language": "ko",
@@ -86,34 +55,41 @@
       ]
     },
     {
-      "key": "lis",
+      "key": "data_structures",
       "isMeta": false,
-      "bojTagId": 43,
-      "problemCount": 104,
+      "bojTagId": 175,
+      "problemCount": 4648,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4 \ubb38\uc81c",
-          "short": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4"
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
         },
         {
           "language": "en",
-          "name": "longest increasing sequence problem",
-          "short": "lis"
+          "name": "data structures",
+          "short": "ds"
         },
         {
           "language": "ja",
-          "name": "longest increasing sequence problem",
-          "short": "lis"
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
     },
     {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1548,
+      "problemCount": 1554,
       "displayNames": [
         {
           "language": "ko",
@@ -150,7 +126,7 @@
       "key": "two_pointer",
       "isMeta": false,
       "bojTagId": 80,
-      "problemCount": 467,
+      "problemCount": 466,
       "displayNames": [
         {
           "language": "ko",
@@ -182,6 +158,30 @@
           "alias": "twopointer"
         }
       ]
+    },
+    {
+      "key": "lis",
+      "isMeta": false,
+      "bojTagId": 43,
+      "problemCount": 104,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4 \ubb38\uc81c",
+          "short": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "longest increasing sequence problem",
+          "short": "lis"
+        },
+        {
+          "language": "ja",
+          "name": "longest increasing sequence problem",
+          "short": "lis"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
