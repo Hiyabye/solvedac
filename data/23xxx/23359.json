@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 24,
+  "acceptedUserCount": 36,
   "level": 22,
-  "votedUserCount": 7,
+  "votedUserCount": 10,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
-  "averageTries": 2.125,
+  "averageTries": 2.75,
   "official": true,
   "tags": [
     {
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1992,
+      "problemCount": 1993,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1342,
+      "problemCount": 1343,
       "displayNames": [
         {
           "language": "ko",
@@ -79,5 +79,12 @@
       ]
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "no-special-judge",
+        "data": "https://www.acmicpc.net/board/view/159508"
+      }
+    ]
+  }
 }
