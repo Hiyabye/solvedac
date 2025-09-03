@@ -15,7 +15,7 @@
   "level": 18,
   "votedUserCount": 7,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
   "averageTries": 1.8387,
   "official": true,
@@ -58,7 +58,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1241,
+      "problemCount": 1242,
       "displayNames": [
         {
           "language": "ko",
@@ -89,5 +89,12 @@
       ]
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "no-special-judge",
+        "data": "https://www.acmicpc.net/board/view/161113"
+      }
+    ]
+  }
 }

@@ -17,48 +17,38 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 45,
+  "acceptedUserCount": 46,
   "level": 14,
-  "votedUserCount": 17,
+  "votedUserCount": 18,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.9778,
+  "averageTries": 2.9348,
   "official": true,
   "tags": [
     {
-      "key": "case_work",
+      "key": "implementation",
       "isMeta": false,
-      "bojTagId": 137,
-      "problemCount": 1079,
+      "bojTagId": 102,
+      "problemCount": 6338,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
-          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
         },
         {
           "language": "en",
-          "name": "case work",
-          "short": "case work"
+          "name": "implementation",
+          "short": "impl"
         },
         {
           "language": "ja",
-          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
-          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\ucf00\uc774\uc2a4"
-        },
-        {
-          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
-        },
-        {
-          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "dp",
@@ -98,7 +88,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3160,
+      "problemCount": 3159,
       "displayNames": [
         {
           "language": "ko",
@@ -123,28 +113,38 @@
       ]
     },
     {
-      "key": "implementation",
+      "key": "case_work",
       "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6338,
+      "bojTagId": 137,
+      "problemCount": 1079,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
+          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
+          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
         },
         {
           "language": "en",
-          "name": "implementation",
-          "short": "impl"
+          "name": "case work",
+          "short": "case work"
         },
         {
           "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
+          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
+          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\ucf00\uc774\uc2a4"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
+        }
+      ]
     }
   ],
   "metadata": {}
