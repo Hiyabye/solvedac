@@ -21,75 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "discrete_log",
-      "isMeta": false,
-      "bojTagId": 146,
-      "problemCount": 12,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\uc0b0 \ub85c\uadf8",
-          "short": "\uc774\uc0b0 \ub85c\uadf8"
-        },
-        {
-          "language": "en",
-          "name": "discrete logarithm",
-          "short": "discrete logarithm"
-        },
-        {
-          "language": "ja",
-          "name": "\u96e2\u6563\u5bfe\u6570",
-          "short": "\u96e2\u6563\u5bfe\u6570"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "order"
-        }
-      ]
-    },
-    {
-      "key": "euler_phi",
-      "isMeta": false,
-      "bojTagId": 151,
-      "problemCount": 56,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218",
-          "short": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218"
-        },
-        {
-          "language": "en",
-          "name": "euler totient function",
-          "short": "euler phi function"
-        },
-        {
-          "language": "ja",
-          "name": "euler totient function",
-          "short": "euler phi function"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc624\uc77c\ub7ec \ud30c\uc774"
-        },
-        {
-          "alias": "\ud1a0\uc158\ud2b8"
-        },
-        {
-          "alias": "eulerphi"
-        },
-        {
-          "alias": "euler phi"
-        }
-      ]
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7489,
+      "problemCount": 7491,
       "displayNames": [
         {
           "language": "ko",
@@ -110,38 +45,10 @@
       "aliases": []
     },
     {
-      "key": "modular_multiplicative_inverse",
-      "isMeta": false,
-      "bojTagId": 164,
-      "problemCount": 169,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
-          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
-        },
-        {
-          "language": "en",
-          "name": "modular multiplicative inverse",
-          "short": "modular multiplicative inverse"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
-          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "modinv"
-        }
-      ]
-    },
-    {
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1739,
+      "problemCount": 1740,
       "displayNames": [
         {
           "language": "ko",
@@ -202,7 +109,7 @@
       "key": "randomization",
       "isMeta": false,
       "bojTagId": 115,
-      "problemCount": 182,
+      "problemCount": 181,
       "displayNames": [
         {
           "language": "ko",
@@ -223,6 +130,99 @@
       "aliases": [
         {
           "alias": "\ub79c\ub364"
+        }
+      ]
+    },
+    {
+      "key": "modular_multiplicative_inverse",
+      "isMeta": false,
+      "bojTagId": 164,
+      "problemCount": 169,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
+          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
+        },
+        {
+          "language": "en",
+          "name": "modular multiplicative inverse",
+          "short": "modular multiplicative inverse"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
+          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "modinv"
+        }
+      ]
+    },
+    {
+      "key": "euler_phi",
+      "isMeta": false,
+      "bojTagId": 151,
+      "problemCount": 56,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218",
+          "short": "\uc624\uc77c\ub7ec \ud53c \ud568\uc218"
+        },
+        {
+          "language": "en",
+          "name": "euler totient function",
+          "short": "euler phi function"
+        },
+        {
+          "language": "ja",
+          "name": "euler totient function",
+          "short": "euler phi function"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc624\uc77c\ub7ec \ud30c\uc774"
+        },
+        {
+          "alias": "\ud1a0\uc158\ud2b8"
+        },
+        {
+          "alias": "eulerphi"
+        },
+        {
+          "alias": "euler phi"
+        }
+      ]
+    },
+    {
+      "key": "discrete_log",
+      "isMeta": false,
+      "bojTagId": 146,
+      "problemCount": 12,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\uc0b0 \ub85c\uadf8",
+          "short": "\uc774\uc0b0 \ub85c\uadf8"
+        },
+        {
+          "language": "en",
+          "name": "discrete logarithm",
+          "short": "discrete logarithm"
+        },
+        {
+          "language": "ja",
+          "name": "\u96e2\u6563\u5bfe\u6570",
+          "short": "\u96e2\u6563\u5bfe\u6570"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "order"
         }
       ]
     }
