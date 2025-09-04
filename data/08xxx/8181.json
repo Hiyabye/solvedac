@@ -15,7 +15,7 @@
   "level": 14,
   "votedUserCount": 6,
   "sprout": false,
-  "givesNoRating": false,
+  "givesNoRating": true,
   "isLevelLocked": false,
   "averageTries": 3.5,
   "official": true,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4647,
+      "problemCount": 4646,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2210,
+      "problemCount": 2208,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1993,
+      "problemCount": 1994,
       "displayNames": [
         {
           "language": "ko",
@@ -119,5 +119,12 @@
       "aliases": []
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "warn": [
+      {
+        "type": "same",
+        "data": 9716
+      }
+    ]
+  }
 }

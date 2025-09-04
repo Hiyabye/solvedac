@@ -11,20 +11,48 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 44,
+  "acceptedUserCount": 45,
   "level": 19,
-  "votedUserCount": 13,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 7.1818,
+  "averageTries": 7.0444,
   "official": true,
   "tags": [
+    {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 3159,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
     {
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 1993,
+      "problemCount": 1994,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +76,7 @@
       "key": "backtracking",
       "isMeta": false,
       "bojTagId": 5,
-      "problemCount": 619,
+      "problemCount": 620,
       "displayNames": [
         {
           "language": "ko",
@@ -79,32 +107,23 @@
       ]
     },
     {
-      "key": "greedy",
+      "key": "parity",
       "isMeta": false,
-      "bojTagId": 33,
-      "problemCount": 3160,
+      "bojTagId": 230,
+      "problemCount": 111,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
-          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+          "name": "\ud640\uc9dd\uc131",
+          "short": "\ud640\uc9dd\uc131"
         },
         {
           "language": "en",
-          "name": "greedy",
-          "short": "greedy"
-        },
-        {
-          "language": "ja",
-          "name": "\u8caa\u6b32\u6cd5",
-          "short": "\u8caa\u6b32\u6cd5"
+          "name": "parity",
+          "short": "parity"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\ud0d0\uc695\ubc95"
-        }
-      ]
+      "aliases": []
     }
   ],
   "metadata": {}
