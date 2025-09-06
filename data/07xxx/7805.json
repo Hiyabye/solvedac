@@ -11,20 +11,44 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 83,
+  "acceptedUserCount": 84,
   "level": 10,
-  "votedUserCount": 15,
+  "votedUserCount": 16,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7711,
+  "averageTries": 1.7619,
   "official": true,
   "tags": [
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6342,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3159,
+      "problemCount": 3161,
       "displayNames": [
         {
           "language": "ko",
@@ -47,78 +71,6 @@
           "alias": "\ud0d0\uc695\ubc95"
         }
       ]
-    },
-    {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6341,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "permutation_cycle_decomposition",
-      "isMeta": false,
-      "bojTagId": 171,
-      "problemCount": 108,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560",
-          "short": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560"
-        },
-        {
-          "language": "en",
-          "name": "permutation cycle decomposition",
-          "short": "permutation cycle decomposition"
-        },
-        {
-          "language": "ja",
-          "name": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3",
-          "short": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "sorting",
-      "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2209,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "string",
@@ -147,6 +99,54 @@
           "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
+    },
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2208,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "permutation_cycle_decomposition",
+      "isMeta": false,
+      "bojTagId": 171,
+      "problemCount": 108,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560",
+          "short": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560"
+        },
+        {
+          "language": "en",
+          "name": "permutation cycle decomposition",
+          "short": "permutation cycle decomposition"
+        },
+        {
+          "language": "ja",
+          "name": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3",
+          "short": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
