@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 138,
+  "acceptedUserCount": 139,
   "level": 23,
-  "votedUserCount": 37,
+  "votedUserCount": 38,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7319,
+  "averageTries": 1.7266,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4651,
+      "problemCount": 4654,
       "displayNames": [
         {
           "language": "ko",
@@ -89,6 +89,25 @@
       ]
     },
     {
+      "key": "maximum_subarray",
+      "isMeta": false,
+      "bojTagId": 234,
+      "problemCount": 28,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4 \ubb38\uc81c",
+          "short": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "maximum subarray",
+          "short": "maximum subarray"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "hall",
       "isMeta": false,
       "bojTagId": 34,
@@ -108,25 +127,6 @@
           "language": "ja",
           "name": "\u30db\u30fc\u30eb\u306e\u5b9a\u7406",
           "short": "\u30db\u30fc\u30eb\u306e\u5b9a\u7406"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "maximum_subarray",
-      "isMeta": false,
-      "bojTagId": 234,
-      "problemCount": 28,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4 \ubb38\uc81c",
-          "short": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "maximum subarray",
-          "short": "maximum subarray"
         }
       ],
       "aliases": []
