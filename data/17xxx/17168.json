@@ -11,51 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 70,
+  "acceptedUserCount": 72,
   "level": 22,
-  "votedUserCount": 23,
+  "votedUserCount": 25,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4.0571,
+  "averageTries": 3.9722,
   "official": true,
   "tags": [
-    {
-      "key": "cht",
-      "isMeta": false,
-      "bojTagId": 89,
-      "problemCount": 118,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
-          "short": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
-        },
-        {
-          "language": "en",
-          "name": "convex hull trick",
-          "short": "cht"
-        },
-        {
-          "language": "ja",
-          "name": "convex hull trick",
-          "short": "cht"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ud2b8\ub9ad"
-        },
-        {
-          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ucd5c\uc801\ud654"
-        }
-      ]
-    },
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4747,
+      "problemCount": 4751,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +58,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3166,
+      "problemCount": 3169,
       "displayNames": [
         {
           "language": "ko",
@@ -110,6 +79,37 @@
       "aliases": [
         {
           "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
+    {
+      "key": "cht",
+      "isMeta": false,
+      "bojTagId": 89,
+      "problemCount": 118,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
+          "short": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
+        },
+        {
+          "language": "en",
+          "name": "convex hull trick",
+          "short": "cht"
+        },
+        {
+          "language": "ja",
+          "name": "convex hull trick",
+          "short": "cht"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ud2b8\ub9ad"
+        },
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ucd5c\uc801\ud654"
         }
       ]
     }
