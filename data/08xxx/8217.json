@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 490,
   "level": 22,
-  "votedUserCount": 114,
+  "votedUserCount": 115,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -30,7 +30,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4654,
+      "problemCount": 4656,
       "displayNames": [
         {
           "language": "ko",
@@ -61,7 +61,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1551,
+      "problemCount": 1550,
       "displayNames": [
         {
           "language": "ko",
@@ -126,6 +126,25 @@
       ]
     },
     {
+      "key": "difference_array",
+      "isMeta": false,
+      "bojTagId": 239,
+      "problemCount": 69,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
+          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "difference array",
+          "short": "difference array"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "pbs",
       "isMeta": false,
       "bojTagId": 54,
@@ -145,25 +164,6 @@
           "language": "ja",
           "name": "parallel binary search",
           "short": "pbs"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "difference_array",
-      "isMeta": false,
-      "bojTagId": 239,
-      "problemCount": 69,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
-          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
-        },
-        {
-          "language": "en",
-          "name": "difference array",
-          "short": "difference array"
         }
       ],
       "aliases": []
