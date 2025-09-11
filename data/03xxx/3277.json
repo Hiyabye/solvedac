@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 44,
   "level": 7,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4656,
+      "problemCount": 4657,
       "displayNames": [
         {
           "language": "ko",
@@ -50,30 +50,6 @@
           "alias": "\uc790\uad6c"
         }
       ]
-    },
-    {
-      "key": "parsing",
-      "isMeta": false,
-      "bojTagId": 96,
-      "problemCount": 527,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud30c\uc2f1",
-          "short": "\ud30c\uc2f1"
-        },
-        {
-          "language": "en",
-          "name": "parsing",
-          "short": "parsing"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
-          "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "string",
@@ -104,10 +80,29 @@
       ]
     },
     {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1419,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "tree_set",
       "isMeta": false,
       "bojTagId": 74,
-      "problemCount": 532,
+      "problemCount": 533,
       "displayNames": [
         {
           "language": "ko",
@@ -159,20 +154,25 @@
       ]
     },
     {
-      "key": "set",
+      "key": "parsing",
       "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1415,
+      "bojTagId": 96,
+      "problemCount": 527,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
+          "name": "\ud30c\uc2f1",
+          "short": "\ud30c\uc2f1"
         },
         {
           "language": "en",
-          "name": "set / map",
-          "short": "set"
+          "name": "parsing",
+          "short": "parsing"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
+          "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
         }
       ],
       "aliases": []
