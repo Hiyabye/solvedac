@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 40,
   "level": 21,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,35 +21,52 @@
   "official": true,
   "tags": [
     {
-      "key": "bitset",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 152,
-      "problemCount": 111,
+      "bojTagId": 124,
+      "problemCount": 7519,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ube44\ud2b8 \uc9d1\ud569",
-          "short": "\ube44\ud2b8 \uc9d1\ud569"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "bit set",
-          "short": "bit set"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "bit set",
-          "short": "bit set"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
-      "aliases": [
+      "aliases": []
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1744,
+      "displayNames": [
         {
-          "alias": "bitset"
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
         },
         {
-          "alias": "\ube44\ud2b8\uc14b"
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
         }
-      ]
+      ],
+      "aliases": []
     },
     {
       "key": "knapsack",
@@ -80,52 +97,35 @@
       ]
     },
     {
-      "key": "math",
+      "key": "bitset",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7519,
+      "bojTagId": 152,
+      "problemCount": 111,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\ube44\ud2b8 \uc9d1\ud569",
+          "short": "\ube44\ud2b8 \uc9d1\ud569"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "bit set",
+          "short": "bit set"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "bit set",
+          "short": "bit set"
         }
       ],
-      "aliases": []
-    },
-    {
-      "key": "number_theory",
-      "isMeta": false,
-      "bojTagId": 95,
-      "problemCount": 1743,
-      "displayNames": [
+      "aliases": [
         {
-          "language": "ko",
-          "name": "\uc815\uc218\ub860",
-          "short": "\uc815\uc218\ub860"
+          "alias": "bitset"
         },
         {
-          "language": "en",
-          "name": "number theory",
-          "short": "number theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u6574\u6570\u8ad6",
-          "short": "\u6574\u6570\u8ad6"
+          "alias": "\ube44\ud2b8\uc14b"
         }
-      ],
-      "aliases": []
+      ]
     }
   ],
   "metadata": {}

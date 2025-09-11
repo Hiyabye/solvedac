@@ -21,72 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "case_work",
-      "isMeta": false,
-      "bojTagId": 137,
-      "problemCount": 1085,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
-          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
-        },
-        {
-          "language": "en",
-          "name": "case work",
-          "short": "case work"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
-          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ucf00\uc774\uc2a4"
-        },
-        {
-          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
-        },
-        {
-          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
-        }
-      ]
-    },
-    {
-      "key": "coordinate_compression",
-      "isMeta": false,
-      "bojTagId": 161,
-      "problemCount": 283,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
-          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
-        },
-        {
-          "language": "en",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        },
-        {
-          "language": "ja",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "zip"
-        }
-      ]
-    },
-    {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6358,
+      "problemCount": 6359,
       "displayNames": [
         {
           "language": "ko",
@@ -102,6 +40,30 @@
           "language": "ja",
           "name": "\u5b9f\u88c5",
           "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2218,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
         }
       ],
       "aliases": []
@@ -131,28 +93,38 @@
       "aliases": []
     },
     {
-      "key": "sorting",
+      "key": "case_work",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2217,
+      "bojTagId": 137,
+      "problemCount": 1086,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
+          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
+          "name": "case work",
+          "short": "case work"
         },
         {
           "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
+          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\ucf00\uc774\uc2a4"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
+        }
+      ]
     },
     {
       "key": "two_pointer",
@@ -188,6 +160,34 @@
         },
         {
           "alias": "twopointer"
+        }
+      ]
+    },
+    {
+      "key": "coordinate_compression",
+      "isMeta": false,
+      "bojTagId": 161,
+      "problemCount": 283,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
+          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
+        },
+        {
+          "language": "en",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        },
+        {
+          "language": "ja",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "zip"
         }
       ]
     }

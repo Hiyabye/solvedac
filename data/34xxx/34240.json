@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 19,
+  "acceptedUserCount": 20,
   "level": 14,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.4737,
+  "averageTries": 1.45,
   "official": true,
   "tags": [
     {
@@ -48,7 +48,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1865,
+      "problemCount": 1867,
       "displayNames": [
         {
           "language": "ko",
@@ -67,6 +67,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "case_work",
+      "isMeta": false,
+      "bojTagId": 137,
+      "problemCount": 1086,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
+          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
+        },
+        {
+          "language": "en",
+          "name": "case work",
+          "short": "case work"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
+          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucf00\uc774\uc2a4"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
+        },
+        {
+          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
+        }
+      ]
     }
   ],
   "metadata": {}
