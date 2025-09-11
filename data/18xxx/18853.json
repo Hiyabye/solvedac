@@ -12,38 +12,14 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 8,
-  "level": 20,
-  "votedUserCount": 1,
+  "level": 21,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.375,
   "official": true,
   "tags": [
-    {
-      "key": "heuristics",
-      "isMeta": false,
-      "bojTagId": 142,
-      "problemCount": 125,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud734\ub9ac\uc2a4\ud2f1",
-          "short": "\ud734\ub9ac\uc2a4\ud2f1"
-        },
-        {
-          "language": "en",
-          "name": "heuristics",
-          "short": "heuristics"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
-          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
-        }
-      ],
-      "aliases": []
-    },
     {
       "key": "randomization",
       "isMeta": false,
@@ -71,6 +47,30 @@
           "alias": "\ub79c\ub364"
         }
       ]
+    },
+    {
+      "key": "heuristics",
+      "isMeta": false,
+      "bojTagId": 142,
+      "problemCount": 125,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud734\ub9ac\uc2a4\ud2f1",
+          "short": "\ud734\ub9ac\uc2a4\ud2f1"
+        },
+        {
+          "language": "en",
+          "name": "heuristics",
+          "short": "heuristics"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
+          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
