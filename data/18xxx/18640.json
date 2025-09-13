@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 31,
   "level": 21,
-  "votedUserCount": 11,
+  "votedUserCount": 12,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,28 +21,32 @@
   "official": true,
   "tags": [
     {
-      "key": "heuristics",
+      "key": "string",
       "isMeta": false,
-      "bojTagId": 142,
-      "problemCount": 125,
+      "bojTagId": 158,
+      "problemCount": 2794,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud734\ub9ac\uc2a4\ud2f1",
-          "short": "\ud734\ub9ac\uc2a4\ud2f1"
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
         },
         {
           "language": "en",
-          "name": "heuristics",
-          "short": "heuristics"
+          "name": "string",
+          "short": "string"
         },
         {
           "language": "ja",
-          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
-          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
     },
     {
       "key": "precomputation",
@@ -79,32 +83,28 @@
       ]
     },
     {
-      "key": "string",
+      "key": "heuristics",
       "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2794,
+      "bojTagId": 142,
+      "problemCount": 125,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
+          "name": "\ud734\ub9ac\uc2a4\ud2f1",
+          "short": "\ud734\ub9ac\uc2a4\ud2f1"
         },
         {
           "language": "en",
-          "name": "string",
-          "short": "string"
+          "name": "heuristics",
+          "short": "heuristics"
         },
         {
           "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
+          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
+          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc2a4\ud2b8\ub9c1"
-        }
-      ]
+      "aliases": []
     }
   ],
   "metadata": {}
