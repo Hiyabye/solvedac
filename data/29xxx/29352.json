@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 2,
   "level": 18,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -80,10 +80,41 @@
       ]
     },
     {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1511,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 1087,
+      "problemCount": 1086,
       "displayNames": [
         {
           "language": "ko",
@@ -165,6 +196,34 @@
         },
         {
           "alias": "sparse table"
+        }
+      ]
+    },
+    {
+      "key": "euler_tour_technique",
+      "isMeta": false,
+      "bojTagId": 150,
+      "problemCount": 119,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\uc77c\ub7ec \uacbd\ub85c \ud14c\ud06c\ub2c9",
+          "short": "\uc624\uc77c\ub7ec \uacbd\ub85c \ud14c\ud06c\ub2c9"
+        },
+        {
+          "language": "en",
+          "name": "euler tour technique",
+          "short": "ett"
+        },
+        {
+          "language": "ja",
+          "name": "\u30aa\u30a4\u30e9\u30fc\u30c4\u30a2\u30fc",
+          "short": "ett"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "ett"
         }
       ]
     }
