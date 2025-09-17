@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 75,
   "level": 20,
-  "votedUserCount": 25,
+  "votedUserCount": 26,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1749,
+      "problemCount": 1750,
       "displayNames": [
         {
           "language": "ko",
@@ -45,62 +45,6 @@
       "aliases": [
         {
           "alias": "trees"
-        }
-      ]
-    },
-    {
-      "key": "divide_and_conquer",
-      "isMeta": false,
-      "bojTagId": 24,
-      "problemCount": 469,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5",
-          "short": "\ubd84\ud560 \uc815\ubcf5"
-        },
-        {
-          "language": "en",
-          "name": "divide and conquer",
-          "short": "d&c"
-        },
-        {
-          "language": "ja",
-          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
-          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dnc"
-        }
-      ]
-    },
-    {
-      "key": "offline_queries",
-      "isMeta": false,
-      "bojTagId": 123,
-      "problemCount": 334,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
-          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "offline queries",
-          "short": "offline query"
-        },
-        {
-          "language": "ja",
-          "name": "offline queries",
-          "short": "offline query"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "offlinequery"
         }
       ]
     },
@@ -127,34 +71,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "centroid_decomposition",
-      "isMeta": false,
-      "bojTagId": 18,
-      "problemCount": 88,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc13c\ud2b8\ub85c\uc774\ub4dc \ubd84\ud560",
-          "short": "\uc13c\ud2b8\ub85c\uc774\ub4dc \ubd84\ud560"
-        },
-        {
-          "language": "en",
-          "name": "centroid decomposition",
-          "short": "centroid decomposition"
-        },
-        {
-          "language": "ja",
-          "name": "centroid decomposition",
-          "short": "centroid decomposition"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc13c\ud2b8\ub85c\uc774\ub4dc"
-        }
-      ]
     },
     {
       "key": "tree_diameter",
