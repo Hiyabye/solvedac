@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 7,
-  "level": 16,
-  "votedUserCount": 2,
+  "level": 18,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -67,6 +67,64 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "heuristics",
+      "isMeta": false,
+      "bojTagId": 142,
+      "problemCount": 125,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud734\ub9ac\uc2a4\ud2f1",
+          "short": "\ud734\ub9ac\uc2a4\ud2f1"
+        },
+        {
+          "language": "en",
+          "name": "heuristics",
+          "short": "heuristics"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
+          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "min_enclosing_circle",
+      "isMeta": false,
+      "bojTagId": 162,
+      "problemCount": 12,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uc678\uc811\uc6d0",
+          "short": "\ucd5c\uc18c \uc678\uc811\uc6d0"
+        },
+        {
+          "language": "en",
+          "name": "minimum enclosing circle",
+          "short": "minimum enclosing circle"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5c0f\u5916\u63a5\u5186",
+          "short": "\u6700\u5c0f\u5916\u63a5\u5186"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bounding circle"
+        },
+        {
+          "alias": "smallest enclosing circle"
+        },
+        {
+          "alias": "minimum covering circle"
+        }
+      ]
     }
   ],
   "metadata": {}
