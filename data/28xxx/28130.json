@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 89,
   "level": 15,
-  "votedUserCount": 22,
+  "votedUserCount": 23,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6363,
+      "problemCount": 6374,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4706,
+      "problemCount": 4710,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2351,
+      "problemCount": 2353,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +110,7 @@
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 1150,
+      "problemCount": 1152,
       "displayNames": [
         {
           "language": "ko",
@@ -136,6 +136,25 @@
           "alias": "breadth first"
         }
       ]
+    },
+    {
+      "key": "parity",
+      "isMeta": false,
+      "bojTagId": 230,
+      "problemCount": 117,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud640\uc9dd\uc131",
+          "short": "\ud640\uc9dd\uc131"
+        },
+        {
+          "language": "en",
+          "name": "parity",
+          "short": "parity"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
