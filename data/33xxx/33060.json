@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 67,
   "level": 18,
-  "votedUserCount": 22,
+  "votedUserCount": 23,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4672,
+      "problemCount": 4679,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3186,
+      "problemCount": 3188,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +83,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2222,
+      "problemCount": 2227,
       "displayNames": [
         {
           "language": "ko",
@@ -107,7 +107,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1560,
+      "problemCount": 1561,
       "displayNames": [
         {
           "language": "ko",
@@ -144,7 +144,7 @@
       "key": "set",
       "isMeta": false,
       "bojTagId": 225,
-      "problemCount": 1421,
+      "problemCount": 1427,
       "displayNames": [
         {
           "language": "ko",
@@ -187,6 +187,34 @@
         },
         {
           "alias": "\ud799"
+        }
+      ]
+    },
+    {
+      "key": "coordinate_compression",
+      "isMeta": false,
+      "bojTagId": 161,
+      "problemCount": 286,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
+          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
+        },
+        {
+          "language": "en",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        },
+        {
+          "language": "ja",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "zip"
         }
       ]
     }

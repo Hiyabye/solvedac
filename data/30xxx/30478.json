@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 29,
   "level": 20,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4672,
+      "problemCount": 4679,
       "displayNames": [
         {
           "language": "ko",
@@ -52,25 +52,20 @@
       ]
     },
     {
-      "key": "hashing",
+      "key": "set",
       "isMeta": false,
-      "bojTagId": 8,
-      "problemCount": 200,
+      "bojTagId": 225,
+      "problemCount": 1427,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud574\uc2f1",
-          "short": "\ud574\uc2f1"
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
         },
         {
           "language": "en",
-          "name": "hashing",
-          "short": "hash"
-        },
-        {
-          "language": "ja",
-          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
-          "short": "\u30cf\u30c3\u30b7\u30e5"
+          "name": "set / map",
+          "short": "set"
         }
       ],
       "aliases": []
@@ -79,7 +74,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1246,
+      "problemCount": 1247,
       "displayNames": [
         {
           "language": "ko",
@@ -108,6 +103,30 @@
           "alias": "rangesum"
         }
       ]
+    },
+    {
+      "key": "hashing",
+      "isMeta": false,
+      "bojTagId": 8,
+      "problemCount": 200,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574\uc2f1",
+          "short": "\ud574\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "hashing",
+          "short": "hash"
+        },
+        {
+          "language": "ja",
+          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
+          "short": "\u30cf\u30c3\u30b7\u30e5"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
