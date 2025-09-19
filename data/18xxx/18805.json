@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 24,
+  "acceptedUserCount": 26,
   "level": 25,
-  "votedUserCount": 16,
+  "votedUserCount": 17,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 5.2083,
+  "averageTries": 7.0385,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4671,
+      "problemCount": 4677,
       "displayNames": [
         {
           "language": "ko",
@@ -117,6 +117,25 @@
       ]
     },
     {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1425,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "lazyprop",
       "isMeta": false,
       "bojTagId": 66,
@@ -186,30 +205,6 @@
           "alias": "ett"
         }
       ]
-    },
-    {
-      "key": "centroid",
-      "isMeta": false,
-      "bojTagId": 188,
-      "problemCount": 115,
-      "displayNames": [
-        {
-          "language": "en",
-          "name": "centroid",
-          "short": "centroid"
-        },
-        {
-          "language": "ko",
-          "name": "\uc13c\ud2b8\ub85c\uc774\ub4dc",
-          "short": "\uc13c\ud2b8\ub85c\uc774\ub4dc"
-        },
-        {
-          "language": "ja",
-          "name": "centroid",
-          "short": "centroid"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
