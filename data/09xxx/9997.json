@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 678,
   "level": 13,
-  "votedUserCount": 41,
+  "votedUserCount": 42,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -30,7 +30,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2583,
+      "problemCount": 2586,
       "displayNames": [
         {
           "language": "ko",
@@ -70,10 +70,29 @@
       ]
     },
     {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1424,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "bitmask",
       "isMeta": false,
       "bojTagId": 14,
-      "problemCount": 902,
+      "problemCount": 905,
       "displayNames": [
         {
           "language": "ko",
