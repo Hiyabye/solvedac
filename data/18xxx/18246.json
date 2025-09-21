@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 136,
   "level": 19,
-  "votedUserCount": 38,
+  "votedUserCount": 39,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4683,
+      "problemCount": 4689,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1562,
+      "problemCount": 1564,
       "displayNames": [
         {
           "language": "ko",
@@ -92,7 +92,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1247,
+      "problemCount": 1248,
       "displayNames": [
         {
           "language": "ko",
@@ -121,6 +121,25 @@
           "alias": "rangesum"
         }
       ]
+    },
+    {
+      "key": "difference_array",
+      "isMeta": false,
+      "bojTagId": 239,
+      "problemCount": 70,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
+          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "difference array",
+          "short": "difference array"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "multi_segtree",
@@ -158,25 +177,6 @@
           "alias": "\ud39c\uc705"
         }
       ]
-    },
-    {
-      "key": "difference_array",
-      "isMeta": false,
-      "bojTagId": 239,
-      "problemCount": 70,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
-          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
-        },
-        {
-          "language": "en",
-          "name": "difference array",
-          "short": "difference array"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
