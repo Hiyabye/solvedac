@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 4,
   "level": 25,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4694,
+      "problemCount": 4696,
       "displayNames": [
         {
           "language": "ko",
@@ -48,6 +48,34 @@
         },
         {
           "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1754,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
         }
       ]
     },
@@ -106,6 +134,30 @@
           "alias": "\ub9c1\ud06c\ub4dc\ub9ac\uc2a4\ud2b8"
         }
       ]
+    },
+    {
+      "key": "cartesian_tree",
+      "isMeta": false,
+      "bojTagId": 206,
+      "problemCount": 24,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub370\uce74\ub974\ud2b8 \ud2b8\ub9ac",
+          "short": "\ub370\uce74\ub974\ud2b8 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "cartesian tree",
+          "short": "cartesian tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30ab\u30eb\u30c8\u6728",
+          "short": "\u30c7\u30ab\u30eb\u30c8\u6728"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
