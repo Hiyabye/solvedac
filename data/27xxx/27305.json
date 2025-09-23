@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 7,
   "level": 21,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,38 +21,34 @@
   "official": true,
   "tags": [
     {
-      "key": "bayes",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 114,
-      "problemCount": 8,
+      "bojTagId": 124,
+      "problemCount": 7593,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubca0\uc774\uc988 \uc815\ub9ac",
-          "short": "\ubca0\uc774\uc988 \uc815\ub9ac"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "bayes theorem",
-          "short": "bayes thm"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u30d9\u30a4\u30ba\u306e\u5b9a\u7406",
-          "short": "\u30d9\u30a4\u30ba"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc870\uac74\ubd80\ud655\ub960"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "combinatorics",
       "isMeta": false,
       "bojTagId": 6,
-      "problemCount": 1177,
+      "problemCount": 1178,
       "displayNames": [
         {
           "language": "ko",
@@ -89,110 +85,10 @@
       ]
     },
     {
-      "key": "euclidean",
-      "isMeta": false,
-      "bojTagId": 26,
-      "problemCount": 242,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95",
-          "short": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95"
-        },
-        {
-          "language": "en",
-          "name": "euclidean algorithm",
-          "short": "euclidean algorithm"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
-          "short": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
-        }
-      ]
-    },
-    {
-      "key": "linearity_of_expectation",
-      "isMeta": false,
-      "bojTagId": 179,
-      "problemCount": 92,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131",
-          "short": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131"
-        },
-        {
-          "language": "en",
-          "name": "linearity of expectation",
-          "short": "linearity of expectation"
-        },
-        {
-          "language": "ja",
-          "name": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027",
-          "short": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7589,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "number_theory",
-      "isMeta": false,
-      "bojTagId": 95,
-      "problemCount": 1753,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\uc218\ub860",
-          "short": "\uc815\uc218\ub860"
-        },
-        {
-          "language": "en",
-          "name": "number theory",
-          "short": "number theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u6574\u6570\u8ad6",
-          "short": "\u6574\u6570\u8ad6"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "probability",
       "isMeta": false,
       "bojTagId": 177,
-      "problemCount": 438,
+      "problemCount": 439,
       "displayNames": [
         {
           "language": "ko",
@@ -221,6 +117,30 @@
           "alias": "\uae30\ub313\uac12"
         }
       ]
+    },
+    {
+      "key": "linearity_of_expectation",
+      "isMeta": false,
+      "bojTagId": 179,
+      "problemCount": 92,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131",
+          "short": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131"
+        },
+        {
+          "language": "en",
+          "name": "linearity of expectation",
+          "short": "linearity of expectation"
+        },
+        {
+          "language": "ja",
+          "name": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027",
+          "short": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "statistics",

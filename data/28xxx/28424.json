@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 98,
   "level": 13,
-  "votedUserCount": 20,
+  "votedUserCount": 21,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4695,
+      "problemCount": 4697,
       "displayNames": [
         {
           "language": "ko",
@@ -52,10 +52,29 @@
       ]
     },
     {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1425,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "disjoint_set",
       "isMeta": false,
       "bojTagId": 81,
-      "problemCount": 601,
+      "problemCount": 602,
       "displayNames": [
         {
           "language": "ko",
