@@ -17,20 +17,44 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 449,
+  "acceptedUserCount": 451,
   "level": 15,
-  "votedUserCount": 26,
+  "votedUserCount": 27,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 8.3831,
+  "averageTries": 8.3858,
   "official": true,
   "tags": [
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6421,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4698,
+      "problemCount": 4699,
       "displayNames": [
         {
           "language": "ko",
@@ -58,34 +82,10 @@
       ]
     },
     {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6418,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "simulation",
       "isMeta": false,
       "bojTagId": 141,
-      "problemCount": 1281,
+      "problemCount": 1282,
       "displayNames": [
         {
           "language": "ko",
@@ -109,7 +109,7 @@
       "key": "stack",
       "isMeta": false,
       "bojTagId": 71,
-      "problemCount": 451,
+      "problemCount": 452,
       "displayNames": [
         {
           "language": "ko",
