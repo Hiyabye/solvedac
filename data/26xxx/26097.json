@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 60,
-  "level": 15,
-  "votedUserCount": 19,
+  "acceptedUserCount": 61,
+  "level": 14,
+  "votedUserCount": 20,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.2833,
+  "averageTries": 2.3443,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4735,
+      "problemCount": 4736,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2366,
+      "problemCount": 2368,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 2037,
+      "problemCount": 2038,
       "displayNames": [
         {
           "language": "ko",
@@ -102,30 +102,6 @@
           "language": "ja",
           "name": "\u30a2\u30c9\u30db\u30c3\u30af",
           "short": "\u30a2\u30c9\u30db\u30c3\u30af"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "pigeonhole_principle",
-      "isMeta": false,
-      "bojTagId": 189,
-      "problemCount": 62,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ube44\ub458\uae30\uc9d1 \uc6d0\ub9ac",
-          "short": "\ube44\ub458\uae30\uc9d1"
-        },
-        {
-          "language": "en",
-          "name": "pigeonhole principle",
-          "short": "pigeonhole"
-        },
-        {
-          "language": "ja",
-          "name": "\u9ce9\u306e\u5de3\u539f\u7406",
-          "short": "\u9ce9"
         }
       ],
       "aliases": []
@@ -153,7 +129,7 @@
       "key": "parity",
       "isMeta": false,
       "bojTagId": 230,
-      "problemCount": 125,
+      "problemCount": 127,
       "displayNames": [
         {
           "language": "ko",
@@ -164,6 +140,30 @@
           "language": "en",
           "name": "parity",
           "short": "parity"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "pigeonhole_principle",
+      "isMeta": false,
+      "bojTagId": 189,
+      "problemCount": 62,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ub458\uae30\uc9d1 \uc6d0\ub9ac",
+          "short": "\ube44\ub458\uae30\uc9d1"
+        },
+        {
+          "language": "en",
+          "name": "pigeonhole principle",
+          "short": "pigeonhole"
+        },
+        {
+          "language": "ja",
+          "name": "\u9ce9\u306e\u5de3\u539f\u7406",
+          "short": "\u9ce9"
         }
       ],
       "aliases": []
