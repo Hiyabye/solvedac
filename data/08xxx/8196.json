@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 68,
+  "acceptedUserCount": 71,
   "level": 16,
-  "votedUserCount": 14,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7794,
+  "averageTries": 1.8451,
   "official": true,
   "tags": [
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4785,
+      "problemCount": 4790,
       "displayNames": [
         {
           "language": "ko",
@@ -55,10 +55,62 @@
       ]
     },
     {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 3200,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2240,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "game_theory",
       "isMeta": false,
       "bojTagId": 140,
-      "problemCount": 472,
+      "problemCount": 474,
       "displayNames": [
         {
           "language": "ko",
@@ -87,58 +139,6 @@
           "alias": "nim"
         }
       ]
-    },
-    {
-      "key": "greedy",
-      "isMeta": false,
-      "bojTagId": 33,
-      "problemCount": 3196,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
-          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
-        },
-        {
-          "language": "en",
-          "name": "greedy",
-          "short": "greedy"
-        },
-        {
-          "language": "ja",
-          "name": "\u8caa\u6b32\u6cd5",
-          "short": "\u8caa\u6b32\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud0d0\uc695\ubc95"
-        }
-      ]
-    },
-    {
-      "key": "sorting",
-      "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2238,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
