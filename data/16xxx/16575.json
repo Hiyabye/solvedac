@@ -11,46 +11,15 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 30,
-  "level": 21,
-  "votedUserCount": 6,
+  "acceptedUserCount": 31,
+  "level": 22,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.2333,
+  "averageTries": 3.6774,
   "official": true,
   "tags": [
-    {
-      "key": "eulerian_path",
-      "isMeta": false,
-      "bojTagId": 93,
-      "problemCount": 74,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\uc77c\ub7ec \uacbd\ub85c",
-          "short": "\uc624\uc77c\ub7ec \uacbd\ub85c"
-        },
-        {
-          "language": "en",
-          "name": "eulerian path / circuit",
-          "short": "eulerian path"
-        },
-        {
-          "language": "ja",
-          "name": "eulerian path / circuit",
-          "short": "eulerian path"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "eulerian circuit"
-        },
-        {
-          "alias": "euler tour"
-        }
-      ]
-    },
     {
       "key": "graphs",
       "isMeta": false,
@@ -83,30 +52,6 @@
       ]
     },
     {
-      "key": "hashing",
-      "isMeta": false,
-      "bojTagId": 8,
-      "problemCount": 202,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574\uc2f1",
-          "short": "\ud574\uc2f1"
-        },
-        {
-          "language": "en",
-          "name": "hashing",
-          "short": "hash"
-        },
-        {
-          "language": "ja",
-          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
-          "short": "\u30cf\u30c3\u30b7\u30e5"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "randomization",
       "isMeta": false,
       "bojTagId": 115,
@@ -131,6 +76,37 @@
       "aliases": [
         {
           "alias": "\ub79c\ub364"
+        }
+      ]
+    },
+    {
+      "key": "eulerian_path",
+      "isMeta": false,
+      "bojTagId": 93,
+      "problemCount": 74,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\uc77c\ub7ec \uacbd\ub85c",
+          "short": "\uc624\uc77c\ub7ec \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "eulerian path / circuit",
+          "short": "eulerian path"
+        },
+        {
+          "language": "ja",
+          "name": "eulerian path / circuit",
+          "short": "eulerian path"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "eulerian circuit"
+        },
+        {
+          "alias": "euler tour"
         }
       ]
     }
