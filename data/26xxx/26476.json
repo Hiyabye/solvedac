@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 3,
+  "acceptedUserCount": 4,
   "level": 21,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1,
+  "averageTries": 1.5,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7598,
+      "problemCount": 7603,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6428,
+      "problemCount": 6431,
       "displayNames": [
         {
           "language": "ko",
@@ -96,7 +96,7 @@
       "key": "simulation",
       "isMeta": false,
       "bojTagId": 141,
-      "problemCount": 1282,
+      "problemCount": 1283,
       "displayNames": [
         {
           "language": "ko",
@@ -178,6 +178,37 @@
       "aliases": [
         {
           "alias": "\ucee8\ubca1\uc2a4\ud5d0"
+        }
+      ]
+    },
+    {
+      "key": "calculus",
+      "isMeta": false,
+      "bojTagId": 111,
+      "problemCount": 150,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubbf8\uc801\ubd84\ud559",
+          "short": "\ubbf8\uc801\ubd84\ud559"
+        },
+        {
+          "language": "en",
+          "name": "calculus",
+          "short": "calculus"
+        },
+        {
+          "language": "ja",
+          "name": "\u5fae\u7a4d\u5206",
+          "short": "\u5fae\u7a4d\u5206"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ubbf8\ubd84"
+        },
+        {
+          "alias": "\uc801\ubd84"
         }
       ]
     },
