@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 10,
+  "acceptedUserCount": 12,
   "level": 21,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.5,
+  "averageTries": 2.6667,
   "official": true,
   "tags": [
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4790,
+      "problemCount": 4794,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2239,
+      "problemCount": 2238,
       "displayNames": [
         {
           "language": "ko",
@@ -82,7 +82,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1880,
+      "problemCount": 1881,
       "displayNames": [
         {
           "language": "ko",
@@ -129,6 +129,25 @@
           "alias": "\ucee8\ubca1\uc2a4\ud5d0"
         }
       ]
+    },
+    {
+      "key": "angle_sorting",
+      "isMeta": false,
+      "bojTagId": 240,
+      "problemCount": 36,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac01\ub3c4 \uc815\ub82c",
+          "short": "\uac01\ub3c4 \uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "angle sorting",
+          "short": "angle sorting"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
