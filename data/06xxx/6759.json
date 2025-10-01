@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 9,
+  "acceptedUserCount": 10,
   "level": 18,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.6667,
+  "averageTries": 1.6,
   "official": true,
   "tags": [
     {
@@ -45,34 +45,10 @@
       "aliases": []
     },
     {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6433,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4738,
+      "problemCount": 4740,
       "displayNames": [
         {
           "language": "ko",
@@ -103,7 +79,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2368,
+      "problemCount": 2370,
       "displayNames": [
         {
           "language": "ko",
@@ -171,37 +147,6 @@
       ]
     },
     {
-      "key": "bfs",
-      "isMeta": false,
-      "bojTagId": 126,
-      "problemCount": 1161,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "breadth-first search",
-          "short": "bfs"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e45\u512a\u5148\u691c\u7d22",
-          "short": "bfs"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "breadthfirst"
-        },
-        {
-          "alias": "breadth first"
-        }
-      ]
-    },
-    {
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
@@ -231,6 +176,25 @@
           "alias": "depthfirst"
         }
       ]
+    },
+    {
+      "key": "tree_diameter",
+      "isMeta": false,
+      "bojTagId": 222,
+      "problemCount": 38,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\uc758 \uc9c0\ub984",
+          "short": "\ud2b8\ub9ac\uc758 \uc9c0\ub984"
+        },
+        {
+          "language": "en",
+          "name": "diameter of a tree",
+          "short": "tree diameter"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 17,
   "level": 12,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,67 +21,33 @@
   "official": true,
   "tags": [
     {
-      "key": "backtracking",
+      "key": "data_structures",
       "isMeta": false,
-      "bojTagId": 5,
-      "problemCount": 625,
+      "bojTagId": 175,
+      "problemCount": 4709,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubc31\ud2b8\ub798\ud0b9",
-          "short": "\ubc31\ud2b8\ub798\ud0b9"
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
         },
         {
           "language": "en",
-          "name": "backtracking",
-          "short": "backtrack"
+          "name": "data structures",
+          "short": "ds"
         },
         {
           "language": "ja",
-          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
-          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
         }
       ],
       "aliases": [
         {
-          "alias": "\ubc31\ud2b8\ub798\ud0b9"
+          "alias": "\uc790\ub8cc\uad6c\uc870"
         },
         {
-          "alias": "\ud1f4\uac01\uac80\uc0c9"
-        },
-        {
-          "alias": "\ud1f4\uac01 \uac80\uc0c9"
-        }
-      ]
-    },
-    {
-      "key": "bitmask",
-      "isMeta": false,
-      "bojTagId": 14,
-      "problemCount": 908,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
-          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
-        },
-        {
-          "language": "en",
-          "name": "bitmask",
-          "short": "bitmask"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
-          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ube44\ud2b8\ud544\ub4dc"
-        },
-        {
-          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+          "alias": "\uc790\uad6c"
         }
       ]
     },
@@ -89,7 +55,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2594,
+      "problemCount": 2595,
       "displayNames": [
         {
           "language": "ko",
@@ -129,33 +95,52 @@
       ]
     },
     {
-      "key": "data_structures",
+      "key": "set",
       "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4708,
+      "bojTagId": 225,
+      "problemCount": 1434,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
         },
         {
           "language": "en",
-          "name": "data structures",
-          "short": "ds"
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "bitmask",
+      "isMeta": false,
+      "bojTagId": 14,
+      "problemCount": 907,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
+          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "bitmask",
+          "short": "bitmask"
         },
         {
           "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
+          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
+          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
+          "alias": "\ube44\ud2b8\ud544\ub4dc"
         },
         {
-          "alias": "\uc790\uad6c"
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
         }
       ]
     },
@@ -213,49 +198,6 @@
           "alias": "dict"
         }
       ]
-    },
-    {
-      "key": "sorting",
-      "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2239,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "set",
-      "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1435,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map",
-          "short": "set"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
