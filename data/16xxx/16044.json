@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 19,
   "level": 18,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7605,
+      "problemCount": 7608,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4709,
+      "problemCount": 4710,
       "displayNames": [
         {
           "language": "ko",
@@ -135,7 +135,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1755,
+      "problemCount": 1757,
       "displayNames": [
         {
           "language": "ko",
@@ -233,30 +233,6 @@
       ]
     },
     {
-      "key": "trie",
-      "isMeta": false,
-      "bojTagId": 79,
-      "problemCount": 150,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub77c\uc774",
-          "short": "\ud2b8\ub77c\uc774"
-        },
-        {
-          "language": "en",
-          "name": "trie",
-          "short": "trie"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c8\u30e9\u30a4\u6728",
-          "short": "\u30c8\u30e9\u30a4"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "modular_multiplicative_inverse",
       "isMeta": false,
       "bojTagId": 164,
@@ -283,6 +259,30 @@
           "alias": "modinv"
         }
       ]
+    },
+    {
+      "key": "trie",
+      "isMeta": false,
+      "bojTagId": 79,
+      "problemCount": 150,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub77c\uc774",
+          "short": "\ud2b8\ub77c\uc774"
+        },
+        {
+          "language": "en",
+          "name": "trie",
+          "short": "trie"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c8\u30e9\u30a4\u6728",
+          "short": "\u30c8\u30e9\u30a4"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
