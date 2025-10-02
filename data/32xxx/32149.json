@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 9,
   "level": 22,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4709,
+      "problemCount": 4710,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "disjoint_set",
       "isMeta": false,
       "bojTagId": 81,
-      "problemCount": 604,
+      "problemCount": 605,
       "displayNames": [
         {
           "language": "ko",
@@ -92,6 +92,34 @@
       ]
     },
     {
+      "key": "offline_queries",
+      "isMeta": false,
+      "bojTagId": 123,
+      "problemCount": 334,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
+          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "offline queries",
+          "short": "offline query"
+        },
+        {
+          "language": "ja",
+          "name": "offline queries",
+          "short": "offline query"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "offlinequery"
+        }
+      ]
+    },
+    {
       "key": "mo",
       "isMeta": false,
       "bojTagId": 50,
@@ -122,34 +150,6 @@
         },
         {
           "alias": "\ud3c9\ubc29\ubd84\ud560\ubc95"
-        }
-      ]
-    },
-    {
-      "key": "offline_queries",
-      "isMeta": false,
-      "bojTagId": 123,
-      "problemCount": 334,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
-          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "offline queries",
-          "short": "offline query"
-        },
-        {
-          "language": "ja",
-          "name": "offline queries",
-          "short": "offline query"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "offlinequery"
         }
       ]
     }

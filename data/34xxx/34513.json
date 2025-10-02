@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 49,
+  "acceptedUserCount": 50,
   "level": 14,
-  "votedUserCount": 10,
+  "votedUserCount": 11,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.5102,
+  "averageTries": 3.46,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4740,
+      "problemCount": 4745,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2370,
+      "problemCount": 2372,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 1161,
+      "problemCount": 1163,
       "displayNames": [
         {
           "language": "ko",
@@ -117,7 +117,7 @@
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 927,
+      "problemCount": 929,
       "displayNames": [
         {
           "language": "ko",
@@ -141,7 +141,7 @@
       "key": "dijkstra",
       "isMeta": false,
       "bojTagId": 22,
-      "problemCount": 679,
+      "problemCount": 680,
       "displayNames": [
         {
           "language": "ko",
@@ -170,6 +170,25 @@
           "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
         }
       ]
+    },
+    {
+      "key": "grid_graph",
+      "isMeta": false,
+      "bojTagId": 221,
+      "problemCount": 194,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
+          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "grid graph",
+          "short": "grid graph"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "0_1_bfs",

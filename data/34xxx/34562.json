@@ -1,0 +1,269 @@
+{
+  "problemId": 34562,
+  "titleKo": "\ud130\uce58 \uc564 \ub9ac\ud134",
+  "titles": [
+    {
+      "language": "ko",
+      "languageDisplayName": "ko",
+      "title": "\ud130\uce58 \uc564 \ub9ac\ud134",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 15,
+  "level": 18,
+  "votedUserCount": 6,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 4.3333,
+  "official": true,
+  "tags": [
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 4797,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4745,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "shortest_path",
+      "isMeta": false,
+      "bojTagId": 215,
+      "problemCount": 929,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
+          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "shortest path",
+          "short": "shortest path"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u77ed\u7d4c\u8def",
+          "short": "\u6700\u77ed\u7d4c\u8def"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "bitmask",
+      "isMeta": false,
+      "bojTagId": 14,
+      "problemCount": 910,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
+          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "bitmask",
+          "short": "bitmask"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
+          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ube44\ud2b8\ud544\ub4dc"
+        },
+        {
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+        }
+      ]
+    },
+    {
+      "key": "dp_bitfield",
+      "isMeta": false,
+      "bojTagId": 87,
+      "problemCount": 358,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8\ud544\ub4dc\ub97c \uc774\uc6a9\ud55c \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ube44\ud2b8\ud544\ub4dc\ub97c \uc774\uc6a9\ud55c \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming using bitfield",
+          "short": "bitfield dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d3\u30c3\u30c8\u3092\u4f7f\u7528\u3057\u305f\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "\u30d3\u30c3\u30c8dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+        },
+        {
+          "alias": "\ube44\ud2b8dp"
+        }
+      ]
+    },
+    {
+      "key": "knapsack",
+      "isMeta": false,
+      "bojTagId": 148,
+      "problemCount": 326,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc30\ub0ad \ubb38\uc81c",
+          "short": "\ubc30\ub0ad"
+        },
+        {
+          "language": "en",
+          "name": "knapsack",
+          "short": "knapsack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af\u554f\u984c",
+          "short": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub0c5\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "floyd_warshall",
+      "isMeta": false,
+      "bojTagId": 31,
+      "problemCount": 190,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud50c\ub85c\uc774\ub4dc\u2013\uc6cc\uc15c",
+          "short": "\ud50c\ub85c\uc774\ub4dc\u2013\uc6cc\uc15c"
+        },
+        {
+          "language": "en",
+          "name": "floyd\u2013warshall",
+          "short": "floyd\u2013warshall"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ef\u30fc\u30b7\u30e3\u30eb\u2013\u30d5\u30ed\u30a4\u30c9\u6cd5",
+          "short": "\u30ef\u30fc\u30b7\u30e3\u30eb\u2013\u30d5\u30ed\u30a4\u30c9\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud50c\ub85c\uc774\ub4dc"
+        },
+        {
+          "alias": "\ud50c\ub85c\uc774\ub4dc\uc640\uc15c"
+        },
+        {
+          "alias": "\ud50c\ub85c\uc774\ub4dc\uc640\uc0ec"
+        }
+      ]
+    },
+    {
+      "key": "tsp",
+      "isMeta": false,
+      "bojTagId": 138,
+      "problemCount": 67,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc678\ud310\uc6d0 \uc21c\ud68c \ubb38\uc81c",
+          "short": "\uc678\ud310\uc6d0 \uc21c\ud68c"
+        },
+        {
+          "language": "en",
+          "name": "travelling salesman problem",
+          "short": "tsp"
+        },
+        {
+          "language": "ja",
+          "name": "\u5de1\u56de\u30bb\u30fc\u30eb\u30b9\u30de\u30f3\u554f\u984c",
+          "short": "\u5de1\u56de\u30bb\u30fc\u30eb\u30b9\u30de\u30f3"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc678\ud310\uc6d0\uc21c\ud68c"
+        }
+      ]
+    }
+  ],
+  "metadata": {}
+}
