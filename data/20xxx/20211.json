@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 24,
-  "level": 20,
-  "votedUserCount": 6,
+  "acceptedUserCount": 26,
+  "level": 19,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.25,
+  "averageTries": 2.1538,
   "official": true,
   "tags": [
     {
@@ -55,7 +55,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1257,
+      "problemCount": 1258,
       "displayNames": [
         {
           "language": "ko",
@@ -84,6 +84,25 @@
           "alias": "rangesum"
         }
       ]
+    },
+    {
+      "key": "parity",
+      "isMeta": false,
+      "bojTagId": 230,
+      "problemCount": 132,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud640\uc9dd\uc131",
+          "short": "\ud640\uc9dd\uc131"
+        },
+        {
+          "language": "en",
+          "name": "parity",
+          "short": "parity"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
