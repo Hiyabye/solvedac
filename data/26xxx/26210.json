@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 17,
   "level": 7,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6443,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3205,
+      "problemCount": 3206,
       "displayNames": [
         {
           "language": "ko",
@@ -49,28 +73,47 @@
       ]
     },
     {
-      "key": "implementation",
+      "key": "bruteforcing",
       "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6443,
+      "bojTagId": 125,
+      "problemCount": 2599,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
+          "name": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998",
+          "short": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998"
         },
         {
           "language": "en",
-          "name": "implementation",
-          "short": "impl"
+          "name": "bruteforcing",
+          "short": "bruteforce"
         },
         {
           "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
+          "name": "\u5168\u63a2\u7d22",
+          "short": "\u5168\u63a2\u7d22"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc644\uc804\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc644\uc804 \ud0d0\uc0c9"
+        },
+        {
+          "alias": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4"
+        },
+        {
+          "alias": "bruteforce"
+        },
+        {
+          "alias": "brute force"
+        },
+        {
+          "alias": "\uc644\ud0d0"
+        }
+      ]
     },
     {
       "key": "simulation",
