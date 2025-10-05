@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 131,
+  "acceptedUserCount": 136,
   "level": 22,
-  "votedUserCount": 31,
+  "votedUserCount": 32,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.5115,
+  "averageTries": 3.5,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4711,
+      "problemCount": 4713,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +83,7 @@
       "key": "set",
       "isMeta": false,
       "bojTagId": 225,
-      "problemCount": 1437,
+      "problemCount": 1438,
       "displayNames": [
         {
           "language": "ko",
@@ -99,41 +99,10 @@
       "aliases": []
     },
     {
-      "key": "sparse_table",
-      "isMeta": false,
-      "bojTagId": 84,
-      "problemCount": 195,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud76c\uc18c \ubc30\uc5f4",
-          "short": "\ud76c\uc18c \ubc30\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "sparse table",
-          "short": "sparse table"
-        },
-        {
-          "language": "ja",
-          "name": "sparse table",
-          "short": "sparse table"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc2a4\ud30c\uc2a4\uc5b4\ub808\uc774"
-        },
-        {
-          "alias": "sparse table"
-        }
-      ]
-    },
-    {
       "key": "tree_set",
       "isMeta": false,
       "bojTagId": 74,
-      "problemCount": 534,
+      "problemCount": 535,
       "displayNames": [
         {
           "language": "ko",
@@ -181,6 +150,37 @@
         },
         {
           "alias": "tree"
+        }
+      ]
+    },
+    {
+      "key": "sparse_table",
+      "isMeta": false,
+      "bojTagId": 84,
+      "problemCount": 195,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud76c\uc18c \ubc30\uc5f4",
+          "short": "\ud76c\uc18c \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "sparse table",
+          "short": "sparse table"
+        },
+        {
+          "language": "ja",
+          "name": "sparse table",
+          "short": "sparse table"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud30c\uc2a4\uc5b4\ub808\uc774"
+        },
+        {
+          "alias": "sparse table"
         }
       ]
     }
