@@ -11,9 +11,9 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 2,
+  "acceptedUserCount": 3,
   "level": 0,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 2047,
+      "problemCount": 2050,
       "displayNames": [
         {
           "language": "ko",
@@ -45,28 +45,38 @@
       "aliases": []
     },
     {
-      "key": "heuristics",
+      "key": "constructive",
       "isMeta": false,
-      "bojTagId": 142,
-      "problemCount": 127,
+      "bojTagId": 128,
+      "problemCount": 1390,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud734\ub9ac\uc2a4\ud2f1",
-          "short": "\ud734\ub9ac\uc2a4\ud2f1"
+          "name": "\ud574 \uad6c\uc131\ud558\uae30",
+          "short": "\ud574 \uad6c\uc131\ud558\uae30"
         },
         {
           "language": "en",
-          "name": "heuristics",
-          "short": "heuristics"
+          "name": "constructive",
+          "short": "constructive"
         },
         {
           "language": "ja",
-          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
-          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
+          "name": "\u69cb\u6210\u7684",
+          "short": "\u69cb\u6210\u7684"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "constructive"
+        },
+        {
+          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
+        },
+        {
+          "alias": "\uad6c\uc131\uc801"
+        }
+      ]
     },
     {
       "key": "precomputation",
@@ -129,6 +139,30 @@
           "alias": "\ub79c\ub364"
         }
       ]
+    },
+    {
+      "key": "heuristics",
+      "isMeta": false,
+      "bojTagId": 142,
+      "problemCount": 127,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud734\ub9ac\uc2a4\ud2f1",
+          "short": "\ud734\ub9ac\uc2a4\ud2f1"
+        },
+        {
+          "language": "en",
+          "name": "heuristics",
+          "short": "heuristics"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
+          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "tsp",

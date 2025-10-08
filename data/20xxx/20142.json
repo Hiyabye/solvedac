@@ -11,20 +11,44 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 11,
+  "acceptedUserCount": 12,
   "level": 12,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.1818,
+  "averageTries": 2.0833,
   "official": true,
   "tags": [
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2245,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 2047,
+      "problemCount": 2050,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +72,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1383,
+      "problemCount": 1390,
       "displayNames": [
         {
           "language": "ko",
@@ -77,30 +101,6 @@
           "alias": "\uad6c\uc131\uc801"
         }
       ]
-    },
-    {
-      "key": "heuristics",
-      "isMeta": false,
-      "bojTagId": 142,
-      "problemCount": 127,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud734\ub9ac\uc2a4\ud2f1",
-          "short": "\ud734\ub9ac\uc2a4\ud2f1"
-        },
-        {
-          "language": "en",
-          "name": "heuristics",
-          "short": "heuristics"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
-          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "precomputation",
@@ -137,25 +137,25 @@
       ]
     },
     {
-      "key": "sorting",
+      "key": "heuristics",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2242,
+      "bojTagId": 142,
+      "problemCount": 127,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\ud734\ub9ac\uc2a4\ud2f1",
+          "short": "\ud734\ub9ac\uc2a4\ud2f1"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
+          "name": "heuristics",
+          "short": "heuristics"
         },
         {
           "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
+          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
         }
       ],
       "aliases": []
