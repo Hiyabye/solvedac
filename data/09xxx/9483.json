@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 17,
+  "acceptedUserCount": 18,
   "level": 22,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4,
+  "averageTries": 4.1667,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7618,
+      "problemCount": 7624,
       "displayNames": [
         {
           "language": "ko",
@@ -73,6 +73,34 @@
       ]
     },
     {
+      "key": "divide_and_conquer",
+      "isMeta": false,
+      "bojTagId": 24,
+      "problemCount": 474,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
+        },
+        {
+          "language": "en",
+          "name": "divide and conquer",
+          "short": "d&c"
+        },
+        {
+          "language": "ja",
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dnc"
+        }
+      ]
+    },
+    {
       "key": "suffix_array",
       "isMeta": false,
       "bojTagId": 77,
@@ -111,6 +139,30 @@
           "language": "en",
           "name": "harmonic number",
           "short": "harmonic number"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "z",
+      "isMeta": false,
+      "bojTagId": 83,
+      "problemCount": 22,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "z",
+          "short": "Z"
+        },
+        {
+          "language": "en",
+          "name": "z",
+          "short": "z"
+        },
+        {
+          "language": "ja",
+          "name": "z",
+          "short": "z"
         }
       ],
       "aliases": []
