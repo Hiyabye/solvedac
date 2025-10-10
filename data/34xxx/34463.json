@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 5,
   "level": 12,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3215,
+      "problemCount": 3218,
       "displayNames": [
         {
           "language": "ko",
@@ -52,7 +52,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2820,
+      "problemCount": 2819,
       "displayNames": [
         {
           "language": "ko",
@@ -80,7 +80,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 2056,
+      "problemCount": 2059,
       "displayNames": [
         {
           "language": "ko",
@@ -96,6 +96,44 @@
           "language": "ja",
           "name": "\u30a2\u30c9\u30db\u30c3\u30af",
           "short": "\u30a2\u30c9\u30db\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "parity",
+      "isMeta": false,
+      "bojTagId": 230,
+      "problemCount": 136,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud640\uc9dd\uc131",
+          "short": "\ud640\uc9dd\uc131"
+        },
+        {
+          "language": "en",
+          "name": "parity",
+          "short": "parity"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "invariant",
+      "isMeta": false,
+      "bojTagId": 229,
+      "problemCount": 38,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd88\ubcc0\ub7c9 \ucc3e\uae30",
+          "short": "\ubd88\ubcc0\ub7c9"
+        },
+        {
+          "language": "en",
+          "name": "finding invariants",
+          "short": "invariant"
         }
       ],
       "aliases": []
