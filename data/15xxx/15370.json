@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 39,
   "level": 20,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7625,
+      "problemCount": 7629,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4726,
+      "problemCount": 4731,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1762,
+      "problemCount": 1764,
       "displayNames": [
         {
           "language": "ko",
@@ -134,7 +134,7 @@
       "key": "disjoint_set",
       "isMeta": false,
       "bojTagId": 81,
-      "problemCount": 606,
+      "problemCount": 607,
       "displayNames": [
         {
           "language": "ko",
@@ -171,46 +171,6 @@
       ]
     },
     {
-      "key": "smaller_to_larger",
-      "isMeta": false,
-      "bojTagId": 169,
-      "problemCount": 166,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9",
-          "short": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9"
-        },
-        {
-          "language": "en",
-          "name": "smaller to larger technique",
-          "short": "smaller to larger"
-        },
-        {
-          "language": "ja",
-          "name": "smaller to larger technique",
-          "short": "smaller to larger"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "merge heuristics"
-        },
-        {
-          "alias": "sack"
-        },
-        {
-          "alias": "small to large"
-        },
-        {
-          "alias": "\uc791\uc740\uac70"
-        },
-        {
-          "alias": "\ud070\uac70"
-        }
-      ]
-    },
-    {
       "key": "pbs",
       "isMeta": false,
       "bojTagId": 54,
@@ -230,6 +190,25 @@
           "language": "ja",
           "name": "parallel binary search",
           "short": "pbs"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "harmonic_number",
+      "isMeta": false,
+      "bojTagId": 241,
+      "problemCount": 38,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc870\ud654\uc218",
+          "short": "\uc870\ud654\uc218"
+        },
+        {
+          "language": "en",
+          "name": "harmonic number",
+          "short": "harmonic number"
         }
       ],
       "aliases": []
