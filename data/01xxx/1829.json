@@ -11,45 +11,62 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 41,
+  "acceptedUserCount": 43,
   "level": 17,
-  "votedUserCount": 17,
+  "votedUserCount": 19,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4.3659,
+  "averageTries": 4.3721,
   "official": true,
   "tags": [
     {
-      "key": "bitmask",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 14,
-      "problemCount": 914,
+      "bojTagId": 124,
+      "problemCount": 7629,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
-          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "bitmask",
-          "short": "bitmask"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
-          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
-      "aliases": [
+      "aliases": []
+    },
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6459,
+      "displayNames": [
         {
-          "alias": "\ube44\ud2b8\ud544\ub4dc"
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
         },
         {
-          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
         }
-      ]
+      ],
+      "aliases": []
     },
     {
       "key": "constructive",
@@ -86,52 +103,35 @@
       ]
     },
     {
-      "key": "implementation",
+      "key": "bitmask",
       "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6459,
+      "bojTagId": 14,
+      "problemCount": 914,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
+          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
+          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
         },
         {
           "language": "en",
-          "name": "implementation",
-          "short": "impl"
+          "name": "bitmask",
+          "short": "bitmask"
         },
         {
           "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
+          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
+          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
         }
       ],
-      "aliases": []
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7629,
-      "displayNames": [
+      "aliases": [
         {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "alias": "\ube44\ud2b8\ud544\ub4dc"
         },
         {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
         }
-      ],
-      "aliases": []
+      ]
     }
   ],
   "metadata": {}
