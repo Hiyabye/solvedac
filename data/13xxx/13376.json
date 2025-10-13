@@ -11,67 +11,15 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 26,
+  "acceptedUserCount": 27,
   "level": 9,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.3077,
+  "averageTries": 1.4815,
   "official": true,
   "tags": [
-    {
-      "key": "regex",
-      "isMeta": false,
-      "bojTagId": 63,
-      "problemCount": 35,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\uaddc \ud45c\ud604\uc2dd",
-          "short": "\uc815\uaddc \ud45c\ud604\uc2dd"
-        },
-        {
-          "language": "en",
-          "name": "regular expression",
-          "short": "regex"
-        },
-        {
-          "language": "ja",
-          "name": "\u6b63\u898f\u8868\u73fe",
-          "short": "regex"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc815\uaddc\uc2dd"
-        }
-      ]
-    },
-    {
-      "key": "sorting",
-      "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2248,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
-    },
     {
       "key": "string",
       "isMeta": false,
@@ -97,6 +45,58 @@
       "aliases": [
         {
           "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2250,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "regex",
+      "isMeta": false,
+      "bojTagId": 63,
+      "problemCount": 35,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uaddc \ud45c\ud604\uc2dd",
+          "short": "\uc815\uaddc \ud45c\ud604\uc2dd"
+        },
+        {
+          "language": "en",
+          "name": "regular expression",
+          "short": "regex"
+        },
+        {
+          "language": "ja",
+          "name": "\u6b63\u898f\u8868\u73fe",
+          "short": "regex"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc815\uaddc\uc2dd"
         }
       ]
     }

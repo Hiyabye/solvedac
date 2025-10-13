@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 23,
   "level": 21,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4733,
+      "problemCount": 4734,
       "displayNames": [
         {
           "language": "ko",
@@ -52,10 +52,47 @@
       ]
     },
     {
+      "key": "segtree",
+      "isMeta": false,
+      "bojTagId": 65,
+      "problemCount": 1578,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "segment tree",
+          "short": "segtree"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
+          "short": "\u30bb\u30b0\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud2b8\ub9ac"
+        },
+        {
+          "alias": "\uc138\uadf8\ud2b8\ub9ac"
+        },
+        {
+          "alias": "fenwick"
+        },
+        {
+          "alias": "\ud39c\uc705"
+        }
+      ]
+    },
+    {
       "key": "lazyprop",
       "isMeta": false,
       "bojTagId": 66,
-      "problemCount": 374,
+      "problemCount": 375,
       "displayNames": [
         {
           "language": "ko",
@@ -123,6 +160,25 @@
       ]
     },
     {
+      "key": "difference_array",
+      "isMeta": false,
+      "bojTagId": 239,
+      "problemCount": 73,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
+          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "difference array",
+          "short": "difference array"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "pst",
       "isMeta": false,
       "bojTagId": 55,
@@ -153,43 +209,6 @@
         },
         {
           "alias": "\ud37c\uc2dc\uc2a4\ud134\ud2b8\uc138\uadf8\ud2b8\ub9ac"
-        }
-      ]
-    },
-    {
-      "key": "segtree",
-      "isMeta": false,
-      "bojTagId": 65,
-      "problemCount": 1577,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
-          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "segment tree",
-          "short": "segtree"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
-          "short": "\u30bb\u30b0\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uad6c\uac04\ud2b8\ub9ac"
-        },
-        {
-          "alias": "\uc138\uadf8\ud2b8\ub9ac"
-        },
-        {
-          "alias": "fenwick"
-        },
-        {
-          "alias": "\ud39c\uc705"
         }
       ]
     }
