@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 5,
   "level": 29,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,65 @@
   "official": true,
   "tags": [
     {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7635,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4754,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
       "key": "calculus",
       "isMeta": false,
       "bojTagId": 111,
-      "problemCount": 153,
+      "problemCount": 154,
       "displayNames": [
         {
           "language": "ko",
@@ -50,6 +105,30 @@
           "alias": "\uc801\ubd84"
         }
       ]
+    },
+    {
+      "key": "ternary_search",
+      "isMeta": false,
+      "bojTagId": 101,
+      "problemCount": 134,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc0bc\ubd84 \ud0d0\uc0c9",
+          "short": "\uc0bc\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "ternary search",
+          "short": "ternary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e09\u5206\u63a2\u7d22",
+          "short": "\u4e09\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "general_matching",
@@ -93,85 +172,6 @@
           "alias": "\ubd80\ud569"
         }
       ]
-    },
-    {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4751,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7630,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "ternary_search",
-      "isMeta": false,
-      "bojTagId": 101,
-      "problemCount": 134,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc0bc\ubd84 \ud0d0\uc0c9",
-          "short": "\uc0bc\ubd84 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "ternary search",
-          "short": "ternary search"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e09\u5206\u63a2\u7d22",
-          "short": "\u4e09\u5206\u63a2\u7d22"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
