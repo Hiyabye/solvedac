@@ -11,78 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 77,
+  "acceptedUserCount": 78,
   "level": 12,
-  "votedUserCount": 16,
+  "votedUserCount": 17,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.5195,
+  "averageTries": 2.5256,
   "official": true,
   "tags": [
-    {
-      "key": "0_1_bfs",
-      "isMeta": false,
-      "bojTagId": 176,
-      "problemCount": 77,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "0-1 \ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "0-1 \ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "0-1 bfs",
-          "short": "0-1 bfs"
-        },
-        {
-          "language": "ja",
-          "name": "0-1 bfs",
-          "short": "0-1 bfs"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "dijkstra",
-      "isMeta": false,
-      "bojTagId": 22,
-      "problemCount": 681,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
-          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
-        },
-        {
-          "language": "en",
-          "name": "dijkstra's",
-          "short": "dijkstra's"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
-          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub2e4\uc775"
-        },
-        {
-          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
-        },
-        {
-          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
-        }
-      ]
-    },
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4753,
+      "problemCount": 4754,
       "displayNames": [
         {
           "language": "ko",
@@ -144,7 +86,7 @@
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 930,
+      "problemCount": 931,
       "displayNames": [
         {
           "language": "ko",
@@ -160,6 +102,64 @@
           "language": "ja",
           "name": "\u6700\u77ed\u7d4c\u8def",
           "short": "\u6700\u77ed\u7d4c\u8def"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "dijkstra",
+      "isMeta": false,
+      "bojTagId": 22,
+      "problemCount": 682,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
+          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "language": "en",
+          "name": "dijkstra's",
+          "short": "dijkstra's"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
+          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub2e4\uc775"
+        },
+        {
+          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        }
+      ]
+    },
+    {
+      "key": "0_1_bfs",
+      "isMeta": false,
+      "bojTagId": 176,
+      "problemCount": 78,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "0-1 \ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "0-1 \ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "0-1 bfs",
+          "short": "0-1 bfs"
+        },
+        {
+          "language": "ja",
+          "name": "0-1 bfs",
+          "short": "0-1 bfs"
         }
       ],
       "aliases": []
