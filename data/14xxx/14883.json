@@ -11,48 +11,62 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 13,
-  "level": 25,
-  "votedUserCount": 4,
+  "acceptedUserCount": 14,
+  "level": 26,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.8462,
+  "averageTries": 2.8571,
   "official": true,
   "tags": [
     {
-      "key": "dp",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 4813,
+      "bojTagId": 124,
+      "problemCount": 7640,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
-      "aliases": [
+      "aliases": []
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1766,
+      "displayNames": [
         {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
         },
         {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
         },
         {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
         }
-      ]
+      ],
+      "aliases": []
     },
     {
       "key": "fft",
@@ -87,78 +101,6 @@
           "alias": "convolution"
         }
       ]
-    },
-    {
-      "key": "inclusion_and_exclusion",
-      "isMeta": false,
-      "bojTagId": 38,
-      "problemCount": 212,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac",
-          "short": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "inclusion and exclusion",
-          "short": "inclusion and exclusion"
-        },
-        {
-          "language": "ja",
-          "name": "\u5305\u9664\u539f\u7406",
-          "short": "\u5305\u9664\u539f\u7406"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7638,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "number_theory",
-      "isMeta": false,
-      "bojTagId": 95,
-      "problemCount": 1765,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\uc218\ub860",
-          "short": "\uc815\uc218\ub860"
-        },
-        {
-          "language": "en",
-          "name": "number theory",
-          "short": "number theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u6574\u6570\u8ad6",
-          "short": "\u6574\u6570\u8ad6"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
