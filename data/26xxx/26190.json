@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 54,
   "level": 12,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7638,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2611,
+      "problemCount": 2615,
       "displayNames": [
         {
           "language": "ko",
@@ -64,6 +88,30 @@
       ]
     },
     {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1767,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "euclidean",
       "isMeta": false,
       "bojTagId": 26,
@@ -90,54 +138,6 @@
           "alias": "\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
         }
       ]
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7639,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "number_theory",
-      "isMeta": false,
-      "bojTagId": 95,
-      "problemCount": 1767,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\uc218\ub860",
-          "short": "\uc815\uc218\ub860"
-        },
-        {
-          "language": "en",
-          "name": "number theory",
-          "short": "number theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u6574\u6570\u8ad6",
-          "short": "\u6574\u6570\u8ad6"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
