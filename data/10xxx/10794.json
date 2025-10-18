@@ -11,15 +11,77 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 47,
+  "acceptedUserCount": 48,
   "level": 26,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.7447,
+  "averageTries": 2.7083,
   "official": true,
   "tags": [
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4758,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "graph_traversal",
+      "isMeta": false,
+      "bojTagId": 11,
+      "problemCount": 2376,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
+          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "graph traversal",
+          "short": "traversal"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
+          "short": "\u6a2a\u65ad"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bfs"
+        },
+        {
+          "alias": "dfs"
+        }
+      ]
+    },
     {
       "key": "ad_hoc",
       "isMeta": false,
@@ -76,64 +138,42 @@
       ]
     },
     {
-      "key": "graphs",
+      "key": "articulation",
       "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4757,
+      "bojTagId": 4,
+      "problemCount": 71,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+          "name": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120",
+          "short": "\ub2e8\uc808\uc810\uacfc \ub2e8\uc808\uc120"
         },
         {
           "language": "en",
-          "name": "graph theory",
-          "short": "graph"
+          "name": "articulation points and bridges",
+          "short": "articulation points and bridges"
         },
         {
           "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
+          "name": "\u95a2\u7bc0\u70b9\u3068\u6a4b",
+          "short": "\u95a2\u7bc0\u70b9\u3068\u6a4b"
         }
       ],
       "aliases": [
         {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+          "alias": "\ub2e8\uc808\uc810"
         },
         {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "graph_traversal",
-      "isMeta": false,
-      "bojTagId": 11,
-      "problemCount": 2376,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
-          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+          "alias": "\ub2e8\uc808\uc120"
         },
         {
-          "language": "en",
-          "name": "graph traversal",
-          "short": "traversal"
+          "alias": "\ube0c\ub9ac\uc9c0"
         },
         {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
-          "short": "\u6a2a\u65ad"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bfs"
+          "alias": "\ube0c\ub9bf\uc9c0"
         },
         {
-          "alias": "dfs"
+          "alias": "bridge"
         }
       ]
     }
