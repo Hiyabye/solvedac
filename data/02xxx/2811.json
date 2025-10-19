@@ -30,7 +30,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6472,
+      "problemCount": 6474,
       "displayNames": [
         {
           "language": "ko",
@@ -54,7 +54,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2613,
+      "problemCount": 2615,
       "displayNames": [
         {
           "language": "ko",
@@ -97,7 +97,7 @@
       "key": "simulation",
       "isMeta": false,
       "bojTagId": 141,
-      "problemCount": 1294,
+      "problemCount": 1295,
       "displayNames": [
         {
           "language": "ko",
@@ -113,6 +113,59 @@
           "language": "ja",
           "name": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
           "short": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "prefix_sum",
+      "isMeta": false,
+      "bojTagId": 139,
+      "problemCount": 1269,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub204\uc801 \ud569",
+          "short": "\ub204\uc801 \ud569"
+        },
+        {
+          "language": "en",
+          "name": "prefix sum",
+          "short": "prefix sum"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d2f\u7a4d\u548c",
+          "short": "\u7d2f\u7a4d\u548c"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud569"
+        },
+        {
+          "alias": "\ubd80\ubd84\ud569"
+        },
+        {
+          "alias": "rangesum"
+        }
+      ]
+    },
+    {
+      "key": "difference_array",
+      "isMeta": false,
+      "bojTagId": 239,
+      "problemCount": 76,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
+          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "difference array",
+          "short": "difference array"
         }
       ],
       "aliases": []
