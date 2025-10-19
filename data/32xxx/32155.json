@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 28,
   "level": 12,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 2069,
+      "problemCount": 2068,
       "displayNames": [
         {
           "language": "ko",
@@ -43,34 +43,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "differential_cryptanalysis",
-      "isMeta": false,
-      "bojTagId": 185,
-      "problemCount": 10,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucc28\ubd84 \uacf5\uaca9",
-          "short": "\ucc28\ubd84 \uacf5\uaca9"
-        },
-        {
-          "language": "en",
-          "name": "differential cryptanalysis",
-          "short": "differential cryptanalysis"
-        },
-        {
-          "language": "ja",
-          "name": "differential cryptanalysis",
-          "short": "differential cryptanalysis"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "dc"
-        }
-      ]
     },
     {
       "key": "randomization",
@@ -97,6 +69,34 @@
       "aliases": [
         {
           "alias": "\ub79c\ub364"
+        }
+      ]
+    },
+    {
+      "key": "differential_cryptanalysis",
+      "isMeta": false,
+      "bojTagId": 185,
+      "problemCount": 10,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\ubd84 \uacf5\uaca9",
+          "short": "\ucc28\ubd84 \uacf5\uaca9"
+        },
+        {
+          "language": "en",
+          "name": "differential cryptanalysis",
+          "short": "differential cryptanalysis"
+        },
+        {
+          "language": "ja",
+          "name": "differential cryptanalysis",
+          "short": "differential cryptanalysis"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dc"
         }
       ]
     }
