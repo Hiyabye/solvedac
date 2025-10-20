@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 1,
+  "acceptedUserCount": 3,
   "level": 21,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 21,
+  "averageTries": 9.3333,
   "official": true,
   "tags": [
     {
@@ -43,6 +43,37 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4761,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
     },
     {
       "key": "data_structures",
@@ -79,7 +110,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 2069,
+      "problemCount": 2068,
       "displayNames": [
         {
           "language": "ko",
@@ -103,7 +134,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1893,
+      "problemCount": 1894,
       "displayNames": [
         {
           "language": "ko",
@@ -127,7 +158,7 @@
       "key": "set",
       "isMeta": false,
       "bojTagId": 225,
-      "problemCount": 1453,
+      "problemCount": 1452,
       "displayNames": [
         {
           "language": "ko",
@@ -143,59 +174,23 @@
       "aliases": []
     },
     {
-      "key": "hash_set",
+      "key": "grid_graph",
       "isMeta": false,
-      "bojTagId": 136,
-      "problemCount": 784,
+      "bojTagId": 221,
+      "problemCount": 198,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud574\uc2dc\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
-          "short": "\ud574\uc2dc\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
+          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
+          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
         },
         {
           "language": "en",
-          "name": "set / map by hashing",
-          "short": "hashset"
-        },
-        {
-          "language": "ja",
-          "name": "\u30cf\u30c3\u30b7\u30e5\u5316\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
-          "short": "hashset"
+          "name": "grid graph",
+          "short": "grid graph"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc9d1\ud569"
-        },
-        {
-          "alias": "\ub9f5"
-        },
-        {
-          "alias": "\uc14b"
-        },
-        {
-          "alias": "\ub515\uc154\ub108\ub9ac"
-        },
-        {
-          "alias": "dictionary"
-        },
-        {
-          "alias": "map"
-        },
-        {
-          "alias": "set"
-        },
-        {
-          "alias": "\ud574\uc2f1"
-        },
-        {
-          "alias": "hashing"
-        },
-        {
-          "alias": "dict"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "ternary_search",
