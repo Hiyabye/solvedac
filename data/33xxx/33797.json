@@ -24,7 +24,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6475,
+      "problemCount": 6474,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4741,
+      "problemCount": 4740,
       "displayNames": [
         {
           "language": "ko",
@@ -172,6 +172,37 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "eulerian_path",
+      "isMeta": false,
+      "bojTagId": 93,
+      "problemCount": 75,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\uc77c\ub7ec \uacbd\ub85c",
+          "short": "\uc624\uc77c\ub7ec \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "eulerian path / circuit",
+          "short": "eulerian path"
+        },
+        {
+          "language": "ja",
+          "name": "eulerian path / circuit",
+          "short": "eulerian path"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "eulerian circuit"
+        },
+        {
+          "alias": "euler tour"
+        }
+      ]
     },
     {
       "key": "linked_list",
