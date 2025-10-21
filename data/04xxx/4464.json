@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 48,
+  "acceptedUserCount": 49,
   "level": 21,
-  "votedUserCount": 12,
+  "votedUserCount": 13,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.6667,
+  "averageTries": 3.6735,
   "official": true,
   "tags": [
     {
@@ -196,30 +196,6 @@
       "aliases": []
     },
     {
-      "key": "pollard_rho",
-      "isMeta": false,
-      "bojTagId": 58,
-      "problemCount": 31,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud3f4\ub77c\ub4dc \ub85c",
-          "short": "\ud3f4\ub77c\ub4dc \ub85c"
-        },
-        {
-          "language": "en",
-          "name": "pollard rho",
-          "short": "pollard rho"
-        },
-        {
-          "language": "ja",
-          "name": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc\u7d20\u56e0\u6570\u5206\u89e3\u6cd5",
-          "short": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "miller_rabin",
       "isMeta": false,
       "bojTagId": 47,
@@ -239,6 +215,30 @@
           "language": "ja",
           "name": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3\u7d20\u6570\u5224\u5b9a\u6cd5",
           "short": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "pollard_rho",
+      "isMeta": false,
+      "bojTagId": 58,
+      "problemCount": 31,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud3f4\ub77c\ub4dc \ub85c",
+          "short": "\ud3f4\ub77c\ub4dc \ub85c"
+        },
+        {
+          "language": "en",
+          "name": "pollard rho",
+          "short": "pollard rho"
+        },
+        {
+          "language": "ja",
+          "name": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc\u7d20\u56e0\u6570\u5206\u89e3\u6cd5",
+          "short": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc"
         }
       ],
       "aliases": []
