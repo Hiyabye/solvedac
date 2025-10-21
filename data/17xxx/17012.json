@@ -12,7 +12,7 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 4,
-  "level": 12,
+  "level": 0,
   "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
@@ -49,28 +49,38 @@
       ]
     },
     {
-      "key": "recursion",
+      "key": "backtracking",
       "isMeta": false,
-      "bojTagId": 62,
-      "problemCount": 298,
+      "bojTagId": 5,
+      "problemCount": 631,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc7ac\uadc0",
-          "short": "\uc7ac\uadc0"
+          "name": "\ubc31\ud2b8\ub798\ud0b9",
+          "short": "\ubc31\ud2b8\ub798\ud0b9"
         },
         {
           "language": "en",
-          "name": "recursion",
-          "short": "recursion"
+          "name": "backtracking",
+          "short": "backtrack"
         },
         {
           "language": "ja",
-          "name": "\u518d\u5e30",
-          "short": "\u518d\u5e30"
+          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
+          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\ubc31\ud2b8\ub798\ud0b9"
+        },
+        {
+          "alias": "\ud1f4\uac01\uac80\uc0c9"
+        },
+        {
+          "alias": "\ud1f4\uac01 \uac80\uc0c9"
+        }
+      ]
     }
   ],
   "metadata": {}

@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 124,
   "level": 18,
-  "votedUserCount": 28,
+  "votedUserCount": 29,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4819,
+      "problemCount": 4821,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4761,
+      "problemCount": 4760,
       "displayNames": [
         {
           "language": "ko",
@@ -117,10 +117,41 @@
       ]
     },
     {
+      "key": "graph_traversal",
+      "isMeta": false,
+      "bojTagId": 11,
+      "problemCount": 2378,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
+          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "graph traversal",
+          "short": "traversal"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
+          "short": "\u6a2a\u65ad"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bfs"
+        },
+        {
+          "alias": "dfs"
+        }
+      ]
+    },
+    {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1774,
+      "problemCount": 1773,
       "displayNames": [
         {
           "language": "ko",
@@ -236,6 +267,25 @@
           "alias": "ett"
         }
       ]
+    },
+    {
+      "key": "rerooting",
+      "isMeta": false,
+      "bojTagId": 233,
+      "problemCount": 43,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \uc804\ubc29\ud5a5 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub9ac\ub8e8\ud305"
+        },
+        {
+          "language": "en",
+          "name": "rerooting on trees",
+          "short": "rerooting"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
