@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 9,
-  "level": 21,
-  "votedUserCount": 2,
+  "level": 7,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,34 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7639,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6474,
+      "problemCount": 6476,
       "displayNames": [
         {
           "language": "ko",
@@ -67,37 +43,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4760,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
     },
     {
       "key": "string",
@@ -128,158 +73,6 @@
       ]
     },
     {
-      "key": "graph_traversal",
-      "isMeta": false,
-      "bojTagId": 11,
-      "problemCount": 2377,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
-          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "graph traversal",
-          "short": "traversal"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
-          "short": "\u6a2a\u65ad"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bfs"
-        },
-        {
-          "alias": "dfs"
-        }
-      ]
-    },
-    {
-      "key": "geometry",
-      "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 1894,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
-        },
-        {
-          "language": "en",
-          "name": "geometry",
-          "short": "geom"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "number_theory",
-      "isMeta": false,
-      "bojTagId": 95,
-      "problemCount": 1767,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\uc218\ub860",
-          "short": "\uc815\uc218\ub860"
-        },
-        {
-          "language": "en",
-          "name": "number theory",
-          "short": "number theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u6574\u6570\u8ad6",
-          "short": "\u6574\u6570\u8ad6"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "arithmetic",
-      "isMeta": false,
-      "bojTagId": 121,
-      "problemCount": 1318,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc0ac\uce59\uc5f0\uc0b0",
-          "short": "\uc0ac\uce59\uc5f0\uc0b0"
-        },
-        {
-          "language": "en",
-          "name": "arithmetic",
-          "short": "arithmetic"
-        },
-        {
-          "language": "ja",
-          "name": "\u7b97\u6570",
-          "short": "\u7b97\u6570"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub367\uc148"
-        },
-        {
-          "alias": "\ube84\uc148"
-        },
-        {
-          "alias": "\uacf1\uc148"
-        },
-        {
-          "alias": "\ub098\ub217\uc148"
-        },
-        {
-          "alias": "\ub354\ud558\uae30"
-        },
-        {
-          "alias": "\ube7c\uae30"
-        },
-        {
-          "alias": "\uacf1\ud558\uae30"
-        },
-        {
-          "alias": "\ub098\ub204\uae30"
-        }
-      ]
-    },
-    {
-      "key": "simulation",
-      "isMeta": false,
-      "bojTagId": 141,
-      "problemCount": 1297,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc2dc\ubbac\ub808\uc774\uc158",
-          "short": "\uc2dc\ubbac\ub808\uc774\uc158"
-        },
-        {
-          "language": "en",
-          "name": "simulation",
-          "short": "simulation"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
-          "short": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "parsing",
       "isMeta": false,
       "bojTagId": 96,
@@ -299,30 +92,6 @@
           "language": "ja",
           "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
           "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "recursion",
-      "isMeta": false,
-      "bojTagId": 62,
-      "problemCount": 298,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc7ac\uadc0",
-          "short": "\uc7ac\uadc0"
-        },
-        {
-          "language": "en",
-          "name": "recursion",
-          "short": "recursion"
-        },
-        {
-          "language": "ja",
-          "name": "\u518d\u5e30",
-          "short": "\u518d\u5e30"
         }
       ],
       "aliases": []
