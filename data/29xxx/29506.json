@@ -12,7 +12,7 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 3,
-  "level": 13,
+  "level": 14,
   "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
@@ -21,56 +21,38 @@
   "official": true,
   "tags": [
     {
-      "key": "divide_and_conquer",
+      "key": "constructive",
       "isMeta": false,
-      "bojTagId": 24,
-      "problemCount": 471,
+      "bojTagId": 128,
+      "problemCount": 1399,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5",
-          "short": "\ubd84\ud560 \uc815\ubcf5"
+          "name": "\ud574 \uad6c\uc131\ud558\uae30",
+          "short": "\ud574 \uad6c\uc131\ud558\uae30"
         },
         {
           "language": "en",
-          "name": "divide and conquer",
-          "short": "d&c"
+          "name": "constructive",
+          "short": "constructive"
         },
         {
           "language": "ja",
-          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
-          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+          "name": "\u69cb\u6210\u7684",
+          "short": "\u69cb\u6210\u7684"
         }
       ],
       "aliases": [
         {
-          "alias": "dnc"
+          "alias": "constructive"
+        },
+        {
+          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
+        },
+        {
+          "alias": "\uad6c\uc131\uc801"
         }
       ]
-    },
-    {
-      "key": "recursion",
-      "isMeta": false,
-      "bojTagId": 62,
-      "problemCount": 296,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc7ac\uadc0",
-          "short": "\uc7ac\uadc0"
-        },
-        {
-          "language": "en",
-          "name": "recursion",
-          "short": "recursion"
-        },
-        {
-          "language": "ja",
-          "name": "\u518d\u5e30",
-          "short": "\u518d\u5e30"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
