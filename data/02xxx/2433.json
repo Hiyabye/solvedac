@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 177,
   "level": 16,
-  "votedUserCount": 34,
+  "votedUserCount": 36,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4741,
+      "problemCount": 4742,
       "displayNames": [
         {
           "language": "ko",
@@ -102,6 +102,30 @@
           "alias": "\uc2ac\ub77c\uc774\ub529\uc708\ub3c4"
         }
       ]
+    },
+    {
+      "key": "deque_trick",
+      "isMeta": false,
+      "bojTagId": 216,
+      "problemCount": 60,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub371\uc744 \uc774\uc6a9\ud55c \uad6c\uac04 \ucd5c\ub313\uac12 \ud2b8\ub9ad",
+          "short": "\ub371 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "deque range maximum trick",
+          "short": "deque rmq trick"
+        },
+        {
+          "language": "ja",
+          "name": "deque range maximum trick",
+          "short": "deque rmq trick"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
