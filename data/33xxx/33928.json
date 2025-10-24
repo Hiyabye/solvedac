@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 23,
   "level": 19,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -104,30 +104,6 @@
       ]
     },
     {
-      "key": "mfmc",
-      "isMeta": false,
-      "bojTagId": 167,
-      "problemCount": 92,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub300 \uc720\ub7c9 \ucd5c\uc18c \ucef7 \uc815\ub9ac",
-          "short": "\ucd5c\ub300 \uc720\ub7c9 \ucd5c\uc18c \ucef7 \uc815\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "max-flow min-cut theorem",
-          "short": "mfmc"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u5927\u30d5\u30ed\u30fc\u6700\u5c0f\u30ab\u30c3\u30c8\u5b9a\u7406",
-          "short": "mfmc"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "bipartite_graph",
       "isMeta": false,
       "bojTagId": 197,
@@ -147,6 +123,30 @@
           "language": "ja",
           "name": "2\u90e8\u30b0\u30e9\u30d5",
           "short": "2\u90e8\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "mfmc",
+      "isMeta": false,
+      "bojTagId": 167,
+      "problemCount": 92,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub300 \uc720\ub7c9 \ucd5c\uc18c \ucef7 \uc815\ub9ac",
+          "short": "\ucd5c\ub300 \uc720\ub7c9 \ucd5c\uc18c \ucef7 \uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "max-flow min-cut theorem",
+          "short": "mfmc"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5927\u30d5\u30ed\u30fc\u6700\u5c0f\u30ab\u30c3\u30c8\u5b9a\u7406",
+          "short": "mfmc"
         }
       ],
       "aliases": []
