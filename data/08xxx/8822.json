@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 5,
-  "level": 14,
-  "votedUserCount": 2,
+  "level": 13,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,25 +21,25 @@
   "official": true,
   "tags": [
     {
-      "key": "lca",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 41,
-      "problemCount": 209,
+      "bojTagId": 124,
+      "problemCount": 7641,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
-          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "lowest common ancestor",
-          "short": "lca"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
-          "short": "lca"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
       "aliases": []
@@ -48,7 +48,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1774,
+      "problemCount": 1773,
       "displayNames": [
         {
           "language": "ko",
@@ -71,6 +71,64 @@
           "alias": "trees"
         }
       ]
+    },
+    {
+      "key": "probability",
+      "isMeta": false,
+      "bojTagId": 177,
+      "problemCount": 443,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\ub960\ub860",
+          "short": "\ud655\ub960\ub860"
+        },
+        {
+          "language": "en",
+          "name": "probability theory",
+          "short": "probability"
+        },
+        {
+          "language": "ja",
+          "name": "\u78ba\u7387\u8ad6",
+          "short": "\u78ba\u7387\u8ad6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "expected value"
+        },
+        {
+          "alias": "\uae30\ub300\uac12"
+        },
+        {
+          "alias": "\uae30\ub313\uac12"
+        }
+      ]
+    },
+    {
+      "key": "lca",
+      "isMeta": false,
+      "bojTagId": 41,
+      "problemCount": 208,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1",
+          "short": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1"
+        },
+        {
+          "language": "en",
+          "name": "lowest common ancestor",
+          "short": "lca"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
+          "short": "lca"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

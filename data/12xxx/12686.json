@@ -12,38 +12,14 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 8,
-  "level": 25,
-  "votedUserCount": 3,
+  "level": 26,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2.375,
   "official": true,
   "tags": [
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7639,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
     {
       "key": "graphs",
       "isMeta": false,
@@ -79,7 +55,7 @@
       "key": "game_theory",
       "isMeta": false,
       "bojTagId": 140,
-      "problemCount": 478,
+      "problemCount": 480,
       "displayNames": [
         {
           "language": "ko",
@@ -108,86 +84,6 @@
           "alias": "nim"
         }
       ]
-    },
-    {
-      "key": "linear_algebra",
-      "isMeta": false,
-      "bojTagId": 144,
-      "problemCount": 220,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc120\ud615\ub300\uc218\ud559",
-          "short": "\uc120\ud615\ub300\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "linear algebra",
-          "short": "linear algebra"
-        },
-        {
-          "language": "ja",
-          "name": "\u7dda\u5f62\u4ee3\u6570",
-          "short": "\u7dda\u4ee3"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc120\ud615\ub300\uc218"
-        }
-      ]
-    },
-    {
-      "key": "randomization",
-      "isMeta": false,
-      "bojTagId": 115,
-      "problemCount": 187,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubb34\uc791\uc704\ud654",
-          "short": "\ubb34\uc791\uc704\ud654"
-        },
-        {
-          "language": "en",
-          "name": "randomization",
-          "short": "randomization"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
-          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub79c\ub364"
-        }
-      ]
-    },
-    {
-      "key": "gaussian_elimination",
-      "isMeta": false,
-      "bojTagId": 32,
-      "problemCount": 103,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95",
-          "short": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95"
-        },
-        {
-          "language": "en",
-          "name": "gaussian elimination",
-          "short": "gaussian elimination"
-        },
-        {
-          "language": "ja",
-          "name": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5",
-          "short": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "general_matching",
