@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 17,
   "level": 10,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6475,
+      "problemCount": 6477,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +110,7 @@
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 1169,
+      "problemCount": 1170,
       "displayNames": [
         {
           "language": "ko",
@@ -138,23 +138,35 @@
       ]
     },
     {
-      "key": "grid_graph",
+      "key": "dfs",
       "isMeta": false,
-      "bojTagId": 221,
-      "problemCount": 197,
+      "bojTagId": 127,
+      "problemCount": 934,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
-          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "grid graph",
-          "short": "grid graph"
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
     },
     {
       "key": "flood_fill",
