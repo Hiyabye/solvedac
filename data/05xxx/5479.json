@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 30,
+  "acceptedUserCount": 31,
   "level": 18,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.1333,
+  "averageTries": 2.1935,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4750,
+      "problemCount": 4748,
       "displayNames": [
         {
           "language": "ko",
@@ -52,49 +52,25 @@
       ]
     },
     {
-      "key": "deque",
+      "key": "segtree",
       "isMeta": false,
-      "bojTagId": 73,
-      "problemCount": 148,
+      "bojTagId": 65,
+      "problemCount": 1584,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub371",
-          "short": "\ub371"
+          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
         },
         {
           "language": "en",
-          "name": "deque",
-          "short": "deque"
+          "name": "segment tree",
+          "short": "segtree"
         },
         {
           "language": "ja",
-          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
-          "short": "deque"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "multi_segtree",
-      "isMeta": false,
-      "bojTagId": 166,
-      "problemCount": 33,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\ucc28\uc6d0 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
-          "short": "\ub2e4\ucc28\uc6d0 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "multidimensional segment tree",
-          "short": "multidimensional segtree"
-        },
-        {
-          "language": "ja",
-          "name": "multidimensional segment tree",
-          "short": "multidimensional segtree"
+          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
+          "short": "\u30bb\u30b0\u6728"
         }
       ],
       "aliases": [
@@ -147,41 +123,28 @@
       ]
     },
     {
-      "key": "segtree",
+      "key": "deque",
       "isMeta": false,
-      "bojTagId": 65,
-      "problemCount": 1585,
+      "bojTagId": 73,
+      "problemCount": 148,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
-          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
+          "name": "\ub371",
+          "short": "\ub371"
         },
         {
           "language": "en",
-          "name": "segment tree",
-          "short": "segtree"
+          "name": "deque",
+          "short": "deque"
         },
         {
           "language": "ja",
-          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
-          "short": "\u30bb\u30b0\u6728"
+          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
+          "short": "deque"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uad6c\uac04\ud2b8\ub9ac"
-        },
-        {
-          "alias": "\uc138\uadf8\ud2b8\ub9ac"
-        },
-        {
-          "alias": "fenwick"
-        },
-        {
-          "alias": "\ud39c\uc705"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "sliding_window",
@@ -208,6 +171,67 @@
       "aliases": [
         {
           "alias": "\uc2ac\ub77c\uc774\ub529\uc708\ub3c4"
+        }
+      ]
+    },
+    {
+      "key": "deque_trick",
+      "isMeta": false,
+      "bojTagId": 216,
+      "problemCount": 61,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub371\uc744 \uc774\uc6a9\ud55c \uad6c\uac04 \ucd5c\ub313\uac12 \ud2b8\ub9ad",
+          "short": "\ub371 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "deque range maximum trick",
+          "short": "deque rmq trick"
+        },
+        {
+          "language": "ja",
+          "name": "deque range maximum trick",
+          "short": "deque rmq trick"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "multi_segtree",
+      "isMeta": false,
+      "bojTagId": 166,
+      "problemCount": 33,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\ucc28\uc6d0 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\ub2e4\ucc28\uc6d0 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "multidimensional segment tree",
+          "short": "multidimensional segtree"
+        },
+        {
+          "language": "ja",
+          "name": "multidimensional segment tree",
+          "short": "multidimensional segtree"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud2b8\ub9ac"
+        },
+        {
+          "alias": "\uc138\uadf8\ud2b8\ub9ac"
+        },
+        {
+          "alias": "fenwick"
+        },
+        {
+          "alias": "\ud39c\uc705"
         }
       ]
     }
