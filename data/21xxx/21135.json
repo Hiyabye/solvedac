@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 39,
+  "acceptedUserCount": 40,
   "level": 16,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.5641,
+  "averageTries": 2.55,
   "official": true,
   "tags": [
     {
@@ -55,38 +55,34 @@
       ]
     },
     {
-      "key": "knapsack",
+      "key": "sorting",
       "isMeta": false,
-      "bojTagId": 148,
-      "problemCount": 327,
+      "bojTagId": 97,
+      "problemCount": 2254,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubc30\ub0ad \ubb38\uc81c",
-          "short": "\ubc30\ub0ad"
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
         },
         {
           "language": "en",
-          "name": "knapsack",
-          "short": "knapsack"
+          "name": "sorting",
+          "short": "sorting"
         },
         {
           "language": "ja",
-          "name": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af\u554f\u984c",
-          "short": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af"
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\ub0c5\uc0c9"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1269,
+      "problemCount": 1268,
       "displayNames": [
         {
           "language": "ko",
@@ -117,28 +113,32 @@
       ]
     },
     {
-      "key": "sorting",
+      "key": "knapsack",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2253,
+      "bojTagId": 148,
+      "problemCount": 327,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\ubc30\ub0ad \ubb38\uc81c",
+          "short": "\ubc30\ub0ad"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
+          "name": "knapsack",
+          "short": "knapsack"
         },
         {
           "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af\u554f\u984c",
+          "short": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\ub0c5\uc0c9"
+        }
+      ]
     }
   ],
   "metadata": {}
