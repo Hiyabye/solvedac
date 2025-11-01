@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 1,
-  "level": 0,
-  "votedUserCount": 1,
+  "level": 24,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,44 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "backtracking",
-      "isMeta": false,
-      "bojTagId": 5,
-      "problemCount": 631,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubc31\ud2b8\ub798\ud0b9",
-          "short": "\ubc31\ud2b8\ub798\ud0b9"
-        },
-        {
-          "language": "en",
-          "name": "backtracking",
-          "short": "backtrack"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
-          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ubc31\ud2b8\ub798\ud0b9"
-        },
-        {
-          "alias": "\ud1f4\uac01\uac80\uc0c9"
-        },
-        {
-          "alias": "\ud1f4\uac01 \uac80\uc0c9"
-        }
-      ]
-    },
-    {
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1399,
+      "problemCount": 1400,
       "displayNames": [
         {
           "language": "ko",
@@ -89,52 +55,38 @@
       ]
     },
     {
-      "key": "dancing_links",
+      "key": "backtracking",
       "isMeta": false,
-      "bojTagId": 173,
-      "problemCount": 8,
+      "bojTagId": 5,
+      "problemCount": 632,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ucda4\ucd94\ub294 \ub9c1\ud06c",
-          "short": "\ucda4\ucd94\ub294 \ub9c1\ud06c"
+          "name": "\ubc31\ud2b8\ub798\ud0b9",
+          "short": "\ubc31\ud2b8\ub798\ud0b9"
         },
         {
           "language": "en",
-          "name": "dancing links",
-          "short": "dancing links"
+          "name": "backtracking",
+          "short": "backtrack"
         },
         {
           "language": "ja",
-          "name": "dancing links",
-          "short": "dancing links"
+          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
+          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
         }
       ],
-      "aliases": []
-    },
-    {
-      "key": "knuth_x",
-      "isMeta": false,
-      "bojTagId": 174,
-      "problemCount": 8,
-      "displayNames": [
+      "aliases": [
         {
-          "language": "ko",
-          "name": "\ud06c\ub204\uc2a4 X",
-          "short": "\ud06c\ub204\uc2a4 X"
+          "alias": "\ubc31\ud2b8\ub798\ud0b9"
         },
         {
-          "language": "en",
-          "name": "knuth's x",
-          "short": "x"
+          "alias": "\ud1f4\uac01\uac80\uc0c9"
         },
         {
-          "language": "ja",
-          "name": "knuth's x",
-          "short": "x"
+          "alias": "\ud1f4\uac01 \uac80\uc0c9"
         }
-      ],
-      "aliases": []
+      ]
     },
     {
       "key": "precomputation",
@@ -169,6 +121,54 @@
           "alias": "database"
         }
       ]
+    },
+    {
+      "key": "knuth_x",
+      "isMeta": false,
+      "bojTagId": 174,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud06c\ub204\uc2a4 X",
+          "short": "\ud06c\ub204\uc2a4 X"
+        },
+        {
+          "language": "en",
+          "name": "knuth's x",
+          "short": "x"
+        },
+        {
+          "language": "ja",
+          "name": "knuth's x",
+          "short": "x"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "dancing_links",
+      "isMeta": false,
+      "bojTagId": 173,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucda4\ucd94\ub294 \ub9c1\ud06c",
+          "short": "\ucda4\ucd94\ub294 \ub9c1\ud06c"
+        },
+        {
+          "language": "en",
+          "name": "dancing links",
+          "short": "dancing links"
+        },
+        {
+          "language": "ja",
+          "name": "dancing links",
+          "short": "dancing links"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
