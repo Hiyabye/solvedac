@@ -1,0 +1,229 @@
+{
+  "problemId": 34655,
+  "titleKo": "Halcyon",
+  "titles": [
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Halcyon",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 8,
+  "level": 27,
+  "votedUserCount": 5,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 1.875,
+  "official": true,
+  "tags": [
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4773,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 3244,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
+        }
+      ]
+    },
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1776,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
+    },
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1544,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "mst",
+      "isMeta": false,
+      "bojTagId": 49,
+      "problemCount": 241,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uc2a4\ud328\ub2dd \ud2b8\ub9ac",
+          "short": "\ucd5c\uc18c \uc2a4\ud328\ub2dd \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "minimum spanning tree",
+          "short": "mst"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5c0f\u5168\u57df\u6728",
+          "short": "\u6700\u5c0f\u5168\u57df\u6728"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "link_cut_tree",
+      "isMeta": false,
+      "bojTagId": 98,
+      "problemCount": 25,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9c1\ud06c/\ucef7 \ud2b8\ub9ac",
+          "short": "\ub9c1\ud06c/\ucef7 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "link/cut tree",
+          "short": "link/cut tree"
+        },
+        {
+          "language": "ja",
+          "name": "link/cut tree",
+          "short": "link/cut tree"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "link cut tree"
+        },
+        {
+          "alias": "linkcuttree"
+        },
+        {
+          "alias": "\ub9c1\ud06c\ucef7"
+        }
+      ]
+    },
+    {
+      "key": "alien",
+      "isMeta": false,
+      "bojTagId": 134,
+      "problemCount": 21,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "Aliens \ud2b8\ub9ad",
+          "short": "aliens \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "aliens trick",
+          "short": "aliens trick"
+        },
+        {
+          "language": "ja",
+          "name": "aliens\u6cd5",
+          "short": "aliens\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "alien's trick"
+        }
+      ]
+    }
+  ],
+  "metadata": {}
+}
