@@ -13,13 +13,41 @@
   "isPartial": false,
   "acceptedUserCount": 34,
   "level": 18,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 5.9412,
   "official": true,
   "tags": [
+    {
+      "key": "offline_queries",
+      "isMeta": false,
+      "bojTagId": 123,
+      "problemCount": 342,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
+          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "offline queries",
+          "short": "offline query"
+        },
+        {
+          "language": "ja",
+          "name": "offline queries",
+          "short": "offline query"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "offlinequery"
+        }
+      ]
+    },
     {
       "key": "bitset",
       "isMeta": false,
@@ -48,34 +76,6 @@
         },
         {
           "alias": "\ube44\ud2b8\uc14b"
-        }
-      ]
-    },
-    {
-      "key": "offline_queries",
-      "isMeta": false,
-      "bojTagId": 123,
-      "problemCount": 342,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
-          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "offline queries",
-          "short": "offline query"
-        },
-        {
-          "language": "ja",
-          "name": "offline queries",
-          "short": "offline query"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "offlinequery"
         }
       ]
     }

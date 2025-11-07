@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 143,
   "level": 17,
-  "votedUserCount": 27,
+  "votedUserCount": 28,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,41 +21,34 @@
   "official": true,
   "tags": [
     {
-      "key": "dfs",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 127,
-      "problemCount": 932,
+      "bojTagId": 124,
+      "problemCount": 7661,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "depth-first search",
-          "short": "dfs"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
-          "short": "dfs"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
-      "aliases": [
-        {
-          "alias": "depth first"
-        },
-        {
-          "alias": "depthfirst"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4778,
+      "problemCount": 4780,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +79,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2384,
+      "problemCount": 2383,
       "displayNames": [
         {
           "language": "ko",
@@ -114,28 +107,32 @@
       ]
     },
     {
-      "key": "math",
+      "key": "trees",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7662,
+      "bojTagId": 120,
+      "problemCount": 1781,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "tree",
+          "short": "tree"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "\u6728",
+          "short": "\u6728"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
     },
     {
       "key": "number_theory",
@@ -162,30 +159,33 @@
       "aliases": []
     },
     {
-      "key": "trees",
+      "key": "dfs",
       "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1779,
+      "bojTagId": 127,
+      "problemCount": 932,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "tree",
-          "short": "tree"
+          "name": "depth-first search",
+          "short": "dfs"
         },
         {
           "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
         }
       ],
       "aliases": [
         {
-          "alias": "trees"
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
         }
       ]
     }
