@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 30,
   "level": 20,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -52,7 +52,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1275,
+      "problemCount": 1277,
       "displayNames": [
         {
           "language": "ko",
@@ -81,6 +81,30 @@
           "alias": "rangesum"
         }
       ]
+    },
+    {
+      "key": "hashing",
+      "isMeta": false,
+      "bojTagId": 8,
+      "problemCount": 198,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574\uc2f1",
+          "short": "\ud574\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "hashing",
+          "short": "hash"
+        },
+        {
+          "language": "ja",
+          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
+          "short": "\u30cf\u30c3\u30b7\u30e5"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
