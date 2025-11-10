@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 129,
+  "acceptedUserCount": 134,
   "level": 16,
-  "votedUserCount": 34,
+  "votedUserCount": 35,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.8992,
+  "averageTries": 1.8731,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4784,
+      "problemCount": 4788,
       "displayNames": [
         {
           "language": "ko",
@@ -52,41 +52,10 @@
       ]
     },
     {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4778,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2387,
+      "problemCount": 2388,
       "displayNames": [
         {
           "language": "ko",
@@ -110,37 +79,6 @@
         },
         {
           "alias": "dfs"
-        }
-      ]
-    },
-    {
-      "key": "dfs",
-      "isMeta": false,
-      "bojTagId": 127,
-      "problemCount": 932,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "depth-first search",
-          "short": "dfs"
-        },
-        {
-          "language": "ja",
-          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
-          "short": "dfs"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "depth first"
-        },
-        {
-          "alias": "depthfirst"
         }
       ]
     },
