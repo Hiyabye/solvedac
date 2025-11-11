@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 41,
+  "acceptedUserCount": 43,
   "level": 22,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.2439,
+  "averageTries": 2.186,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4782,
+      "problemCount": 4787,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +83,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1599,
+      "problemCount": 1602,
       "displayNames": [
         {
           "language": "ko",
@@ -117,10 +117,38 @@
       ]
     },
     {
+      "key": "sweeping",
+      "isMeta": false,
+      "bojTagId": 106,
+      "problemCount": 637,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2a4\uc704\ud551",
+          "short": "\uc2a4\uc704\ud551"
+        },
+        {
+          "language": "en",
+          "name": "sweeping",
+          "short": "sweeping"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e73\u9762\u8d70\u67fb",
+          "short": "\u5e73\u9762\u8d70\u67fb"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
+        }
+      ]
+    },
+    {
       "key": "tree_set",
       "isMeta": false,
       "bojTagId": 74,
-      "problemCount": 532,
+      "problemCount": 533,
       "displayNames": [
         {
           "language": "ko",
@@ -211,6 +239,46 @@
         },
         {
           "alias": "\ud39c\uc705"
+        }
+      ]
+    },
+    {
+      "key": "smaller_to_larger",
+      "isMeta": false,
+      "bojTagId": 169,
+      "problemCount": 170,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9",
+          "short": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9"
+        },
+        {
+          "language": "en",
+          "name": "smaller to larger technique",
+          "short": "smaller to larger"
+        },
+        {
+          "language": "ja",
+          "name": "smaller to larger technique",
+          "short": "smaller to larger"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "merge heuristics"
+        },
+        {
+          "alias": "sack"
+        },
+        {
+          "alias": "small to large"
+        },
+        {
+          "alias": "\uc791\uc740\uac70"
+        },
+        {
+          "alias": "\ud070\uac70"
         }
       ]
     }
