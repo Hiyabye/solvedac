@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 667,
   "level": 19,
-  "votedUserCount": 114,
+  "votedUserCount": 115,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4784,
+      "problemCount": 4794,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2267,
+      "problemCount": 2268,
       "displayNames": [
         {
           "language": "ko",
@@ -107,7 +107,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1600,
+      "problemCount": 1605,
       "displayNames": [
         {
           "language": "ko",
@@ -137,6 +137,34 @@
         },
         {
           "alias": "\ud39c\uc705"
+        }
+      ]
+    },
+    {
+      "key": "offline_queries",
+      "isMeta": false,
+      "bojTagId": 123,
+      "problemCount": 345,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
+          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "offline queries",
+          "short": "offline query"
+        },
+        {
+          "language": "ja",
+          "name": "offline queries",
+          "short": "offline query"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "offlinequery"
         }
       ]
     },
