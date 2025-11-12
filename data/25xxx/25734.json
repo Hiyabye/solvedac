@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 81,
   "level": 16,
-  "votedUserCount": 19,
+  "votedUserCount": 20,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6510,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4787,
+      "problemCount": 4794,
       "displayNames": [
         {
           "language": "ko",
@@ -52,25 +76,20 @@
       ]
     },
     {
-      "key": "implementation",
+      "key": "set",
       "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6508,
+      "bojTagId": 225,
+      "problemCount": 1471,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
         },
         {
           "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
+          "name": "set / map",
+          "short": "set"
         }
       ],
       "aliases": []
@@ -79,7 +98,7 @@
       "key": "tree_set",
       "isMeta": false,
       "bojTagId": 74,
-      "problemCount": 533,
+      "problemCount": 534,
       "displayNames": [
         {
           "language": "ko",
@@ -129,25 +148,6 @@
           "alias": "tree"
         }
       ]
-    },
-    {
-      "key": "set",
-      "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1470,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map",
-          "short": "set"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}

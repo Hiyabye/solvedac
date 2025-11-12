@@ -13,13 +13,44 @@
   "isPartial": false,
   "acceptedUserCount": 216,
   "level": 18,
-  "votedUserCount": 52,
+  "votedUserCount": 53,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.875,
   "official": true,
   "tags": [
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4794,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
     {
       "key": "graphs",
       "isMeta": false,
@@ -52,41 +83,10 @@
       ]
     },
     {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4787,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
       "key": "set",
       "isMeta": false,
       "bojTagId": 225,
-      "problemCount": 1470,
+      "problemCount": 1471,
       "displayNames": [
         {
           "language": "ko",
@@ -105,7 +105,7 @@
       "key": "disjoint_set",
       "isMeta": false,
       "bojTagId": 81,
-      "problemCount": 623,
+      "problemCount": 624,
       "displayNames": [
         {
           "language": "ko",

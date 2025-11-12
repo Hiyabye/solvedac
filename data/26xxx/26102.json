@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 77,
   "level": 21,
-  "votedUserCount": 23,
+  "votedUserCount": 24,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4853,
+      "problemCount": 4855,
       "displayNames": [
         {
           "language": "ko",
@@ -89,6 +89,25 @@
       ]
     },
     {
+      "key": "parity",
+      "isMeta": false,
+      "bojTagId": 230,
+      "problemCount": 148,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud640\uc9dd\uc131",
+          "short": "\ud640\uc9dd\uc131"
+        },
+        {
+          "language": "en",
+          "name": "parity",
+          "short": "parity"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "sprague_grundy",
       "isMeta": false,
       "bojTagId": 70,
@@ -118,25 +137,6 @@
           "alias": "nimber"
         }
       ]
-    },
-    {
-      "key": "parity",
-      "isMeta": false,
-      "bojTagId": 230,
-      "problemCount": 147,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud640\uc9dd\uc131",
-          "short": "\ud640\uc9dd\uc131"
-        },
-        {
-          "language": "en",
-          "name": "parity",
-          "short": "parity"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
