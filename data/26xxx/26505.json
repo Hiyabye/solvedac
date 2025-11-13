@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 42,
+  "acceptedUserCount": 43,
   "level": 6,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.4762,
+  "averageTries": 1.5349,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7669,
+      "problemCount": 7673,
       "displayNames": [
         {
           "language": "ko",
@@ -69,40 +69,6 @@
       "aliases": []
     },
     {
-      "key": "precomputation",
-      "isMeta": false,
-      "bojTagId": 172,
-      "problemCount": 235,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac",
-          "short": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "precomputation",
-          "short": "precomputation"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8b\u524d\u8a08\u7b97",
-          "short": "\u4e8b\u524d\u8a08\u7b97"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "lookup table"
-        },
-        {
-          "alias": "db"
-        },
-        {
-          "alias": "database"
-        }
-      ]
-    },
-    {
       "key": "primality_test",
       "isMeta": false,
       "bojTagId": 9,
@@ -136,6 +102,40 @@
         },
         {
           "alias": "prime"
+        }
+      ]
+    },
+    {
+      "key": "precomputation",
+      "isMeta": false,
+      "bojTagId": 172,
+      "problemCount": 235,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac",
+          "short": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "precomputation",
+          "short": "precomputation"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8b\u524d\u8a08\u7b97",
+          "short": "\u4e8b\u524d\u8a08\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "lookup table"
+        },
+        {
+          "alias": "db"
+        },
+        {
+          "alias": "database"
         }
       ]
     }
