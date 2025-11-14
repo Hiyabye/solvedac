@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 12,
-  "level": 0,
-  "votedUserCount": 1,
+  "level": 21,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,41 +21,28 @@
   "official": true,
   "tags": [
     {
-      "key": "exponentiation_by_squaring",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 39,
-      "problemCount": 341,
+      "bojTagId": 124,
+      "problemCount": 7674,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1",
-          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "exponentiation by squaring",
-          "short": "exponentiation by squaring"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57",
-          "short": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uac70\ub4ed\uc81c\uacf1"
-        },
-        {
-          "alias": "\uc81c\uacf1"
-        },
-        {
-          "alias": "power"
-        },
-        {
-          "alias": "square"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "graphs",
@@ -89,10 +76,75 @@
       ]
     },
     {
+      "key": "divide_and_conquer",
+      "isMeta": false,
+      "bojTagId": 24,
+      "problemCount": 477,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
+        },
+        {
+          "language": "en",
+          "name": "divide and conquer",
+          "short": "d&c"
+        },
+        {
+          "language": "ja",
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dnc"
+        }
+      ]
+    },
+    {
+      "key": "exponentiation_by_squaring",
+      "isMeta": false,
+      "bojTagId": 39,
+      "problemCount": 342,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1",
+          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "language": "en",
+          "name": "exponentiation by squaring",
+          "short": "exponentiation by squaring"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57",
+          "short": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "alias": "\uc81c\uacf1"
+        },
+        {
+          "alias": "power"
+        },
+        {
+          "alias": "square"
+        }
+      ]
+    },
+    {
       "key": "linear_algebra",
       "isMeta": false,
       "bojTagId": 144,
-      "problemCount": 221,
+      "problemCount": 223,
       "displayNames": [
         {
           "language": "ko",
@@ -117,25 +169,25 @@
       ]
     },
     {
-      "key": "math",
+      "key": "bipartite_graph",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7671,
+      "bojTagId": 197,
+      "problemCount": 96,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\uc774\ubd84 \uadf8\ub798\ud504",
+          "short": "\uc774\ubd84 \uadf8\ub798\ud504"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "bipartite graph",
+          "short": "bipartite graph"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "2\u90e8\u30b0\u30e9\u30d5",
+          "short": "2\u90e8\u30b0\u30e9\u30d5"
         }
       ],
       "aliases": []
