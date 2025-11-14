@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 17,
   "level": 27,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7673,
+      "problemCount": 7675,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6511,
+      "problemCount": 6512,
       "displayNames": [
         {
           "language": "ko",
@@ -72,7 +72,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1775,
+      "problemCount": 1776,
       "displayNames": [
         {
           "language": "ko",
@@ -133,7 +133,7 @@
       "key": "exponentiation_by_squaring",
       "isMeta": false,
       "bojTagId": 39,
-      "problemCount": 341,
+      "problemCount": 342,
       "displayNames": [
         {
           "language": "ko",
@@ -299,6 +299,30 @@
       "aliases": []
     },
     {
+      "key": "pollard_rho",
+      "isMeta": false,
+      "bojTagId": 58,
+      "problemCount": 31,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud3f4\ub77c\ub4dc \ub85c",
+          "short": "\ud3f4\ub77c\ub4dc \ub85c"
+        },
+        {
+          "language": "en",
+          "name": "pollard rho",
+          "short": "pollard rho"
+        },
+        {
+          "language": "ja",
+          "name": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc\u7d20\u56e0\u6570\u5206\u89e3\u6cd5",
+          "short": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "mobius_inversion",
       "isMeta": false,
       "bojTagId": 51,
@@ -325,30 +349,6 @@
           "alias": "mobius"
         }
       ]
-    },
-    {
-      "key": "pollard_rho",
-      "isMeta": false,
-      "bojTagId": 58,
-      "problemCount": 31,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud3f4\ub77c\ub4dc \ub85c",
-          "short": "\ud3f4\ub77c\ub4dc \ub85c"
-        },
-        {
-          "language": "en",
-          "name": "pollard rho",
-          "short": "pollard rho"
-        },
-        {
-          "language": "ja",
-          "name": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc\u7d20\u56e0\u6570\u5206\u89e3\u6cd5",
-          "short": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}

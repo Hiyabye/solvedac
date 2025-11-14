@@ -11,57 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 32,
+  "acceptedUserCount": 33,
   "level": 15,
   "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.375,
+  "averageTries": 1.3939,
   "official": true,
   "tags": [
-    {
-      "key": "exponentiation_by_squaring",
-      "isMeta": false,
-      "bojTagId": 39,
-      "problemCount": 341,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1",
-          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1"
-        },
-        {
-          "language": "en",
-          "name": "exponentiation by squaring",
-          "short": "exponentiation by squaring"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57",
-          "short": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uac70\ub4ed\uc81c\uacf1"
-        },
-        {
-          "alias": "\uc81c\uacf1"
-        },
-        {
-          "alias": "power"
-        },
-        {
-          "alias": "square"
-        }
-      ]
-    },
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7673,
+      "problemCount": 7675,
       "displayNames": [
         {
           "language": "ko",
@@ -85,7 +48,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1775,
+      "problemCount": 1776,
       "displayNames": [
         {
           "language": "ko",
@@ -139,6 +102,43 @@
         },
         {
           "alias": "prime"
+        }
+      ]
+    },
+    {
+      "key": "exponentiation_by_squaring",
+      "isMeta": false,
+      "bojTagId": 39,
+      "problemCount": 342,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1",
+          "short": "\ubd84\ud560 \uc815\ubcf5\uc744 \uc774\uc6a9\ud55c \uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "language": "en",
+          "name": "exponentiation by squaring",
+          "short": "exponentiation by squaring"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57",
+          "short": "\u4e8c\u4e57\u6cd5\u306b\u3088\u308b\u3079\u304d\u4e57"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uac70\ub4ed\uc81c\uacf1"
+        },
+        {
+          "alias": "\uc81c\uacf1"
+        },
+        {
+          "alias": "power"
+        },
+        {
+          "alias": "square"
         }
       ]
     }
