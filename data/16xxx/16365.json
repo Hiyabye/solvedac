@@ -13,37 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 22,
   "level": 27,
-  "votedUserCount": 10,
+  "votedUserCount": 11,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 7.8182,
   "official": true,
   "tags": [
-    {
-      "key": "chordal_graph",
-      "isMeta": false,
-      "bojTagId": 201,
-      "problemCount": 5,
-      "displayNames": [
-        {
-          "language": "en",
-          "name": "chordal graph",
-          "short": "chordal graph"
-        },
-        {
-          "language": "ko",
-          "name": "\ud604 \uadf8\ub798\ud504",
-          "short": "\ud604 \uadf8\ub798\ud504"
-        },
-        {
-          "language": "ja",
-          "name": "\u5f26\u30b0\u30e9\u30d5",
-          "short": "\u5f26\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": []
-    },
     {
       "key": "graphs",
       "isMeta": false,
@@ -74,6 +50,30 @@
           "alias": "\uadf8\ub798\ud504"
         }
       ]
+    },
+    {
+      "key": "chordal_graph",
+      "isMeta": false,
+      "bojTagId": 201,
+      "problemCount": 5,
+      "displayNames": [
+        {
+          "language": "en",
+          "name": "chordal graph",
+          "short": "chordal graph"
+        },
+        {
+          "language": "ko",
+          "name": "\ud604 \uadf8\ub798\ud504",
+          "short": "\ud604 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "ja",
+          "name": "\u5f26\u30b0\u30e9\u30d5",
+          "short": "\u5f26\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
