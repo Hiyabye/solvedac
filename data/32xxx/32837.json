@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 17,
-  "level": 21,
-  "votedUserCount": 4,
+  "level": 20,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4861,
+      "problemCount": 4862,
       "displayNames": [
         {
           "language": "ko",
@@ -77,6 +77,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "coordinate_compression",
+      "isMeta": false,
+      "bojTagId": 161,
+      "problemCount": 295,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
+          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
+        },
+        {
+          "language": "en",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        },
+        {
+          "language": "ja",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "zip"
+        }
+      ]
     }
   ],
   "metadata": {}
