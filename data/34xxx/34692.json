@@ -1,23 +1,30 @@
 {
   "problemId": 34692,
   "titleKo": "\uc544 \ub9c8\uc774\ub9c8\uc774 \ud558\uace0 \uc2f6\ub2e4",
-  "titles": [],
+  "titles": [
+    {
+      "language": "ko",
+      "languageDisplayName": "ko",
+      "title": "\uc544 \ub9c8\uc774\ub9c8\uc774 \ud558\uace0 \uc2f6\ub2e4",
+      "isOriginal": true
+    }
+  ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 111,
+  "acceptedUserCount": 131,
   "level": 5,
-  "votedUserCount": 14,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.5405,
+  "averageTries": 1.5573,
   "official": true,
   "tags": [
     {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6527,
+      "problemCount": 6530,
       "displayNames": [
         {
           "language": "ko",
@@ -36,68 +43,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4802,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
-      "key": "priority_queue",
-      "isMeta": false,
-      "bojTagId": 59,
-      "problemCount": 529,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc6b0\uc120\uc21c\uc704 \ud050",
-          "short": "\uc6b0\uc120\uc21c\uc704 \ud050"
-        },
-        {
-          "language": "en",
-          "name": "priority queue",
-          "short": "priority queue"
-        },
-        {
-          "language": "ja",
-          "name": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc",
-          "short": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "heap"
-        },
-        {
-          "alias": "\ud799"
-        }
-      ]
     }
   ],
   "metadata": {}
