@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4866,
+      "problemCount": 4867,
       "displayNames": [
         {
           "language": "ko",
@@ -69,6 +69,25 @@
           "language": "en",
           "name": "traceback",
           "short": "traceback"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "lcs",
+      "isMeta": false,
+      "bojTagId": 219,
+      "problemCount": 28,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc7a5 \uacf5\ud1b5 \ubd80\ubd84 \uc218\uc5f4 \ubb38\uc81c",
+          "short": "\ucd5c\uc7a5 \uacf5\ud1b5 \ubd80\ubd84 \uc218\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "longest common subsequence",
+          "short": "lcs"
         }
       ],
       "aliases": []
