@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 46,
   "level": 23,
-  "votedUserCount": 15,
+  "votedUserCount": 16,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,41 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4794,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4802,
+      "problemCount": 4804,
       "displayNames": [
         {
           "language": "ko",
@@ -83,10 +52,41 @@
       ]
     },
     {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4797,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2275,
+      "problemCount": 2277,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +110,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1904,
+      "problemCount": 1907,
       "displayNames": [
         {
           "language": "ko",
@@ -171,7 +171,7 @@
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 639,
+      "problemCount": 641,
       "displayNames": [
         {
           "language": "ko",
@@ -199,7 +199,7 @@
       "key": "coordinate_compression",
       "isMeta": false,
       "bojTagId": 161,
-      "problemCount": 295,
+      "problemCount": 296,
       "displayNames": [
         {
           "language": "ko",
@@ -248,6 +248,25 @@
       "aliases": []
     },
     {
+      "key": "angle_sorting",
+      "isMeta": false,
+      "bojTagId": 240,
+      "problemCount": 49,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac01\ub3c4 \uc815\ub82c",
+          "short": "\uac01\ub3c4 \uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "angle sorting",
+          "short": "angle sorting"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "euler_characteristic",
       "isMeta": false,
       "bojTagId": 119,
@@ -267,25 +286,6 @@
           "language": "ja",
           "name": "\u30aa\u30a4\u30e9\u30fc\u7279\u6027\uff08\u03c7=v-e+f\uff09",
           "short": "\u30aa\u30a4\u30e9\u30fc\u7279\u6027"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "angle_sorting",
-      "isMeta": false,
-      "bojTagId": 240,
-      "problemCount": 47,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac01\ub3c4 \uc815\ub82c",
-          "short": "\uac01\ub3c4 \uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "angle sorting",
-          "short": "angle sorting"
         }
       ],
       "aliases": []

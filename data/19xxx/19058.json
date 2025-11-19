@@ -13,13 +13,187 @@
   "isPartial": false,
   "acceptedUserCount": 11,
   "level": 23,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1.2727,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7689,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 4868,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1780,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "combinatorics",
+      "isMeta": false,
+      "bojTagId": 6,
+      "problemCount": 1199,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc870\ud569\ub860",
+          "short": "\uc870\ud569\ub860"
+        },
+        {
+          "language": "en",
+          "name": "combinatorics",
+          "short": "combinatorics"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d44\u307f\u5408\u308f\u305b",
+          "short": "\u7d44\u307f\u5408\u308f\u305b"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "combination"
+        },
+        {
+          "alias": "permutation"
+        },
+        {
+          "alias": "probability"
+        },
+        {
+          "alias": "\ud655\ub960"
+        },
+        {
+          "alias": "\uc21c\uc5f4"
+        }
+      ]
+    },
+    {
+      "key": "inclusion_and_exclusion",
+      "isMeta": false,
+      "bojTagId": 38,
+      "problemCount": 213,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac",
+          "short": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "inclusion and exclusion",
+          "short": "inclusion and exclusion"
+        },
+        {
+          "language": "ja",
+          "name": "\u5305\u9664\u539f\u7406",
+          "short": "\u5305\u9664\u539f\u7406"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "modular_multiplicative_inverse",
+      "isMeta": false,
+      "bojTagId": 164,
+      "problemCount": 182,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
+          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
+        },
+        {
+          "language": "en",
+          "name": "modular multiplicative inverse",
+          "short": "modular multiplicative inverse"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
+          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "modinv"
+        }
+      ]
+    },
     {
       "key": "calculus",
       "isMeta": false,
@@ -52,83 +226,25 @@
       ]
     },
     {
-      "key": "dp",
+      "key": "generating_function",
       "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 4867,
+      "bojTagId": 198,
+      "problemCount": 49,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+          "name": "\uc0dd\uc131 \ud568\uc218",
+          "short": "\uc0dd\uc131 \ud568\uc218"
         },
         {
           "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
+          "name": "generating function",
+          "short": "generating function"
         },
         {
           "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
-    {
-      "key": "inclusion_and_exclusion",
-      "isMeta": false,
-      "bojTagId": 38,
-      "problemCount": 213,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac",
-          "short": "\ud3ec\ud568 \ubc30\uc81c\uc758 \uc6d0\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "inclusion and exclusion",
-          "short": "inclusion and exclusion"
-        },
-        {
-          "language": "ja",
-          "name": "\u5305\u9664\u539f\u7406",
-          "short": "\u5305\u9664\u539f\u7406"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7687,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "\u751f\u6210\u95a2\u6570",
+          "short": "\u751f\u6210\u95a2\u6570"
         }
       ],
       "aliases": []
