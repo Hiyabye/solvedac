@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 14,
   "level": 24,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,62 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "discrete_sqrt",
-      "isMeta": false,
-      "bojTagId": 147,
-      "problemCount": 6,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\uc0b0 \uc81c\uacf1\uadfc",
-          "short": "\uc774\uc0b0 \uc81c\uacf1\uadfc"
-        },
-        {
-          "language": "en",
-          "name": "discrete square root",
-          "short": "discrete square root"
-        },
-        {
-          "language": "ja",
-          "name": "\u96e2\u6563\u5e73\u65b9\u6839",
-          "short": "\u96e2\u6563\u5e73\u65b9\u6839"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub8e8\ud2b8"
-        }
-      ]
-    },
-    {
-      "key": "hashing",
-      "isMeta": false,
-      "bojTagId": 8,
-      "problemCount": 200,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574\uc2f1",
-          "short": "\ud574\uc2f1"
-        },
-        {
-          "language": "en",
-          "name": "hashing",
-          "short": "hash"
-        },
-        {
-          "language": "ja",
-          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
-          "short": "\u30cf\u30c3\u30b7\u30e5"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7689,
+      "problemCount": 7692,
       "displayNames": [
         {
           "language": "ko",
@@ -97,62 +45,10 @@
       "aliases": []
     },
     {
-      "key": "mitm",
-      "isMeta": false,
-      "bojTagId": 46,
-      "problemCount": 115,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30",
-          "short": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30"
-        },
-        {
-          "language": "en",
-          "name": "meet in the middle",
-          "short": "meet in the middle"
-        },
-        {
-          "language": "ja",
-          "name": "\u534a\u5206\u5168\u5217\u6319",
-          "short": "\u534a\u5206\u5168\u5217\u6319"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "modular_multiplicative_inverse",
-      "isMeta": false,
-      "bojTagId": 164,
-      "problemCount": 182,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
-          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
-        },
-        {
-          "language": "en",
-          "name": "modular multiplicative inverse",
-          "short": "modular multiplicative inverse"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
-          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "modinv"
-        }
-      ]
-    },
-    {
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1780,
+      "problemCount": 1781,
       "displayNames": [
         {
           "language": "ko",
@@ -176,7 +72,7 @@
       "key": "primality_test",
       "isMeta": false,
       "bojTagId": 9,
-      "problemCount": 384,
+      "problemCount": 385,
       "displayNames": [
         {
           "language": "ko",
@@ -206,6 +102,110 @@
         },
         {
           "alias": "prime"
+        }
+      ]
+    },
+    {
+      "key": "hashing",
+      "isMeta": false,
+      "bojTagId": 8,
+      "problemCount": 200,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud574\uc2f1",
+          "short": "\ud574\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "hashing",
+          "short": "hash"
+        },
+        {
+          "language": "ja",
+          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
+          "short": "\u30cf\u30c3\u30b7\u30e5"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "modular_multiplicative_inverse",
+      "isMeta": false,
+      "bojTagId": 164,
+      "problemCount": 183,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
+          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
+        },
+        {
+          "language": "en",
+          "name": "modular multiplicative inverse",
+          "short": "modular multiplicative inverse"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
+          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "modinv"
+        }
+      ]
+    },
+    {
+      "key": "mitm",
+      "isMeta": false,
+      "bojTagId": 46,
+      "problemCount": 115,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30",
+          "short": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30"
+        },
+        {
+          "language": "en",
+          "name": "meet in the middle",
+          "short": "meet in the middle"
+        },
+        {
+          "language": "ja",
+          "name": "\u534a\u5206\u5168\u5217\u6319",
+          "short": "\u534a\u5206\u5168\u5217\u6319"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "discrete_sqrt",
+      "isMeta": false,
+      "bojTagId": 147,
+      "problemCount": 6,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\uc0b0 \uc81c\uacf1\uadfc",
+          "short": "\uc774\uc0b0 \uc81c\uacf1\uadfc"
+        },
+        {
+          "language": "en",
+          "name": "discrete square root",
+          "short": "discrete square root"
+        },
+        {
+          "language": "ja",
+          "name": "\u96e2\u6563\u5e73\u65b9\u6839",
+          "short": "\u96e2\u6563\u5e73\u65b9\u6839"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub8e8\ud2b8"
         }
       ]
     }
