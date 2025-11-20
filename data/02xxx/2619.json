@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 35,
+  "acceptedUserCount": 36,
   "level": 16,
-  "votedUserCount": 11,
+  "votedUserCount": 12,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.6857,
+  "averageTries": 2.6389,
   "official": true,
   "tags": [
     {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6530,
+      "problemCount": 6529,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4797,
+      "problemCount": 4798,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2395,
+      "problemCount": 2394,
       "displayNames": [
         {
           "language": "ko",
@@ -141,7 +141,7 @@
       "key": "coordinate_compression",
       "isMeta": false,
       "bojTagId": 161,
-      "problemCount": 295,
+      "problemCount": 296,
       "displayNames": [
         {
           "language": "ko",
@@ -164,6 +164,25 @@
           "alias": "zip"
         }
       ]
+    },
+    {
+      "key": "grid_graph",
+      "isMeta": false,
+      "bojTagId": 221,
+      "problemCount": 200,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
+          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "grid graph",
+          "short": "grid graph"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 504,
   "level": 22,
-  "votedUserCount": 113,
+  "votedUserCount": 114,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4804,
+      "problemCount": 4807,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1791,
+      "problemCount": 1790,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +83,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1610,
+      "problemCount": 1611,
       "displayNames": [
         {
           "language": "ko",
@@ -113,6 +113,34 @@
         },
         {
           "alias": "\ud39c\uc705"
+        }
+      ]
+    },
+    {
+      "key": "coordinate_compression",
+      "isMeta": false,
+      "bojTagId": 161,
+      "problemCount": 296,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
+          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
+        },
+        {
+          "language": "en",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        },
+        {
+          "language": "ja",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "zip"
         }
       ]
     },
