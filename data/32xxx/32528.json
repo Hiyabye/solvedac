@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 23,
   "level": 17,
-  "votedUserCount": 11,
+  "votedUserCount": 12,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,28 +21,35 @@
   "official": true,
   "tags": [
     {
-      "key": "functional_graph",
+      "key": "graphs",
       "isMeta": false,
-      "bojTagId": 211,
-      "problemCount": 62,
+      "bojTagId": 7,
+      "problemCount": 4797,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud568\uc218\ud615 \uadf8\ub798\ud504",
-          "short": "\ud568\uc218\ud615 \uadf8\ub798\ud504"
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
         },
         {
           "language": "en",
-          "name": "functional graph",
-          "short": "functional graph"
+          "name": "graph theory",
+          "short": "graph"
         },
         {
           "language": "ja",
-          "name": "functional graph",
-          "short": "functional graph"
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
     },
     {
       "key": "game_theory",
@@ -79,35 +86,28 @@
       ]
     },
     {
-      "key": "graphs",
+      "key": "functional_graph",
       "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4798,
+      "bojTagId": 211,
+      "problemCount": 62,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+          "name": "\ud568\uc218\ud615 \uadf8\ub798\ud504",
+          "short": "\ud568\uc218\ud615 \uadf8\ub798\ud504"
         },
         {
           "language": "en",
-          "name": "graph theory",
-          "short": "graph"
+          "name": "functional graph",
+          "short": "functional graph"
         },
         {
           "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
+          "name": "functional graph",
+          "short": "functional graph"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
+      "aliases": []
     }
   ],
   "metadata": {}
