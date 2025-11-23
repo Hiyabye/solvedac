@@ -13,13 +13,154 @@
   "isPartial": false,
   "acceptedUserCount": 11,
   "level": 21,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 3.0909,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7694,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4800,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "graph_traversal",
+      "isMeta": false,
+      "bojTagId": 11,
+      "problemCount": 2393,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
+          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "graph traversal",
+          "short": "traversal"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
+          "short": "\u6a2a\u65ad"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bfs"
+        },
+        {
+          "alias": "dfs"
+        }
+      ]
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1782,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "bfs",
+      "isMeta": false,
+      "bojTagId": 126,
+      "problemCount": 1173,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "breadth-first search",
+          "short": "bfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e45\u512a\u5148\u691c\u7d22",
+          "short": "bfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "breadthfirst"
+        },
+        {
+          "alias": "breadth first"
+        }
+      ]
+    },
     {
       "key": "bitmask",
       "isMeta": false,
@@ -52,6 +193,34 @@
       ]
     },
     {
+      "key": "modular_multiplicative_inverse",
+      "isMeta": false,
+      "bojTagId": 164,
+      "problemCount": 184,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
+          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
+        },
+        {
+          "language": "en",
+          "name": "modular multiplicative inverse",
+          "short": "modular multiplicative inverse"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
+          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "modinv"
+        }
+      ]
+    },
+    {
       "key": "mitm",
       "isMeta": false,
       "bojTagId": 46,
@@ -74,6 +243,37 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "extended_euclidean",
+      "isMeta": false,
+      "bojTagId": 27,
+      "problemCount": 47,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\uc7a5 \uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95",
+          "short": "\ud655\uc7a5 \uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "extended euclidean algorithm",
+          "short": "extended euclidean algorithm"
+        },
+        {
+          "language": "ja",
+          "name": "\u62e1\u5f35\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
+          "short": "\u62e1\u5f35\u30e6\u30fc\u30af\u30ea\u30c3\u30c9"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud655\uc7a5\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "alias": "egcd"
+        }
+      ]
     }
   ],
   "metadata": {}
