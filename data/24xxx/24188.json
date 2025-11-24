@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 2,
+  "acceptedUserCount": 3,
   "level": 14,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4,
+  "averageTries": 3,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4799,
+      "problemCount": 4802,
       "displayNames": [
         {
           "language": "ko",
@@ -83,30 +83,6 @@
       ]
     },
     {
-      "key": "topological_sorting",
-      "isMeta": false,
-      "bojTagId": 78,
-      "problemCount": 229,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc704\uc0c1 \uc815\ub82c",
-          "short": "\uc704\uc0c1 \uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "topological sorting",
-          "short": "topological sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8",
-          "short": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "dag",
       "isMeta": false,
       "bojTagId": 213,
@@ -126,6 +102,30 @@
           "language": "ja",
           "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
           "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "topological_sorting",
+      "isMeta": false,
+      "bojTagId": 78,
+      "problemCount": 229,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc704\uc0c1 \uc815\ub82c",
+          "short": "\uc704\uc0c1 \uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "topological sorting",
+          "short": "topological sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8",
+          "short": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8"
         }
       ],
       "aliases": []
