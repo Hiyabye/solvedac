@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 120,
   "level": 18,
-  "votedUserCount": 15,
+  "votedUserCount": 16,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -52,30 +52,39 @@
       ]
     },
     {
-      "key": "divide_and_conquer",
+      "key": "segtree",
       "isMeta": false,
-      "bojTagId": 24,
-      "problemCount": 478,
+      "bojTagId": 65,
+      "problemCount": 1613,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubd84\ud560 \uc815\ubcf5",
-          "short": "\ubd84\ud560 \uc815\ubcf5"
+          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
         },
         {
           "language": "en",
-          "name": "divide and conquer",
-          "short": "d&c"
+          "name": "segment tree",
+          "short": "segtree"
         },
         {
           "language": "ja",
-          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
-          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
+          "short": "\u30bb\u30b0\u6728"
         }
       ],
       "aliases": [
         {
-          "alias": "dnc"
+          "alias": "\uad6c\uac04\ud2b8\ub9ac"
+        },
+        {
+          "alias": "\uc138\uadf8\ud2b8\ub9ac"
+        },
+        {
+          "alias": "fenwick"
+        },
+        {
+          "alias": "\ud39c\uc705"
         }
       ]
     },
@@ -114,39 +123,30 @@
       ]
     },
     {
-      "key": "segtree",
+      "key": "divide_and_conquer",
       "isMeta": false,
-      "bojTagId": 65,
-      "problemCount": 1613,
+      "bojTagId": 24,
+      "problemCount": 478,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
-          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
         },
         {
           "language": "en",
-          "name": "segment tree",
-          "short": "segtree"
+          "name": "divide and conquer",
+          "short": "d&c"
         },
         {
           "language": "ja",
-          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
-          "short": "\u30bb\u30b0\u6728"
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
         }
       ],
       "aliases": [
         {
-          "alias": "\uad6c\uac04\ud2b8\ub9ac"
-        },
-        {
-          "alias": "\uc138\uadf8\ud2b8\ub9ac"
-        },
-        {
-          "alias": "fenwick"
-        },
-        {
-          "alias": "\ud39c\uc705"
+          "alias": "dnc"
         }
       ]
     }
