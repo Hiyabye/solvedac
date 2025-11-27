@@ -1,16 +1,23 @@
 {
   "problemId": 34678,
   "titleKo": "Bridge",
-  "titles": [],
+  "titles": [
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Bridge",
+      "isOriginal": true
+    }
+  ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 0,
-  "level": 18,
+  "acceptedUserCount": 4,
+  "level": 19,
   "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 0,
+  "averageTries": 2.5,
   "official": true,
   "tags": [
     {
@@ -72,7 +79,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1285,
+      "problemCount": 1286,
       "displayNames": [
         {
           "language": "ko",
@@ -158,7 +165,7 @@
       "key": "ternary_search",
       "isMeta": false,
       "bojTagId": 101,
-      "problemCount": 136,
+      "problemCount": 135,
       "displayNames": [
         {
           "language": "ko",
