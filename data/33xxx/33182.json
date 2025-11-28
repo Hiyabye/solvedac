@@ -11,43 +11,15 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 6,
+  "acceptedUserCount": 7,
   "level": 18,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1,
   "official": true,
   "tags": [
-    {
-      "key": "convex_hull",
-      "isMeta": false,
-      "bojTagId": 20,
-      "problemCount": 236,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubcfc\ub85d \uaecd\uc9c8",
-          "short": "\ubcfc\ub85d \uaecd\uc9c8"
-        },
-        {
-          "language": "en",
-          "name": "convex hull",
-          "short": "convex hull"
-        },
-        {
-          "language": "ja",
-          "name": "\u51f8\u5305",
-          "short": "\u51f8\u5305"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ucee8\ubca1\uc2a4\ud5d0"
-        }
-      ]
-    },
     {
       "key": "data_structures",
       "isMeta": false,
@@ -83,7 +55,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1916,
+      "problemCount": 1917,
       "displayNames": [
         {
           "language": "ko",
@@ -126,6 +98,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "convex_hull",
+      "isMeta": false,
+      "bojTagId": 20,
+      "problemCount": 236,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubcfc\ub85d \uaecd\uc9c8",
+          "short": "\ubcfc\ub85d \uaecd\uc9c8"
+        },
+        {
+          "language": "en",
+          "name": "convex hull",
+          "short": "convex hull"
+        },
+        {
+          "language": "ja",
+          "name": "\u51f8\u5305",
+          "short": "\u51f8\u5305"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0"
+        }
+      ]
     }
   ],
   "metadata": {}
