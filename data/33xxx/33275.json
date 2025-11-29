@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 32,
+  "acceptedUserCount": 33,
   "level": 18,
-  "votedUserCount": 13,
+  "votedUserCount": 14,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.0313,
+  "averageTries": 3,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7703,
+      "problemCount": 7716,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1786,
+      "problemCount": 1788,
       "displayNames": [
         {
           "language": "ko",
@@ -72,7 +72,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1286,
+      "problemCount": 1288,
       "displayNames": [
         {
           "language": "ko",
@@ -99,34 +99,6 @@
         },
         {
           "alias": "rangesum"
-        }
-      ]
-    },
-    {
-      "key": "modular_multiplicative_inverse",
-      "isMeta": false,
-      "bojTagId": 164,
-      "problemCount": 185,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
-          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
-        },
-        {
-          "language": "en",
-          "name": "modular multiplicative inverse",
-          "short": "modular multiplicative inverse"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
-          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "modinv"
         }
       ]
     }

@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 7,
+  "acceptedUserCount": 14,
   "level": 15,
-  "votedUserCount": 4,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.2857,
+  "averageTries": 1.2143,
   "official": true,
   "tags": [
     {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6548,
+      "problemCount": 6551,
       "displayNames": [
         {
           "language": "ko",
@@ -45,44 +45,10 @@
       "aliases": []
     },
     {
-      "key": "dp",
-      "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 4872,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4811,
+      "problemCount": 4817,
       "displayNames": [
         {
           "language": "ko",
@@ -113,7 +79,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2398,
+      "problemCount": 2402,
       "displayNames": [
         {
           "language": "ko",
@@ -141,34 +107,10 @@
       ]
     },
     {
-      "key": "geometry",
-      "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 1917,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
-        },
-        {
-          "language": "en",
-          "name": "geometry",
-          "short": "geom"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1800,
+      "problemCount": 1802,
       "displayNames": [
         {
           "language": "ko",
@@ -196,7 +138,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 933,
+      "problemCount": 934,
       "displayNames": [
         {
           "language": "ko",
@@ -220,62 +162,6 @@
         },
         {
           "alias": "depthfirst"
-        }
-      ]
-    },
-    {
-      "key": "dp_tree",
-      "isMeta": false,
-      "bojTagId": 92,
-      "problemCount": 558,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming on trees",
-          "short": "tree dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728\u4e0a\u306e\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "tree dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud2b8\ub9acdp"
-        }
-      ]
-    },
-    {
-      "key": "polygon_area",
-      "isMeta": false,
-      "bojTagId": 3,
-      "problemCount": 98,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\uac01\ud615\uc758 \ub113\uc774",
-          "short": "\ub2e4\uac01\ud615\uc758 \ub113\uc774"
-        },
-        {
-          "language": "en",
-          "name": "area of a polygon",
-          "short": "area of a polygon"
-        },
-        {
-          "language": "ja",
-          "name": "\u591a\u89d2\u5f62\u306e\u9762\u7a4d",
-          "short": "\u591a\u89d2\u5f62\u306e\u9762\u7a4d"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub113\uc774"
         }
       ]
     }
