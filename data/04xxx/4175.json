@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 32,
   "level": 13,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,34 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "dag",
-      "isMeta": false,
-      "bojTagId": 213,
-      "problemCount": 304,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
-          "short": "dag"
-        },
-        {
-          "language": "en",
-          "name": "directed acyclic graph",
-          "short": "dag"
-        },
-        {
-          "language": "ja",
-          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
-          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4818,
+      "problemCount": 4823,
       "displayNames": [
         {
           "language": "ko",
@@ -76,34 +52,10 @@
       ]
     },
     {
-      "key": "deque",
-      "isMeta": false,
-      "bojTagId": 73,
-      "problemCount": 148,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub371",
-          "short": "\ub371"
-        },
-        {
-          "language": "en",
-          "name": "deque",
-          "short": "deque"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
-          "short": "deque"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4813,
+      "problemCount": 4817,
       "displayNames": [
         {
           "language": "ko",
@@ -131,6 +83,30 @@
       ]
     },
     {
+      "key": "dag",
+      "isMeta": false,
+      "bojTagId": 213,
+      "problemCount": 304,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc29\ud5a5 \ube44\uc21c\ud658 \uadf8\ub798\ud504",
+          "short": "dag"
+        },
+        {
+          "language": "en",
+          "name": "directed acyclic graph",
+          "short": "dag"
+        },
+        {
+          "language": "ja",
+          "name": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5",
+          "short": "\u6709\u5411\u975e\u5de1\u56de\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "topological_sorting",
       "isMeta": false,
       "bojTagId": 78,
@@ -150,6 +126,30 @@
           "language": "ja",
           "name": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8",
           "short": "\u30c8\u30dd\u30ed\u30b8\u30ab\u30eb\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "deque",
+      "isMeta": false,
+      "bojTagId": 73,
+      "problemCount": 148,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub371",
+          "short": "\ub371"
+        },
+        {
+          "language": "en",
+          "name": "deque",
+          "short": "deque"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
+          "short": "deque"
         }
       ],
       "aliases": []
