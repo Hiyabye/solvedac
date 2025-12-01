@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 11,
+  "acceptedUserCount": 17,
   "level": 19,
-  "votedUserCount": 6,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.4545,
+  "averageTries": 1.3529,
   "official": true,
   "tags": [
     {
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2292,
+      "problemCount": 2294,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1922,
+      "problemCount": 1924,
       "displayNames": [
         {
           "language": "ko",
@@ -72,7 +72,7 @@
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 647,
+      "problemCount": 649,
       "displayNames": [
         {
           "language": "ko",
@@ -132,6 +132,25 @@
           "alias": "twopointer"
         }
       ]
+    },
+    {
+      "key": "difference_array",
+      "isMeta": false,
+      "bojTagId": 239,
+      "problemCount": 88,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
+          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "difference array",
+          "short": "difference array"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "angle_sorting",
