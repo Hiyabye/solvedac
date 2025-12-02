@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 296,
   "level": 22,
-  "votedUserCount": 68,
+  "votedUserCount": 69,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -30,7 +30,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4881,
+      "problemCount": 4884,
       "displayNames": [
         {
           "language": "ko",
@@ -64,7 +64,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4829,
+      "problemCount": 4837,
       "displayNames": [
         {
           "language": "ko",
@@ -95,7 +95,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3286,
+      "problemCount": 3288,
       "displayNames": [
         {
           "language": "ko",
@@ -123,7 +123,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1619,
+      "problemCount": 1622,
       "displayNames": [
         {
           "language": "ko",
@@ -155,6 +155,25 @@
           "alias": "\ud39c\uc705"
         }
       ]
+    },
+    {
+      "key": "maximum_subarray",
+      "isMeta": false,
+      "bojTagId": 234,
+      "problemCount": 40,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4 \ubb38\uc81c",
+          "short": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "maximum subarray",
+          "short": "maximum subarray"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
