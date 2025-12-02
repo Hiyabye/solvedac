@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 41,
-  "level": 20,
-  "votedUserCount": 9,
+  "acceptedUserCount": 42,
+  "level": 21,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": true,
   "isLevelLocked": false,
-  "averageTries": 4.7317,
+  "averageTries": 4.7619,
   "official": true,
   "tags": [
     {
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3286,
+      "problemCount": 3287,
       "displayNames": [
         {
           "language": "ko",
@@ -47,6 +47,25 @@
           "alias": "\ud0d0\uc695\ubc95"
         }
       ]
+    },
+    {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1500,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "stable_marriage",
