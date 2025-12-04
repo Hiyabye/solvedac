@@ -11,20 +11,44 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 21,
-  "level": 19,
-  "votedUserCount": 8,
+  "acceptedUserCount": 23,
+  "level": 20,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.8095,
+  "averageTries": 3.8696,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7739,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2654,
+      "problemCount": 2655,
       "displayNames": [
         {
           "language": "ko",
@@ -67,7 +91,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1925,
+      "problemCount": 1926,
       "displayNames": [
         {
           "language": "ko",
@@ -83,30 +107,6 @@
           "language": "ja",
           "name": "\u5e7e\u4f55\u5b66",
           "short": "\u5e7e\u4f55"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "geometry_3d",
-      "isMeta": false,
-      "bojTagId": 131,
-      "problemCount": 135,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "3\ucc28\uc6d0 \uae30\ud558\ud559",
-          "short": "3\ucc28\uc6d0 \uae30\ud558\ud559"
-        },
-        {
-          "language": "en",
-          "name": "geometry; 3d",
-          "short": "3d"
-        },
-        {
-          "language": "ja",
-          "name": "3\u6b21\u5143\u5e7e\u4f55\u5b66",
-          "short": "3d"
         }
       ],
       "aliases": []
@@ -140,25 +140,25 @@
       ]
     },
     {
-      "key": "math",
+      "key": "geometry_3d",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7738,
+      "bojTagId": 131,
+      "problemCount": 135,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "3\ucc28\uc6d0 \uae30\ud558\ud559",
+          "short": "3\ucc28\uc6d0 \uae30\ud558\ud559"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "geometry; 3d",
+          "short": "3d"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "3\u6b21\u5143\u5e7e\u4f55\u5b66",
+          "short": "3d"
         }
       ],
       "aliases": []
