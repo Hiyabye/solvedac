@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 107,
   "level": 9,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -61,7 +61,7 @@
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2857,
+      "problemCount": 2858,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +89,7 @@
       "key": "set",
       "isMeta": false,
       "bojTagId": 225,
-      "problemCount": 1503,
+      "problemCount": 1505,
       "displayNames": [
         {
           "language": "ko",
@@ -163,7 +163,7 @@
       "key": "parsing",
       "isMeta": false,
       "bojTagId": 96,
-      "problemCount": 536,
+      "problemCount": 537,
       "displayNames": [
         {
           "language": "ko",
@@ -182,6 +182,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "regex",
+      "isMeta": false,
+      "bojTagId": 63,
+      "problemCount": 36,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uaddc \ud45c\ud604\uc2dd",
+          "short": "\uc815\uaddc \ud45c\ud604\uc2dd"
+        },
+        {
+          "language": "en",
+          "name": "regular expression",
+          "short": "regex"
+        },
+        {
+          "language": "ja",
+          "name": "\u6b63\u898f\u8868\u73fe",
+          "short": "regex"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc815\uaddc\uc2dd"
+        }
+      ]
     }
   ],
   "metadata": {}
