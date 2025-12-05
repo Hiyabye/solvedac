@@ -11,75 +11,63 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 14,
+  "acceptedUserCount": 15,
   "level": 15,
-  "votedUserCount": 4,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.2143,
+  "averageTries": 1.2,
   "official": true,
   "tags": [
     {
-      "key": "data_structures",
+      "key": "bruteforcing",
       "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4846,
+      "bojTagId": 125,
+      "problemCount": 2659,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
+          "name": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998",
+          "short": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998"
         },
         {
           "language": "en",
-          "name": "data structures",
-          "short": "ds"
+          "name": "bruteforcing",
+          "short": "bruteforce"
         },
         {
           "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
+          "name": "\u5168\u63a2\u7d22",
+          "short": "\u5168\u63a2\u7d22"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
+          "alias": "\uc644\uc804\ud0d0\uc0c9"
         },
         {
-          "alias": "\uc790\uad6c"
+          "alias": "\uc644\uc804 \ud0d0\uc0c9"
+        },
+        {
+          "alias": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4"
+        },
+        {
+          "alias": "bruteforce"
+        },
+        {
+          "alias": "brute force"
+        },
+        {
+          "alias": "\uc644\ud0d0"
         }
       ]
-    },
-    {
-      "key": "sorting",
-      "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2296,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
-        },
-        {
-          "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1438,
+      "problemCount": 1439,
       "displayNames": [
         {
           "language": "ko",
@@ -108,30 +96,6 @@
           "alias": "\uad6c\uc131\uc801"
         }
       ]
-    },
-    {
-      "key": "stack",
-      "isMeta": false,
-      "bojTagId": 71,
-      "problemCount": 464,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc2a4\ud0dd",
-          "short": "\uc2a4\ud0dd"
-        },
-        {
-          "language": "en",
-          "name": "stack",
-          "short": "stack"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b9\u30bf\u30c3\u30af",
-          "short": "\u30b9\u30bf\u30c3\u30af"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}

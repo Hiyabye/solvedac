@@ -13,44 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 22,
   "level": 23,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2.7273,
   "official": true,
   "tags": [
-    {
-      "key": "cht",
-      "isMeta": false,
-      "bojTagId": 89,
-      "problemCount": 119,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
-          "short": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
-        },
-        {
-          "language": "en",
-          "name": "convex hull trick",
-          "short": "cht"
-        },
-        {
-          "language": "ja",
-          "name": "convex hull trick",
-          "short": "cht"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ud2b8\ub9ad"
-        },
-        {
-          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ucd5c\uc801\ud654"
-        }
-      ]
-    },
     {
       "key": "data_structures",
       "isMeta": false,
@@ -86,7 +55,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1626,
+      "problemCount": 1628,
       "displayNames": [
         {
           "language": "ko",
@@ -118,6 +87,56 @@
           "alias": "\ud39c\uc705"
         }
       ]
+    },
+    {
+      "key": "cht",
+      "isMeta": false,
+      "bojTagId": 89,
+      "problemCount": 119,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
+          "short": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
+        },
+        {
+          "language": "en",
+          "name": "convex hull trick",
+          "short": "cht"
+        },
+        {
+          "language": "ja",
+          "name": "convex hull trick",
+          "short": "cht"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ud2b8\ub9ad"
+        },
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ucd5c\uc801\ud654"
+        }
+      ]
+    },
+    {
+      "key": "kinetic_segtree",
+      "isMeta": false,
+      "bojTagId": 228,
+      "problemCount": 5,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud0a4\ub124\ud2f1 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\ud0a4\ub124\ud2f1 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "kinetic segment tree",
+          "short": "kinetic segment tree"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
