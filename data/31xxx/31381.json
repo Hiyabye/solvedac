@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 9,
   "level": 24,
-  "votedUserCount": 3,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,44 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "bellman_ford",
-      "isMeta": false,
-      "bojTagId": 10,
-      "problemCount": 47,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubca8\ub9cc\u2013\ud3ec\ub4dc",
-          "short": "\ubca8\ub9cc\u2013\ud3ec\ub4dc"
-        },
-        {
-          "language": "en",
-          "name": "bellman\u2013ford",
-          "short": "bellman-ford"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9\u6cd5",
-          "short": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bellmanford"
-        },
-        {
-          "alias": "\ubca8\ub9cc\ud3ec\ub4dc"
-        },
-        {
-          "alias": "spfa"
-        }
-      ]
-    },
-    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4894,
+      "problemCount": 4893,
       "displayNames": [
         {
           "language": "ko",
@@ -92,7 +58,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4832,
+      "problemCount": 4837,
       "displayNames": [
         {
           "language": "ko",
@@ -120,34 +86,6 @@
       ]
     },
     {
-      "key": "parametric_search",
-      "isMeta": false,
-      "bojTagId": 170,
-      "problemCount": 505,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9",
-          "short": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "parametric search",
-          "short": "parametric search"
-        },
-        {
-          "language": "ja",
-          "name": "parametric search",
-          "short": "parametric search"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
-        }
-      ]
-    },
-    {
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
@@ -170,6 +108,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "bellman_ford",
+      "isMeta": false,
+      "bojTagId": 10,
+      "problemCount": 46,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubca8\ub9cc\u2013\ud3ec\ub4dc",
+          "short": "\ubca8\ub9cc\u2013\ud3ec\ub4dc"
+        },
+        {
+          "language": "en",
+          "name": "bellman\u2013ford",
+          "short": "bellman-ford"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9\u6cd5",
+          "short": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bellmanford"
+        },
+        {
+          "alias": "\ubca8\ub9cc\ud3ec\ub4dc"
+        },
+        {
+          "alias": "spfa"
+        }
+      ]
     }
   ],
   "metadata": {}
