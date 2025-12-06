@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 58,
   "level": 20,
-  "votedUserCount": 18,
+  "votedUserCount": 16,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -52,34 +52,10 @@
       ]
     },
     {
-      "key": "rope",
-      "isMeta": false,
-      "bojTagId": 159,
-      "problemCount": 7,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub85c\ud504",
-          "short": "\ub85c\ud504"
-        },
-        {
-          "language": "en",
-          "name": "rope",
-          "short": "rope"
-        },
-        {
-          "language": "ja",
-          "name": "rope",
-          "short": "rope"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2858,
+      "problemCount": 2859,
       "displayNames": [
         {
           "language": "ko",
@@ -102,6 +78,30 @@
           "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
+    },
+    {
+      "key": "rope",
+      "isMeta": false,
+      "bojTagId": 159,
+      "problemCount": 7,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub85c\ud504",
+          "short": "\ub85c\ud504"
+        },
+        {
+          "language": "en",
+          "name": "rope",
+          "short": "rope"
+        },
+        {
+          "language": "ja",
+          "name": "rope",
+          "short": "rope"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

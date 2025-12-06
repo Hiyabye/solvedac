@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 115,
   "level": 23,
-  "votedUserCount": 33,
+  "votedUserCount": 32,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4832,
+      "problemCount": 4834,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 947,
+      "problemCount": 946,
       "displayNames": [
         {
           "language": "ko",
@@ -113,7 +113,7 @@
       "key": "divide_and_conquer",
       "isMeta": false,
       "bojTagId": 24,
-      "problemCount": 481,
+      "problemCount": 482,
       "displayNames": [
         {
           "language": "ko",
@@ -134,34 +134,6 @@
       "aliases": [
         {
           "alias": "dnc"
-        }
-      ]
-    },
-    {
-      "key": "offline_queries",
-      "isMeta": false,
-      "bojTagId": 123,
-      "problemCount": 353,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
-          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "offline queries",
-          "short": "offline query"
-        },
-        {
-          "language": "ja",
-          "name": "offline queries",
-          "short": "offline query"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "offlinequery"
         }
       ]
     },
