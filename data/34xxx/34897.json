@@ -11,20 +11,51 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 12,
-  "level": 0,
-  "votedUserCount": 1,
+  "acceptedUserCount": 20,
+  "level": 14,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.0833,
+  "averageTries": 1.05,
   "official": true,
   "tags": [
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4851,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4837,
+      "problemCount": 4839,
       "displayNames": [
         {
           "language": "ko",
@@ -52,62 +83,99 @@
       ]
     },
     {
-      "key": "scc",
+      "key": "graph_traversal",
       "isMeta": false,
-      "bojTagId": 76,
-      "problemCount": 182,
+      "bojTagId": 11,
+      "problemCount": 2413,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c",
-          "short": "\uac15\ud55c \uc5f0\uacb0 \uc694\uc18c"
+          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
+          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "strongly connected component",
-          "short": "scc"
+          "name": "graph traversal",
+          "short": "traversal"
         },
         {
           "language": "ja",
-          "name": "\u5f37\u9023\u7d50",
-          "short": "\u5f37\u9023\u7d50"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "2_sat",
-      "isMeta": false,
-      "bojTagId": 1,
-      "problemCount": 73,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "2-sat",
-          "short": "2-sat"
-        },
-        {
-          "language": "en",
-          "name": "2-sat",
-          "short": "2-sat"
-        },
-        {
-          "language": "ja",
-          "name": "2-sat",
-          "short": "2-sat"
+          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
+          "short": "\u6a2a\u65ad"
         }
       ],
       "aliases": [
         {
-          "alias": "\ud22c\uc14b"
+          "alias": "bfs"
         },
         {
-          "alias": "twosat"
-        },
-        {
-          "alias": "2sat"
+          "alias": "dfs"
         }
       ]
+    },
+    {
+      "key": "disjoint_set",
+      "isMeta": false,
+      "bojTagId": 81,
+      "problemCount": 630,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ub9ac \uc9d1\ud569",
+          "short": "\ubd84\ub9ac \uc9d1\ud569"
+        },
+        {
+          "language": "en",
+          "name": "disjoint set",
+          "short": "dsu"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "union"
+        },
+        {
+          "alias": "find"
+        },
+        {
+          "alias": "\uc720\ub2c8\uc628"
+        },
+        {
+          "alias": "\ud30c\uc778\ub4dc"
+        },
+        {
+          "alias": "dsu"
+        }
+      ]
+    },
+    {
+      "key": "bipartite_graph",
+      "isMeta": false,
+      "bojTagId": 197,
+      "problemCount": 100,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \uadf8\ub798\ud504",
+          "short": "\uc774\ubd84 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "bipartite graph",
+          "short": "bipartite graph"
+        },
+        {
+          "language": "ja",
+          "name": "2\u90e8\u30b0\u30e9\u30d5",
+          "short": "2\u90e8\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
