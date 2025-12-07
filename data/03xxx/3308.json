@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 98,
   "level": 23,
-  "votedUserCount": 23,
+  "votedUserCount": 22,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,38 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "coordinate_compression",
-      "isMeta": false,
-      "bojTagId": 161,
-      "problemCount": 300,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
-          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
-        },
-        {
-          "language": "en",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        },
-        {
-          "language": "ja",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "zip"
-        }
-      ]
-    },
-    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4848,
+      "problemCount": 4849,
       "displayNames": [
         {
           "language": "ko",
@@ -80,34 +52,38 @@
       ]
     },
     {
-      "key": "kmp",
+      "key": "string",
       "isMeta": false,
-      "bojTagId": 40,
-      "problemCount": 107,
+      "bojTagId": 158,
+      "problemCount": 2860,
       "displayNames": [
         {
           "language": "ko",
-          "name": "KMP",
-          "short": "KMP"
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
         },
         {
           "language": "en",
-          "name": "knuth\u2013morris\u2013pratt",
-          "short": "kmp"
+          "name": "string",
+          "short": "string"
         },
         {
           "language": "ja",
-          "name": "\u30af\u30cc\u30fc\u30b9\u2013\u30e2\u30ea\u30b9\u2013\u30d7\u30e9\u30c3\u30c8\u6cd5",
-          "short": "kmp"
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
     },
     {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1629,
+      "problemCount": 1630,
       "displayNames": [
         {
           "language": "ko",
@@ -141,32 +117,56 @@
       ]
     },
     {
-      "key": "string",
+      "key": "coordinate_compression",
       "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2859,
+      "bojTagId": 161,
+      "problemCount": 300,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
+          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
+          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
         },
         {
           "language": "en",
-          "name": "string",
-          "short": "string"
+          "name": "value / coordinate compression",
+          "short": "compression"
         },
         {
           "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
+          "name": "value / coordinate compression",
+          "short": "compression"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc2a4\ud2b8\ub9c1"
+          "alias": "zip"
         }
       ]
+    },
+    {
+      "key": "kmp",
+      "isMeta": false,
+      "bojTagId": 40,
+      "problemCount": 107,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "KMP",
+          "short": "KMP"
+        },
+        {
+          "language": "en",
+          "name": "knuth\u2013morris\u2013pratt",
+          "short": "kmp"
+        },
+        {
+          "language": "ja",
+          "name": "\u30af\u30cc\u30fc\u30b9\u2013\u30e2\u30ea\u30b9\u2013\u30d7\u30e9\u30c3\u30c8\u6cd5",
+          "short": "kmp"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

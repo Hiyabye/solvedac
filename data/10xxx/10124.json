@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 126,
   "level": 20,
-  "votedUserCount": 37,
+  "votedUserCount": 36,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4848,
+      "problemCount": 4849,
       "displayNames": [
         {
           "language": "ko",
@@ -52,38 +52,10 @@
       ]
     },
     {
-      "key": "randomization",
-      "isMeta": false,
-      "bojTagId": 115,
-      "problemCount": 194,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubb34\uc791\uc704\ud654",
-          "short": "\ubb34\uc791\uc704\ud654"
-        },
-        {
-          "language": "en",
-          "name": "randomization",
-          "short": "randomization"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
-          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub79c\ub364"
-        }
-      ]
-    },
-    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1629,
+      "problemCount": 1630,
       "displayNames": [
         {
           "language": "ko",
@@ -113,6 +85,34 @@
         },
         {
           "alias": "\ud39c\uc705"
+        }
+      ]
+    },
+    {
+      "key": "randomization",
+      "isMeta": false,
+      "bojTagId": 115,
+      "problemCount": 194,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb34\uc791\uc704\ud654",
+          "short": "\ubb34\uc791\uc704\ud654"
+        },
+        {
+          "language": "en",
+          "name": "randomization",
+          "short": "randomization"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
+          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub79c\ub364"
         }
       ]
     }
