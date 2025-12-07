@@ -11,15 +11,43 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 36,
+  "acceptedUserCount": 37,
   "level": 25,
   "votedUserCount": 11,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.25,
+  "averageTries": 1.2703,
   "official": true,
   "tags": [
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1818,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
+    },
     {
       "key": "link_cut_tree",
       "isMeta": false,
@@ -51,34 +79,6 @@
         },
         {
           "alias": "\ub9c1\ud06c\ucef7"
-        }
-      ]
-    },
-    {
-      "key": "trees",
-      "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1817,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "tree",
-          "short": "tree"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "trees"
         }
       ]
     }
