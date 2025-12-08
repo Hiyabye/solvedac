@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 9,
-  "level": 23,
-  "votedUserCount": 3,
+  "level": 22,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -55,7 +55,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1818,
+      "problemCount": 1820,
       "displayNames": [
         {
           "language": "ko",
@@ -120,7 +120,7 @@
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 653,
+      "problemCount": 655,
       "displayNames": [
         {
           "language": "ko",
@@ -145,50 +145,10 @@
       ]
     },
     {
-      "key": "disjoint_set",
-      "isMeta": false,
-      "bojTagId": 81,
-      "problemCount": 630,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubd84\ub9ac \uc9d1\ud569",
-          "short": "\ubd84\ub9ac \uc9d1\ud569"
-        },
-        {
-          "language": "en",
-          "name": "disjoint set",
-          "short": "dsu"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "union"
-        },
-        {
-          "alias": "find"
-        },
-        {
-          "alias": "\uc720\ub2c8\uc628"
-        },
-        {
-          "alias": "\ud30c\uc778\ub4dc"
-        },
-        {
-          "alias": "dsu"
-        }
-      ]
-    },
-    {
       "key": "euler_tour_technique",
       "isMeta": false,
       "bojTagId": 150,
-      "problemCount": 128,
+      "problemCount": 127,
       "displayNames": [
         {
           "language": "ko",

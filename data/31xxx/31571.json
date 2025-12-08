@@ -13,72 +13,13 @@
   "isPartial": false,
   "acceptedUserCount": 21,
   "level": 23,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 3.1429,
   "official": true,
   "tags": [
-    {
-      "key": "coordinate_compression",
-      "isMeta": false,
-      "bojTagId": 161,
-      "problemCount": 300,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
-          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
-        },
-        {
-          "language": "en",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        },
-        {
-          "language": "ja",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "zip"
-        }
-      ]
-    },
-    {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4851,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
     {
       "key": "dp",
       "isMeta": false,
@@ -110,6 +51,37 @@
         },
         {
           "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4851,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
         }
       ]
     },
@@ -147,37 +119,6 @@
         },
         {
           "alias": "\ud39c\uc705"
-        }
-      ]
-    },
-    {
-      "key": "slope_trick",
-      "isMeta": false,
-      "bojTagId": 157,
-      "problemCount": 34,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud568\uc218 \uac1c\ud615\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
-          "short": "\ud568\uc218 \uac1c\ud615\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
-        },
-        {
-          "language": "en",
-          "name": "slope trick",
-          "short": "slope trick"
-        },
-        {
-          "language": "ja",
-          "name": "slope trick",
-          "short": "slope trick"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc2ac\ub85c\ud504\ud2b8\ub9ad"
-        },
-        {
-          "alias": "\uc2ac\ub85c\ud504 \ud2b8\ub9ad"
         }
       ]
     },
@@ -237,23 +178,63 @@
       ]
     },
     {
-      "key": "set",
+      "key": "coordinate_compression",
       "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1517,
+      "bojTagId": 161,
+      "problemCount": 300,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
+          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
+          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
         },
         {
           "language": "en",
-          "name": "set / map",
-          "short": "set"
+          "name": "value / coordinate compression",
+          "short": "compression"
+        },
+        {
+          "language": "ja",
+          "name": "value / coordinate compression",
+          "short": "compression"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "zip"
+        }
+      ]
+    },
+    {
+      "key": "slope_trick",
+      "isMeta": false,
+      "bojTagId": 157,
+      "problemCount": 34,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud568\uc218 \uac1c\ud615\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
+          "short": "\ud568\uc218 \uac1c\ud615\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
+        },
+        {
+          "language": "en",
+          "name": "slope trick",
+          "short": "slope trick"
+        },
+        {
+          "language": "ja",
+          "name": "slope trick",
+          "short": "slope trick"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2ac\ub85c\ud504\ud2b8\ub9ad"
+        },
+        {
+          "alias": "\uc2ac\ub85c\ud504 \ud2b8\ub9ad"
+        }
+      ]
     }
   ],
   "metadata": {}
