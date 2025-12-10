@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 11,
   "level": 21,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,41 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "binary_search",
-      "isMeta": false,
-      "bojTagId": 12,
-      "problemCount": 1572,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\uc774\ubd84 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "binary search",
-          "short": "binary search"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u5206\u63a2\u7d22",
-          "short": "\u4e8c\u5206\u63a2\u7d22"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc774\ubd84\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
-        }
-      ]
-    },
-    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4853,
+      "problemCount": 4856,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +55,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3297,
+      "problemCount": 3298,
       "displayNames": [
         {
           "language": "ko",
@@ -111,111 +80,10 @@
       ]
     },
     {
-      "key": "hashing",
-      "isMeta": false,
-      "bojTagId": 8,
-      "problemCount": 199,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574\uc2f1",
-          "short": "\ud574\uc2f1"
-        },
-        {
-          "language": "en",
-          "name": "hashing",
-          "short": "hash"
-        },
-        {
-          "language": "ja",
-          "name": "\u30cf\u30c3\u30b7\u30e5\u5316",
-          "short": "\u30cf\u30c3\u30b7\u30e5"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "segtree",
-      "isMeta": false,
-      "bojTagId": 65,
-      "problemCount": 1632,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
-          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "segment tree",
-          "short": "segtree"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
-          "short": "\u30bb\u30b0\u6728"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uad6c\uac04\ud2b8\ub9ac"
-        },
-        {
-          "alias": "\uc138\uadf8\ud2b8\ub9ac"
-        },
-        {
-          "alias": "fenwick"
-        },
-        {
-          "alias": "\ud39c\uc705"
-        }
-      ]
-    },
-    {
-      "key": "smaller_to_larger",
-      "isMeta": false,
-      "bojTagId": 169,
-      "problemCount": 170,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9",
-          "short": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9"
-        },
-        {
-          "language": "en",
-          "name": "smaller to larger technique",
-          "short": "smaller to larger"
-        },
-        {
-          "language": "ja",
-          "name": "smaller to larger technique",
-          "short": "smaller to larger"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "merge heuristics"
-        },
-        {
-          "alias": "sack"
-        },
-        {
-          "alias": "small to large"
-        },
-        {
-          "alias": "\uc791\uc740\uac70"
-        },
-        {
-          "alias": "\ud070\uac70"
-        }
-      ]
-    },
-    {
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2862,
+      "problemCount": 2864,
       "displayNames": [
         {
           "language": "ko",
@@ -236,6 +104,37 @@
       "aliases": [
         {
           "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1573,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
         }
       ]
     },
@@ -295,6 +194,25 @@
       ]
     },
     {
+      "key": "harmonic_number",
+      "isMeta": false,
+      "bojTagId": 241,
+      "problemCount": 41,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc870\ud654\uc218",
+          "short": "\uc870\ud654\uc218"
+        },
+        {
+          "language": "en",
+          "name": "harmonic number",
+          "short": "harmonic number"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "z",
       "isMeta": false,
       "bojTagId": 83,
@@ -314,25 +232,6 @@
           "language": "ja",
           "name": "z",
           "short": "z"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "set",
-      "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1517,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map",
-          "short": "set"
         }
       ],
       "aliases": []
