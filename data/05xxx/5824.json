@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 30,
+  "acceptedUserCount": 31,
   "level": 22,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4.5333,
+  "averageTries": 5.1613,
   "official": true,
   "tags": [
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4897,
+      "problemCount": 4896,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4853,
+      "problemCount": 4857,
       "displayNames": [
         {
           "language": "ko",
@@ -86,10 +86,41 @@
       ]
     },
     {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4843,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1632,
+      "problemCount": 1633,
       "displayNames": [
         {
           "language": "ko",
@@ -126,7 +157,7 @@
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 947,
+      "problemCount": 948,
       "displayNames": [
         {
           "language": "ko",
@@ -145,6 +176,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "bellman_ford",
+      "isMeta": false,
+      "bojTagId": 10,
+      "problemCount": 47,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubca8\ub9cc\u2013\ud3ec\ub4dc",
+          "short": "\ubca8\ub9cc\u2013\ud3ec\ub4dc"
+        },
+        {
+          "language": "en",
+          "name": "bellman\u2013ford",
+          "short": "bellman-ford"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9\u6cd5",
+          "short": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bellmanford"
+        },
+        {
+          "alias": "\ubca8\ub9cc\ud3ec\ub4dc"
+        },
+        {
+          "alias": "spfa"
+        }
+      ]
     }
   ],
   "metadata": {}

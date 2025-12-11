@@ -11,49 +11,119 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 166,
+  "acceptedUserCount": 168,
   "level": 17,
-  "votedUserCount": 68,
+  "votedUserCount": 69,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 9.759,
+  "averageTries": 9.6786,
   "official": true,
   "tags": [
     {
-      "key": "arbitrary_precision",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 117,
-      "problemCount": 298,
+      "bojTagId": 124,
+      "problemCount": 7753,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc784\uc758 \uc815\ubc00\ub3c4 / \ud070 \uc218 \uc5f0\uc0b0",
-          "short": "\uc784\uc758 \uc815\ubc00\ub3c4 / \ud070 \uc218 \uc5f0\uc0b0"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "arbitrary precision / big integers",
-          "short": "arbitrary precision / big integers"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u9ad8\u7cbe\u5ea6\u307e\u305f\u306f\u5927\u304d\u306a\u6570\u306e\u6f14\u7b97",
-          "short": "\u9ad8\u7cbe\u5ea6\u307e\u305f\u306f\u5927\u304d\u306a\u6570\u306e\u6f14\u7b97"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6576,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4857,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
         }
       ],
       "aliases": [
         {
-          "alias": "\ube45\uc778\ud2f0\uc800"
+          "alias": "\uc790\ub8cc\uad6c\uc870"
         },
         {
-          "alias": "\ube45\ub370\uc2dc\uba40"
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2863,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
         },
         {
-          "alias": "biginteger"
+          "language": "en",
+          "name": "string",
+          "short": "string"
         },
         {
-          "alias": "bigdecimal"
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
     },
@@ -61,7 +131,7 @@
       "key": "arithmetic",
       "isMeta": false,
       "bojTagId": 121,
-      "problemCount": 1338,
+      "problemCount": 1337,
       "displayNames": [
         {
           "language": "ko",
@@ -141,54 +211,6 @@
       ]
     },
     {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6575,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7751,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "parsing",
       "isMeta": false,
       "bojTagId": 96,
@@ -213,30 +235,63 @@
       "aliases": []
     },
     {
-      "key": "string",
+      "key": "stack",
       "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2862,
+      "bojTagId": 71,
+      "problemCount": 466,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
+          "name": "\uc2a4\ud0dd",
+          "short": "\uc2a4\ud0dd"
         },
         {
           "language": "en",
-          "name": "string",
-          "short": "string"
+          "name": "stack",
+          "short": "stack"
         },
         {
           "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
+          "name": "\u30b9\u30bf\u30c3\u30af",
+          "short": "\u30b9\u30bf\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "arbitrary_precision",
+      "isMeta": false,
+      "bojTagId": 117,
+      "problemCount": 298,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc784\uc758 \uc815\ubc00\ub3c4 / \ud070 \uc218 \uc5f0\uc0b0",
+          "short": "\uc784\uc758 \uc815\ubc00\ub3c4 / \ud070 \uc218 \uc5f0\uc0b0"
+        },
+        {
+          "language": "en",
+          "name": "arbitrary precision / big integers",
+          "short": "arbitrary precision / big integers"
+        },
+        {
+          "language": "ja",
+          "name": "\u9ad8\u7cbe\u5ea6\u307e\u305f\u306f\u5927\u304d\u306a\u6570\u306e\u6f14\u7b97",
+          "short": "\u9ad8\u7cbe\u5ea6\u307e\u305f\u306f\u5927\u304d\u306a\u6570\u306e\u6f14\u7b97"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc2a4\ud2b8\ub9c1"
+          "alias": "\ube45\uc778\ud2f0\uc800"
+        },
+        {
+          "alias": "\ube45\ub370\uc2dc\uba40"
+        },
+        {
+          "alias": "biginteger"
+        },
+        {
+          "alias": "bigdecimal"
         }
       ]
     }
