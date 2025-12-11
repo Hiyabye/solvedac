@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 56,
   "level": 15,
-  "votedUserCount": 19,
+  "votedUserCount": 20,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6576,
+      "problemCount": 6577,
       "displayNames": [
         {
           "language": "ko",
@@ -82,7 +82,7 @@
       "key": "case_work",
       "isMeta": false,
       "bojTagId": 137,
-      "problemCount": 1125,
+      "problemCount": 1126,
       "displayNames": [
         {
           "language": "ko",
@@ -113,6 +113,25 @@
       ]
     },
     {
+      "key": "parity",
+      "isMeta": false,
+      "bojTagId": 230,
+      "problemCount": 159,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud640\uc9dd\uc131",
+          "short": "\ud640\uc9dd\uc131"
+        },
+        {
+          "language": "en",
+          "name": "parity",
+          "short": "parity"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "sliding_window",
       "isMeta": false,
       "bojTagId": 68,
@@ -139,25 +158,6 @@
           "alias": "\uc2ac\ub77c\uc774\ub529\uc708\ub3c4"
         }
       ]
-    },
-    {
-      "key": "parity",
-      "isMeta": false,
-      "bojTagId": 230,
-      "problemCount": 160,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud640\uc9dd\uc131",
-          "short": "\ud640\uc9dd\uc131"
-        },
-        {
-          "language": "en",
-          "name": "parity",
-          "short": "parity"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}

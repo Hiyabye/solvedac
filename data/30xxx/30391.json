@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 130,
   "level": 12,
-  "votedUserCount": 36,
+  "votedUserCount": 37,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -52,7 +52,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1441,
+      "problemCount": 1442,
       "displayNames": [
         {
           "language": "ko",
@@ -81,6 +81,25 @@
           "alias": "\uad6c\uc131\uc801"
         }
       ]
+    },
+    {
+      "key": "tree_diameter",
+      "isMeta": false,
+      "bojTagId": 222,
+      "problemCount": 48,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\uc758 \uc9c0\ub984",
+          "short": "\ud2b8\ub9ac\uc758 \uc9c0\ub984"
+        },
+        {
+          "language": "en",
+          "name": "diameter of a tree",
+          "short": "tree diameter"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 41,
   "level": 20,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 2141,
+      "problemCount": 2142,
       "displayNames": [
         {
           "language": "ko",
@@ -77,6 +77,25 @@
           "alias": "rangesum"
         }
       ]
+    },
+    {
+      "key": "invariant",
+      "isMeta": false,
+      "bojTagId": 229,
+      "problemCount": 45,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd88\ubcc0\ub7c9 \ucc3e\uae30",
+          "short": "\ubd88\ubcc0\ub7c9"
+        },
+        {
+          "language": "en",
+          "name": "finding invariants",
+          "short": "invariant"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
