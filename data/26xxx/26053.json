@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 5,
-  "level": 15,
-  "votedUserCount": 1,
+  "level": 16,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -108,30 +108,6 @@
       ]
     },
     {
-      "key": "trie",
-      "isMeta": false,
-      "bojTagId": 79,
-      "problemCount": 159,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub77c\uc774",
-          "short": "\ud2b8\ub77c\uc774"
-        },
-        {
-          "language": "en",
-          "name": "trie",
-          "short": "trie"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c8\u30e9\u30a4\u6728",
-          "short": "\u30c8\u30e9\u30a4"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "two_pointer",
       "isMeta": false,
       "bojTagId": 80,
@@ -167,6 +143,30 @@
           "alias": "twopointer"
         }
       ]
+    },
+    {
+      "key": "trie",
+      "isMeta": false,
+      "bojTagId": 79,
+      "problemCount": 159,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub77c\uc774",
+          "short": "\ud2b8\ub77c\uc774"
+        },
+        {
+          "language": "en",
+          "name": "trie",
+          "short": "trie"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c8\u30e9\u30a4\u6728",
+          "short": "\u30c8\u30e9\u30a4"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
