@@ -17,20 +17,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 53,
+  "acceptedUserCount": 54,
   "level": 26,
-  "votedUserCount": 19,
+  "votedUserCount": 20,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.1698,
+  "averageTries": 2.1667,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4857,
+      "problemCount": 4858,
       "displayNames": [
         {
           "language": "ko",
@@ -58,41 +58,10 @@
       ]
     },
     {
-      "key": "dfs",
-      "isMeta": false,
-      "bojTagId": 127,
-      "problemCount": 939,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "depth-first search",
-          "short": "dfs"
-        },
-        {
-          "language": "ja",
-          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
-          "short": "dfs"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "depth first"
-        },
-        {
-          "alias": "depthfirst"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4846,
+      "problemCount": 4845,
       "displayNames": [
         {
           "language": "ko",
@@ -123,7 +92,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2417,
+      "problemCount": 2416,
       "displayNames": [
         {
           "language": "ko",
@@ -147,6 +116,34 @@
         },
         {
           "alias": "dfs"
+        }
+      ]
+    },
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1819,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
         }
       ]
     },
@@ -188,6 +185,37 @@
       ]
     },
     {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 938,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
+    },
+    {
       "key": "stack",
       "isMeta": false,
       "bojTagId": 71,
@@ -212,32 +240,23 @@
       "aliases": []
     },
     {
-      "key": "trees",
+      "key": "tree_diameter",
       "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1820,
+      "bojTagId": 222,
+      "problemCount": 49,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
+          "name": "\ud2b8\ub9ac\uc758 \uc9c0\ub984",
+          "short": "\ud2b8\ub9ac\uc758 \uc9c0\ub984"
         },
         {
           "language": "en",
-          "name": "tree",
-          "short": "tree"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
+          "name": "diameter of a tree",
+          "short": "tree diameter"
         }
       ],
-      "aliases": [
-        {
-          "alias": "trees"
-        }
-      ]
+      "aliases": []
     }
   ],
   "metadata": {}

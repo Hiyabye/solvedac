@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 152,
+  "acceptedUserCount": 155,
   "level": 24,
-  "votedUserCount": 44,
+  "votedUserCount": 46,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.8026,
+  "averageTries": 3.7742,
   "official": true,
   "tags": [
     {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1820,
+      "problemCount": 1819,
       "displayNames": [
         {
           "language": "ko",
@@ -68,6 +68,25 @@
           "language": "ja",
           "name": "splay tree",
           "short": "splay tree"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "maximum_subarray",
+      "isMeta": false,
+      "bojTagId": 234,
+      "problemCount": 42,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4 \ubb38\uc81c",
+          "short": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "maximum subarray",
+          "short": "maximum subarray"
         }
       ],
       "aliases": []

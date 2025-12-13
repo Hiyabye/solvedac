@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 11,
   "level": 27,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,65 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "ad_hoc",
-      "isMeta": false,
-      "bojTagId": 109,
-      "problemCount": 2143,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc560\ub4dc \ud639",
-          "short": "\uc560\ub4dc \ud639"
-        },
-        {
-          "language": "en",
-          "name": "ad-hoc",
-          "short": "ad-hoc"
-        },
-        {
-          "language": "ja",
-          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
-          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "bfs",
-      "isMeta": false,
-      "bojTagId": 126,
-      "problemCount": 1180,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "breadth-first search",
-          "short": "bfs"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e45\u512a\u5148\u691c\u7d22",
-          "short": "bfs"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "breadthfirst"
-        },
-        {
-          "alias": "breadth first"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4846,
+      "problemCount": 4845,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +55,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2417,
+      "problemCount": 2416,
       "displayNames": [
         {
           "language": "ko",
@@ -134,6 +79,37 @@
         },
         {
           "alias": "dfs"
+        }
+      ]
+    },
+    {
+      "key": "bfs",
+      "isMeta": false,
+      "bojTagId": 126,
+      "problemCount": 1180,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "breadth-first search",
+          "short": "bfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e45\u512a\u5148\u691c\u7d22",
+          "short": "bfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "breadthfirst"
+        },
+        {
+          "alias": "breadth first"
         }
       ]
     },
