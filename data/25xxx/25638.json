@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 154,
   "level": 16,
-  "votedUserCount": 43,
+  "votedUserCount": 44,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4897,
+      "problemCount": 4899,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4845,
+      "problemCount": 4846,
       "displayNames": [
         {
           "language": "ko",
@@ -120,7 +120,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1820,
+      "problemCount": 1819,
       "displayNames": [
         {
           "language": "ko",
@@ -202,6 +202,25 @@
           "alias": "\ud2b8\ub9acdp"
         }
       ]
+    },
+    {
+      "key": "rerooting",
+      "isMeta": false,
+      "bojTagId": 233,
+      "problemCount": 52,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\uc5d0\uc11c\uc758 \uc804\ubc29\ud5a5 \ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub9ac\ub8e8\ud305"
+        },
+        {
+          "language": "en",
+          "name": "rerooting on trees",
+          "short": "rerooting"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
