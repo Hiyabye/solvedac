@@ -12,14 +12,103 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 15,
-  "level": 19,
-  "votedUserCount": 3,
+  "level": 18,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2.4,
   "official": true,
   "tags": [
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 4899,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4847,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "shortest_path",
+      "isMeta": false,
+      "bojTagId": 215,
+      "problemCount": 949,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
+          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "shortest path",
+          "short": "shortest path"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u77ed\u7d4c\u8def",
+          "short": "\u6700\u77ed\u7d4c\u8def"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "bitmask",
       "isMeta": false,
@@ -86,40 +175,6 @@
       ]
     },
     {
-      "key": "dp",
-      "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 4898,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
-    {
       "key": "dp_bitfield",
       "isMeta": false,
       "bojTagId": 87,
@@ -154,61 +209,6 @@
       ]
     },
     {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 4845,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "shortest_path",
-      "isMeta": false,
-      "bojTagId": 215,
-      "problemCount": 949,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
-          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
-        },
-        {
-          "language": "en",
-          "name": "shortest path",
-          "short": "shortest path"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u77ed\u7d4c\u8def",
-          "short": "\u6700\u77ed\u7d4c\u8def"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "tsp",
       "isMeta": false,
       "bojTagId": 138,
@@ -235,6 +235,25 @@
           "alias": "\uc678\ud310\uc6d0\uc21c\ud68c"
         }
       ]
+    },
+    {
+      "key": "invariant",
+      "isMeta": false,
+      "bojTagId": 229,
+      "problemCount": 46,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd88\ubcc0\ub7c9 \ucc3e\uae30",
+          "short": "\ubd88\ubcc0\ub7c9"
+        },
+        {
+          "language": "en",
+          "name": "finding invariants",
+          "short": "invariant"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
