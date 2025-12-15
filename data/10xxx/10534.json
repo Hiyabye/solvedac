@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 135,
   "level": 20,
-  "votedUserCount": 15,
+  "votedUserCount": 16,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -30,7 +30,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4861,
+      "problemCount": 4862,
       "displayNames": [
         {
           "language": "ko",
@@ -54,6 +54,34 @@
         },
         {
           "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "sweeping",
+      "isMeta": false,
+      "bojTagId": 106,
+      "problemCount": 655,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2a4\uc704\ud551",
+          "short": "\uc2a4\uc704\ud551"
+        },
+        {
+          "language": "en",
+          "name": "sweeping",
+          "short": "sweeping"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e73\u9762\u8d70\u67fb",
+          "short": "\u5e73\u9762\u8d70\u67fb"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
         }
       ]
     },
@@ -94,34 +122,6 @@
         },
         {
           "alias": "dsu"
-        }
-      ]
-    },
-    {
-      "key": "sweeping",
-      "isMeta": false,
-      "bojTagId": 106,
-      "problemCount": 655,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc2a4\uc704\ud551",
-          "short": "\uc2a4\uc704\ud551"
-        },
-        {
-          "language": "en",
-          "name": "sweeping",
-          "short": "sweeping"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e73\u9762\u8d70\u67fb",
-          "short": "\u5e73\u9762\u8d70\u67fb"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
         }
       ]
     }

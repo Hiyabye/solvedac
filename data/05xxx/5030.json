@@ -11,9 +11,9 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 5,
+  "acceptedUserCount": 6,
   "level": 20,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1929,
+      "problemCount": 1931,
       "displayNames": [
         {
           "language": "ko",
@@ -43,6 +43,70 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "line_intersection",
+      "isMeta": false,
+      "bojTagId": 42,
+      "problemCount": 169,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815",
+          "short": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815"
+        },
+        {
+          "language": "en",
+          "name": "line segment intersection check",
+          "short": "line segment intersection check"
+        },
+        {
+          "language": "ja",
+          "name": "\u76f4\u7dda\u306e\u4ea4\u70b9",
+          "short": "\u76f4\u7dda\u306e\u4ea4\u70b9"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometric_boolean_operations",
+      "isMeta": false,
+      "bojTagId": 202,
+      "problemCount": 22,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub3c4\ud615\uc5d0\uc11c\uc758 \ubd88 \uc5f0\uc0b0",
+          "short": "\ub3c4\ud615\uc5d0\uc11c\uc758 \ubd88 \uc5f0\uc0b0"
+        },
+        {
+          "language": "en",
+          "name": "boolean operations on geometric objects",
+          "short": "geometric boolean operations"
+        },
+        {
+          "language": "ja",
+          "name": "\u56f3\u5f62\u306e\u30d6\u30fc\u30eb\u6f14\u7b97",
+          "short": "\u56f3\u5f62\u306e\u30d6\u30fc\u30eb\u6f14\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ubcd1\ud569"
+        },
+        {
+          "alias": "\uad50\uc9d1\ud569"
+        },
+        {
+          "alias": "\ud569\uc9d1\ud569"
+        },
+        {
+          "alias": "union"
+        },
+        {
+          "alias": "intersect"
+        }
+      ]
     }
   ],
   "metadata": {}
