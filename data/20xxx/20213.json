@@ -11,15 +11,39 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 30,
+  "acceptedUserCount": 31,
   "level": 16,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4,
+  "averageTries": 3.9032,
   "official": true,
   "tags": [
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6582,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "greedy",
       "isMeta": false,
@@ -49,34 +73,44 @@
       ]
     },
     {
-      "key": "implementation",
+      "key": "constructive",
       "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6581,
+      "bojTagId": 128,
+      "problemCount": 1450,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
+          "name": "\ud574 \uad6c\uc131\ud558\uae30",
+          "short": "\ud574 \uad6c\uc131\ud558\uae30"
         },
         {
           "language": "en",
-          "name": "implementation",
-          "short": "impl"
+          "name": "constructive",
+          "short": "constructive"
         },
         {
           "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
+          "name": "\u69cb\u6210\u7684",
+          "short": "\u69cb\u6210\u7684"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "constructive"
+        },
+        {
+          "alias": "\ucee8\uc2a4\ud2b8\ub7ed\ud2f0\ube0c"
+        },
+        {
+          "alias": "\uad6c\uc131\uc801"
+        }
+      ]
     },
     {
       "key": "simulation",
       "isMeta": false,
       "bojTagId": 141,
-      "problemCount": 1312,
+      "problemCount": 1311,
       "displayNames": [
         {
           "language": "ko",
