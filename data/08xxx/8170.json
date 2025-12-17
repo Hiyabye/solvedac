@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 69,
+  "acceptedUserCount": 70,
   "level": 21,
-  "votedUserCount": 13,
+  "votedUserCount": 14,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7971,
+  "averageTries": 1.8,
   "official": true,
   "tags": [
     {
@@ -55,6 +55,25 @@
       ]
     },
     {
+      "key": "parity",
+      "isMeta": false,
+      "bojTagId": 230,
+      "problemCount": 159,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud640\uc9dd\uc131",
+          "short": "\ud640\uc9dd\uc131"
+        },
+        {
+          "language": "en",
+          "name": "parity",
+          "short": "parity"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "sprague_grundy",
       "isMeta": false,
       "bojTagId": 70,
@@ -84,25 +103,6 @@
           "alias": "nimber"
         }
       ]
-    },
-    {
-      "key": "parity",
-      "isMeta": false,
-      "bojTagId": 230,
-      "problemCount": 159,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud640\uc9dd\uc131",
-          "short": "\ud640\uc9dd\uc131"
-        },
-        {
-          "language": "en",
-          "name": "parity",
-          "short": "parity"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "difference_array",
