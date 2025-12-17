@@ -13,13 +13,37 @@
   "isPartial": false,
   "acceptedUserCount": 29,
   "level": 21,
-  "votedUserCount": 13,
+  "votedUserCount": 14,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 3.2759,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7761,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "ad_hoc",
       "isMeta": false,
@@ -43,46 +67,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "combinatorics",
-      "isMeta": false,
-      "bojTagId": 6,
-      "problemCount": 1217,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc870\ud569\ub860",
-          "short": "\uc870\ud569\ub860"
-        },
-        {
-          "language": "en",
-          "name": "combinatorics",
-          "short": "combinatorics"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d44\u307f\u5408\u308f\u305b",
-          "short": "\u7d44\u307f\u5408\u308f\u305b"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "combination"
-        },
-        {
-          "alias": "permutation"
-        },
-        {
-          "alias": "probability"
-        },
-        {
-          "alias": "\ud655\ub960"
-        },
-        {
-          "alias": "\uc21c\uc5f4"
-        }
-      ]
     },
     {
       "key": "constructive",
@@ -119,28 +103,44 @@
       ]
     },
     {
-      "key": "math",
+      "key": "combinatorics",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7759,
+      "bojTagId": 6,
+      "problemCount": 1219,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\uc870\ud569\ub860",
+          "short": "\uc870\ud569\ub860"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "combinatorics",
+          "short": "combinatorics"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "\u7d44\u307f\u5408\u308f\u305b",
+          "short": "\u7d44\u307f\u5408\u308f\u305b"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "combination"
+        },
+        {
+          "alias": "permutation"
+        },
+        {
+          "alias": "probability"
+        },
+        {
+          "alias": "\ud655\ub960"
+        },
+        {
+          "alias": "\uc21c\uc5f4"
+        }
+      ]
     }
   ],
   "metadata": {}
