@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 40,
   "level": 13,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,41 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4864,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3301,
+      "problemCount": 3300,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +52,7 @@
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2300,
+      "problemCount": 2301,
       "displayNames": [
         {
           "language": "ko",
@@ -99,6 +68,25 @@
           "language": "ja",
           "name": "\u30bd\u30fc\u30c8",
           "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "traceback",
+      "isMeta": false,
+      "bojTagId": 235,
+      "problemCount": 170,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc5ed\ucd94\uc801",
+          "short": "\uc5ed\ucd94\uc801"
+        },
+        {
+          "language": "en",
+          "name": "traceback",
+          "short": "traceback"
         }
       ],
       "aliases": []
