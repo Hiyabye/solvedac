@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 43,
   "level": 20,
-  "votedUserCount": 19,
+  "votedUserCount": 20,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4864,
+      "problemCount": 4866,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +83,7 @@
       "key": "set",
       "isMeta": false,
       "bojTagId": 225,
-      "problemCount": 1526,
+      "problemCount": 1525,
       "displayNames": [
         {
           "language": "ko",
@@ -154,34 +154,10 @@
       ]
     },
     {
-      "key": "trie",
-      "isMeta": false,
-      "bojTagId": 79,
-      "problemCount": 159,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub77c\uc774",
-          "short": "\ud2b8\ub77c\uc774"
-        },
-        {
-          "language": "en",
-          "name": "trie",
-          "short": "trie"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c8\u30e9\u30a4\u6728",
-          "short": "\u30c8\u30e9\u30a4"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "sqrt_decomposition",
       "isMeta": false,
       "bojTagId": 130,
-      "problemCount": 159,
+      "problemCount": 160,
       "displayNames": [
         {
           "language": "ko",
@@ -216,6 +192,30 @@
           "alias": "sqrt"
         }
       ]
+    },
+    {
+      "key": "trie",
+      "isMeta": false,
+      "bojTagId": 79,
+      "problemCount": 159,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub77c\uc774",
+          "short": "\ud2b8\ub77c\uc774"
+        },
+        {
+          "language": "en",
+          "name": "trie",
+          "short": "trie"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c8\u30e9\u30a4\u6728",
+          "short": "\u30c8\u30e9\u30a4"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
