@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 5,
   "level": 27,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,49 +21,25 @@
   "official": true,
   "tags": [
     {
-      "key": "geometry",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 1935,
+      "bojTagId": 124,
+      "problemCount": 7762,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "geometry",
-          "short": "geom"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "rotating_calipers",
-      "isMeta": false,
-      "bojTagId": 64,
-      "problemCount": 36,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud68c\uc804\ud558\ub294 \uce98\ub9ac\ud37c\uc2a4",
-          "short": "\ud68c\uc804\ud558\ub294 \uce98\ub9ac\ud37c\uc2a4"
-        },
-        {
-          "language": "en",
-          "name": "rotating calipers",
-          "short": "rotating calipers"
-        },
-        {
-          "language": "ja",
-          "name": "rotating calipers",
-          "short": "rotating calipers"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
       "aliases": []
@@ -88,6 +64,30 @@
           "language": "ja",
           "name": "\u30bd\u30fc\u30c8",
           "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1935,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
         }
       ],
       "aliases": []
@@ -119,6 +119,88 @@
           "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
         }
       ]
+    },
+    {
+      "key": "probability",
+      "isMeta": false,
+      "bojTagId": 177,
+      "problemCount": 461,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\ub960\ub860",
+          "short": "\ud655\ub960\ub860"
+        },
+        {
+          "language": "en",
+          "name": "probability theory",
+          "short": "probability"
+        },
+        {
+          "language": "ja",
+          "name": "\u78ba\u7387\u8ad6",
+          "short": "\u78ba\u7387\u8ad6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "expected value"
+        },
+        {
+          "alias": "\uae30\ub300\uac12"
+        },
+        {
+          "alias": "\uae30\ub313\uac12"
+        }
+      ]
+    },
+    {
+      "key": "linearity_of_expectation",
+      "isMeta": false,
+      "bojTagId": 179,
+      "problemCount": 104,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131",
+          "short": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131"
+        },
+        {
+          "language": "en",
+          "name": "linearity of expectation",
+          "short": "linearity of expectation"
+        },
+        {
+          "language": "ja",
+          "name": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027",
+          "short": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "rotating_calipers",
+      "isMeta": false,
+      "bojTagId": 64,
+      "problemCount": 36,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud68c\uc804\ud558\ub294 \uce98\ub9ac\ud37c\uc2a4",
+          "short": "\ud68c\uc804\ud558\ub294 \uce98\ub9ac\ud37c\uc2a4"
+        },
+        {
+          "language": "en",
+          "name": "rotating calipers",
+          "short": "rotating calipers"
+        },
+        {
+          "language": "ja",
+          "name": "rotating calipers",
+          "short": "rotating calipers"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
