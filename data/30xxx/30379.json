@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 2,
   "level": 25,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7763,
+      "problemCount": 7765,
       "displayNames": [
         {
           "language": "ko",
@@ -43,6 +43,138 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "combinatorics",
+      "isMeta": false,
+      "bojTagId": 6,
+      "problemCount": 1222,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc870\ud569\ub860",
+          "short": "\uc870\ud569\ub860"
+        },
+        {
+          "language": "en",
+          "name": "combinatorics",
+          "short": "combinatorics"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d44\u307f\u5408\u308f\u305b",
+          "short": "\u7d44\u307f\u5408\u308f\u305b"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "combination"
+        },
+        {
+          "alias": "permutation"
+        },
+        {
+          "alias": "probability"
+        },
+        {
+          "alias": "\ud655\ub960"
+        },
+        {
+          "alias": "\uc21c\uc5f4"
+        }
+      ]
+    },
+    {
+      "key": "probability",
+      "isMeta": false,
+      "bojTagId": 177,
+      "problemCount": 463,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\ub960\ub860",
+          "short": "\ud655\ub960\ub860"
+        },
+        {
+          "language": "en",
+          "name": "probability theory",
+          "short": "probability"
+        },
+        {
+          "language": "ja",
+          "name": "\u78ba\u7387\u8ad6",
+          "short": "\u78ba\u7387\u8ad6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "expected value"
+        },
+        {
+          "alias": "\uae30\ub300\uac12"
+        },
+        {
+          "alias": "\uae30\ub313\uac12"
+        }
+      ]
+    },
+    {
+      "key": "generating_function",
+      "isMeta": false,
+      "bojTagId": 198,
+      "problemCount": 56,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc0dd\uc131 \ud568\uc218",
+          "short": "\uc0dd\uc131 \ud568\uc218"
+        },
+        {
+          "language": "en",
+          "name": "generating function",
+          "short": "generating function"
+        },
+        {
+          "language": "ja",
+          "name": "\u751f\u6210\u95a2\u6570",
+          "short": "\u751f\u6210\u95a2\u6570"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "kitamasa",
+      "isMeta": false,
+      "bojTagId": 112,
+      "problemCount": 13,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\ud56d\uc2dd\uc744 \uc774\uc6a9\ud55c \uc120\ud615\uc810\ud654\uc2dd \uacc4\uc0b0",
+          "short": "\ub2e4\ud56d\uc2dd\uc744 \uc774\uc6a9\ud55c \uc120\ud615\uc810\ud654\uc2dd \uacc4\uc0b0"
+        },
+        {
+          "language": "en",
+          "name": "linear recurrence calculation by polynomials",
+          "short": "linear recurrence calculation by polynomials"
+        },
+        {
+          "language": "ja",
+          "name": "\u591a\u9805\u5f0f\u306b\u3088\u308b\u7dda\u5f62\u6f38\u5316\u5f0f\u306e\u8a08\u7b97",
+          "short": "\u591a\u9805\u5f0f\u306b\u3088\u308b\u7dda\u5f62\u6f38\u5316\u5f0f\u306e\u8a08\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0a4\ud0c0\ub9c8\uc0ac"
+        },
+        {
+          "alias": "kitamasa"
+        },
+        {
+          "alias": "\u304d\u305f\u307e\u3055\u6cd5"
+        }
+      ]
     }
   ],
   "metadata": {}
