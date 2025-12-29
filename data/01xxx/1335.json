@@ -11,66 +11,62 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 9,
-  "level": 24,
-  "votedUserCount": 3,
+  "acceptedUserCount": 10,
+  "level": 25,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 5.6667,
+  "averageTries": 5.5,
   "official": true,
   "tags": [
     {
-      "key": "crt",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 19,
-      "problemCount": 56,
+      "bojTagId": 124,
+      "problemCount": 7798,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac",
-          "short": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "chinese remainder theorem",
-          "short": "crt"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406",
-          "short": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
       "aliases": []
     },
     {
-      "key": "discrete_log",
+      "key": "number_theory",
       "isMeta": false,
-      "bojTagId": 146,
-      "problemCount": 12,
+      "bojTagId": 95,
+      "problemCount": 1808,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc774\uc0b0 \ub85c\uadf8",
-          "short": "\uc774\uc0b0 \ub85c\uadf8"
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
         },
         {
           "language": "en",
-          "name": "discrete logarithm",
-          "short": "discrete logarithm"
+          "name": "number theory",
+          "short": "number theory"
         },
         {
           "language": "ja",
-          "name": "\u96e2\u6563\u5bfe\u6570",
-          "short": "\u96e2\u6563\u5bfe\u6570"
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
         }
       ],
-      "aliases": [
-        {
-          "alias": "order"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "fft",
@@ -107,25 +103,25 @@
       ]
     },
     {
-      "key": "math",
+      "key": "crt",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7792,
+      "bojTagId": 19,
+      "problemCount": 56,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac",
+          "short": "\uc911\uad6d\uc778\uc758 \ub098\uba38\uc9c0 \uc815\ub9ac"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "chinese remainder theorem",
+          "short": "crt"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406",
+          "short": "\u4e2d\u56fd\u306e\u5270\u4f59\u5b9a\u7406"
         }
       ],
       "aliases": []
@@ -159,28 +155,32 @@
       ]
     },
     {
-      "key": "number_theory",
+      "key": "discrete_log",
       "isMeta": false,
-      "bojTagId": 95,
-      "problemCount": 1806,
+      "bojTagId": 146,
+      "problemCount": 12,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\uc218\ub860",
-          "short": "\uc815\uc218\ub860"
+          "name": "\uc774\uc0b0 \ub85c\uadf8",
+          "short": "\uc774\uc0b0 \ub85c\uadf8"
         },
         {
           "language": "en",
-          "name": "number theory",
-          "short": "number theory"
+          "name": "discrete logarithm",
+          "short": "discrete logarithm"
         },
         {
           "language": "ja",
-          "name": "\u6574\u6570\u8ad6",
-          "short": "\u6574\u6570\u8ad6"
+          "name": "\u96e2\u6563\u5bfe\u6570",
+          "short": "\u96e2\u6563\u5bfe\u6570"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "order"
+        }
+      ]
     }
   ],
   "metadata": {}
