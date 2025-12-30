@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 28,
-  "level": 26,
-  "votedUserCount": 11,
+  "acceptedUserCount": 30,
+  "level": 25,
+  "votedUserCount": 12,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.3929,
+  "averageTries": 3.3,
   "official": true,
   "tags": [
     {
@@ -48,7 +48,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4870,
+      "problemCount": 4871,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +110,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1808,
+      "problemCount": 1810,
       "displayNames": [
         {
           "language": "ko",
@@ -158,6 +158,34 @@
         },
         {
           "alias": "breadth first"
+        }
+      ]
+    },
+    {
+      "key": "linear_algebra",
+      "isMeta": false,
+      "bojTagId": 144,
+      "problemCount": 231,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc120\ud615\ub300\uc218\ud559",
+          "short": "\uc120\ud615\ub300\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "linear algebra",
+          "short": "linear algebra"
+        },
+        {
+          "language": "ja",
+          "name": "\u7dda\u5f62\u4ee3\u6570",
+          "short": "\u7dda\u4ee3"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc120\ud615\ub300\uc218"
         }
       ]
     }
