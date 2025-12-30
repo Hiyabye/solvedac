@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 17,
-  "level": 7,
-  "votedUserCount": 3,
+  "level": 8,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6622,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4893,
+      "problemCount": 4894,
       "displayNames": [
         {
           "language": "ko",
@@ -50,54 +74,6 @@
           "alias": "\uc790\uad6c"
         }
       ]
-    },
-    {
-      "key": "deque",
-      "isMeta": false,
-      "bojTagId": 73,
-      "problemCount": 150,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub371",
-          "short": "\ub371"
-        },
-        {
-          "language": "en",
-          "name": "deque",
-          "short": "deque"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
-          "short": "deque"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6621,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "simulation",
@@ -143,6 +119,30 @@
           "language": "ja",
           "name": "\u30b9\u30bf\u30c3\u30af",
           "short": "\u30b9\u30bf\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "deque",
+      "isMeta": false,
+      "bojTagId": 73,
+      "problemCount": 150,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub371",
+          "short": "\ub371"
+        },
+        {
+          "language": "en",
+          "name": "deque",
+          "short": "deque"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
+          "short": "deque"
         }
       ],
       "aliases": []
