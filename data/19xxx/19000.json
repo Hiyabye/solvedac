@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 2,
+  "acceptedUserCount": 3,
   "level": 24,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.5,
+  "averageTries": 3.6667,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7800,
+      "problemCount": 7801,
       "displayNames": [
         {
           "language": "ko",
@@ -64,6 +64,53 @@
           "language": "ja",
           "name": "\u6574\u6570\u8ad6",
           "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "mobius_inversion",
+      "isMeta": false,
+      "bojTagId": 51,
+      "problemCount": 31,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubafc\ube44\uc6b0\uc2a4 \ubc18\uc804 \uacf5\uc2dd",
+          "short": "\ubafc\ube44\uc6b0\uc2a4 \ubc18\uc804 \uacf5\uc2dd"
+        },
+        {
+          "language": "en",
+          "name": "m\u00f6bius inversion",
+          "short": "m\u00f6bius inversion"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e1\u30d3\u30a6\u30b9\u306e\u53cd\u8ee2\u516c\u5f0f",
+          "short": "\u30e1\u30d3\u30a6\u30b9"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "mobius"
+        }
+      ]
+    },
+    {
+      "key": "floor_sum",
+      "isMeta": false,
+      "bojTagId": 218,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc720\ub9ac \ub4f1\ucc28\uc218\uc5f4\uc758 \ub0b4\ub9bc \ud569",
+          "short": "\uc720\ub9ac \ub4f1\ucc28\uc218\uc5f4\uc758 \ub0b4\ub9bc \ud569"
+        },
+        {
+          "language": "en",
+          "name": "sum of floor of rational arithmetic sequence",
+          "short": "floor sum"
         }
       ],
       "aliases": []
