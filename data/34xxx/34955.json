@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 44,
+  "acceptedUserCount": 46,
   "level": 15,
-  "votedUserCount": 14,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.4091,
+  "averageTries": 3.3043,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4898,
+      "problemCount": 4901,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3324,
+      "problemCount": 3327,
       "displayNames": [
         {
           "language": "ko",
@@ -83,7 +83,7 @@
       "key": "set",
       "isMeta": false,
       "bojTagId": 225,
-      "problemCount": 1539,
+      "problemCount": 1538,
       "displayNames": [
         {
           "language": "ko",
@@ -99,10 +99,41 @@
       "aliases": []
     },
     {
+      "key": "priority_queue",
+      "isMeta": false,
+      "bojTagId": 59,
+      "problemCount": 547,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc6b0\uc120\uc21c\uc704 \ud050",
+          "short": "\uc6b0\uc120\uc21c\uc704 \ud050"
+        },
+        {
+          "language": "en",
+          "name": "priority queue",
+          "short": "priority queue"
+        },
+        {
+          "language": "ja",
+          "name": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc",
+          "short": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "heap"
+        },
+        {
+          "alias": "\ud799"
+        }
+      ]
+    },
+    {
       "key": "tree_set",
       "isMeta": false,
       "bojTagId": 74,
-      "problemCount": 545,
+      "problemCount": 544,
       "displayNames": [
         {
           "language": "ko",
@@ -150,37 +181,6 @@
         },
         {
           "alias": "tree"
-        }
-      ]
-    },
-    {
-      "key": "priority_queue",
-      "isMeta": false,
-      "bojTagId": 59,
-      "problemCount": 545,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc6b0\uc120\uc21c\uc704 \ud050",
-          "short": "\uc6b0\uc120\uc21c\uc704 \ud050"
-        },
-        {
-          "language": "en",
-          "name": "priority queue",
-          "short": "priority queue"
-        },
-        {
-          "language": "ja",
-          "name": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc",
-          "short": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "heap"
-        },
-        {
-          "alias": "\ud799"
         }
       ]
     }
