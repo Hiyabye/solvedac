@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 2,
-  "level": 18,
-  "votedUserCount": 1,
+  "level": 20,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -58,7 +58,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4899,
+      "problemCount": 4900,
       "displayNames": [
         {
           "language": "ko",
@@ -126,7 +126,7 @@
       "key": "divide_and_conquer",
       "isMeta": false,
       "bojTagId": 24,
-      "problemCount": 492,
+      "problemCount": 491,
       "displayNames": [
         {
           "language": "ko",
@@ -147,6 +147,43 @@
       "aliases": [
         {
           "alias": "dnc"
+        }
+      ]
+    },
+    {
+      "key": "multi_segtree",
+      "isMeta": false,
+      "bojTagId": 166,
+      "problemCount": 36,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\ucc28\uc6d0 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\ub2e4\ucc28\uc6d0 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "multidimensional segment tree",
+          "short": "multidimensional segtree"
+        },
+        {
+          "language": "ja",
+          "name": "multidimensional segment tree",
+          "short": "multidimensional segtree"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud2b8\ub9ac"
+        },
+        {
+          "alias": "\uc138\uadf8\ud2b8\ub9ac"
+        },
+        {
+          "alias": "fenwick"
+        },
+        {
+          "alias": "\ud39c\uc705"
         }
       ]
     }
