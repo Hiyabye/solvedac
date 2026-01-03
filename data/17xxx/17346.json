@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 33,
   "level": 24,
-  "votedUserCount": 13,
+  "votedUserCount": 14,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1834,
+      "problemCount": 1833,
       "displayNames": [
         {
           "language": "ko",
@@ -49,6 +49,25 @@
       ]
     },
     {
+      "key": "maximum_subarray",
+      "isMeta": false,
+      "bojTagId": 234,
+      "problemCount": 45,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4 \ubb38\uc81c",
+          "short": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "maximum subarray",
+          "short": "maximum subarray"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "splay_tree",
       "isMeta": false,
       "bojTagId": 69,
@@ -68,25 +87,6 @@
           "language": "ja",
           "name": "splay tree",
           "short": "splay tree"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "maximum_subarray",
-      "isMeta": false,
-      "bojTagId": 234,
-      "problemCount": 45,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4 \ubb38\uc81c",
-          "short": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "maximum subarray",
-          "short": "maximum subarray"
         }
       ],
       "aliases": []
