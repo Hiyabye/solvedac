@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 6,
+  "acceptedUserCount": 8,
   "level": 24,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 10.1667,
+  "averageTries": 8.25,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7806,
+      "problemCount": 7810,
       "displayNames": [
         {
           "language": "ko",
@@ -45,34 +45,10 @@
       "aliases": []
     },
     {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6627,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4922,
+      "problemCount": 4927,
       "displayNames": [
         {
           "language": "ko",
@@ -99,40 +75,6 @@
         },
         {
           "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
-    {
-      "key": "case_work",
-      "isMeta": false,
-      "bojTagId": 137,
-      "problemCount": 1130,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30",
-          "short": "\ub9ce\uc740 \uc870\uac74 \ubd84\uae30"
-        },
-        {
-          "language": "en",
-          "name": "case work",
-          "short": "case work"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af",
-          "short": "\u30b1\u30fc\u30b9\u30ef\u30fc\u30af"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ucf00\uc774\uc2a4"
-        },
-        {
-          "alias": "\ucf00\uc774\uc2a4\uc6cc\ud06c"
-        },
-        {
-          "alias": "\ucf00\uc774\uc2a4 \uc6cc\ud06c"
         }
       ]
     },
@@ -208,7 +150,7 @@
       "key": "linear_algebra",
       "isMeta": false,
       "bojTagId": 144,
-      "problemCount": 232,
+      "problemCount": 233,
       "displayNames": [
         {
           "language": "ko",
@@ -236,7 +178,7 @@
       "key": "heuristics",
       "isMeta": false,
       "bojTagId": 142,
-      "problemCount": 130,
+      "problemCount": 131,
       "displayNames": [
         {
           "language": "ko",
@@ -252,30 +194,6 @@
           "language": "ja",
           "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
           "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "simulated_annealing",
-      "isMeta": false,
-      "bojTagId": 184,
-      "problemCount": 27,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2f4\uae08\uc9c8 \uae30\ubc95",
-          "short": "\ub2f4\uae08\uc9c8 \uae30\ubc95"
-        },
-        {
-          "language": "en",
-          "name": "simulated annealing",
-          "short": "simulated annealing"
-        },
-        {
-          "language": "ja",
-          "name": "\u713c\u304d\u920d\u3057\u6cd5",
-          "short": "\u713c\u304d\u920d\u3057\u6cd5"
         }
       ],
       "aliases": []

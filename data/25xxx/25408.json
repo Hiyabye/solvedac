@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 21,
   "level": 22,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -27,65 +27,10 @@
   "official": true,
   "tags": [
     {
-      "key": "ad_hoc",
-      "isMeta": false,
-      "bojTagId": 109,
-      "problemCount": 2175,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc560\ub4dc \ud639",
-          "short": "\uc560\ub4dc \ud639"
-        },
-        {
-          "language": "en",
-          "name": "ad-hoc",
-          "short": "ad-hoc"
-        },
-        {
-          "language": "ja",
-          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
-          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "binary_search",
-      "isMeta": false,
-      "bojTagId": 12,
-      "problemCount": 1586,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\uc774\ubd84 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "binary search",
-          "short": "binary search"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u5206\u63a2\u7d22",
-          "short": "\u4e8c\u5206\u63a2\u7d22"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc774\ubd84\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
-        }
-      ]
-    },
-    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4901,
+      "problemCount": 4904,
       "displayNames": [
         {
           "language": "ko",
@@ -113,38 +58,34 @@
       ]
     },
     {
-      "key": "offline_queries",
+      "key": "ad_hoc",
       "isMeta": false,
-      "bojTagId": 123,
-      "problemCount": 355,
+      "bojTagId": 109,
+      "problemCount": 2176,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
-          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
         },
         {
           "language": "en",
-          "name": "offline queries",
-          "short": "offline query"
+          "name": "ad-hoc",
+          "short": "ad-hoc"
         },
         {
           "language": "ja",
-          "name": "offline queries",
-          "short": "offline query"
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
         }
       ],
-      "aliases": [
-        {
-          "alias": "offlinequery"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1644,
+      "problemCount": 1646,
       "displayNames": [
         {
           "language": "ko",
@@ -178,6 +119,37 @@
       ]
     },
     {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1587,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
       "key": "stack",
       "isMeta": false,
       "bojTagId": 71,
@@ -200,6 +172,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "offline_queries",
+      "isMeta": false,
+      "bojTagId": 123,
+      "problemCount": 355,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
+          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "offline queries",
+          "short": "offline query"
+        },
+        {
+          "language": "ja",
+          "name": "offline queries",
+          "short": "offline query"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "offlinequery"
+        }
+      ]
     }
   ],
   "metadata": {}
