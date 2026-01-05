@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 5,
+  "acceptedUserCount": 7,
   "level": 25,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 24,
+  "averageTries": 19.8571,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4904,
+      "problemCount": 4905,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 2176,
+      "problemCount": 2179,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1646,
+      "problemCount": 1647,
       "displayNames": [
         {
           "language": "ko",
@@ -111,6 +111,30 @@
           "alias": "\ud39c\uc705"
         }
       ]
+    },
+    {
+      "key": "pigeonhole_principle",
+      "isMeta": false,
+      "bojTagId": 189,
+      "problemCount": 69,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ub458\uae30\uc9d1 \uc6d0\ub9ac",
+          "short": "\ube44\ub458\uae30\uc9d1"
+        },
+        {
+          "language": "en",
+          "name": "pigeonhole principle",
+          "short": "pigeonhole"
+        },
+        {
+          "language": "ja",
+          "name": "\u9ce9\u306e\u5de3\u539f\u7406",
+          "short": "\u9ce9"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

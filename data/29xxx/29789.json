@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 11,
   "level": 23,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4878,
+      "problemCount": 4879,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "ad_hoc",
       "isMeta": false,
       "bojTagId": 109,
-      "problemCount": 2176,
+      "problemCount": 2179,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +110,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1833,
+      "problemCount": 1834,
       "displayNames": [
         {
           "language": "ko",
@@ -138,7 +138,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 947,
+      "problemCount": 948,
       "displayNames": [
         {
           "language": "ko",
@@ -185,6 +185,30 @@
           "language": "ja",
           "name": "centroid",
           "short": "centroid"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "hld",
+      "isMeta": false,
+      "bojTagId": 35,
+      "problemCount": 106,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "Heavy-light \ubd84\ud560",
+          "short": "Heavy-light \ubd84\ud560"
+        },
+        {
+          "language": "en",
+          "name": "heavy-light decomposition",
+          "short": "hld"
+        },
+        {
+          "language": "ja",
+          "name": "heavy-light decomposition",
+          "short": "hld"
         }
       ],
       "aliases": []
