@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 64,
   "level": 27,
-  "votedUserCount": 22,
+  "votedUserCount": 23,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "game_theory",
       "isMeta": false,
       "bojTagId": 140,
-      "problemCount": 513,
+      "problemCount": 514,
       "displayNames": [
         {
           "language": "ko",
@@ -53,6 +53,25 @@
           "alias": "nim"
         }
       ]
+    },
+    {
+      "key": "parity",
+      "isMeta": false,
+      "bojTagId": 230,
+      "problemCount": 178,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud640\uc9dd\uc131",
+          "short": "\ud640\uc9dd\uc131"
+        },
+        {
+          "language": "en",
+          "name": "parity",
+          "short": "parity"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
