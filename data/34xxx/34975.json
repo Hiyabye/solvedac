@@ -1,0 +1,258 @@
+{
+  "problemId": 34975,
+  "titleKo": "\uadf8\ub798\ud50c\ub9c1 \ud6c4\ud06c",
+  "titles": [
+    {
+      "language": "ko",
+      "languageDisplayName": "ko",
+      "title": "\uadf8\ub798\ud50c\ub9c1 \ud6c4\ud06c",
+      "isOriginal": true
+    }
+  ],
+  "isSolvable": true,
+  "isPartial": false,
+  "acceptedUserCount": 47,
+  "level": 17,
+  "votedUserCount": 11,
+  "sprout": false,
+  "givesNoRating": false,
+  "isLevelLocked": false,
+  "averageTries": 1.9149,
+  "official": true,
+  "tags": [
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6632,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4913,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1542,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "simulation",
+      "isMeta": false,
+      "bojTagId": 141,
+      "problemCount": 1321,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2dc\ubbac\ub808\uc774\uc158",
+          "short": "\uc2dc\ubbac\ub808\uc774\uc158"
+        },
+        {
+          "language": "en",
+          "name": "simulation",
+          "short": "simulation"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+          "short": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "disjoint_set",
+      "isMeta": false,
+      "bojTagId": 81,
+      "problemCount": 639,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ub9ac \uc9d1\ud569",
+          "short": "\ubd84\ub9ac \uc9d1\ud569"
+        },
+        {
+          "language": "en",
+          "name": "disjoint set",
+          "short": "dsu"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "\u7d20\u96c6\u5408\u30c7\u30fc\u30bf\u69cb\u9020"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "union"
+        },
+        {
+          "alias": "find"
+        },
+        {
+          "alias": "\uc720\ub2c8\uc628"
+        },
+        {
+          "alias": "\ud30c\uc778\ub4dc"
+        },
+        {
+          "alias": "dsu"
+        }
+      ]
+    },
+    {
+      "key": "tree_set",
+      "isMeta": false,
+      "bojTagId": 74,
+      "problemCount": 544,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
+          "short": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map by trees",
+          "short": "treeset"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
+          "short": "treeset"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc9d1\ud569"
+        },
+        {
+          "alias": "\ub9f5"
+        },
+        {
+          "alias": "\uc14b"
+        },
+        {
+          "alias": "\ub515\uc154\ub108\ub9ac"
+        },
+        {
+          "alias": "dictionary"
+        },
+        {
+          "alias": "map"
+        },
+        {
+          "alias": "set"
+        },
+        {
+          "alias": "bbst"
+        },
+        {
+          "alias": "\ud2b8\ub9ac"
+        },
+        {
+          "alias": "tree"
+        }
+      ]
+    },
+    {
+      "key": "smaller_to_larger",
+      "isMeta": false,
+      "bojTagId": 169,
+      "problemCount": 171,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9",
+          "short": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9"
+        },
+        {
+          "language": "en",
+          "name": "smaller to larger technique",
+          "short": "smaller to larger"
+        },
+        {
+          "language": "ja",
+          "name": "smaller to larger technique",
+          "short": "smaller to larger"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "merge heuristics"
+        },
+        {
+          "alias": "sack"
+        },
+        {
+          "alias": "small to large"
+        },
+        {
+          "alias": "\uc791\uc740\uac70"
+        },
+        {
+          "alias": "\ud070\uac70"
+        }
+      ]
+    }
+  ],
+  "metadata": {}
+}

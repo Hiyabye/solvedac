@@ -18,8 +18,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 11,
-  "level": 18,
-  "votedUserCount": 3,
+  "level": 19,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -27,10 +27,65 @@
   "official": true,
   "tags": [
     {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7824,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 4913,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2686,
+      "problemCount": 2687,
       "displayNames": [
         {
           "language": "ko",
@@ -70,65 +125,10 @@
       ]
     },
     {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4905,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7814,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1815,
+      "problemCount": 1817,
       "displayNames": [
         {
           "language": "ko",
@@ -149,34 +149,10 @@
       "aliases": []
     },
     {
-      "key": "permutation_cycle_decomposition",
-      "isMeta": false,
-      "bojTagId": 171,
-      "problemCount": 115,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560",
-          "short": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560"
-        },
-        {
-          "language": "en",
-          "name": "permutation cycle decomposition",
-          "short": "permutation cycle decomposition"
-        },
-        {
-          "language": "ja",
-          "name": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3",
-          "short": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1647,
+      "problemCount": 1649,
       "displayNames": [
         {
           "language": "ko",
@@ -208,6 +184,30 @@
           "alias": "\ud39c\uc705"
         }
       ]
+    },
+    {
+      "key": "permutation_cycle_decomposition",
+      "isMeta": false,
+      "bojTagId": 171,
+      "problemCount": 116,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560",
+          "short": "\uc21c\uc5f4 \uc0ac\uc774\ud074 \ubd84\ud560"
+        },
+        {
+          "language": "en",
+          "name": "permutation cycle decomposition",
+          "short": "permutation cycle decomposition"
+        },
+        {
+          "language": "ja",
+          "name": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3",
+          "short": "\u9806\u5217\u30b5\u30a4\u30af\u30eb\u5206\u89e3"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
