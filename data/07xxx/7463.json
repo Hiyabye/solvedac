@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 17,
   "level": 19,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7822,
+      "problemCount": 7826,
       "displayNames": [
         {
           "language": "ko",
@@ -72,7 +72,7 @@
       "key": "linear_algebra",
       "isMeta": false,
       "bojTagId": 144,
-      "problemCount": 236,
+      "problemCount": 237,
       "displayNames": [
         {
           "language": "ko",
@@ -95,6 +95,30 @@
           "alias": "\uc120\ud615\ub300\uc218"
         }
       ]
+    },
+    {
+      "key": "gaussian_elimination",
+      "isMeta": false,
+      "bojTagId": 32,
+      "problemCount": 108,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95",
+          "short": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "gaussian elimination",
+          "short": "gaussian elimination"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5",
+          "short": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
