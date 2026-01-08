@@ -11,74 +11,15 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 11,
+  "acceptedUserCount": 12,
   "level": 24,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.4545,
+  "averageTries": 1.4167,
   "official": true,
   "tags": [
-    {
-      "key": "alien",
-      "isMeta": false,
-      "bojTagId": 134,
-      "problemCount": 21,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "Aliens \ud2b8\ub9ad",
-          "short": "aliens \ud2b8\ub9ad"
-        },
-        {
-          "language": "en",
-          "name": "aliens trick",
-          "short": "aliens trick"
-        },
-        {
-          "language": "ja",
-          "name": "aliens\u6cd5",
-          "short": "aliens\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "alien's trick"
-        }
-      ]
-    },
-    {
-      "key": "binary_search",
-      "isMeta": false,
-      "bojTagId": 12,
-      "problemCount": 1593,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\uc774\ubd84 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "binary search",
-          "short": "binary search"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u5206\u63a2\u7d22",
-          "short": "\u4e8c\u5206\u63a2\u7d22"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc774\ubd84\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
-        }
-      ]
-    },
     {
       "key": "graphs",
       "isMeta": false,
@@ -111,6 +52,37 @@
       ]
     },
     {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1592,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
       "key": "mst",
       "isMeta": false,
       "bojTagId": 49,
@@ -133,6 +105,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "alien",
+      "isMeta": false,
+      "bojTagId": 134,
+      "problemCount": 21,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "Aliens \ud2b8\ub9ad",
+          "short": "aliens \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "aliens trick",
+          "short": "aliens trick"
+        },
+        {
+          "language": "ja",
+          "name": "aliens\u6cd5",
+          "short": "aliens\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "alien's trick"
+        }
+      ]
     }
   ],
   "metadata": {}
