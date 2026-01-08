@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 144,
   "level": 15,
-  "votedUserCount": 56,
+  "votedUserCount": 59,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1486,
+      "problemCount": 1488,
       "displayNames": [
         {
           "language": "ko",
@@ -81,6 +81,25 @@
           "alias": "dnc"
         }
       ]
+    },
+    {
+      "key": "parity",
+      "isMeta": false,
+      "bojTagId": 230,
+      "problemCount": 182,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud640\uc9dd\uc131",
+          "short": "\ud640\uc9dd\uc131"
+        },
+        {
+          "language": "en",
+          "name": "parity",
+          "short": "parity"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
