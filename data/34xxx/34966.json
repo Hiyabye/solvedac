@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 14,
+  "acceptedUserCount": 16,
   "level": 16,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7857,
+  "averageTries": 1.8125,
   "official": true,
   "tags": [
     {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6639,
+      "problemCount": 6637,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4887,
+      "problemCount": 4889,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2435,
+      "problemCount": 2436,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +110,7 @@
       "key": "bfs",
       "isMeta": false,
       "bojTagId": 126,
-      "problemCount": 1192,
+      "problemCount": 1193,
       "displayNames": [
         {
           "language": "ko",
@@ -136,6 +136,30 @@
           "alias": "breadth first"
         }
       ]
+    },
+    {
+      "key": "shortest_path",
+      "isMeta": false,
+      "bojTagId": 215,
+      "problemCount": 957,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
+          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "shortest path",
+          "short": "shortest path"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u77ed\u7d4c\u8def",
+          "short": "\u6700\u77ed\u7d4c\u8def"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "grid_graph",
