@@ -11,51 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 7,
-  "level": 18,
-  "votedUserCount": 2,
+  "acceptedUserCount": 8,
+  "level": 19,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2,
+  "averageTries": 3.5,
   "official": true,
   "tags": [
-    {
-      "key": "bfs",
-      "isMeta": false,
-      "bojTagId": 126,
-      "problemCount": 1192,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "breadth-first search",
-          "short": "bfs"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e45\u512a\u5148\u691c\u7d22",
-          "short": "bfs"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "breadthfirst"
-        },
-        {
-          "alias": "breadth first"
-        }
-      ]
-    },
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4940,
+      "problemCount": 4942,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +58,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4888,
+      "problemCount": 4889,
       "displayNames": [
         {
           "language": "ko",
@@ -117,10 +86,38 @@
       ]
     },
     {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2880,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        },
+        {
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2435,
+      "problemCount": 2437,
       "displayNames": [
         {
           "language": "ko",
@@ -148,32 +145,54 @@
       ]
     },
     {
-      "key": "string",
+      "key": "bfs",
       "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2879,
+      "bojTagId": 126,
+      "problemCount": 1193,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
+          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "string",
-          "short": "string"
+          "name": "breadth-first search",
+          "short": "bfs"
         },
         {
           "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
+          "name": "\u5e45\u512a\u5148\u691c\u7d22",
+          "short": "bfs"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc2a4\ud2b8\ub9c1"
+          "alias": "breadthfirst"
+        },
+        {
+          "alias": "breadth first"
         }
       ]
+    },
+    {
+      "key": "traceback",
+      "isMeta": false,
+      "bojTagId": 235,
+      "problemCount": 178,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc5ed\ucd94\uc801",
+          "short": "\uc5ed\ucd94\uc801"
+        },
+        {
+          "language": "en",
+          "name": "traceback",
+          "short": "traceback"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
