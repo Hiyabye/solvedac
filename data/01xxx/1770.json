@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 241,
+  "acceptedUserCount": 243,
   "level": 22,
-  "votedUserCount": 71,
+  "votedUserCount": 72,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.9585,
+  "averageTries": 2.9465,
   "official": true,
   "tags": [
     {
@@ -106,7 +106,7 @@
       "key": "primality_test",
       "isMeta": false,
       "bojTagId": 9,
-      "problemCount": 391,
+      "problemCount": 390,
       "displayNames": [
         {
           "language": "ko",
@@ -159,30 +159,6 @@
       "aliases": []
     },
     {
-      "key": "miller_rabin",
-      "isMeta": false,
-      "bojTagId": 47,
-      "problemCount": 32,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubc00\ub7ec\u2013\ub77c\ube48 \uc18c\uc218 \ud310\ubcc4\ubc95",
-          "short": "\ubc00\ub7ec\u2013\ub77c\ube48 \uc18c\uc218 \ud310\ubcc4\ubc95"
-        },
-        {
-          "language": "en",
-          "name": "miller\u2013rabin",
-          "short": "miller\u2013rabin"
-        },
-        {
-          "language": "ja",
-          "name": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3\u7d20\u6570\u5224\u5b9a\u6cd5",
-          "short": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "pollard_rho",
       "isMeta": false,
       "bojTagId": 58,
@@ -202,6 +178,30 @@
           "language": "ja",
           "name": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc\u7d20\u56e0\u6570\u5206\u89e3\u6cd5",
           "short": "\u30dd\u30e9\u30fc\u30c9\u30fb\u30ed\u30fc"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "miller_rabin",
+      "isMeta": false,
+      "bojTagId": 47,
+      "problemCount": 32,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc00\ub7ec\u2013\ub77c\ube48 \uc18c\uc218 \ud310\ubcc4\ubc95",
+          "short": "\ubc00\ub7ec\u2013\ub77c\ube48 \uc18c\uc218 \ud310\ubcc4\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "miller\u2013rabin",
+          "short": "miller\u2013rabin"
+        },
+        {
+          "language": "ja",
+          "name": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3\u7d20\u6570\u5224\u5b9a\u6cd5",
+          "short": "\u30df\u30e9\u30fc\u2013\u30e9\u30d3\u30f3"
         }
       ],
       "aliases": []
