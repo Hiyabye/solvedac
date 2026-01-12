@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 13,
+  "acceptedUserCount": 15,
   "level": 23,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.5385,
+  "averageTries": 1.4667,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7831,
+      "problemCount": 7832,
       "displayNames": [
         {
           "language": "ko",
@@ -40,30 +40,6 @@
           "language": "ja",
           "name": "\u6570\u5b66",
           "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "number_theory",
-      "isMeta": false,
-      "bojTagId": 95,
-      "problemCount": 1822,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\uc218\ub860",
-          "short": "\uc815\uc218\ub860"
-        },
-        {
-          "language": "en",
-          "name": "number theory",
-          "short": "number theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u6574\u6570\u8ad6",
-          "short": "\u6574\u6570\u8ad6"
         }
       ],
       "aliases": []
@@ -102,71 +78,6 @@
         },
         {
           "alias": "square"
-        }
-      ]
-    },
-    {
-      "key": "precomputation",
-      "isMeta": false,
-      "bojTagId": 172,
-      "problemCount": 242,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac",
-          "short": "\ub7f0\ud0c0\uc784 \uc804\uc758 \uc804\ucc98\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "precomputation",
-          "short": "precomputation"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8b\u524d\u8a08\u7b97",
-          "short": "\u4e8b\u524d\u8a08\u7b97"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "lookup table"
-        },
-        {
-          "alias": "db"
-        },
-        {
-          "alias": "database"
-        }
-      ]
-    },
-    {
-      "key": "berlekamp_massey",
-      "isMeta": false,
-      "bojTagId": 110,
-      "problemCount": 25,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubc8c\ub9ac\ucea0\ud504\u2013\ub9e4\uc2dc",
-          "short": "\ubc8c\ub9ac\ucea0\ud504\u2013\ub9e4\uc2dc"
-        },
-        {
-          "language": "en",
-          "name": "berlekamp\u2013massey",
-          "short": "berlekamp\u2013massey"
-        },
-        {
-          "language": "ja",
-          "name": "berlekamp\u2013massey",
-          "short": "berlekamp\u2013massey"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ubc8c\ub808\ucea0\ud504"
-        },
-        {
-          "alias": "\ubc8c\ub798\ucea0\ud504"
         }
       ]
     }
