@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 40,
+  "acceptedUserCount": 41,
   "level": 14,
-  "votedUserCount": 10,
+  "votedUserCount": 11,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.1,
+  "averageTries": 2.0976,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4891,
+      "problemCount": 4897,
       "displayNames": [
         {
           "language": "ko",
@@ -106,6 +106,40 @@
         },
         {
           "alias": "\ud50c\ub85c\uc774\ub4dc\uc640\uc0ec"
+        }
+      ]
+    },
+    {
+      "key": "bellman_ford",
+      "isMeta": false,
+      "bojTagId": 10,
+      "problemCount": 48,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubca8\ub9cc\u2013\ud3ec\ub4dc",
+          "short": "\ubca8\ub9cc\u2013\ud3ec\ub4dc"
+        },
+        {
+          "language": "en",
+          "name": "bellman\u2013ford",
+          "short": "bellman-ford"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9\u6cd5",
+          "short": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bellmanford"
+        },
+        {
+          "alias": "\ubca8\ub9cc\ud3ec\ub4dc"
+        },
+        {
+          "alias": "spfa"
         }
       ]
     }

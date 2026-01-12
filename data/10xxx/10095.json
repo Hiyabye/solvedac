@@ -12,7 +12,7 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 7,
-  "level": 19,
+  "level": 21,
   "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
@@ -21,75 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "bfs",
-      "isMeta": false,
-      "bojTagId": 126,
-      "problemCount": 1193,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "breadth-first search",
-          "short": "bfs"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e45\u512a\u5148\u691c\u7d22",
-          "short": "bfs"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "breadthfirst"
-        },
-        {
-          "alias": "breadth first"
-        }
-      ]
-    },
-    {
-      "key": "game_theory",
-      "isMeta": false,
-      "bojTagId": 140,
-      "problemCount": 514,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac8c\uc784 \uc774\ub860",
-          "short": "\uac8c\uc784 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "game theory",
-          "short": "game theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b2\u30fc\u30e0\u7406\u8ad6",
-          "short": "\u30b2\u30fc\u30e0"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uac8c\uc784\uc774\ub860"
-        },
-        {
-          "alias": "\ub2d8"
-        },
-        {
-          "alias": "nim"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4891,
+      "problemCount": 4897,
       "displayNames": [
         {
           "language": "ko",
@@ -144,6 +79,71 @@
         },
         {
           "alias": "dfs"
+        }
+      ]
+    },
+    {
+      "key": "bfs",
+      "isMeta": false,
+      "bojTagId": 126,
+      "problemCount": 1193,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "breadth-first search",
+          "short": "bfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e45\u512a\u5148\u691c\u7d22",
+          "short": "bfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "breadthfirst"
+        },
+        {
+          "alias": "breadth first"
+        }
+      ]
+    },
+    {
+      "key": "game_theory",
+      "isMeta": false,
+      "bojTagId": 140,
+      "problemCount": 515,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac8c\uc784 \uc774\ub860",
+          "short": "\uac8c\uc784 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "game theory",
+          "short": "game theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b2\u30fc\u30e0\u7406\u8ad6",
+          "short": "\u30b2\u30fc\u30e0"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uac8c\uc784\uc774\ub860"
+        },
+        {
+          "alias": "\ub2d8"
+        },
+        {
+          "alias": "nim"
         }
       ]
     }
