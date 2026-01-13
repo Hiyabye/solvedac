@@ -11,20 +11,51 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 37,
+  "acceptedUserCount": 38,
   "level": 21,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 5.9189,
+  "averageTries": 5.8158,
   "official": true,
   "tags": [
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 4900,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
     {
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3342,
+      "problemCount": 3346,
       "displayNames": [
         {
           "language": "ko",
@@ -52,7 +83,7 @@
       "key": "two_pointer",
       "isMeta": false,
       "bojTagId": 80,
-      "problemCount": 481,
+      "problemCount": 482,
       "displayNames": [
         {
           "language": "ko",
@@ -84,6 +115,30 @@
           "alias": "twopointer"
         }
       ]
+    },
+    {
+      "key": "functional_graph",
+      "isMeta": false,
+      "bojTagId": 211,
+      "problemCount": 70,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud568\uc218\ud615 \uadf8\ub798\ud504",
+          "short": "\ud568\uc218\ud615 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "functional graph",
+          "short": "functional graph"
+        },
+        {
+          "language": "ja",
+          "name": "functional graph",
+          "short": "functional graph"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
