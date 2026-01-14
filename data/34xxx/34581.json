@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 2,
-  "level": 24,
-  "votedUserCount": 2,
+  "acceptedUserCount": 3,
+  "level": 23,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4.5,
+  "averageTries": 7.6667,
   "official": true,
   "tags": [
     {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6643,
+      "problemCount": 6651,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4955,
+      "problemCount": 4959,
       "displayNames": [
         {
           "language": "ko",
@@ -82,7 +82,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4902,
+      "problemCount": 4907,
       "displayNames": [
         {
           "language": "ko",
@@ -113,7 +113,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3347,
+      "problemCount": 3354,
       "displayNames": [
         {
           "language": "ko",
@@ -141,7 +141,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2438,
+      "problemCount": 2439,
       "displayNames": [
         {
           "language": "ko",
@@ -172,7 +172,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1843,
+      "problemCount": 1845,
       "displayNames": [
         {
           "language": "ko",
@@ -231,7 +231,7 @@
       "key": "dp_tree",
       "isMeta": false,
       "bojTagId": 92,
-      "problemCount": 573,
+      "problemCount": 575,
       "displayNames": [
         {
           "language": "ko",
@@ -292,6 +292,37 @@
         },
         {
           "alias": "bridge"
+        }
+      ]
+    },
+    {
+      "key": "slope_trick",
+      "isMeta": false,
+      "bojTagId": 157,
+      "problemCount": 36,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud568\uc218 \uac1c\ud615\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
+          "short": "\ud568\uc218 \uac1c\ud615\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
+        },
+        {
+          "language": "en",
+          "name": "slope trick",
+          "short": "slope trick"
+        },
+        {
+          "language": "ja",
+          "name": "slope trick",
+          "short": "slope trick"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2ac\ub85c\ud504\ud2b8\ub9ad"
+        },
+        {
+          "alias": "\uc2ac\ub85c\ud504 \ud2b8\ub9ad"
         }
       ]
     }

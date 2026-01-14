@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 50,
   "level": 19,
-  "votedUserCount": 20,
+  "votedUserCount": 21,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -30,7 +30,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4922,
+      "problemCount": 4924,
       "displayNames": [
         {
           "language": "ko",
@@ -61,7 +61,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3347,
+      "problemCount": 3354,
       "displayNames": [
         {
           "language": "ko",
@@ -84,6 +84,25 @@
           "alias": "\ud0d0\uc695\ubc95"
         }
       ]
+    },
+    {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1535,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "tree_set",
@@ -139,25 +158,6 @@
           "alias": "tree"
         }
       ]
-    },
-    {
-      "key": "set",
-      "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1535,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map",
-          "short": "set"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
