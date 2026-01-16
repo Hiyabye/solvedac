@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 108,
   "level": 13,
-  "votedUserCount": 20,
+  "votedUserCount": 21,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4965,
+      "problemCount": 4966,
       "displayNames": [
         {
           "language": "ko",
@@ -55,41 +55,10 @@
       ]
     },
     {
-      "key": "data_structures",
-      "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 4933,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
-        },
-        {
-          "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
-    },
-    {
       "key": "sorting",
       "isMeta": false,
       "bojTagId": 97,
-      "problemCount": 2331,
+      "problemCount": 2335,
       "displayNames": [
         {
           "language": "ko",
@@ -108,34 +77,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "coordinate_compression",
-      "isMeta": false,
-      "bojTagId": 161,
-      "problemCount": 305,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
-          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
-        },
-        {
-          "language": "en",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        },
-        {
-          "language": "ja",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "zip"
-        }
-      ]
     }
   ],
   "metadata": {}

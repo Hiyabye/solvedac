@@ -11,35 +11,35 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 2,
-  "level": 21,
-  "votedUserCount": 1,
+  "acceptedUserCount": 3,
+  "level": 22,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3,
+  "averageTries": 3.3333,
   "official": true,
   "tags": [
     {
-      "key": "ad_hoc",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 109,
-      "problemCount": 2203,
+      "bojTagId": 124,
+      "problemCount": 7856,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc560\ub4dc \ud639",
-          "short": "\uc560\ub4dc \ud639"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "ad-hoc",
-          "short": "ad-hoc"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
-          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
       "aliases": []
@@ -48,7 +48,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2698,
+      "problemCount": 2701,
       "displayNames": [
         {
           "language": "ko",
@@ -88,6 +88,54 @@
       ]
     },
     {
+      "key": "ad_hoc",
+      "isMeta": false,
+      "bojTagId": 109,
+      "problemCount": 2204,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
+        },
+        {
+          "language": "en",
+          "name": "ad-hoc",
+          "short": "ad-hoc"
+        },
+        {
+          "language": "ja",
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1824,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "game_theory",
       "isMeta": false,
       "bojTagId": 140,
@@ -120,30 +168,6 @@
           "alias": "nim"
         }
       ]
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7853,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "two_pointer",

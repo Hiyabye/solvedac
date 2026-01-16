@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 17,
+  "acceptedUserCount": 18,
   "level": 15,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.3529,
+  "averageTries": 1.3333,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4912,
+      "problemCount": 4916,
       "displayNames": [
         {
           "language": "ko",
@@ -52,34 +52,10 @@
       ]
     },
     {
-      "key": "shortest_path",
-      "isMeta": false,
-      "bojTagId": 215,
-      "problemCount": 959,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
-          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
-        },
-        {
-          "language": "en",
-          "name": "shortest path",
-          "short": "shortest path"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u77ed\u7d4c\u8def",
-          "short": "\u6700\u77ed\u7d4c\u8def"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "bitmask",
       "isMeta": false,
       "bojTagId": 14,
-      "problemCount": 963,
+      "problemCount": 962,
       "displayNames": [
         {
           "language": "ko",
@@ -105,6 +81,30 @@
           "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
         }
       ]
+    },
+    {
+      "key": "shortest_path",
+      "isMeta": false,
+      "bojTagId": 215,
+      "problemCount": 959,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
+          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "shortest path",
+          "short": "shortest path"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u77ed\u7d4c\u8def",
+          "short": "\u6700\u77ed\u7d4c\u8def"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "dijkstra",
