@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 8,
+  "acceptedUserCount": 9,
   "level": 25,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 15.5,
+  "averageTries": 13.8889,
   "official": true,
   "tags": [
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 4965,
+      "problemCount": 4966,
       "displayNames": [
         {
           "language": "ko",
@@ -126,7 +126,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1598,
+      "problemCount": 1597,
       "displayNames": [
         {
           "language": "ko",
@@ -150,89 +150,6 @@
         },
         {
           "alias": "\uc774\uc9c4\ud0d0\uc0c9"
-        }
-      ]
-    },
-    {
-      "key": "sweeping",
-      "isMeta": false,
-      "bojTagId": 106,
-      "problemCount": 667,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc2a4\uc704\ud551",
-          "short": "\uc2a4\uc704\ud551"
-        },
-        {
-          "language": "en",
-          "name": "sweeping",
-          "short": "sweeping"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e73\u9762\u8d70\u67fb",
-          "short": "\u5e73\u9762\u8d70\u67fb"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
-        }
-      ]
-    },
-    {
-      "key": "tree_set",
-      "isMeta": false,
-      "bojTagId": 74,
-      "problemCount": 546,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
-          "short": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map by trees",
-          "short": "treeset"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
-          "short": "treeset"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc9d1\ud569"
-        },
-        {
-          "alias": "\ub9f5"
-        },
-        {
-          "alias": "\uc14b"
-        },
-        {
-          "alias": "\ub515\uc154\ub108\ub9ac"
-        },
-        {
-          "alias": "dictionary"
-        },
-        {
-          "alias": "map"
-        },
-        {
-          "alias": "set"
-        },
-        {
-          "alias": "bbst"
-        },
-        {
-          "alias": "\ud2b8\ub9ac"
-        },
-        {
-          "alias": "tree"
         }
       ]
     },
@@ -276,65 +193,6 @@
         },
         {
           "alias": "\ud39c\uc705"
-        }
-      ]
-    },
-    {
-      "key": "coordinate_compression",
-      "isMeta": false,
-      "bojTagId": 161,
-      "problemCount": 305,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac12 / \uc88c\ud45c \uc555\ucd95",
-          "short": "\uac12 / \uc88c\ud45c \uc555\ucd95"
-        },
-        {
-          "language": "en",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        },
-        {
-          "language": "ja",
-          "name": "value / coordinate compression",
-          "short": "compression"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "zip"
-        }
-      ]
-    },
-    {
-      "key": "slope_trick",
-      "isMeta": false,
-      "bojTagId": 157,
-      "problemCount": 35,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud568\uc218 \uac1c\ud615\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
-          "short": "\ud568\uc218 \uac1c\ud615\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
-        },
-        {
-          "language": "en",
-          "name": "slope trick",
-          "short": "slope trick"
-        },
-        {
-          "language": "ja",
-          "name": "slope trick",
-          "short": "slope trick"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc2ac\ub85c\ud504\ud2b8\ub9ad"
-        },
-        {
-          "alias": "\uc2ac\ub85c\ud504 \ud2b8\ub9ad"
         }
       ]
     }
