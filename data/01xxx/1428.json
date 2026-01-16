@@ -11,38 +11,81 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 9,
+  "acceptedUserCount": 10,
   "level": 19,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 5.3333,
+  "averageTries": 4.9,
   "official": true,
   "tags": [
     {
-      "key": "euler_characteristic",
+      "key": "implementation",
       "isMeta": false,
-      "bojTagId": 119,
-      "problemCount": 37,
+      "bojTagId": 102,
+      "problemCount": 6663,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc624\uc77c\ub7ec \uc9c0\ud45c (\u03c7=V-E+F)",
-          "short": "\uc624\uc77c\ub7ec \uc9c0\ud45c"
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
         },
         {
           "language": "en",
-          "name": "euler characteristic (\u03c7=v-e+f)",
-          "short": "euler characteristic"
+          "name": "implementation",
+          "short": "impl"
         },
         {
           "language": "ja",
-          "name": "\u30aa\u30a4\u30e9\u30fc\u7279\u6027\uff08\u03c7=v-e+f\uff09",
-          "short": "\u30aa\u30a4\u30e9\u30fc\u7279\u6027"
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "bruteforcing",
+      "isMeta": false,
+      "bojTagId": 125,
+      "problemCount": 2700,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998",
+          "short": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "bruteforcing",
+          "short": "bruteforce"
+        },
+        {
+          "language": "ja",
+          "name": "\u5168\u63a2\u7d22",
+          "short": "\u5168\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc644\uc804\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc644\uc804 \ud0d0\uc0c9"
+        },
+        {
+          "alias": "\ube0c\ub8e8\ud2b8\ud3ec\uc2a4"
+        },
+        {
+          "alias": "bruteforce"
+        },
+        {
+          "alias": "brute force"
+        },
+        {
+          "alias": "\uc644\ud0d0"
+        }
+      ]
     },
     {
       "key": "geometry",
@@ -64,6 +107,30 @@
           "language": "ja",
           "name": "\u5e7e\u4f55\u5b66",
           "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "euler_characteristic",
+      "isMeta": false,
+      "bojTagId": 119,
+      "problemCount": 37,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\uc77c\ub7ec \uc9c0\ud45c (\u03c7=V-E+F)",
+          "short": "\uc624\uc77c\ub7ec \uc9c0\ud45c"
+        },
+        {
+          "language": "en",
+          "name": "euler characteristic (\u03c7=v-e+f)",
+          "short": "euler characteristic"
+        },
+        {
+          "language": "ja",
+          "name": "\u30aa\u30a4\u30e9\u30fc\u7279\u6027\uff08\u03c7=v-e+f\uff09",
+          "short": "\u30aa\u30a4\u30e9\u30fc\u7279\u6027"
         }
       ],
       "aliases": []
