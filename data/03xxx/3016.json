@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 16,
+  "acceptedUserCount": 22,
   "level": 0,
-  "votedUserCount": 1,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.8125,
+  "averageTries": 3.7727,
   "official": true,
   "tags": [
     {
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 1966,
+      "problemCount": 1969,
       "displayNames": [
         {
           "language": "ko",
@@ -43,6 +43,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "randomization",
+      "isMeta": false,
+      "bojTagId": 115,
+      "problemCount": 202,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb34\uc791\uc704\ud654",
+          "short": "\ubb34\uc791\uc704\ud654"
+        },
+        {
+          "language": "en",
+          "name": "randomization",
+          "short": "randomization"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e9\u30f3\u30c0\u30e0\u5316",
+          "short": "\u30e9\u30f3\u30c0\u30e0\u5316"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub79c\ub364"
+        }
+      ]
     },
     {
       "key": "heuristics",
