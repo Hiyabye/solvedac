@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 9,
   "level": 27,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4945,
+      "problemCount": 4946,
       "displayNames": [
         {
           "language": "ko",
@@ -52,34 +52,10 @@
       ]
     },
     {
-      "key": "hld",
-      "isMeta": false,
-      "bojTagId": 35,
-      "problemCount": 108,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "Heavy-light \ubd84\ud560",
-          "short": "Heavy-light \ubd84\ud560"
-        },
-        {
-          "language": "en",
-          "name": "heavy-light decomposition",
-          "short": "hld"
-        },
-        {
-          "language": "ja",
-          "name": "heavy-light decomposition",
-          "short": "hld"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "string",
       "isMeta": false,
       "bojTagId": 158,
-      "problemCount": 2892,
+      "problemCount": 2893,
       "displayNames": [
         {
           "language": "ko",
@@ -104,34 +80,10 @@
       ]
     },
     {
-      "key": "suffix_tree",
-      "isMeta": false,
-      "bojTagId": 182,
-      "problemCount": 13,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc811\ubbf8\uc0ac \ud2b8\ub9ac",
-          "short": "\uc811\ubbf8\uc0ac \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "suffix tree",
-          "short": "suffix tree"
-        },
-        {
-          "language": "ja",
-          "name": "suffix tree",
-          "short": "suffix tree"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1849,
+      "problemCount": 1851,
       "displayNames": [
         {
           "language": "ko",
@@ -175,6 +127,54 @@
           "language": "ja",
           "name": "\u30c8\u30e9\u30a4\u6728",
           "short": "\u30c8\u30e9\u30a4"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "hld",
+      "isMeta": false,
+      "bojTagId": 35,
+      "problemCount": 108,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "Heavy-light \ubd84\ud560",
+          "short": "Heavy-light \ubd84\ud560"
+        },
+        {
+          "language": "en",
+          "name": "heavy-light decomposition",
+          "short": "hld"
+        },
+        {
+          "language": "ja",
+          "name": "heavy-light decomposition",
+          "short": "hld"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "suffix_tree",
+      "isMeta": false,
+      "bojTagId": 182,
+      "problemCount": 13,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc811\ubbf8\uc0ac \ud2b8\ub9ac",
+          "short": "\uc811\ubbf8\uc0ac \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "suffix tree",
+          "short": "suffix tree"
+        },
+        {
+          "language": "ja",
+          "name": "suffix tree",
+          "short": "suffix tree"
         }
       ],
       "aliases": []
