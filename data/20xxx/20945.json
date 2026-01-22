@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 63,
   "level": 18,
-  "votedUserCount": 14,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4946,
+      "problemCount": 4947,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1601,
+      "problemCount": 1602,
       "displayNames": [
         {
           "language": "ko",
@@ -141,7 +141,7 @@
       "key": "two_pointer",
       "isMeta": false,
       "bojTagId": 80,
-      "problemCount": 485,
+      "problemCount": 486,
       "displayNames": [
         {
           "language": "ko",
@@ -178,7 +178,7 @@
       "key": "deque",
       "isMeta": false,
       "bojTagId": 73,
-      "problemCount": 155,
+      "problemCount": 156,
       "displayNames": [
         {
           "language": "ko",
@@ -194,6 +194,30 @@
           "language": "ja",
           "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
           "short": "deque"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "deque_trick",
+      "isMeta": false,
+      "bojTagId": 216,
+      "problemCount": 65,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub371\uc744 \uc774\uc6a9\ud55c \uad6c\uac04 \ucd5c\ub313\uac12 \ud2b8\ub9ad",
+          "short": "\ub371 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "deque range maximum trick",
+          "short": "deque rmq trick"
+        },
+        {
+          "language": "ja",
+          "name": "deque range maximum trick",
+          "short": "deque rmq trick"
         }
       ],
       "aliases": []
