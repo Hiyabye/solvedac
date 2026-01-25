@@ -11,14 +11,80 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 4,
+  "acceptedUserCount": 5,
   "level": 0,
-  "votedUserCount": 0,
+  "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.75,
+  "averageTries": 1.6,
   "official": true,
-  "tags": [],
+  "tags": [
+    {
+      "key": "game_theory",
+      "isMeta": false,
+      "bojTagId": 140,
+      "problemCount": 519,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac8c\uc784 \uc774\ub860",
+          "short": "\uac8c\uc784 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "game theory",
+          "short": "game theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b2\u30fc\u30e0\u7406\u8ad6",
+          "short": "\u30b2\u30fc\u30e0"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uac8c\uc784\uc774\ub860"
+        },
+        {
+          "alias": "\ub2d8"
+        },
+        {
+          "alias": "nim"
+        }
+      ]
+    },
+    {
+      "key": "bitset",
+      "isMeta": false,
+      "bojTagId": 152,
+      "problemCount": 116,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8 \uc9d1\ud569",
+          "short": "\ube44\ud2b8 \uc9d1\ud569"
+        },
+        {
+          "language": "en",
+          "name": "bit set",
+          "short": "bit set"
+        },
+        {
+          "language": "ja",
+          "name": "bit set",
+          "short": "bit set"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bitset"
+        },
+        {
+          "alias": "\ube44\ud2b8\uc14b"
+        }
+      ]
+    }
+  ],
   "metadata": {}
 }

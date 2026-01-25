@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 4,
+  "acceptedUserCount": 9,
   "level": 20,
-  "votedUserCount": 1,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3,
+  "averageTries": 2.8889,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4954,
+      "problemCount": 4955,
       "displayNames": [
         {
           "language": "ko",
@@ -50,6 +50,30 @@
           "alias": "\uc790\uad6c"
         }
       ]
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1979,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "binary_search",
@@ -79,6 +103,62 @@
         },
         {
           "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "parametric_search",
+      "isMeta": false,
+      "bojTagId": 170,
+      "problemCount": 515,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9",
+          "short": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "parametric search",
+          "short": "parametric search"
+        },
+        {
+          "language": "ja",
+          "name": "parametric search",
+          "short": "parametric search"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
+        }
+      ]
+    },
+    {
+      "key": "convex_hull",
+      "isMeta": false,
+      "bojTagId": 20,
+      "problemCount": 239,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubcfc\ub85d \uaecd\uc9c8",
+          "short": "\ubcfc\ub85d \uaecd\uc9c8"
+        },
+        {
+          "language": "en",
+          "name": "convex hull",
+          "short": "convex hull"
+        },
+        {
+          "language": "ja",
+          "name": "\u51f8\u5305",
+          "short": "\u51f8\u5305"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0"
         }
       ]
     },
