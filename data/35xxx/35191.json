@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 5,
-  "level": 0,
-  "votedUserCount": 1,
+  "acceptedUserCount": 7,
+  "level": 24,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.6,
+  "averageTries": 1.5714,
   "official": true,
   "tags": [
     {
       "key": "game_theory",
       "isMeta": false,
       "bojTagId": 140,
-      "problemCount": 519,
+      "problemCount": 520,
       "displayNames": [
         {
           "language": "ko",
@@ -55,33 +55,33 @@
       ]
     },
     {
-      "key": "bitset",
+      "key": "sprague_grundy",
       "isMeta": false,
-      "bojTagId": 152,
-      "problemCount": 116,
+      "bojTagId": 70,
+      "problemCount": 128,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ube44\ud2b8 \uc9d1\ud569",
-          "short": "\ube44\ud2b8 \uc9d1\ud569"
+          "name": "\uc2a4\ud504\ub77c\uadf8\u2013\uadf8\ub7f0\ub514 \uc815\ub9ac",
+          "short": "\uc2a4\ud504\ub77c\uadf8\u2013\uadf8\ub7f0\ub514 \uc815\ub9ac"
         },
         {
           "language": "en",
-          "name": "bit set",
-          "short": "bit set"
+          "name": "sprague\u2013grundy theorem",
+          "short": "sprague\u2013grundy thm"
         },
         {
           "language": "ja",
-          "name": "bit set",
-          "short": "bit set"
+          "name": "sprague\u2013grundy theorem",
+          "short": "sprague\u2013grundy thm"
         }
       ],
       "aliases": [
         {
-          "alias": "bitset"
+          "alias": "\ub2d8\ubc84"
         },
         {
-          "alias": "\ube44\ud2b8\uc14b"
+          "alias": "nimber"
         }
       ]
     }
