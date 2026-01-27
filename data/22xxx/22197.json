@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 36,
+  "acceptedUserCount": 37,
   "level": 20,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.8889,
+  "averageTries": 1.8649,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4943,
+      "problemCount": 4950,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2446,
+      "problemCount": 2448,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1857,
+      "problemCount": 1858,
       "displayNames": [
         {
           "language": "ko",
@@ -111,23 +111,38 @@
       ]
     },
     {
-      "key": "set",
+      "key": "prefix_sum",
       "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1550,
+      "bojTagId": 139,
+      "problemCount": 1324,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
+          "name": "\ub204\uc801 \ud569",
+          "short": "\ub204\uc801 \ud569"
         },
         {
           "language": "en",
-          "name": "set / map",
-          "short": "set"
+          "name": "prefix sum",
+          "short": "prefix sum"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d2f\u7a4d\u548c",
+          "short": "\u7d2f\u7a4d\u548c"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud569"
+        },
+        {
+          "alias": "\ubd80\ubd84\ud569"
+        },
+        {
+          "alias": "rangesum"
+        }
+      ]
     },
     {
       "key": "dfs",
@@ -164,7 +179,7 @@
       "key": "lca",
       "isMeta": false,
       "bojTagId": 41,
-      "problemCount": 212,
+      "problemCount": 213,
       "displayNames": [
         {
           "language": "ko",
@@ -188,7 +203,7 @@
       "key": "smaller_to_larger",
       "isMeta": false,
       "bojTagId": 169,
-      "problemCount": 173,
+      "problemCount": 172,
       "displayNames": [
         {
           "language": "ko",
@@ -223,30 +238,6 @@
           "alias": "\ud070\uac70"
         }
       ]
-    },
-    {
-      "key": "tree_decomposition",
-      "isMeta": false,
-      "bojTagId": 204,
-      "problemCount": 12,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac \ubd84\ud560",
-          "short": "\ud2b8\ub9ac \ubd84\ud560"
-        },
-        {
-          "language": "en",
-          "name": "tree decomposition",
-          "short": "tree decomposition"
-        },
-        {
-          "language": "ja",
-          "name": "tree decomposition",
-          "short": "tree decomposition"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
