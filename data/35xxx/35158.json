@@ -17,13 +17,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 6,
+  "acceptedUserCount": 7,
   "level": 22,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.5,
+  "averageTries": 3.8571,
   "official": true,
   "tags": [
     {
@@ -54,7 +54,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4955,
+      "problemCount": 4956,
       "displayNames": [
         {
           "language": "ko",
@@ -146,6 +146,62 @@
         },
         {
           "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+        }
+      ]
+    },
+    {
+      "key": "divide_and_conquer",
+      "isMeta": false,
+      "bojTagId": 24,
+      "problemCount": 499,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
+        },
+        {
+          "language": "en",
+          "name": "divide and conquer",
+          "short": "d&c"
+        },
+        {
+          "language": "ja",
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dnc"
+        }
+      ]
+    },
+    {
+      "key": "offline_queries",
+      "isMeta": false,
+      "bojTagId": 123,
+      "problemCount": 360,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
+          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "offline queries",
+          "short": "offline query"
+        },
+        {
+          "language": "ja",
+          "name": "offline queries",
+          "short": "offline query"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "offlinequery"
         }
       ]
     }

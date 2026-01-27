@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 14,
-  "level": 20,
-  "votedUserCount": 6,
+  "level": 18,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7897,
+      "problemCount": 7901,
       "displayNames": [
         {
           "language": "ko",
@@ -69,37 +69,6 @@
       "aliases": []
     },
     {
-      "key": "calculus",
-      "isMeta": false,
-      "bojTagId": 111,
-      "problemCount": 168,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubbf8\uc801\ubd84\ud559",
-          "short": "\ubbf8\uc801\ubd84\ud559"
-        },
-        {
-          "language": "en",
-          "name": "calculus",
-          "short": "calculus"
-        },
-        {
-          "language": "ja",
-          "name": "\u5fae\u7a4d\u5206",
-          "short": "\u5fae\u7a4d\u5206"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ubbf8\ubd84"
-        },
-        {
-          "alias": "\uc801\ubd84"
-        }
-      ]
-    },
-    {
       "key": "geometric_boolean_operations",
       "isMeta": false,
       "bojTagId": 202,
@@ -138,30 +107,6 @@
           "alias": "intersect"
         }
       ]
-    },
-    {
-      "key": "green",
-      "isMeta": false,
-      "bojTagId": 183,
-      "problemCount": 17,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub9b0 \uc815\ub9ac",
-          "short": "\uadf8\ub9b0"
-        },
-        {
-          "language": "en",
-          "name": "green's theorem",
-          "short": "green's thm"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30ea\u30fc\u30f3\u306e\u5b9a\u7406",
-          "short": "\u30b0\u30ea\u30fc\u30f3"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
