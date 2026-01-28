@@ -11,15 +11,63 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 16,
+  "acceptedUserCount": 17,
   "level": 21,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 5.75,
+  "averageTries": 5.4706,
   "official": true,
   "tags": [
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6684,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 1981,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "case_work",
       "isMeta": false,
@@ -55,78 +103,6 @@
       ]
     },
     {
-      "key": "euler_characteristic",
-      "isMeta": false,
-      "bojTagId": 119,
-      "problemCount": 38,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\uc77c\ub7ec \uc9c0\ud45c (\u03c7=V-E+F)",
-          "short": "\uc624\uc77c\ub7ec \uc9c0\ud45c"
-        },
-        {
-          "language": "en",
-          "name": "euler characteristic (\u03c7=v-e+f)",
-          "short": "euler characteristic"
-        },
-        {
-          "language": "ja",
-          "name": "\u30aa\u30a4\u30e9\u30fc\u7279\u6027\uff08\u03c7=v-e+f\uff09",
-          "short": "\u30aa\u30a4\u30e9\u30fc\u7279\u6027"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "geometry",
-      "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 1981,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
-        },
-        {
-          "language": "en",
-          "name": "geometry",
-          "short": "geom"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6684,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "line_intersection",
       "isMeta": false,
       "bojTagId": 42,
@@ -146,6 +122,30 @@
           "language": "ja",
           "name": "\u76f4\u7dda\u306e\u4ea4\u70b9",
           "short": "\u76f4\u7dda\u306e\u4ea4\u70b9"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "euler_characteristic",
+      "isMeta": false,
+      "bojTagId": 119,
+      "problemCount": 38,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\uc77c\ub7ec \uc9c0\ud45c (\u03c7=V-E+F)",
+          "short": "\uc624\uc77c\ub7ec \uc9c0\ud45c"
+        },
+        {
+          "language": "en",
+          "name": "euler characteristic (\u03c7=v-e+f)",
+          "short": "euler characteristic"
+        },
+        {
+          "language": "ja",
+          "name": "\u30aa\u30a4\u30e9\u30fc\u7279\u6027\uff08\u03c7=v-e+f\uff09",
+          "short": "\u30aa\u30a4\u30e9\u30fc\u7279\u6027"
         }
       ],
       "aliases": []
