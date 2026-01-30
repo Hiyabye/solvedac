@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 36,
+  "acceptedUserCount": 38,
   "level": 22,
-  "votedUserCount": 11,
+  "votedUserCount": 12,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.3611,
+  "averageTries": 3.2368,
   "official": true,
   "tags": [
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 5000,
+      "problemCount": 5001,
       "displayNames": [
         {
           "language": "ko",
@@ -55,6 +55,34 @@
       ]
     },
     {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2898,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        },
+        {
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
       "key": "hashing",
       "isMeta": false,
       "bojTagId": 8,
@@ -79,32 +107,23 @@
       "aliases": []
     },
     {
-      "key": "string",
+      "key": "harmonic_number",
       "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2899,
+      "bojTagId": 241,
+      "problemCount": 54,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
+          "name": "\uc870\ud654\uc218",
+          "short": "\uc870\ud654\uc218"
         },
         {
           "language": "en",
-          "name": "string",
-          "short": "string"
-        },
-        {
-          "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
+          "name": "harmonic number",
+          "short": "harmonic number"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc2a4\ud2b8\ub9c1"
-        }
-      ]
+      "aliases": []
     }
   ],
   "metadata": {}
