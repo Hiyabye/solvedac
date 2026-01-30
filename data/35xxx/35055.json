@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 13,
+  "acceptedUserCount": 14,
   "level": 22,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.1538,
+  "averageTries": 2.2143,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4961,
+      "problemCount": 4965,
       "displayNames": [
         {
           "language": "ko",
@@ -92,7 +92,7 @@
       "key": "sweeping",
       "isMeta": false,
       "bojTagId": 106,
-      "problemCount": 672,
+      "problemCount": 674,
       "displayNames": [
         {
           "language": "ko",
@@ -120,7 +120,7 @@
       "key": "divide_and_conquer",
       "isMeta": false,
       "bojTagId": 24,
-      "problemCount": 501,
+      "problemCount": 502,
       "displayNames": [
         {
           "language": "ko",
@@ -145,47 +145,10 @@
       ]
     },
     {
-      "key": "two_pointer",
-      "isMeta": false,
-      "bojTagId": 80,
-      "problemCount": 488,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub450 \ud3ec\uc778\ud130",
-          "short": "\ub450 \ud3ec\uc778\ud130"
-        },
-        {
-          "language": "en",
-          "name": "two-pointer",
-          "short": "two-pointer"
-        },
-        {
-          "language": "ja",
-          "name": "\u5c3a\u53d6\u308a\u6cd5",
-          "short": "\u5c3a\u53d6\u308a"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud22c\ud3ec\uc778\ud130"
-        },
-        {
-          "alias": "\uc778\uce58\uc6dc"
-        },
-        {
-          "alias": "inchworm"
-        },
-        {
-          "alias": "twopointer"
-        }
-      ]
-    },
-    {
       "key": "stack",
       "isMeta": false,
       "bojTagId": 71,
-      "problemCount": 478,
+      "problemCount": 479,
       "displayNames": [
         {
           "language": "ko",
@@ -209,7 +172,7 @@
       "key": "offline_queries",
       "isMeta": false,
       "bojTagId": 123,
-      "problemCount": 360,
+      "problemCount": 361,
       "displayNames": [
         {
           "language": "ko",
@@ -230,43 +193,6 @@
       "aliases": [
         {
           "alias": "offlinequery"
-        }
-      ]
-    },
-    {
-      "key": "multi_segtree",
-      "isMeta": false,
-      "bojTagId": 166,
-      "problemCount": 36,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\ucc28\uc6d0 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
-          "short": "\ub2e4\ucc28\uc6d0 \uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "multidimensional segment tree",
-          "short": "multidimensional segtree"
-        },
-        {
-          "language": "ja",
-          "name": "multidimensional segment tree",
-          "short": "multidimensional segtree"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uad6c\uac04\ud2b8\ub9ac"
-        },
-        {
-          "alias": "\uc138\uadf8\ud2b8\ub9ac"
-        },
-        {
-          "alias": "fenwick"
-        },
-        {
-          "alias": "\ud39c\uc705"
         }
       ]
     },
