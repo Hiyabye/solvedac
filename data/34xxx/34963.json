@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 4,
   "level": 24,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6702,
+      "problemCount": 6705,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4974,
+      "problemCount": 4975,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4969,
+      "problemCount": 4972,
       "displayNames": [
         {
           "language": "ko",
@@ -110,7 +110,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1866,
+      "problemCount": 1865,
       "displayNames": [
         {
           "language": "ko",
@@ -138,7 +138,7 @@
       "key": "shortest_path",
       "isMeta": false,
       "bojTagId": 215,
-      "problemCount": 968,
+      "problemCount": 969,
       "displayNames": [
         {
           "language": "ko",
@@ -162,7 +162,7 @@
       "key": "dijkstra",
       "isMeta": false,
       "bojTagId": 22,
-      "problemCount": 706,
+      "problemCount": 707,
       "displayNames": [
         {
           "language": "ko",
@@ -274,6 +274,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "centroid_decomposition",
+      "isMeta": false,
+      "bojTagId": 18,
+      "problemCount": 94,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc13c\ud2b8\ub85c\uc774\ub4dc \ubd84\ud560",
+          "short": "\uc13c\ud2b8\ub85c\uc774\ub4dc \ubd84\ud560"
+        },
+        {
+          "language": "en",
+          "name": "centroid decomposition",
+          "short": "centroid decomposition"
+        },
+        {
+          "language": "ja",
+          "name": "centroid decomposition",
+          "short": "centroid decomposition"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc13c\ud2b8\ub85c\uc774\ub4dc"
+        }
+      ]
     },
     {
       "key": "0_1_bfs",
