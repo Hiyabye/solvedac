@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 32,
   "level": 16,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4974,
+      "problemCount": 4978,
       "displayNames": [
         {
           "language": "ko",
@@ -78,6 +78,49 @@
           "alias": "\ud0d0\uc695\ubc95"
         }
       ]
+    },
+    {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1563,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "generating_function",
+      "isMeta": false,
+      "bojTagId": 198,
+      "problemCount": 62,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc0dd\uc131 \ud568\uc218",
+          "short": "\uc0dd\uc131 \ud568\uc218"
+        },
+        {
+          "language": "en",
+          "name": "generating function",
+          "short": "generating function"
+        },
+        {
+          "language": "ja",
+          "name": "\u751f\u6210\u95a2\u6570",
+          "short": "\u751f\u6210\u95a2\u6570"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}

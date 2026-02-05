@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 27,
   "level": 18,
-  "votedUserCount": 4,
+  "votedUserCount": 5,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,41 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "eulerian_path",
-      "isMeta": false,
-      "bojTagId": 93,
-      "problemCount": 81,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\uc77c\ub7ec \uacbd\ub85c",
-          "short": "\uc624\uc77c\ub7ec \uacbd\ub85c"
-        },
-        {
-          "language": "en",
-          "name": "eulerian path / circuit",
-          "short": "eulerian path"
-        },
-        {
-          "language": "ja",
-          "name": "eulerian path / circuit",
-          "short": "eulerian path"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "eulerian circuit"
-        },
-        {
-          "alias": "euler tour"
-        }
-      ]
-    },
-    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4972,
+      "problemCount": 4973,
       "displayNames": [
         {
           "language": "ko",
@@ -107,6 +76,37 @@
       "aliases": [
         {
           "alias": "\ub79c\ub364"
+        }
+      ]
+    },
+    {
+      "key": "eulerian_path",
+      "isMeta": false,
+      "bojTagId": 93,
+      "problemCount": 81,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\uc77c\ub7ec \uacbd\ub85c",
+          "short": "\uc624\uc77c\ub7ec \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "eulerian path / circuit",
+          "short": "eulerian path"
+        },
+        {
+          "language": "ja",
+          "name": "eulerian path / circuit",
+          "short": "eulerian path"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "eulerian circuit"
+        },
+        {
+          "alias": "euler tour"
         }
       ]
     }
