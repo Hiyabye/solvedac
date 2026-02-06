@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 66,
+  "acceptedUserCount": 67,
   "level": 9,
-  "votedUserCount": 10,
+  "votedUserCount": 11,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.1515,
+  "averageTries": 1.1642,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4977,
+      "problemCount": 4981,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4972,
+      "problemCount": 4975,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2457,
+      "problemCount": 2458,
       "displayNames": [
         {
           "language": "ko",
@@ -145,10 +145,41 @@
       ]
     },
     {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 957,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
+    },
+    {
       "key": "disjoint_set",
       "isMeta": false,
       "bojTagId": 81,
-      "problemCount": 650,
+      "problemCount": 652,
       "displayNames": [
         {
           "language": "ko",
