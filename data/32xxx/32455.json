@@ -12,7 +12,7 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 6,
-  "level": 22,
+  "level": 23,
   "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
@@ -21,72 +21,10 @@
   "official": true,
   "tags": [
     {
-      "key": "binary_search",
-      "isMeta": false,
-      "bojTagId": 12,
-      "problemCount": 1618,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc774\ubd84 \ud0d0\uc0c9",
-          "short": "\uc774\ubd84 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "binary search",
-          "short": "binary search"
-        },
-        {
-          "language": "ja",
-          "name": "\u4e8c\u5206\u63a2\u7d22",
-          "short": "\u4e8c\u5206\u63a2\u7d22"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc774\ubd84\ud0d0\uc0c9"
-        },
-        {
-          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
-        }
-      ]
-    },
-    {
-      "key": "cht",
-      "isMeta": false,
-      "bojTagId": 89,
-      "problemCount": 124,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
-          "short": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
-        },
-        {
-          "language": "en",
-          "name": "convex hull trick",
-          "short": "cht"
-        },
-        {
-          "language": "ja",
-          "name": "convex hull trick",
-          "short": "cht"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ud2b8\ub9ad"
-        },
-        {
-          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ucd5c\uc801\ud654"
-        }
-      ]
-    },
-    {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4978,
+      "problemCount": 4981,
       "displayNames": [
         {
           "language": "ko",
@@ -112,25 +50,6 @@
           "alias": "\uc790\uad6c"
         }
       ]
-    },
-    {
-      "key": "li_chao_tree",
-      "isMeta": false,
-      "bojTagId": 227,
-      "problemCount": 23,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub9ac\u2013\ucc28\uc624 \ud2b8\ub9ac",
-          "short": "\ub9ac\u2013\ucc28\uc624"
-        },
-        {
-          "language": "en",
-          "name": "li\u2013chao tree",
-          "short": "lichao"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "segtree",
@@ -168,6 +87,87 @@
           "alias": "\ud39c\uc705"
         }
       ]
+    },
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1621,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "cht",
+      "isMeta": false,
+      "bojTagId": 89,
+      "problemCount": 125,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654",
+          "short": "\ubcfc\ub85d \uaecd\uc9c8\uc744 \uc774\uc6a9\ud55c \ucd5c\uc801\ud654"
+        },
+        {
+          "language": "en",
+          "name": "convex hull trick",
+          "short": "cht"
+        },
+        {
+          "language": "ja",
+          "name": "convex hull trick",
+          "short": "cht"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ud2b8\ub9ad"
+        },
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0\ucd5c\uc801\ud654"
+        }
+      ]
+    },
+    {
+      "key": "li_chao_tree",
+      "isMeta": false,
+      "bojTagId": 227,
+      "problemCount": 23,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9ac\u2013\ucc28\uc624 \ud2b8\ub9ac",
+          "short": "\ub9ac\u2013\ucc28\uc624"
+        },
+        {
+          "language": "en",
+          "name": "li\u2013chao tree",
+          "short": "lichao"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
