@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 49,
   "level": 14,
-  "votedUserCount": 13,
+  "votedUserCount": 14,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -27,41 +27,10 @@
   "official": true,
   "tags": [
     {
-      "key": "calculus",
-      "isMeta": false,
-      "bojTagId": 111,
-      "problemCount": 172,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubbf8\uc801\ubd84\ud559",
-          "short": "\ubbf8\uc801\ubd84\ud559"
-        },
-        {
-          "language": "en",
-          "name": "calculus",
-          "short": "calculus"
-        },
-        {
-          "language": "ja",
-          "name": "\u5fae\u7a4d\u5206",
-          "short": "\u5fae\u7a4d\u5206"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ubbf8\ubd84"
-        },
-        {
-          "alias": "\uc801\ubd84"
-        }
-      ]
-    },
-    {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7945,
+      "problemCount": 7947,
       "displayNames": [
         {
           "language": "ko",
@@ -112,6 +81,37 @@
         },
         {
           "alias": "\uae30\ub313\uac12"
+        }
+      ]
+    },
+    {
+      "key": "calculus",
+      "isMeta": false,
+      "bojTagId": 111,
+      "problemCount": 172,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubbf8\uc801\ubd84\ud559",
+          "short": "\ubbf8\uc801\ubd84\ud559"
+        },
+        {
+          "language": "en",
+          "name": "calculus",
+          "short": "calculus"
+        },
+        {
+          "language": "ja",
+          "name": "\u5fae\u7a4d\u5206",
+          "short": "\u5fae\u7a4d\u5206"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ubbf8\ubd84"
+        },
+        {
+          "alias": "\uc801\ubd84"
         }
       ]
     }
