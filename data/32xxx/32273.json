@@ -1,23 +1,36 @@
 {
   "problemId": 32273,
   "titleKo": "Tromino (\ud2b8\ub85c\ubbf8\ub178) \ud0c0\uc77c \ucc44\uc6b0\uae30",
-  "titles": [],
+  "titles": [
+    {
+      "language": "ko",
+      "languageDisplayName": "ko",
+      "title": "Tromino (\ud2b8\ub85c\ubbf8\ub178) \ud0c0\uc77c \ucc44\uc6b0\uae30",
+      "isOriginal": true
+    },
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Filling with Tromino Tiles",
+      "isOriginal": false
+    }
+  ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 0,
+  "acceptedUserCount": 3,
   "level": 19,
   "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 0,
+  "averageTries": 1,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7947,
+      "problemCount": 7949,
       "displayNames": [
         {
           "language": "ko",
@@ -41,7 +54,7 @@
       "key": "bitmask",
       "isMeta": false,
       "bojTagId": 14,
-      "problemCount": 981,
+      "problemCount": 982,
       "displayNames": [
         {
           "language": "ko",
@@ -72,7 +85,7 @@
       "key": "parity",
       "isMeta": false,
       "bojTagId": 230,
-      "problemCount": 189,
+      "problemCount": 190,
       "displayNames": [
         {
           "language": "ko",

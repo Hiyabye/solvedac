@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 25,
+  "acceptedUserCount": 26,
   "level": 17,
-  "votedUserCount": 13,
+  "votedUserCount": 14,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.32,
+  "averageTries": 3.4615,
   "official": true,
   "tags": [
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4976,
+      "problemCount": 4977,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "game_theory",
       "isMeta": false,
       "bojTagId": 140,
-      "problemCount": 521,
+      "problemCount": 522,
       "displayNames": [
         {
           "language": "ko",
@@ -84,6 +84,25 @@
           "alias": "nim"
         }
       ]
+    },
+    {
+      "key": "parity",
+      "isMeta": false,
+      "bojTagId": 230,
+      "problemCount": 190,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud640\uc9dd\uc131",
+          "short": "\ud640\uc9dd\uc131"
+        },
+        {
+          "language": "en",
+          "name": "parity",
+          "short": "parity"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "functional_graph",

@@ -1,23 +1,36 @@
 {
   "problemId": 33922,
   "titleKo": "\ucc45 \uc313\uae30",
-  "titles": [],
+  "titles": [
+    {
+      "language": "ko",
+      "languageDisplayName": "ko",
+      "title": "\ucc45 \uc313\uae30",
+      "isOriginal": true
+    },
+    {
+      "language": "en",
+      "languageDisplayName": "en",
+      "title": "Book Stacks",
+      "isOriginal": false
+    }
+  ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 0,
+  "acceptedUserCount": 6,
   "level": 17,
   "votedUserCount": 1,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 0,
+  "averageTries": 1.8333,
   "official": true,
   "tags": [
     {
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 5022,
+      "problemCount": 5024,
       "displayNames": [
         {
           "language": "ko",

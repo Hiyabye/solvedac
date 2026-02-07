@@ -11,7 +11,7 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 11,
+  "acceptedUserCount": 12,
   "level": 8,
   "votedUserCount": 4,
   "sprout": false,
@@ -20,6 +20,30 @@
   "averageTries": 1,
   "official": true,
   "tags": [
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6715,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "bruteforcing",
       "isMeta": false,
@@ -64,34 +88,10 @@
       ]
     },
     {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6709,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "simulation",
       "isMeta": false,
       "bojTagId": 141,
-      "problemCount": 1338,
+      "problemCount": 1342,
       "displayNames": [
         {
           "language": "ko",

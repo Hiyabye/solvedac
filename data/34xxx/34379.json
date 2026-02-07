@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 15,
   "level": 10,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7947,
+      "problemCount": 7949,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4981,
+      "problemCount": 4982,
       "displayNames": [
         {
           "language": "ko",
@@ -79,7 +79,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4976,
+      "problemCount": 4977,
       "displayNames": [
         {
           "language": "ko",
@@ -141,7 +141,7 @@
       "key": "set",
       "isMeta": false,
       "bojTagId": 225,
-      "problemCount": 1564,
+      "problemCount": 1566,
       "displayNames": [
         {
           "language": "ko",
@@ -202,6 +202,68 @@
         },
         {
           "alias": "\ub098\ub204\uae30"
+        }
+      ]
+    },
+    {
+      "key": "bfs",
+      "isMeta": false,
+      "bojTagId": 126,
+      "problemCount": 1203,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "breadth-first search",
+          "short": "bfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e45\u512a\u5148\u691c\u7d22",
+          "short": "bfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "breadthfirst"
+        },
+        {
+          "alias": "breadth first"
+        }
+      ]
+    },
+    {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 959,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        },
+        {
+          "language": "ja",
+          "name": "\u6df1\u3055\u512a\u5148\u63a2\u7d22",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
         }
       ]
     }

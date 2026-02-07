@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 31,
   "level": 21,
-  "votedUserCount": 15,
+  "votedUserCount": 16,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4981,
+      "problemCount": 4982,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4976,
+      "problemCount": 4977,
       "displayNames": [
         {
           "language": "ko",
@@ -86,7 +86,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1866,
+      "problemCount": 1867,
       "displayNames": [
         {
           "language": "ko",
@@ -182,7 +182,7 @@
       "key": "lca",
       "isMeta": false,
       "bojTagId": 41,
-      "problemCount": 215,
+      "problemCount": 216,
       "displayNames": [
         {
           "language": "ko",
@@ -198,6 +198,30 @@
           "language": "ja",
           "name": "\u6700\u4e0b\u4f4d\u5171\u901a\u7956\u5148",
           "short": "lca"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "hld",
+      "isMeta": false,
+      "bojTagId": 35,
+      "problemCount": 109,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "Heavy-light \ubd84\ud560",
+          "short": "Heavy-light \ubd84\ud560"
+        },
+        {
+          "language": "en",
+          "name": "heavy-light decomposition",
+          "short": "hld"
+        },
+        {
+          "language": "ja",
+          "name": "heavy-light decomposition",
+          "short": "hld"
         }
       ],
       "aliases": []
