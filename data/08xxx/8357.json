@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 5,
+  "acceptedUserCount": 6,
   "level": 26,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4.8,
+  "averageTries": 6.5,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7947,
+      "problemCount": 7950,
       "displayNames": [
         {
           "language": "ko",
@@ -103,6 +103,30 @@
       ]
     },
     {
+      "key": "flt",
+      "isMeta": false,
+      "bojTagId": 29,
+      "problemCount": 81,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac",
+          "short": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "fermat's little theorem",
+          "short": "fermat's little thm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d5\u30a7\u30eb\u30de\u30fc\u306e\u5c0f\u5b9a\u7406",
+          "short": "\u30d5\u30a7\u30eb\u30de\u30fc"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "generating_function",
       "isMeta": false,
       "bojTagId": 198,
@@ -149,6 +173,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "kitamasa",
+      "isMeta": false,
+      "bojTagId": 112,
+      "problemCount": 14,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\ud56d\uc2dd\uc744 \uc774\uc6a9\ud55c \uc120\ud615\uc810\ud654\uc2dd \uacc4\uc0b0",
+          "short": "\ub2e4\ud56d\uc2dd\uc744 \uc774\uc6a9\ud55c \uc120\ud615\uc810\ud654\uc2dd \uacc4\uc0b0"
+        },
+        {
+          "language": "en",
+          "name": "linear recurrence calculation by polynomials",
+          "short": "linear recurrence calculation by polynomials"
+        },
+        {
+          "language": "ja",
+          "name": "\u591a\u9805\u5f0f\u306b\u3088\u308b\u7dda\u5f62\u6f38\u5316\u5f0f\u306e\u8a08\u7b97",
+          "short": "\u591a\u9805\u5f0f\u306b\u3088\u308b\u7dda\u5f62\u6f38\u5316\u5f0f\u306e\u8a08\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0a4\ud0c0\ub9c8\uc0ac"
+        },
+        {
+          "alias": "kitamasa"
+        },
+        {
+          "alias": "\u304d\u305f\u307e\u3055\u6cd5"
+        }
+      ]
     }
   ],
   "metadata": {}
