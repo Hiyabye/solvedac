@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 4,
-  "level": 26,
-  "votedUserCount": 2,
+  "level": 22,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,25 +21,25 @@
   "official": true,
   "tags": [
     {
-      "key": "heuristics",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 142,
-      "problemCount": 137,
+      "bojTagId": 124,
+      "problemCount": 7955,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud734\ub9ac\uc2a4\ud2f1",
-          "short": "\ud734\ub9ac\uc2a4\ud2f1"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "heuristics",
-          "short": "heuristics"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
-          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
       "aliases": []
@@ -67,6 +67,64 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "simulation",
+      "isMeta": false,
+      "bojTagId": 141,
+      "problemCount": 1343,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2dc\ubbac\ub808\uc774\uc158",
+          "short": "\uc2dc\ubbac\ub808\uc774\uc158"
+        },
+        {
+          "language": "en",
+          "name": "simulation",
+          "short": "simulation"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+          "short": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "probability",
+      "isMeta": false,
+      "bojTagId": 177,
+      "problemCount": 488,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\ub960\ub860",
+          "short": "\ud655\ub960\ub860"
+        },
+        {
+          "language": "en",
+          "name": "probability theory",
+          "short": "probability"
+        },
+        {
+          "language": "ja",
+          "name": "\u78ba\u7387\u8ad6",
+          "short": "\u78ba\u7387\u8ad6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "expected value"
+        },
+        {
+          "alias": "\uae30\ub300\uac12"
+        },
+        {
+          "alias": "\uae30\ub313\uac12"
+        }
+      ]
     },
     {
       "key": "randomization",
@@ -97,28 +155,71 @@
       ]
     },
     {
-      "key": "simulation",
+      "key": "heuristics",
       "isMeta": false,
-      "bojTagId": 141,
-      "problemCount": 1342,
+      "bojTagId": 142,
+      "problemCount": 137,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc2dc\ubbac\ub808\uc774\uc158",
-          "short": "\uc2dc\ubbac\ub808\uc774\uc158"
+          "name": "\ud734\ub9ac\uc2a4\ud2f1",
+          "short": "\ud734\ub9ac\uc2a4\ud2f1"
         },
         {
           "language": "en",
-          "name": "simulation",
-          "short": "simulation"
+          "name": "heuristics",
+          "short": "heuristics"
         },
         {
           "language": "ja",
-          "name": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
-          "short": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
+          "name": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af",
+          "short": "\u30d2\u30e5\u30fc\u30ea\u30b9\u30c6\u30a3\u30c3\u30af"
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "statistics",
+      "isMeta": false,
+      "bojTagId": 178,
+      "problemCount": 25,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud1b5\uacc4\ud559",
+          "short": "\ud1b5\uacc4\ud559"
+        },
+        {
+          "language": "en",
+          "name": "statistics",
+          "short": "stats"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d71\u8a08\u5b66",
+          "short": "\u7d71\u8a08"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "average"
+        },
+        {
+          "alias": "\ud3c9\uade0"
+        },
+        {
+          "alias": "variance"
+        },
+        {
+          "alias": "\ubd84\uc0b0"
+        },
+        {
+          "alias": "\ud45c\uc900\ud3b8\ucc28"
+        },
+        {
+          "alias": "\ud45c\uc900 \ud3b8\ucc28"
+        }
+      ]
     }
   ],
   "metadata": {}

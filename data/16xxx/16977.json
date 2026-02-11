@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 300,
+  "acceptedUserCount": 307,
   "level": 23,
-  "votedUserCount": 97,
+  "votedUserCount": 98,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.27,
+  "averageTries": 2.2443,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 4984,
+      "problemCount": 4986,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1666,
+      "problemCount": 1669,
       "displayNames": [
         {
           "language": "ko",
@@ -92,7 +92,7 @@
       "key": "binary_search",
       "isMeta": false,
       "bojTagId": 12,
-      "problemCount": 1624,
+      "problemCount": 1625,
       "displayNames": [
         {
           "language": "ko",
@@ -120,6 +120,25 @@
       ]
     },
     {
+      "key": "maximum_subarray",
+      "isMeta": false,
+      "bojTagId": 234,
+      "problemCount": 47,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4 \ubb38\uc81c",
+          "short": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "maximum subarray",
+          "short": "maximum subarray"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "pbs",
       "isMeta": false,
       "bojTagId": 54,
@@ -139,25 +158,6 @@
           "language": "ja",
           "name": "parallel binary search",
           "short": "pbs"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "maximum_subarray",
-      "isMeta": false,
-      "bojTagId": 234,
-      "problemCount": 46,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4 \ubb38\uc81c",
-          "short": "\ucd5c\ub300 \ubd80\ubd84 \ubc30\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "maximum subarray",
-          "short": "maximum subarray"
         }
       ],
       "aliases": []
