@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 29,
-  "level": 16,
-  "votedUserCount": 7,
+  "acceptedUserCount": 30,
+  "level": 17,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.2069,
+  "averageTries": 2.1667,
   "official": true,
   "tags": [
     {
@@ -43,34 +43,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "modular_multiplicative_inverse",
-      "isMeta": false,
-      "bojTagId": 164,
-      "problemCount": 196,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
-          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
-        },
-        {
-          "language": "en",
-          "name": "modular multiplicative inverse",
-          "short": "modular multiplicative inverse"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
-          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "modinv"
-        }
-      ]
     },
     {
       "key": "number_theory",
@@ -127,6 +99,34 @@
         },
         {
           "alias": "rangesum"
+        }
+      ]
+    },
+    {
+      "key": "modular_multiplicative_inverse",
+      "isMeta": false,
+      "bojTagId": 164,
+      "problemCount": 196,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
+          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
+        },
+        {
+          "language": "en",
+          "name": "modular multiplicative inverse",
+          "short": "modular multiplicative inverse"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
+          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "modinv"
         }
       ]
     }
