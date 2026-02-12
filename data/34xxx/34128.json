@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 5,
   "level": 20,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4992,
+      "problemCount": 4994,
       "displayNames": [
         {
           "language": "ko",
@@ -48,6 +48,34 @@
         },
         {
           "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 3400,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
+          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        },
+        {
+          "language": "ja",
+          "name": "\u8caa\u6b32\u6cd5",
+          "short": "\u8caa\u6b32\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud0d0\uc695\ubc95"
         }
       ]
     },

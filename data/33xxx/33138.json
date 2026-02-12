@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 11,
   "level": 20,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4992,
+      "problemCount": 4994,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2466,
+      "problemCount": 2467,
       "displayNames": [
         {
           "language": "ko",
@@ -136,6 +136,37 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "bitset",
+      "isMeta": false,
+      "bojTagId": 152,
+      "problemCount": 117,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8 \uc9d1\ud569",
+          "short": "\ube44\ud2b8 \uc9d1\ud569"
+        },
+        {
+          "language": "en",
+          "name": "bit set",
+          "short": "bit set"
+        },
+        {
+          "language": "ja",
+          "name": "bit set",
+          "short": "bit set"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bitset"
+        },
+        {
+          "alias": "\ube44\ud2b8\uc14b"
+        }
+      ]
     }
   ],
   "metadata": {}

@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 4,
-  "level": 14,
-  "votedUserCount": 1,
+  "level": 15,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7955,
+      "problemCount": 7957,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 5030,
+      "problemCount": 5032,
       "displayNames": [
         {
           "language": "ko",
@@ -75,6 +75,80 @@
         },
         {
           "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "combinatorics",
+      "isMeta": false,
+      "bojTagId": 6,
+      "problemCount": 1259,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc870\ud569\ub860",
+          "short": "\uc870\ud569\ub860"
+        },
+        {
+          "language": "en",
+          "name": "combinatorics",
+          "short": "combinatorics"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d44\u307f\u5408\u308f\u305b",
+          "short": "\u7d44\u307f\u5408\u308f\u305b"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "combination"
+        },
+        {
+          "alias": "permutation"
+        },
+        {
+          "alias": "probability"
+        },
+        {
+          "alias": "\ud655\ub960"
+        },
+        {
+          "alias": "\uc21c\uc5f4"
+        }
+      ]
+    },
+    {
+      "key": "probability",
+      "isMeta": false,
+      "bojTagId": 177,
+      "problemCount": 489,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\ub960\ub860",
+          "short": "\ud655\ub960\ub860"
+        },
+        {
+          "language": "en",
+          "name": "probability theory",
+          "short": "probability"
+        },
+        {
+          "language": "ja",
+          "name": "\u78ba\u7387\u8ad6",
+          "short": "\u78ba\u7387\u8ad6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "expected value"
+        },
+        {
+          "alias": "\uae30\ub300\uac12"
+        },
+        {
+          "alias": "\uae30\ub313\uac12"
         }
       ]
     }
