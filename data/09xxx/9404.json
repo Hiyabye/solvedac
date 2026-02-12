@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 7,
   "level": 17,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7954,
+      "problemCount": 7955,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4991,
+      "problemCount": 4992,
       "displayNames": [
         {
           "language": "ko",
@@ -197,30 +197,6 @@
       ]
     },
     {
-      "key": "gaussian_elimination",
-      "isMeta": false,
-      "bojTagId": 32,
-      "problemCount": 113,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95",
-          "short": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95"
-        },
-        {
-          "language": "en",
-          "name": "gaussian elimination",
-          "short": "gaussian elimination"
-        },
-        {
-          "language": "ja",
-          "name": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5",
-          "short": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "kmp",
       "isMeta": false,
       "bojTagId": 40,
@@ -240,6 +216,30 @@
           "language": "ja",
           "name": "\u30af\u30cc\u30fc\u30b9\u2013\u30e2\u30ea\u30b9\u2013\u30d7\u30e9\u30c3\u30c8\u6cd5",
           "short": "kmp"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "gaussian_elimination",
+      "isMeta": false,
+      "bojTagId": 32,
+      "problemCount": 113,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95",
+          "short": "\uac00\uc6b0\uc2a4 \uc18c\uac70\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "gaussian elimination",
+          "short": "gaussian elimination"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5",
+          "short": "\u30ac\u30a6\u30b9\u6d88\u53bb\u6cd5"
         }
       ],
       "aliases": []
