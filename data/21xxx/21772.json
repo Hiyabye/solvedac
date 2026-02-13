@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 579,
   "level": 11,
-  "votedUserCount": 42,
+  "votedUserCount": 43,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6719,
+      "problemCount": 6721,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2750,
+      "problemCount": 2752,
       "displayNames": [
         {
           "language": "ko",
@@ -120,6 +120,25 @@
           "alias": "\ud1f4\uac01 \uac80\uc0c9"
         }
       ]
+    },
+    {
+      "key": "grid_graph",
+      "isMeta": false,
+      "bojTagId": 221,
+      "problemCount": 240,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
+          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "grid graph",
+          "short": "grid graph"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
