@@ -1,14 +1,16 @@
 # 프로젝트 solved.ac
 
-[solved.ac](https://solved.ac/)는 [Baekjoon Online Judge](https://www.acmicpc.net/)에 수록된 문제들의 난이도를 제공하는 사이트입니다. 이 프로젝트는 solved.ac의 API를 활용하여 여러 기능을 수행하고자 합니다.
+[solved.ac](https://solved.ac)는 [Baekjoon Online Judge](https://www.acmicpc.net)에 수록된 문제들의 난이도를 제공하는 사이트입니다. 이 프로젝트는 solved.ac의 API를 활용하여 여러 기능을 수행하고자 합니다.
 
-solved.ac의 API에 대한 자세한 문서는 [여기](https://solvedac.github.io/unofficial-documentation/#/)에서 확인할 수 있습니다.
+solved.ac의 API에 대한 자세한 문서는 [여기](https://solvedac.github.io/unofficial-documentation)에서 확인할 수 있습니다.
 
-## 목차
+## 시작하며
 
-- 기능 1: [BOJ 문제 데이터 수집](#boj-문제-데이터-수집)
-- 기능 2: [Baekjoon README 자동 업데이트](#baekjoon-readme-자동-업데이트)
-- 정리하며: [자동화 시간 계산](#자동화-시간-계산)
+git을 사용하여 이 저장소를 클론할 때, shallow 옵션을 강력히 권장합니다. 전체 커밋 기록은 용량이 너무 큽니다.
+
+```bash
+git clone https://github.com/Hiyabye/solvedac.git --depth 1
+```
 
 ## BOJ 문제 데이터 수집
 
@@ -20,29 +22,13 @@ solved.ac의 API에 대한 자세한 문서는 [여기](https://solvedac.github.
 
 | 작업 | 대상 문제 | 시각 (UTC) | 시각 (한국) |
 |:---:|:---:|:---:|:---:|
-| 데이터 1차 업데이트 | 1000번~12999번 | 06:00 | 15:00 |
-| 데이터 2차 업데이트 | 13000번~24999번 | 12:00 | 21:00 |
-| 데이터 3차 업데이트 | 25000번~36999번 | 18:00 | 03:00 |
+| 데이터 1차 업데이트 | 1000번~10999번 | 00:00 | 09:00 |
+| 데이터 2차 업데이트 | 11000번~20999번 | 06:00 | 15:00 |
+| 데이터 3차 업데이트 | 21000번~30999번 | 12:00 | 21:00 |
+| 데이터 4차 업데이트 | 31000번~40999번 | 18:00 | 03:00 |
 
-## Baekjoon README 자동 업데이트
+## 사용 예시: Baekjoon README 자동 업데이트
 
 - 내용: 솔루션 저장소인 [Hiyabye/Baekjoon](https://github.com/Hiyabye/Baekjoon)의 `README.md` 파일을 자동으로 업데이트합니다.
 - API: [사용자 정보 가져오기](https://solvedac.github.io/unofficial-documentation/#/operations/getUser), [문제 검색하기](https://solved.ac/api/v3/search/problem)
 - 스크립트: [update_readme.py](https://github.com/Hiyabye/Baekjoon/blob/main/scripts/update_readme.py)
-
-데이터는 매일 00:00 UTC에 업데이트됩니다.
-
-## 자동화 시간 계산
-
-solved.ac의 API 호출 제한과 GitHub Actions의 런타임 제한을 고려하여, 원활한 자동화를 위한 시간을 계산해야 합니다.
-
-solved.ac API의 호출 제한은 15분에 256회입니다. GitHub Actions는 Pro 계정 사용자에게 30일에 3000분의 런타임을 제공합니다.
-
-| 시각 (UTC) | 시각 (한국) | 작업 | API 호출 횟수 | GitHub Actions 런타임 (30일) |
-|:---:|:---:|:---:|:---:|:---:|
-| 00:00 | 09:00 | Baekjoon README 자동 업데이트 | 약 30회 | 0분 (공개 저장소) |
-| 06:00 | 15:00 | 데이터 1차 업데이트 | 120회 | 60분 |
-| 12:00 | 21:00 | 데이터 2차 업데이트 | 120회 | 60분 |
-| 18:00 | 03:00 | 데이터 3차 업데이트 | 120회 | 60분 |
-
-GitHub Actions 런타임을 모두 계산하면 총 180분이 소요되며, 이는 3000분의 제한 안에 들어갑니다.

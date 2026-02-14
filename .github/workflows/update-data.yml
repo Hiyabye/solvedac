@@ -2,13 +2,14 @@ name: Update data
 
 on:
   schedule:
+    - cron: '0 0 * * *'  # 0am UTC every day
     - cron: '0 6 * * *'  # 6am UTC every day
     - cron: '0 12 * * *' # 12pm UTC every day
     - cron: '0 18 * * *' # 6pm UTC every day
 
 jobs:
   update_first_range:
-    if: github.event.schedule == '0 6 * * *'
+    if: github.event.schedule == '0 0 * * *'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -24,7 +25,7 @@ jobs:
       - name: Run script with first range
         run: |
           set -e
-          python scripts/update-data.py 1000 12999
+          python scripts/update-data.py 1000 10999
       - name: Commit and push changes
         run: |
           git config --global user.email "action@github.com"
@@ -34,7 +35,7 @@ jobs:
           git push
   
   update_second_range:
-    if: github.event.schedule == '0 12 * * *'
+    if: github.event.schedule == '0 6 * * *'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -50,7 +51,7 @@ jobs:
       - name: Run script with second range
         run: |
           set -e
-          python scripts/update-data.py 13000 24999
+          python scripts/update-data.py 11000 20999
       - name: Commit and push changes
         run: |
           git config --global user.email "action@github.com"
@@ -60,7 +61,7 @@ jobs:
           git push
   
   update_third_range:
-    if: github.event.schedule == '0 18 * * *'
+    if: github.event.schedule == '0 12 * * *'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -76,11 +77,37 @@ jobs:
       - name: Run script with third range
         run: |
           set -e
-          python scripts/update-data.py 25000 36999
+          python scripts/update-data.py 21000 30999
       - name: Commit and push changes
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add .
           git commit -am "Update data (third range)"
+          git push
+  
+  update_fourth_range:
+    if: github.event.schedule == '0 18 * * *'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests tqdm
+      - name: Run script with fourth range
+        run: |
+          set -e
+          python scripts/update-data.py 31000 40999
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add .
+          git commit -am "Update data (fourth range)"
           git push
