@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 31,
+  "acceptedUserCount": 32,
   "level": 11,
-  "votedUserCount": 7,
+  "votedUserCount": 8,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.9032,
+  "averageTries": 2.9375,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7959,
+      "problemCount": 7961,
       "displayNames": [
         {
           "language": "ko",
@@ -84,6 +84,43 @@
         },
         {
           "alias": "\uc644\ud0d0"
+        }
+      ]
+    },
+    {
+      "key": "arbitrary_precision",
+      "isMeta": false,
+      "bojTagId": 117,
+      "problemCount": 302,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc784\uc758 \uc815\ubc00\ub3c4 / \ud070 \uc218 \uc5f0\uc0b0",
+          "short": "\uc784\uc758 \uc815\ubc00\ub3c4 / \ud070 \uc218 \uc5f0\uc0b0"
+        },
+        {
+          "language": "en",
+          "name": "arbitrary precision / big integers",
+          "short": "arbitrary precision / big integers"
+        },
+        {
+          "language": "ja",
+          "name": "\u9ad8\u7cbe\u5ea6\u307e\u305f\u306f\u5927\u304d\u306a\u6570\u306e\u6f14\u7b97",
+          "short": "\u9ad8\u7cbe\u5ea6\u307e\u305f\u306f\u5927\u304d\u306a\u6570\u306e\u6f14\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ube45\uc778\ud2f0\uc800"
+        },
+        {
+          "alias": "\ube45\ub370\uc2dc\uba40"
+        },
+        {
+          "alias": "biginteger"
+        },
+        {
+          "alias": "bigdecimal"
         }
       ]
     }
