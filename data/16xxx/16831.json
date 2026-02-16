@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 58,
+  "acceptedUserCount": 59,
   "level": 20,
   "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.431,
+  "averageTries": 2.4068,
   "official": true,
   "tags": [
     {
       "key": "game_theory",
       "isMeta": false,
       "bojTagId": 140,
-      "problemCount": 524,
+      "problemCount": 525,
       "displayNames": [
         {
           "language": "ko",
@@ -53,6 +53,25 @@
           "alias": "nim"
         }
       ]
+    },
+    {
+      "key": "parity",
+      "isMeta": false,
+      "bojTagId": 230,
+      "problemCount": 193,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud640\uc9dd\uc131",
+          "short": "\ud640\uc9dd\uc131"
+        },
+        {
+          "language": "en",
+          "name": "parity",
+          "short": "parity"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "sprague_grundy",

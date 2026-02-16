@@ -24,7 +24,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2752,
+      "problemCount": 2756,
       "displayNames": [
         {
           "language": "ko",
@@ -64,10 +64,34 @@
       ]
     },
     {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2376,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 2009,
+      "problemCount": 2010,
       "displayNames": [
         {
           "language": "ko",
@@ -86,6 +110,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "sweeping",
+      "isMeta": false,
+      "bojTagId": 106,
+      "problemCount": 683,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2a4\uc704\ud551",
+          "short": "\uc2a4\uc704\ud551"
+        },
+        {
+          "language": "en",
+          "name": "sweeping",
+          "short": "sweeping"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e73\u9762\u8d70\u67fb",
+          "short": "\u5e73\u9762\u8d70\u67fb"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
+        }
+      ]
     },
     {
       "key": "pythagoras",
@@ -112,56 +164,23 @@
       "aliases": []
     },
     {
-      "key": "sorting",
+      "key": "angle_sorting",
       "isMeta": false,
-      "bojTagId": 97,
-      "problemCount": 2375,
+      "bojTagId": 240,
+      "problemCount": 57,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc815\ub82c",
-          "short": "\uc815\ub82c"
+          "name": "\uac01\ub3c4 \uc815\ub82c",
+          "short": "\uac01\ub3c4 \uc815\ub82c"
         },
         {
           "language": "en",
-          "name": "sorting",
-          "short": "sorting"
-        },
-        {
-          "language": "ja",
-          "name": "\u30bd\u30fc\u30c8",
-          "short": "\u30bd\u30fc\u30c8"
+          "name": "angle sorting",
+          "short": "angle sorting"
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "sweeping",
-      "isMeta": false,
-      "bojTagId": 106,
-      "problemCount": 682,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc2a4\uc704\ud551",
-          "short": "\uc2a4\uc704\ud551"
-        },
-        {
-          "language": "en",
-          "name": "sweeping",
-          "short": "sweeping"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e73\u9762\u8d70\u67fb",
-          "short": "\u5e73\u9762\u8d70\u67fb"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
-        }
-      ]
     }
   ],
   "metadata": {}
