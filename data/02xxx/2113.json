@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7963,
+      "problemCount": 7964,
       "displayNames": [
         {
           "language": "ko",
@@ -69,6 +69,37 @@
       "aliases": [
         {
           "alias": "\uc120\ud615\ub300\uc218"
+        }
+      ]
+    },
+    {
+      "key": "berlekamp_massey",
+      "isMeta": false,
+      "bojTagId": 110,
+      "problemCount": 25,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc8c\ub9ac\ucea0\ud504\u2013\ub9e4\uc2dc",
+          "short": "\ubc8c\ub9ac\ucea0\ud504\u2013\ub9e4\uc2dc"
+        },
+        {
+          "language": "en",
+          "name": "berlekamp\u2013massey",
+          "short": "berlekamp\u2013massey"
+        },
+        {
+          "language": "ja",
+          "name": "berlekamp\u2013massey",
+          "short": "berlekamp\u2013massey"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ubc8c\ub808\ucea0\ud504"
+        },
+        {
+          "alias": "\ubc8c\ub798\ucea0\ud504"
         }
       ]
     },

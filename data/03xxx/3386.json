@@ -30,7 +30,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 4999,
+      "problemCount": 5001,
       "displayNames": [
         {
           "language": "ko",
@@ -61,7 +61,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3403,
+      "problemCount": 3405,
       "displayNames": [
         {
           "language": "ko",
@@ -89,7 +89,7 @@
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1534,
+      "problemCount": 1536,
       "displayNames": [
         {
           "language": "ko",
@@ -118,6 +118,30 @@
           "alias": "\uad6c\uc131\uc801"
         }
       ]
+    },
+    {
+      "key": "degree_sequence",
+      "isMeta": false,
+      "bojTagId": 200,
+      "problemCount": 12,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\uc218\uc5f4",
+          "short": "\ucc28\uc218\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "degree sequence",
+          "short": "degree sequence"
+        },
+        {
+          "language": "ja",
+          "name": "degree sequence",
+          "short": "degree sequence"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
