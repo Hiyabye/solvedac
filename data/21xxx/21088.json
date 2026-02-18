@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 95,
+  "acceptedUserCount": 97,
   "level": 23,
-  "votedUserCount": 33,
+  "votedUserCount": 34,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 6.7895,
+  "averageTries": 6.8763,
   "official": true,
   "tags": [
     {
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7964,
+      "problemCount": 7965,
       "displayNames": [
         {
           "language": "ko",
@@ -140,6 +140,25 @@
       ]
     },
     {
+      "key": "prime_factorization",
+      "isMeta": false,
+      "bojTagId": 242,
+      "problemCount": 136,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc18c\uc778\uc218\ubd84\ud574",
+          "short": "\uc18c\uc778\uc218\ubd84\ud574"
+        },
+        {
+          "language": "en",
+          "name": "prime factorization",
+          "short": "prime factorization"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "sprague_grundy",
       "isMeta": false,
       "bojTagId": 70,
@@ -169,25 +188,6 @@
           "alias": "nimber"
         }
       ]
-    },
-    {
-      "key": "prime_factorization",
-      "isMeta": false,
-      "bojTagId": 242,
-      "problemCount": 136,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc18c\uc778\uc218\ubd84\ud574",
-          "short": "\uc18c\uc778\uc218\ubd84\ud574"
-        },
-        {
-          "language": "en",
-          "name": "prime factorization",
-          "short": "prime factorization"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "pollard_rho",
