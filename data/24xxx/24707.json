@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 4,
   "level": 21,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,25 +21,25 @@
   "official": true,
   "tags": [
     {
-      "key": "bipartite_graph",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 197,
-      "problemCount": 108,
+      "bojTagId": 124,
+      "problemCount": 7969,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc774\ubd84 \uadf8\ub798\ud504",
-          "short": "\uc774\ubd84 \uadf8\ub798\ud504"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "bipartite graph",
-          "short": "bipartite graph"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "2\u90e8\u30b0\u30e9\u30d5",
-          "short": "2\u90e8\u30b0\u30e9\u30d5"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
         }
       ],
       "aliases": []
@@ -48,7 +48,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 5002,
+      "problemCount": 5003,
       "displayNames": [
         {
           "language": "ko",
@@ -74,6 +74,64 @@
           "alias": "\uadf8\ub798\ud504"
         }
       ]
+    },
+    {
+      "key": "probability",
+      "isMeta": false,
+      "bojTagId": 177,
+      "problemCount": 494,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\ub960\ub860",
+          "short": "\ud655\ub960\ub860"
+        },
+        {
+          "language": "en",
+          "name": "probability theory",
+          "short": "probability"
+        },
+        {
+          "language": "ja",
+          "name": "\u78ba\u7387\u8ad6",
+          "short": "\u78ba\u7387\u8ad6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "expected value"
+        },
+        {
+          "alias": "\uae30\ub300\uac12"
+        },
+        {
+          "alias": "\uae30\ub313\uac12"
+        }
+      ]
+    },
+    {
+      "key": "bipartite_graph",
+      "isMeta": false,
+      "bojTagId": 197,
+      "problemCount": 108,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \uadf8\ub798\ud504",
+          "short": "\uc774\ubd84 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "bipartite graph",
+          "short": "bipartite graph"
+        },
+        {
+          "language": "ja",
+          "name": "2\u90e8\u30b0\u30e9\u30d5",
+          "short": "2\u90e8\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
