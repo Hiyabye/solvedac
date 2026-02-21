@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 7970,
+      "problemCount": 7974,
       "displayNames": [
         {
           "language": "ko",
@@ -91,37 +91,6 @@
         }
       ],
       "aliases": []
-    },
-    {
-      "key": "extended_euclidean",
-      "isMeta": false,
-      "bojTagId": 27,
-      "problemCount": 47,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud655\uc7a5 \uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95",
-          "short": "\ud655\uc7a5 \uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95"
-        },
-        {
-          "language": "en",
-          "name": "extended euclidean algorithm",
-          "short": "extended euclidean algorithm"
-        },
-        {
-          "language": "ja",
-          "name": "\u62e1\u5f35\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
-          "short": "\u62e1\u5f35\u30e6\u30fc\u30af\u30ea\u30c3\u30c9"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud655\uc7a5\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
-        },
-        {
-          "alias": "egcd"
-        }
-      ]
     }
   ],
   "metadata": {}
