@@ -11,15 +11,39 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 3,
+  "acceptedUserCount": 4,
   "level": 24,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2,
+  "averageTries": 1.75,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 7984,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "bruteforcing",
       "isMeta": false,
@@ -64,6 +88,30 @@
       ]
     },
     {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 2015,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "combinatorics",
       "isMeta": false,
       "bojTagId": 6,
@@ -104,52 +152,99 @@
       ]
     },
     {
-      "key": "geometry",
+      "key": "probability",
       "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 2013,
+      "bojTagId": 177,
+      "problemCount": 496,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
+          "name": "\ud655\ub960\ub860",
+          "short": "\ud655\ub960\ub860"
         },
         {
           "language": "en",
-          "name": "geometry",
-          "short": "geom"
+          "name": "probability theory",
+          "short": "probability"
         },
         {
           "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
+          "name": "\u78ba\u7387\u8ad6",
+          "short": "\u78ba\u7387\u8ad6"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "expected value"
+        },
+        {
+          "alias": "\uae30\ub300\uac12"
+        },
+        {
+          "alias": "\uae30\ub313\uac12"
+        }
+      ]
     },
     {
-      "key": "math",
+      "key": "geometry_hyper",
       "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7974,
+      "bojTagId": 132,
+      "problemCount": 13,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
+          "name": "4\ucc28\uc6d0 \uc774\uc0c1\uc758 \uae30\ud558\ud559",
+          "short": "4\ucc28\uc6d0 \uc774\uc0c1\uc758 \uae30\ud558\ud559"
         },
         {
           "language": "en",
-          "name": "mathematics",
-          "short": "math"
+          "name": "geometry; hyperdimensional",
+          "short": "hyperdimensional"
         },
         {
           "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
+          "name": "4\u6b21\u5143\u4ee5\u4e0a\u3067\u306e\u5e7e\u4f55\u5b66",
+          "short": "hyperdimensional"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "4\ucc28\uc6d0"
+        },
+        {
+          "alias": "5\ucc28\uc6d0"
+        },
+        {
+          "alias": "6\ucc28\uc6d0"
+        },
+        {
+          "alias": "7\ucc28\uc6d0"
+        },
+        {
+          "alias": "8\ucc28\uc6d0"
+        },
+        {
+          "alias": "9\ucc28\uc6d0"
+        },
+        {
+          "alias": "4d"
+        },
+        {
+          "alias": "5d"
+        },
+        {
+          "alias": "6d"
+        },
+        {
+          "alias": "7d"
+        },
+        {
+          "alias": "8d"
+        },
+        {
+          "alias": "9d"
+        }
+      ]
     }
   ],
   "metadata": {}
