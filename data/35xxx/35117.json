@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 9,
   "level": 24,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 5050,
+      "problemCount": 5053,
       "displayNames": [
         {
           "language": "ko",
@@ -58,7 +58,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 5009,
+      "problemCount": 5013,
       "displayNames": [
         {
           "language": "ko",
@@ -120,7 +120,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3415,
+      "problemCount": 3419,
       "displayNames": [
         {
           "language": "ko",
@@ -238,37 +238,6 @@
       ]
     },
     {
-      "key": "priority_queue",
-      "isMeta": false,
-      "bojTagId": 59,
-      "problemCount": 562,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc6b0\uc120\uc21c\uc704 \ud050",
-          "short": "\uc6b0\uc120\uc21c\uc704 \ud050"
-        },
-        {
-          "language": "en",
-          "name": "priority queue",
-          "short": "priority queue"
-        },
-        {
-          "language": "ja",
-          "name": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc",
-          "short": "\u512a\u5148\u5ea6\u4ed8\u304d\u30ad\u30e5\u30fc"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "heap"
-        },
-        {
-          "alias": "\ud799"
-        }
-      ]
-    },
-    {
       "key": "flow",
       "isMeta": false,
       "bojTagId": 45,
@@ -317,46 +286,6 @@
         },
         {
           "alias": "\ud50c\ub85c\uc6b0"
-        }
-      ]
-    },
-    {
-      "key": "smaller_to_larger",
-      "isMeta": false,
-      "bojTagId": 169,
-      "problemCount": 176,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9",
-          "short": "\uc791\uc740 \uc9d1\ud569\uc5d0\uc11c \ud070 \uc9d1\ud569\uc73c\ub85c \ud569\uce58\ub294 \ud14c\ud06c\ub2c9"
-        },
-        {
-          "language": "en",
-          "name": "smaller to larger technique",
-          "short": "smaller to larger"
-        },
-        {
-          "language": "ja",
-          "name": "smaller to larger technique",
-          "short": "smaller to larger"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "merge heuristics"
-        },
-        {
-          "alias": "sack"
-        },
-        {
-          "alias": "small to large"
-        },
-        {
-          "alias": "\uc791\uc740\uac70"
-        },
-        {
-          "alias": "\ud070\uac70"
         }
       ]
     },
@@ -436,30 +365,6 @@
           "alias": "\ud3ec\ub4dc\ud480\ucee4\uc2a8"
         }
       ]
-    },
-    {
-      "key": "hld",
-      "isMeta": false,
-      "bojTagId": 35,
-      "problemCount": 109,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "Heavy-light \ubd84\ud560",
-          "short": "Heavy-light \ubd84\ud560"
-        },
-        {
-          "language": "en",
-          "name": "heavy-light decomposition",
-          "short": "hld"
-        },
-        {
-          "language": "ja",
-          "name": "heavy-light decomposition",
-          "short": "hld"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "rerooting",
