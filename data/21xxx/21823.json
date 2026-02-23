@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 28,
+  "acceptedUserCount": 29,
   "level": 21,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 3.25,
+  "averageTries": 3.1724,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 5011,
+      "problemCount": 5020,
       "displayNames": [
         {
           "language": "ko",
@@ -52,38 +52,10 @@
       ]
     },
     {
-      "key": "offline_queries",
-      "isMeta": false,
-      "bojTagId": 123,
-      "problemCount": 364,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
-          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "offline queries",
-          "short": "offline query"
-        },
-        {
-          "language": "ja",
-          "name": "offline queries",
-          "short": "offline query"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "offlinequery"
-        }
-      ]
-    },
-    {
       "key": "segtree",
       "isMeta": false,
       "bojTagId": 65,
-      "problemCount": 1677,
+      "problemCount": 1681,
       "displayNames": [
         {
           "language": "ko",
@@ -117,10 +89,38 @@
       ]
     },
     {
+      "key": "offline_queries",
+      "isMeta": false,
+      "bojTagId": 123,
+      "problemCount": 364,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac",
+          "short": "\uc624\ud504\ub77c\uc778 \ucffc\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "offline queries",
+          "short": "offline query"
+        },
+        {
+          "language": "ja",
+          "name": "offline queries",
+          "short": "offline query"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "offlinequery"
+        }
+      ]
+    },
+    {
       "key": "sqrt_decomposition",
       "isMeta": false,
       "bojTagId": 130,
-      "problemCount": 171,
+      "problemCount": 172,
       "displayNames": [
         {
           "language": "ko",
