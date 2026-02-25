@@ -11,116 +11,339 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 4,
+  "acceptedUserCount": 5,
   "level": 25,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 12.25,
+  "averageTries": 23.8,
   "official": true,
   "tags": [
     {
-      "key": "backtracking",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 5,
-      "problemCount": 652,
+      "bojTagId": 124,
+      "problemCount": 7998,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubc31\ud2b8\ub798\ud0b9",
-          "short": "\ubc31\ud2b8\ub798\ud0b9"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "backtracking",
-          "short": "backtrack"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
-          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6754,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 5065,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
         }
       ],
       "aliases": [
         {
-          "alias": "\ubc31\ud2b8\ub798\ud0b9"
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
         },
         {
-          "alias": "\ud1f4\uac01\uac80\uc0c9"
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
         },
         {
-          "alias": "\ud1f4\uac01 \uac80\uc0c9"
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
         }
       ]
     },
     {
-      "key": "bfs",
+      "key": "data_structures",
       "isMeta": false,
-      "bojTagId": 126,
-      "problemCount": 1214,
+      "bojTagId": 175,
+      "problemCount": 5024,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
-          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
         },
         {
           "language": "en",
-          "name": "breadth-first search",
-          "short": "bfs"
+          "name": "data structures",
+          "short": "ds"
         },
         {
           "language": "ja",
-          "name": "\u5e45\u512a\u5148\u691c\u7d22",
-          "short": "bfs"
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
         }
       ],
       "aliases": [
         {
-          "alias": "breadthfirst"
+          "alias": "\uc790\ub8cc\uad6c\uc870"
         },
         {
-          "alias": "breadth first"
+          "alias": "\uc790\uad6c"
         }
       ]
     },
     {
-      "key": "bitmask",
+      "key": "graphs",
       "isMeta": false,
-      "bojTagId": 14,
-      "problemCount": 991,
+      "bojTagId": 7,
+      "problemCount": 5014,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
-          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
         },
         {
           "language": "en",
-          "name": "bitmask",
-          "short": "bitmask"
+          "name": "graph theory",
+          "short": "graph"
         },
         {
           "language": "ja",
-          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
-          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
         }
       ],
       "aliases": [
         {
-          "alias": "\ube44\ud2b8\ud544\ub4dc"
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
         },
         {
-          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+          "alias": "\uadf8\ub798\ud504"
         }
       ]
+    },
+    {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 2933,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubb38\uc790\uc5f4",
+          "short": "\ubb38\uc790\uc5f4"
+        },
+        {
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        },
+        {
+          "language": "ja",
+          "name": "\u6587\u5b57\u5217",
+          "short": "\u6587\u5b57\u5217"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc2a4\ud2b8\ub9c1"
+        }
+      ]
+    },
+    {
+      "key": "graph_traversal",
+      "isMeta": false,
+      "bojTagId": 11,
+      "problemCount": 2478,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
+          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "graph traversal",
+          "short": "traversal"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
+          "short": "\u6a2a\u65ad"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bfs"
+        },
+        {
+          "alias": "dfs"
+        }
+      ]
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1873,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "segtree",
+      "isMeta": false,
+      "bojTagId": 65,
+      "problemCount": 1683,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
+          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "segment tree",
+          "short": "segtree"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
+          "short": "\u30bb\u30b0\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uad6c\uac04\ud2b8\ub9ac"
+        },
+        {
+          "alias": "\uc138\uadf8\ud2b8\ub9ac"
+        },
+        {
+          "alias": "fenwick"
+        },
+        {
+          "alias": "\ud39c\uc705"
+        }
+      ]
+    },
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 1641,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        },
+        {
+          "language": "ja",
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "simulation",
+      "isMeta": false,
+      "bojTagId": 141,
+      "problemCount": 1348,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2dc\ubbac\ub808\uc774\uc158",
+          "short": "\uc2dc\ubbac\ub808\uc774\uc158"
+        },
+        {
+          "language": "en",
+          "name": "simulation",
+          "short": "simulation"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+          "short": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "combinatorics",
       "isMeta": false,
       "bojTagId": 6,
-      "problemCount": 1267,
+      "problemCount": 1268,
       "displayNames": [
         {
           "language": "ko",
@@ -157,33 +380,64 @@
       ]
     },
     {
-      "key": "data_structures",
+      "key": "bfs",
       "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 5020,
+      "bojTagId": 126,
+      "problemCount": 1216,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
+          "name": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9",
+          "short": "\ub108\ube44 \uc6b0\uc120 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "data structures",
-          "short": "ds"
+          "name": "breadth-first search",
+          "short": "bfs"
         },
         {
           "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
+          "name": "\u5e45\u512a\u5148\u691c\u7d22",
+          "short": "bfs"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
+          "alias": "breadthfirst"
         },
         {
-          "alias": "\uc790\uad6c"
+          "alias": "breadth first"
+        }
+      ]
+    },
+    {
+      "key": "bitmask",
+      "isMeta": false,
+      "bojTagId": 14,
+      "problemCount": 993,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
+          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "bitmask",
+          "short": "bitmask"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
+          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ube44\ud2b8\ud544\ub4dc"
+        },
+        {
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
         }
       ]
     },
@@ -219,44 +473,126 @@
       ]
     },
     {
-      "key": "dp",
+      "key": "backtracking",
       "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 5059,
+      "bojTagId": 5,
+      "problemCount": 652,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+          "name": "\ubc31\ud2b8\ub798\ud0b9",
+          "short": "\ubc31\ud2b8\ub798\ud0b9"
         },
         {
           "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
+          "name": "backtracking",
+          "short": "backtrack"
         },
         {
           "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
+          "name": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af\u6cd5",
+          "short": "\u30d0\u30c3\u30af\u30c8\u30e9\u30c3\u30af"
         }
       ],
       "aliases": [
         {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+          "alias": "\ubc31\ud2b8\ub798\ud0b9"
         },
         {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+          "alias": "\ud1f4\uac01\uac80\uc0c9"
         },
         {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+          "alias": "\ud1f4\uac01 \uac80\uc0c9"
         }
       ]
+    },
+    {
+      "key": "parsing",
+      "isMeta": false,
+      "bojTagId": 96,
+      "problemCount": 550,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud30c\uc2f1",
+          "short": "\ud30c\uc2f1"
+        },
+        {
+          "language": "en",
+          "name": "parsing",
+          "short": "parsing"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
+          "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "probability",
+      "isMeta": false,
+      "bojTagId": 177,
+      "problemCount": 497,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud655\ub960\ub860",
+          "short": "\ud655\ub960\ub860"
+        },
+        {
+          "language": "en",
+          "name": "probability theory",
+          "short": "probability"
+        },
+        {
+          "language": "ja",
+          "name": "\u78ba\u7387\u8ad6",
+          "short": "\u78ba\u7387\u8ad6"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "expected value"
+        },
+        {
+          "alias": "\uae30\ub300\uac12"
+        },
+        {
+          "alias": "\uae30\ub313\uac12"
+        }
+      ]
+    },
+    {
+      "key": "stack",
+      "isMeta": false,
+      "bojTagId": 71,
+      "problemCount": 486,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc2a4\ud0dd",
+          "short": "\uc2a4\ud0dd"
+        },
+        {
+          "language": "en",
+          "name": "stack",
+          "short": "stack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b9\u30bf\u30c3\u30af",
+          "short": "\u30b9\u30bf\u30c3\u30af"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "dp_bitfield",
       "isMeta": false,
       "bojTagId": 87,
-      "problemCount": 389,
+      "problemCount": 391,
       "displayNames": [
         {
           "language": "ko",
@@ -324,140 +660,6 @@
       ]
     },
     {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 5014,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "graph_traversal",
-      "isMeta": false,
-      "bojTagId": 11,
-      "problemCount": 2478,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
-          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "graph traversal",
-          "short": "traversal"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
-          "short": "\u6a2a\u65ad"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bfs"
-        },
-        {
-          "alias": "dfs"
-        }
-      ]
-    },
-    {
-      "key": "implementation",
-      "isMeta": false,
-      "bojTagId": 102,
-      "problemCount": 6747,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uad6c\ud604",
-          "short": "\uad6c\ud604"
-        },
-        {
-          "language": "en",
-          "name": "implementation",
-          "short": "impl"
-        },
-        {
-          "language": "ja",
-          "name": "\u5b9f\u88c5",
-          "short": "impl"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 7991,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "parsing",
-      "isMeta": false,
-      "bojTagId": 96,
-      "problemCount": 550,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud30c\uc2f1",
-          "short": "\ud30c\uc2f1"
-        },
-        {
-          "language": "en",
-          "name": "parsing",
-          "short": "parsing"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d1\u30fc\u30b8\u30f3\u30b0",
-          "short": "\u30d1\u30fc\u30b8\u30f3\u30b0"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "precomputation",
       "isMeta": false,
       "bojTagId": 172,
@@ -492,73 +694,137 @@
       ]
     },
     {
-      "key": "probability",
+      "key": "modular_multiplicative_inverse",
       "isMeta": false,
-      "bojTagId": 177,
-      "problemCount": 497,
+      "bojTagId": 164,
+      "problemCount": 199,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud655\ub960\ub860",
-          "short": "\ud655\ub960\ub860"
+          "name": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0",
+          "short": "\ubaa8\ub4c8\ub85c \uacf1\uc148 \uc5ed\uc6d0"
         },
         {
           "language": "en",
-          "name": "probability theory",
-          "short": "probability"
+          "name": "modular multiplicative inverse",
+          "short": "modular multiplicative inverse"
         },
         {
           "language": "ja",
-          "name": "\u78ba\u7387\u8ad6",
-          "short": "\u78ba\u7387\u8ad6"
+          "name": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570",
+          "short": "\u30e2\u30b8\u30e5\u30e9\u9006\u6570"
         }
       ],
       "aliases": [
         {
-          "alias": "expected value"
-        },
-        {
-          "alias": "\uae30\ub300\uac12"
-        },
-        {
-          "alias": "\uae30\ub313\uac12"
+          "alias": "modinv"
         }
       ]
     },
     {
-      "key": "segtree",
+      "key": "deque",
       "isMeta": false,
-      "bojTagId": 65,
-      "problemCount": 1681,
+      "bojTagId": 73,
+      "problemCount": 158,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac",
-          "short": "\uc138\uadf8\uba3c\ud2b8 \ud2b8\ub9ac"
+          "name": "\ub371",
+          "short": "\ub371"
         },
         {
           "language": "en",
-          "name": "segment tree",
-          "short": "segtree"
+          "name": "deque",
+          "short": "deque"
         },
         {
           "language": "ja",
-          "name": "\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
-          "short": "\u30bb\u30b0\u6728"
+          "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
+          "short": "deque"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "linearity_of_expectation",
+      "isMeta": false,
+      "bojTagId": 179,
+      "problemCount": 111,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131",
+          "short": "\uae30\ub313\uac12\uc758 \uc120\ud615\uc131"
+        },
+        {
+          "language": "en",
+          "name": "linearity of expectation",
+          "short": "linearity of expectation"
+        },
+        {
+          "language": "ja",
+          "name": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027",
+          "short": "\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "eulerian_path",
+      "isMeta": false,
+      "bojTagId": 93,
+      "problemCount": 84,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc624\uc77c\ub7ec \uacbd\ub85c",
+          "short": "\uc624\uc77c\ub7ec \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "eulerian path / circuit",
+          "short": "eulerian path"
+        },
+        {
+          "language": "ja",
+          "name": "eulerian path / circuit",
+          "short": "eulerian path"
         }
       ],
       "aliases": [
         {
-          "alias": "\uad6c\uac04\ud2b8\ub9ac"
+          "alias": "eulerian circuit"
         },
         {
-          "alias": "\uc138\uadf8\ud2b8\ub9ac"
+          "alias": "euler tour"
+        }
+      ]
+    },
+    {
+      "key": "bcc",
+      "isMeta": false,
+      "bojTagId": 153,
+      "problemCount": 60,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc774\uc911 \uc5f0\uacb0 \uc694\uc18c",
+          "short": "\uc774\uc911 \uc5f0\uacb0 \uc694\uc18c"
         },
         {
-          "alias": "fenwick"
+          "language": "en",
+          "name": "biconnected component",
+          "short": "biconnected component"
         },
         {
-          "alias": "\ud39c\uc705"
+          "language": "ja",
+          "name": "\u4e8c\u91cd\u63a5\u7d9a\u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8",
+          "short": "\u4e8c\u91cd\u63a5\u7d9a"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bcc"
         }
       ]
     },
@@ -602,34 +868,6 @@
         },
         {
           "alias": "\ud45c\uc900 \ud3b8\ucc28"
-        }
-      ]
-    },
-    {
-      "key": "string",
-      "isMeta": false,
-      "bojTagId": 158,
-      "problemCount": 2928,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubb38\uc790\uc5f4",
-          "short": "\ubb38\uc790\uc5f4"
-        },
-        {
-          "language": "en",
-          "name": "string",
-          "short": "string"
-        },
-        {
-          "language": "ja",
-          "name": "\u6587\u5b57\u5217",
-          "short": "\u6587\u5b57\u5217"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc2a4\ud2b8\ub9c1"
         }
       ]
     },
