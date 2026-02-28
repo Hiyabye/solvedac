@@ -11,20 +11,51 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 132,
+  "acceptedUserCount": 134,
   "level": 21,
-  "votedUserCount": 22,
+  "votedUserCount": 23,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.947,
+  "averageTries": 1.9925,
   "official": true,
   "tags": [
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 5018,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
     {
       "key": "flow",
       "isMeta": false,
       "bojTagId": 45,
-      "problemCount": 394,
+      "problemCount": 395,
       "displayNames": [
         {
           "language": "ko",
@@ -73,61 +104,6 @@
       ]
     },
     {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 5013,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "mfmc",
-      "isMeta": false,
-      "bojTagId": 167,
-      "problemCount": 102,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ucd5c\ub300 \uc720\ub7c9 \ucd5c\uc18c \ucef7 \uc815\ub9ac",
-          "short": "\ucd5c\ub300 \uc720\ub7c9 \ucd5c\uc18c \ucef7 \uc815\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "max-flow min-cut theorem",
-          "short": "mfmc"
-        },
-        {
-          "language": "ja",
-          "name": "\u6700\u5927\u30d5\u30ed\u30fc\u6700\u5c0f\u30ab\u30c3\u30c8\u5b9a\u7406",
-          "short": "mfmc"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "mst",
       "isMeta": false,
       "bojTagId": 49,
@@ -147,6 +123,30 @@
           "language": "ja",
           "name": "\u6700\u5c0f\u5168\u57df\u6728",
           "short": "\u6700\u5c0f\u5168\u57df\u6728"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "mfmc",
+      "isMeta": false,
+      "bojTagId": 167,
+      "problemCount": 103,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub300 \uc720\ub7c9 \ucd5c\uc18c \ucef7 \uc815\ub9ac",
+          "short": "\ucd5c\ub300 \uc720\ub7c9 \ucd5c\uc18c \ucef7 \uc815\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "max-flow min-cut theorem",
+          "short": "mfmc"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5927\u30d5\u30ed\u30fc\u6700\u5c0f\u30ab\u30c3\u30c8\u5b9a\u7406",
+          "short": "mfmc"
         }
       ],
       "aliases": []
