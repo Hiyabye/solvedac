@@ -19,75 +19,13 @@
   "isPartial": false,
   "acceptedUserCount": 30,
   "level": 22,
-  "votedUserCount": 11,
+  "votedUserCount": 12,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 11.8667,
   "official": true,
   "tags": [
-    {
-      "key": "dp",
-      "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 5068,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
-    {
-      "key": "greedy",
-      "isMeta": false,
-      "bojTagId": 33,
-      "problemCount": 3432,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998",
-          "short": "\uadf8\ub9ac\ub514 \uc54c\uace0\ub9ac\uc998"
-        },
-        {
-          "language": "en",
-          "name": "greedy",
-          "short": "greedy"
-        },
-        {
-          "language": "ja",
-          "name": "\u8caa\u6b32\u6cd5",
-          "short": "\u8caa\u6b32\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud0d0\uc695\ubc95"
-        }
-      ]
-    },
     {
       "key": "backtracking",
       "isMeta": false,
@@ -123,32 +61,28 @@
       ]
     },
     {
-      "key": "knapsack",
+      "key": "pigeonhole_principle",
       "isMeta": false,
-      "bojTagId": 148,
-      "problemCount": 342,
+      "bojTagId": 189,
+      "problemCount": 71,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ubc30\ub0ad \ubb38\uc81c",
-          "short": "\ubc30\ub0ad"
+          "name": "\ube44\ub458\uae30\uc9d1 \uc6d0\ub9ac",
+          "short": "\ube44\ub458\uae30\uc9d1"
         },
         {
           "language": "en",
-          "name": "knapsack",
-          "short": "knapsack"
+          "name": "pigeonhole principle",
+          "short": "pigeonhole"
         },
         {
           "language": "ja",
-          "name": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af\u554f\u984c",
-          "short": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af"
+          "name": "\u9ce9\u306e\u5de3\u539f\u7406",
+          "short": "\u9ce9"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\ub0c5\uc0c9"
-        }
-      ]
+      "aliases": []
     }
   ],
   "metadata": {}
