@@ -17,15 +17,39 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 7,
+  "acceptedUserCount": 8,
   "level": 24,
-  "votedUserCount": 2,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.7143,
+  "averageTries": 2.625,
   "official": true,
   "tags": [
+    {
+      "key": "ad_hoc",
+      "isMeta": false,
+      "bojTagId": 109,
+      "problemCount": 2268,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
+        },
+        {
+          "language": "en",
+          "name": "ad-hoc",
+          "short": "ad-hoc"
+        },
+        {
+          "language": "ja",
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "trees",
       "isMeta": false,
@@ -108,25 +132,6 @@
           "language": "ja",
           "name": "centroid",
           "short": "centroid"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "tree_diameter",
-      "isMeta": false,
-      "bojTagId": 222,
-      "problemCount": 55,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac\uc758 \uc9c0\ub984",
-          "short": "\ud2b8\ub9ac\uc758 \uc9c0\ub984"
-        },
-        {
-          "language": "en",
-          "name": "diameter of a tree",
-          "short": "tree diameter"
         }
       ],
       "aliases": []

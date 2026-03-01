@@ -12,14 +12,38 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 7,
-  "level": 14,
-  "votedUserCount": 2,
+  "level": 15,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 1,
   "official": true,
   "tags": [
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6763,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "string",
       "isMeta": false,
@@ -49,10 +73,34 @@
       ]
     },
     {
+      "key": "ad_hoc",
+      "isMeta": false,
+      "bojTagId": 109,
+      "problemCount": 2268,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc560\ub4dc \ud639",
+          "short": "\uc560\ub4dc \ud639"
+        },
+        {
+          "language": "en",
+          "name": "ad-hoc",
+          "short": "ad-hoc"
+        },
+        {
+          "language": "ja",
+          "name": "\u30a2\u30c9\u30db\u30c3\u30af",
+          "short": "\u30a2\u30c9\u30db\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "constructive",
       "isMeta": false,
       "bojTagId": 128,
-      "problemCount": 1557,
+      "problemCount": 1558,
       "displayNames": [
         {
           "language": "ko",

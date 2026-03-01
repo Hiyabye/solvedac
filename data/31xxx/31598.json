@@ -11,20 +11,44 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 54,
+  "acceptedUserCount": 55,
   "level": 20,
-  "votedUserCount": 13,
+  "votedUserCount": 14,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.8519,
+  "averageTries": 2.9818,
   "official": true,
   "tags": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 8014,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        },
+        {
+          "language": "ja",
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 5039,
+      "problemCount": 5041,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +79,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3432,
+      "problemCount": 3433,
       "displayNames": [
         {
           "language": "ko",
@@ -80,34 +104,10 @@
       ]
     },
     {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 8013,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1877,
+      "problemCount": 1878,
       "displayNames": [
         {
           "language": "ko",
@@ -128,41 +128,23 @@
       "aliases": []
     },
     {
-      "key": "primality_test",
+      "key": "set",
       "isMeta": false,
-      "bojTagId": 9,
-      "problemCount": 393,
+      "bojTagId": 225,
+      "problemCount": 1596,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc18c\uc218 \ud310\uc815",
-          "short": "\uc18c\uc218 \ud310\uc815"
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
         },
         {
           "language": "en",
-          "name": "primality test",
-          "short": "primality test"
-        },
-        {
-          "language": "ja",
-          "name": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8",
-          "short": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8"
+          "name": "set / map",
+          "short": "set"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc18c\uc218"
-        },
-        {
-          "alias": "\uc18c\uc218\ud310\ubcc4"
-        },
-        {
-          "alias": "\uc18c\uc218\ud310\uc815"
-        },
-        {
-          "alias": "prime"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "tree_set",
@@ -220,23 +202,41 @@
       ]
     },
     {
-      "key": "set",
+      "key": "primality_test",
       "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1594,
+      "bojTagId": 9,
+      "problemCount": 393,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
+          "name": "\uc18c\uc218 \ud310\uc815",
+          "short": "\uc18c\uc218 \ud310\uc815"
         },
         {
           "language": "en",
-          "name": "set / map",
-          "short": "set"
+          "name": "primality test",
+          "short": "primality test"
+        },
+        {
+          "language": "ja",
+          "name": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8",
+          "short": "\u7d20\u6570\u6027\u30c6\u30b9\u30c8"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\uc18c\uc218"
+        },
+        {
+          "alias": "\uc18c\uc218\ud310\ubcc4"
+        },
+        {
+          "alias": "\uc18c\uc218\ud310\uc815"
+        },
+        {
+          "alias": "prime"
+        }
+      ]
     }
   ],
   "metadata": {}
