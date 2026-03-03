@@ -11,88 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 5,
+  "acceptedUserCount": 7,
   "level": 15,
-  "votedUserCount": 3,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 7.6,
+  "averageTries": 6.5714,
   "official": true,
   "tags": [
-    {
-      "key": "bellman_ford",
-      "isMeta": false,
-      "bojTagId": 10,
-      "problemCount": 48,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubca8\ub9cc\u2013\ud3ec\ub4dc",
-          "short": "\ubca8\ub9cc\u2013\ud3ec\ub4dc"
-        },
-        {
-          "language": "en",
-          "name": "bellman\u2013ford",
-          "short": "bellman-ford"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9\u6cd5",
-          "short": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bellmanford"
-        },
-        {
-          "alias": "\ubca8\ub9cc\ud3ec\ub4dc"
-        },
-        {
-          "alias": "spfa"
-        }
-      ]
-    },
-    {
-      "key": "dijkstra",
-      "isMeta": false,
-      "bojTagId": 22,
-      "problemCount": 710,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
-          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
-        },
-        {
-          "language": "en",
-          "name": "dijkstra's",
-          "short": "dijkstra's"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
-          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub2e4\uc775"
-        },
-        {
-          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
-        },
-        {
-          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
-        }
-      ]
-    },
     {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 5019,
+      "problemCount": 5021,
       "displayNames": [
         {
           "language": "ko",
@@ -139,6 +71,93 @@
           "language": "ja",
           "name": "\u6700\u77ed\u7d4c\u8def",
           "short": "\u6700\u77ed\u7d4c\u8def"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "dijkstra",
+      "isMeta": false,
+      "bojTagId": 22,
+      "problemCount": 710,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c",
+          "short": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "language": "en",
+          "name": "dijkstra's",
+          "short": "dijkstra's"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5",
+          "short": "\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub2e4\uc775"
+        },
+        {
+          "alias": "\ub2e4\uc775\uc2a4\ud2b8\ub77c"
+        },
+        {
+          "alias": "\ub370\uc774\ud06c\uc2a4\ud2b8\ub77c"
+        }
+      ]
+    },
+    {
+      "key": "bellman_ford",
+      "isMeta": false,
+      "bojTagId": 10,
+      "problemCount": 48,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubca8\ub9cc\u2013\ud3ec\ub4dc",
+          "short": "\ubca8\ub9cc\u2013\ud3ec\ub4dc"
+        },
+        {
+          "language": "en",
+          "name": "bellman\u2013ford",
+          "short": "bellman-ford"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9\u6cd5",
+          "short": "\u30d9\u30eb\u30de\u30f3\u30d5\u30a9\u30fc\u30c9"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bellmanford"
+        },
+        {
+          "alias": "\ubca8\ub9cc\ud3ec\ub4dc"
+        },
+        {
+          "alias": "spfa"
+        }
+      ]
+    },
+    {
+      "key": "dial",
+      "isMeta": false,
+      "bojTagId": 224,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\uc5bc",
+          "short": "\ub2e4\uc774\uc5bc"
+        },
+        {
+          "language": "en",
+          "name": "dial",
+          "short": "dial"
         }
       ],
       "aliases": []

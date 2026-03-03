@@ -11,15 +11,46 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 109,
+  "acceptedUserCount": 110,
   "level": 11,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.0367,
+  "averageTries": 2.0273,
   "official": true,
   "tags": [
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 5021,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
     {
       "key": "bruteforcing",
       "isMeta": false,
@@ -64,33 +95,33 @@
       ]
     },
     {
-      "key": "graphs",
+      "key": "graph_traversal",
       "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 5019,
+      "bojTagId": 11,
+      "problemCount": 2481,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
+          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "graph theory",
-          "short": "graph"
+          "name": "graph traversal",
+          "short": "traversal"
         },
         {
           "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
+          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
+          "short": "\u6a2a\u65ad"
         }
       ],
       "aliases": [
         {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+          "alias": "bfs"
         },
         {
-          "alias": "\uadf8\ub798\ud504"
+          "alias": "dfs"
         }
       ]
     }
