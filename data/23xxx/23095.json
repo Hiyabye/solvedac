@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 35,
+  "acceptedUserCount": 36,
   "level": 16,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7429,
+  "averageTries": 1.7778,
   "official": true,
   "tags": [
     {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6765,
+      "problemCount": 6766,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 5020,
+      "problemCount": 5024,
       "displayNames": [
         {
           "language": "ko",
@@ -103,6 +103,34 @@
         },
         {
           "alias": "dfs"
+        }
+      ]
+    },
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 1893,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac",
+          "short": "\ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728",
+          "short": "\u6728"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
         }
       ]
     },
