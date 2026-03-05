@@ -11,68 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 38,
+  "acceptedUserCount": 40,
   "level": 16,
-  "votedUserCount": 14,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.6053,
+  "averageTries": 1.75,
   "official": true,
   "tags": [
-    {
-      "key": "geometry",
-      "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 2023,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
-        },
-        {
-          "language": "en",
-          "name": "geometry",
-          "short": "geom"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "geometry_3d",
-      "isMeta": false,
-      "bojTagId": 131,
-      "problemCount": 144,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "3\ucc28\uc6d0 \uae30\ud558\ud559",
-          "short": "3\ucc28\uc6d0 \uae30\ud558\ud559"
-        },
-        {
-          "language": "en",
-          "name": "geometry; 3d",
-          "short": "3d"
-        },
-        {
-          "language": "ja",
-          "name": "3\u6b21\u5143\u5e7e\u4f55\u5b66",
-          "short": "3d"
-        }
-      ],
-      "aliases": []
-    },
     {
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6767,
+      "problemCount": 6769,
       "displayNames": [
         {
           "language": "ko",
@@ -93,10 +45,34 @@
       "aliases": []
     },
     {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 2024,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "simulation",
       "isMeta": false,
       "bojTagId": 141,
-      "problemCount": 1350,
+      "problemCount": 1351,
       "displayNames": [
         {
           "language": "ko",
@@ -112,6 +88,30 @@
           "language": "ja",
           "name": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
           "short": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometry_3d",
+      "isMeta": false,
+      "bojTagId": 131,
+      "problemCount": 145,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "3\ucc28\uc6d0 \uae30\ud558\ud559",
+          "short": "3\ucc28\uc6d0 \uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry; 3d",
+          "short": "3d"
+        },
+        {
+          "language": "ja",
+          "name": "3\u6b21\u5143\u5e7e\u4f55\u5b66",
+          "short": "3d"
         }
       ],
       "aliases": []
