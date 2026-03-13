@@ -11,44 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 41,
+  "acceptedUserCount": 43,
   "level": 24,
-  "votedUserCount": 9,
+  "votedUserCount": 10,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.7805,
+  "averageTries": 1.7674,
   "official": true,
   "tags": [
-    {
-      "key": "dominator_tree",
-      "isMeta": false,
-      "bojTagId": 135,
-      "problemCount": 10,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub3c4\ubbf8\ub124\uc774\ud130 \ud2b8\ub9ac",
-          "short": "\ub3c4\ubbf8\ub124\uc774\ud130 \ud2b8\ub9ac"
-        },
-        {
-          "language": "en",
-          "name": "dominator tree",
-          "short": "dominator tree"
-        },
-        {
-          "language": "ja",
-          "name": "dominator tree",
-          "short": "dominator tree"
-        }
-      ],
-      "aliases": []
-    },
     {
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1896,
+      "problemCount": 1898,
       "displayNames": [
         {
           "language": "ko",
@@ -71,6 +47,30 @@
           "alias": "trees"
         }
       ]
+    },
+    {
+      "key": "dominator_tree",
+      "isMeta": false,
+      "bojTagId": 135,
+      "problemCount": 11,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub3c4\ubbf8\ub124\uc774\ud130 \ud2b8\ub9ac",
+          "short": "\ub3c4\ubbf8\ub124\uc774\ud130 \ud2b8\ub9ac"
+        },
+        {
+          "language": "en",
+          "name": "dominator tree",
+          "short": "dominator tree"
+        },
+        {
+          "language": "ja",
+          "name": "dominator tree",
+          "short": "dominator tree"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
