@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 182,
   "level": 17,
-  "votedUserCount": 36,
+  "votedUserCount": 37,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 8035,
+      "problemCount": 8036,
       "displayNames": [
         {
           "language": "ko",
@@ -69,10 +69,29 @@
       "aliases": []
     },
     {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1602,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1360,
+      "problemCount": 1361,
       "displayNames": [
         {
           "language": "ko",
