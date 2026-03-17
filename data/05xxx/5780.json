@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 37,
+  "acceptedUserCount": 38,
   "level": 18,
-  "votedUserCount": 11,
+  "votedUserCount": 12,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.973,
+  "averageTries": 1.9474,
   "official": true,
   "tags": [
     {
@@ -104,6 +104,25 @@
       ]
     },
     {
+      "key": "grid_graph",
+      "isMeta": false,
+      "bojTagId": 221,
+      "problemCount": 258,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
+          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "grid graph",
+          "short": "grid graph"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "bipartite_matching",
       "isMeta": false,
       "bojTagId": 13,
@@ -123,25 +142,6 @@
           "language": "ja",
           "name": "2\u90e8\u30de\u30c3\u30c1\u30f3\u30b0",
           "short": "2\u90e8\u30de\u30c3\u30c1\u30f3\u30b0"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "grid_graph",
-      "isMeta": false,
-      "bojTagId": 221,
-      "problemCount": 258,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
-          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
-        },
-        {
-          "language": "en",
-          "name": "grid graph",
-          "short": "grid graph"
         }
       ],
       "aliases": []
