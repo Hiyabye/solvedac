@@ -10,16 +10,47 @@
     }
   ],
   "isSolvable": true,
-  "isPartial": false,
+  "isPartial": true,
   "acceptedUserCount": 48,
   "level": 11,
-  "votedUserCount": 16,
+  "votedUserCount": 17,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
   "averageTries": 2.5,
   "official": true,
   "tags": [
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 5065,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
     {
       "key": "bruteforcing",
       "isMeta": false,
@@ -64,35 +95,23 @@
       ]
     },
     {
-      "key": "data_structures",
+      "key": "set",
       "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 5062,
+      "bojTagId": 225,
+      "problemCount": 1602,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
         },
         {
           "language": "en",
-          "name": "data structures",
-          "short": "ds"
-        },
-        {
-          "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
+          "name": "set / map",
+          "short": "set"
         }
       ],
-      "aliases": [
-        {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
-        },
-        {
-          "alias": "\uc790\uad6c"
-        }
-      ]
+      "aliases": []
     },
     {
       "key": "hash_set",
@@ -148,25 +167,6 @@
           "alias": "dict"
         }
       ]
-    },
-    {
-      "key": "set",
-      "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1599,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map",
-          "short": "set"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
