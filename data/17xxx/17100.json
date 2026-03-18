@@ -11,20 +11,54 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 18,
+  "acceptedUserCount": 19,
   "level": 18,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.3333,
+  "averageTries": 2.5789,
   "official": true,
   "tags": [
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 5099,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
+          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        },
+        {
+          "language": "ja",
+          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
+        },
+        {
+          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 5062,
+      "problemCount": 5065,
       "displayNames": [
         {
           "language": "ko",
@@ -48,6 +82,34 @@
         },
         {
           "alias": "\uc790\uad6c"
+        }
+      ]
+    },
+    {
+      "key": "knapsack",
+      "isMeta": false,
+      "bojTagId": 148,
+      "problemCount": 342,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubc30\ub0ad \ubb38\uc81c",
+          "short": "\ubc30\ub0ad"
+        },
+        {
+          "language": "en",
+          "name": "knapsack",
+          "short": "knapsack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af\u554f\u984c",
+          "short": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub0c5\uc0c9"
         }
       ]
     },
@@ -100,40 +162,6 @@
       "aliases": []
     },
     {
-      "key": "dp",
-      "isMeta": false,
-      "bojTagId": 25,
-      "problemCount": 5098,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d",
-          "short": "\ub2e4\uc774\ub098\ubbf9 \ud504\ub85c\uadf8\ub798\ubc0d"
-        },
-        {
-          "language": "en",
-          "name": "dynamic programming",
-          "short": "dp"
-        },
-        {
-          "language": "ja",
-          "name": "\u52d5\u7684\u8a08\u753b\u6cd5",
-          "short": "dp"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub3d9\uc801\uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub3d9\uc801 \uacc4\ud68d\ubc95"
-        },
-        {
-          "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
-        }
-      ]
-    },
-    {
       "key": "dp_deque",
       "isMeta": false,
       "bojTagId": 108,
@@ -161,34 +189,6 @@
         },
         {
           "alias": "\ub371dp"
-        }
-      ]
-    },
-    {
-      "key": "knapsack",
-      "isMeta": false,
-      "bojTagId": 148,
-      "problemCount": 342,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ubc30\ub0ad \ubb38\uc81c",
-          "short": "\ubc30\ub0ad"
-        },
-        {
-          "language": "en",
-          "name": "knapsack",
-          "short": "knapsack"
-        },
-        {
-          "language": "ja",
-          "name": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af\u554f\u984c",
-          "short": "\u30ca\u30c3\u30d7\u30b5\u30c3\u30af"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ub0c5\uc0c9"
         }
       ]
     }

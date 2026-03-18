@@ -11,20 +11,51 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 5,
+  "acceptedUserCount": 6,
   "level": 24,
-  "votedUserCount": 2,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 6,
+  "averageTries": 5.3333,
   "official": true,
   "tags": [
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 5065,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc790\ub8cc\uad6c\uc870"
+        },
+        {
+          "alias": "\uc790\uad6c"
+        }
+      ]
+    },
     {
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 2030,
+      "problemCount": 2031,
       "displayNames": [
         {
           "language": "ko",
@@ -45,25 +76,51 @@
       "aliases": []
     },
     {
-      "key": "line_intersection",
+      "key": "binary_search",
       "isMeta": false,
-      "bojTagId": 42,
-      "problemCount": 176,
+      "bojTagId": 12,
+      "problemCount": 1650,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815",
-          "short": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815"
+          "name": "\uc774\ubd84 \ud0d0\uc0c9",
+          "short": "\uc774\ubd84 \ud0d0\uc0c9"
         },
         {
           "language": "en",
-          "name": "line segment intersection check",
-          "short": "line segment intersection check"
+          "name": "binary search",
+          "short": "binary search"
         },
         {
           "language": "ja",
-          "name": "\u76f4\u7dda\u306e\u4ea4\u70b9",
-          "short": "\u76f4\u7dda\u306e\u4ea4\u70b9"
+          "name": "\u4e8c\u5206\u63a2\u7d22",
+          "short": "\u4e8c\u5206\u63a2\u7d22"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc774\ubd84\ud0d0\uc0c9"
+        },
+        {
+          "alias": "\uc774\uc9c4\ud0d0\uc0c9"
+        }
+      ]
+    },
+    {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1602,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
         }
       ],
       "aliases": []
@@ -95,6 +152,113 @@
           "alias": "\ub77c\uc778 \uc2a4\uc704\ud551"
         }
       ]
+    },
+    {
+      "key": "tree_set",
+      "isMeta": false,
+      "bojTagId": 74,
+      "problemCount": 542,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
+          "short": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map by trees",
+          "short": "treeset"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
+          "short": "treeset"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc9d1\ud569"
+        },
+        {
+          "alias": "\ub9f5"
+        },
+        {
+          "alias": "\uc14b"
+        },
+        {
+          "alias": "\ub515\uc154\ub108\ub9ac"
+        },
+        {
+          "alias": "dictionary"
+        },
+        {
+          "alias": "map"
+        },
+        {
+          "alias": "set"
+        },
+        {
+          "alias": "bbst"
+        },
+        {
+          "alias": "\ud2b8\ub9ac"
+        },
+        {
+          "alias": "tree"
+        }
+      ]
+    },
+    {
+      "key": "parametric_search",
+      "isMeta": false,
+      "bojTagId": 170,
+      "problemCount": 533,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9",
+          "short": "\ub9e4\uac1c \ubcc0\uc218 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "parametric search",
+          "short": "parametric search"
+        },
+        {
+          "language": "ja",
+          "name": "parametric search",
+          "short": "parametric search"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ud30c\ub77c\uba54\ud2b8\ub9ad"
+        }
+      ]
+    },
+    {
+      "key": "line_intersection",
+      "isMeta": false,
+      "bojTagId": 42,
+      "problemCount": 176,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815",
+          "short": "\uc120\ubd84 \uad50\ucc28 \ud310\uc815"
+        },
+        {
+          "language": "en",
+          "name": "line segment intersection check",
+          "short": "line segment intersection check"
+        },
+        {
+          "language": "ja",
+          "name": "\u76f4\u7dda\u306e\u4ea4\u70b9",
+          "short": "\u76f4\u7dda\u306e\u4ea4\u70b9"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
