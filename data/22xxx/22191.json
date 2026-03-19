@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 6,
-  "level": 10,
-  "votedUserCount": 2,
+  "acceptedUserCount": 7,
+  "level": 11,
+  "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.6667,
+  "averageTries": 1.5714,
   "official": true,
   "tags": [
     {
@@ -72,7 +72,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2783,
+      "problemCount": 2784,
       "displayNames": [
         {
           "language": "ko",
@@ -115,7 +115,7 @@
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
-      "problemCount": 1882,
+      "problemCount": 1883,
       "displayNames": [
         {
           "language": "ko",
@@ -134,6 +134,43 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "arbitrary_precision",
+      "isMeta": false,
+      "bojTagId": 117,
+      "problemCount": 309,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc784\uc758 \uc815\ubc00\ub3c4 / \ud070 \uc218 \uc5f0\uc0b0",
+          "short": "\uc784\uc758 \uc815\ubc00\ub3c4 / \ud070 \uc218 \uc5f0\uc0b0"
+        },
+        {
+          "language": "en",
+          "name": "arbitrary precision / big integers",
+          "short": "arbitrary precision / big integers"
+        },
+        {
+          "language": "ja",
+          "name": "\u9ad8\u7cbe\u5ea6\u307e\u305f\u306f\u5927\u304d\u306a\u6570\u306e\u6f14\u7b97",
+          "short": "\u9ad8\u7cbe\u5ea6\u307e\u305f\u306f\u5927\u304d\u306a\u6570\u306e\u6f14\u7b97"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ube45\uc778\ud2f0\uc800"
+        },
+        {
+          "alias": "\ube45\ub370\uc2dc\uba40"
+        },
+        {
+          "alias": "biginteger"
+        },
+        {
+          "alias": "bigdecimal"
+        }
+      ]
     },
     {
       "key": "euclidean",
