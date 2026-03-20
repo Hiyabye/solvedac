@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 3,
+  "acceptedUserCount": 4,
   "level": 21,
-  "votedUserCount": 1,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.6667,
+  "averageTries": 1.5,
   "official": true,
   "tags": [
     {
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2784,
+      "problemCount": 2785,
       "displayNames": [
         {
           "language": "ko",
@@ -110,6 +110,40 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "min_enclosing_circle",
+      "isMeta": false,
+      "bojTagId": 162,
+      "problemCount": 15,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\uc18c \uc678\uc811\uc6d0",
+          "short": "\ucd5c\uc18c \uc678\uc811\uc6d0"
+        },
+        {
+          "language": "en",
+          "name": "minimum enclosing circle",
+          "short": "minimum enclosing circle"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u5c0f\u5916\u63a5\u5186",
+          "short": "\u6700\u5c0f\u5916\u63a5\u5186"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bounding circle"
+        },
+        {
+          "alias": "smallest enclosing circle"
+        },
+        {
+          "alias": "minimum covering circle"
+        }
+      ]
     }
   ],
   "metadata": {}
