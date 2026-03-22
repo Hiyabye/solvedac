@@ -11,67 +11,15 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 33,
+  "acceptedUserCount": 35,
   "level": 13,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.697,
+  "averageTries": 1.7143,
   "official": true,
   "tags": [
-    {
-      "key": "euclidean",
-      "isMeta": false,
-      "bojTagId": 26,
-      "problemCount": 265,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95",
-          "short": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95"
-        },
-        {
-          "language": "en",
-          "name": "euclidean algorithm",
-          "short": "euclidean algorithm"
-        },
-        {
-          "language": "ja",
-          "name": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
-          "short": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
-        }
-      ]
-    },
-    {
-      "key": "geometry",
-      "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 2031,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
-        },
-        {
-          "language": "en",
-          "name": "geometry",
-          "short": "geom"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
-        }
-      ],
-      "aliases": []
-    },
     {
       "key": "math",
       "isMeta": false,
@@ -92,6 +40,30 @@
           "language": "ja",
           "name": "\u6570\u5b66",
           "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 2032,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
         }
       ],
       "aliases": []
@@ -119,6 +91,34 @@
         }
       ],
       "aliases": []
+    },
+    {
+      "key": "euclidean",
+      "isMeta": false,
+      "bojTagId": 26,
+      "problemCount": 265,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95",
+          "short": "\uc720\ud074\ub9ac\ub4dc \ud638\uc81c\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "euclidean algorithm",
+          "short": "euclidean algorithm"
+        },
+        {
+          "language": "ja",
+          "name": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
+          "short": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc720\ud074\ub9ac\ub4dc\uc54c\uace0\ub9ac\uc998"
+        }
+      ]
     }
   ],
   "metadata": {}
