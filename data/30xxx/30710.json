@@ -12,7 +12,7 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 5,
-  "level": 21,
+  "level": 22,
   "votedUserCount": 3,
   "sprout": false,
   "givesNoRating": false,
@@ -21,41 +21,151 @@
   "official": true,
   "tags": [
     {
-      "key": "bitmask",
+      "key": "math",
       "isMeta": false,
-      "bojTagId": 14,
-      "problemCount": 1010,
+      "bojTagId": 124,
+      "problemCount": 8046,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
-          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+          "name": "\uc218\ud559",
+          "short": "\uc218\ud559"
         },
         {
           "language": "en",
-          "name": "bitmask",
-          "short": "bitmask"
+          "name": "mathematics",
+          "short": "math"
         },
         {
           "language": "ja",
-          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
-          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+          "name": "\u6570\u5b66",
+          "short": "\u6570\u5b66"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 5077,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc790\ub8cc \uad6c\uc870",
+          "short": "\uc790\ub8cc \uad6c\uc870"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        },
+        {
+          "language": "ja",
+          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
+          "short": "ds"
         }
       ],
       "aliases": [
         {
-          "alias": "\ube44\ud2b8\ud544\ub4dc"
+          "alias": "\uc790\ub8cc\uad6c\uc870"
         },
         {
-          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
+          "alias": "\uc790\uad6c"
         }
       ]
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 5050,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "graph_traversal",
+      "isMeta": false,
+      "bojTagId": 11,
+      "problemCount": 2489,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
+          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
+        },
+        {
+          "language": "en",
+          "name": "graph traversal",
+          "short": "traversal"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
+          "short": "\u6a2a\u65ad"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bfs"
+        },
+        {
+          "alias": "dfs"
+        }
+      ]
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 1886,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\uc218\ub860",
+          "short": "\uc815\uc218\ub860"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        },
+        {
+          "language": "ja",
+          "name": "\u6574\u6570\u8ad6",
+          "short": "\u6574\u6570\u8ad6"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "combinatorics",
       "isMeta": false,
       "bojTagId": 6,
-      "problemCount": 1279,
+      "problemCount": 1281,
       "displayNames": [
         {
           "language": "ko",
@@ -92,33 +202,33 @@
       ]
     },
     {
-      "key": "data_structures",
+      "key": "bitmask",
       "isMeta": false,
-      "bojTagId": 175,
-      "problemCount": 5070,
+      "bojTagId": 14,
+      "problemCount": 1012,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc790\ub8cc \uad6c\uc870",
-          "short": "\uc790\ub8cc \uad6c\uc870"
+          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
+          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
         },
         {
           "language": "en",
-          "name": "data structures",
-          "short": "ds"
+          "name": "bitmask",
+          "short": "bitmask"
         },
         {
           "language": "ja",
-          "name": "\u30c7\u30fc\u30bf\u69cb\u9020",
-          "short": "ds"
+          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
+          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc790\ub8cc\uad6c\uc870"
+          "alias": "\ube44\ud2b8\ud544\ub4dc"
         },
         {
-          "alias": "\uc790\uad6c"
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
         }
       ]
     },
@@ -163,162 +273,32 @@
       ]
     },
     {
-      "key": "flt",
+      "key": "divide_and_conquer",
       "isMeta": false,
-      "bojTagId": 29,
-      "problemCount": 85,
+      "bojTagId": 24,
+      "problemCount": 505,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac",
-          "short": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac"
+          "name": "\ubd84\ud560 \uc815\ubcf5",
+          "short": "\ubd84\ud560 \uc815\ubcf5"
         },
         {
           "language": "en",
-          "name": "fermat's little theorem",
-          "short": "fermat's little thm"
+          "name": "divide and conquer",
+          "short": "d&c"
         },
         {
           "language": "ja",
-          "name": "\u30d5\u30a7\u30eb\u30de\u30fc\u306e\u5c0f\u5b9a\u7406",
-          "short": "\u30d5\u30a7\u30eb\u30de\u30fc"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 5046,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
+          "name": "\u5206\u5272\u7d71\u6cbb\u6cd5",
+          "short": "\u5206\u5272\u7d71\u6cbb\u6cd5"
         }
       ],
       "aliases": [
         {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
+          "alias": "dnc"
         }
       ]
-    },
-    {
-      "key": "graph_traversal",
-      "isMeta": false,
-      "bojTagId": 11,
-      "problemCount": 2488,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \ud0d0\uc0c9",
-          "short": "\uadf8\ub798\ud504 \ud0d0\uc0c9"
-        },
-        {
-          "language": "en",
-          "name": "graph traversal",
-          "short": "traversal"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u306e\u63a2\u7d22",
-          "short": "\u6a2a\u65ad"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "bfs"
-        },
-        {
-          "alias": "dfs"
-        }
-      ]
-    },
-    {
-      "key": "math",
-      "isMeta": false,
-      "bojTagId": 124,
-      "problemCount": 8043,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc218\ud559",
-          "short": "\uc218\ud559"
-        },
-        {
-          "language": "en",
-          "name": "mathematics",
-          "short": "math"
-        },
-        {
-          "language": "ja",
-          "name": "\u6570\u5b66",
-          "short": "\u6570\u5b66"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "mitm",
-      "isMeta": false,
-      "bojTagId": 46,
-      "problemCount": 121,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30",
-          "short": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30"
-        },
-        {
-          "language": "en",
-          "name": "meet in the middle",
-          "short": "meet in the middle"
-        },
-        {
-          "language": "ja",
-          "name": "\u534a\u5206\u5168\u5217\u6319",
-          "short": "\u534a\u5206\u5168\u5217\u6319"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "number_theory",
-      "isMeta": false,
-      "bojTagId": 95,
-      "problemCount": 1884,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uc815\uc218\ub860",
-          "short": "\uc815\uc218\ub860"
-        },
-        {
-          "language": "en",
-          "name": "number theory",
-          "short": "number theory"
-        },
-        {
-          "language": "ja",
-          "name": "\u6574\u6570\u8ad6",
-          "short": "\u6574\u6570\u8ad6"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "sqrt_decomposition",
@@ -361,53 +341,49 @@
       ]
     },
     {
-      "key": "trees",
+      "key": "mitm",
       "isMeta": false,
-      "bojTagId": 120,
-      "problemCount": 1904,
+      "bojTagId": 46,
+      "problemCount": 121,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud2b8\ub9ac",
-          "short": "\ud2b8\ub9ac"
+          "name": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30",
+          "short": "\uc911\uac04\uc5d0\uc11c \ub9cc\ub098\uae30"
         },
         {
           "language": "en",
-          "name": "tree",
-          "short": "tree"
+          "name": "meet in the middle",
+          "short": "meet in the middle"
         },
         {
           "language": "ja",
-          "name": "\u6728",
-          "short": "\u6728"
+          "name": "\u534a\u5206\u5168\u5217\u6319",
+          "short": "\u534a\u5206\u5168\u5217\u6319"
         }
       ],
-      "aliases": [
-        {
-          "alias": "trees"
-        }
-      ]
+      "aliases": []
     },
     {
-      "key": "trie",
+      "key": "flt",
       "isMeta": false,
-      "bojTagId": 79,
-      "problemCount": 167,
+      "bojTagId": 29,
+      "problemCount": 85,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ud2b8\ub77c\uc774",
-          "short": "\ud2b8\ub77c\uc774"
+          "name": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac",
+          "short": "\ud398\ub974\ub9c8\uc758 \uc18c\uc815\ub9ac"
         },
         {
           "language": "en",
-          "name": "trie",
-          "short": "trie"
+          "name": "fermat's little theorem",
+          "short": "fermat's little thm"
         },
         {
           "language": "ja",
-          "name": "\u30c8\u30e9\u30a4\u6728",
-          "short": "\u30c8\u30e9\u30a4"
+          "name": "\u30d5\u30a7\u30eb\u30de\u30fc\u306e\u5c0f\u5b9a\u7406",
+          "short": "\u30d5\u30a7\u30eb\u30de\u30fc"
         }
       ],
       "aliases": []
