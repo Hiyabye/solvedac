@@ -11,13 +11,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 9,
-  "level": 0,
-  "votedUserCount": 2,
+  "acceptedUserCount": 11,
+  "level": 19,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.6667,
+  "averageTries": 1.9091,
   "official": true,
   "tags": [
     {
@@ -48,7 +48,7 @@
       "key": "trees",
       "isMeta": false,
       "bojTagId": 120,
-      "problemCount": 1906,
+      "problemCount": 1907,
       "displayNames": [
         {
           "language": "ko",
@@ -71,6 +71,30 @@
           "alias": "trees"
         }
       ]
+    },
+    {
+      "key": "centroid",
+      "isMeta": false,
+      "bojTagId": 188,
+      "problemCount": 124,
+      "displayNames": [
+        {
+          "language": "en",
+          "name": "centroid",
+          "short": "centroid"
+        },
+        {
+          "language": "ko",
+          "name": "\uc13c\ud2b8\ub85c\uc774\ub4dc",
+          "short": "\uc13c\ud2b8\ub85c\uc774\ub4dc"
+        },
+        {
+          "language": "ja",
+          "name": "centroid",
+          "short": "centroid"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
