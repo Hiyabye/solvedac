@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 34,
   "level": 15,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 8044,
+      "problemCount": 8048,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "implementation",
       "isMeta": false,
       "bojTagId": 102,
-      "problemCount": 6786,
+      "problemCount": 6785,
       "displayNames": [
         {
           "language": "ko",
@@ -72,7 +72,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 5104,
+      "problemCount": 5106,
       "displayNames": [
         {
           "language": "ko",
@@ -106,7 +106,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3449,
+      "problemCount": 3450,
       "displayNames": [
         {
           "language": "ko",
@@ -134,7 +134,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 2033,
+      "problemCount": 2034,
       "displayNames": [
         {
           "language": "ko",
@@ -179,6 +179,34 @@
       "aliases": [
         {
           "alias": "zip"
+        }
+      ]
+    },
+    {
+      "key": "convex_hull",
+      "isMeta": false,
+      "bojTagId": 20,
+      "problemCount": 246,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ubcfc\ub85d \uaecd\uc9c8",
+          "short": "\ubcfc\ub85d \uaecd\uc9c8"
+        },
+        {
+          "language": "en",
+          "name": "convex hull",
+          "short": "convex hull"
+        },
+        {
+          "language": "ja",
+          "name": "\u51f8\u5305",
+          "short": "\u51f8\u5305"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ucee8\ubca1\uc2a4\ud5d0"
         }
       ]
     }
