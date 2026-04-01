@@ -19,7 +19,7 @@
   "isPartial": false,
   "acceptedUserCount": 111,
   "level": 13,
-  "votedUserCount": 18,
+  "votedUserCount": 19,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -30,7 +30,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2792,
+      "problemCount": 2794,
       "displayNames": [
         {
           "language": "ko",
@@ -73,7 +73,7 @@
       "key": "prefix_sum",
       "isMeta": false,
       "bojTagId": 139,
-      "problemCount": 1365,
+      "problemCount": 1369,
       "displayNames": [
         {
           "language": "ko",
@@ -102,6 +102,25 @@
           "alias": "rangesum"
         }
       ]
+    },
+    {
+      "key": "difference_array",
+      "isMeta": false,
+      "bojTagId": 239,
+      "problemCount": 121,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad",
+          "short": "\ucc28\ubd84 \ubc30\uc5f4 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "difference array",
+          "short": "difference array"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
