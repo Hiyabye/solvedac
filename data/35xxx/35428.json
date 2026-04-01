@@ -58,7 +58,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 5090,
+      "problemCount": 5089,
       "displayNames": [
         {
           "language": "ko",
@@ -126,7 +126,7 @@
       "key": "set",
       "isMeta": false,
       "bojTagId": 225,
-      "problemCount": 1613,
+      "problemCount": 1614,
       "displayNames": [
         {
           "language": "ko",
@@ -145,7 +145,7 @@
       "key": "tree_set",
       "isMeta": false,
       "bojTagId": 74,
-      "problemCount": 544,
+      "problemCount": 545,
       "displayNames": [
         {
           "language": "ko",
@@ -283,6 +283,30 @@
           "language": "ja",
           "name": "\u4e21\u7aef\u30ad\u30e5\u30fc",
           "short": "deque"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "deque_trick",
+      "isMeta": false,
+      "bojTagId": 216,
+      "problemCount": 67,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ub371\uc744 \uc774\uc6a9\ud55c \uad6c\uac04 \ucd5c\ub313\uac12 \ud2b8\ub9ad",
+          "short": "\ub371 \ud2b8\ub9ad"
+        },
+        {
+          "language": "en",
+          "name": "deque range maximum trick",
+          "short": "deque rmq trick"
+        },
+        {
+          "language": "ja",
+          "name": "deque range maximum trick",
+          "short": "deque rmq trick"
         }
       ],
       "aliases": []
