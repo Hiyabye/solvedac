@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 33,
-  "level": 13,
-  "votedUserCount": 3,
+  "level": 12,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 5090,
+      "problemCount": 5089,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "greedy",
       "isMeta": false,
       "bojTagId": 33,
-      "problemCount": 3461,
+      "problemCount": 3460,
       "displayNames": [
         {
           "language": "ko",
@@ -78,6 +78,25 @@
           "alias": "\ud0d0\uc695\ubc95"
         }
       ]
+    },
+    {
+      "key": "set",
+      "isMeta": false,
+      "bojTagId": 225,
+      "problemCount": 1614,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc9d1\ud569\uacfc \ub9f5",
+          "short": "\uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map",
+          "short": "set"
+        }
+      ],
+      "aliases": []
     },
     {
       "key": "hash_set",
@@ -135,20 +154,49 @@
       ]
     },
     {
-      "key": "set",
+      "key": "stack",
       "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1611,
+      "bojTagId": 71,
+      "problemCount": 494,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
+          "name": "\uc2a4\ud0dd",
+          "short": "\uc2a4\ud0dd"
         },
         {
           "language": "en",
-          "name": "set / map",
-          "short": "set"
+          "name": "stack",
+          "short": "stack"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b9\u30bf\u30c3\u30af",
+          "short": "\u30b9\u30bf\u30c3\u30af"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "queue",
+      "isMeta": false,
+      "bojTagId": 72,
+      "problemCount": 74,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud050",
+          "short": "\ud050"
+        },
+        {
+          "language": "en",
+          "name": "queue",
+          "short": "queue"
+        },
+        {
+          "language": "ja",
+          "name": "\u30ad\u30e5\u30fc",
+          "short": "\u30ad\u30e5\u30fc"
         }
       ],
       "aliases": []
