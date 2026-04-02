@@ -11,20 +11,20 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 12,
-  "level": 18,
-  "votedUserCount": 3,
+  "acceptedUserCount": 10,
+  "level": 19,
+  "votedUserCount": 4,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 6.1667,
+  "averageTries": 7.1,
   "official": true,
   "tags": [
     {
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 5089,
+      "problemCount": 5091,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +55,7 @@
       "key": "bruteforcing",
       "isMeta": false,
       "bojTagId": 125,
-      "problemCount": 2794,
+      "problemCount": 2795,
       "displayNames": [
         {
           "language": "ko",
@@ -189,6 +189,101 @@
         },
         {
           "alias": "dict"
+        }
+      ]
+    },
+    {
+      "key": "tree_set",
+      "isMeta": false,
+      "bojTagId": 74,
+      "problemCount": 545,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
+          "short": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
+        },
+        {
+          "language": "en",
+          "name": "set / map by trees",
+          "short": "treeset"
+        },
+        {
+          "language": "ja",
+          "name": "\u6728\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
+          "short": "treeset"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uc9d1\ud569"
+        },
+        {
+          "alias": "\ub9f5"
+        },
+        {
+          "alias": "\uc14b"
+        },
+        {
+          "alias": "\ub515\uc154\ub108\ub9ac"
+        },
+        {
+          "alias": "dictionary"
+        },
+        {
+          "alias": "map"
+        },
+        {
+          "alias": "set"
+        },
+        {
+          "alias": "bbst"
+        },
+        {
+          "alias": "\ud2b8\ub9ac"
+        },
+        {
+          "alias": "tree"
+        }
+      ]
+    },
+    {
+      "key": "sqrt_decomposition",
+      "isMeta": false,
+      "bojTagId": 130,
+      "problemCount": 175,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc81c\uacf1\uadfc \ubd84\ud560\ubc95",
+          "short": "\uc81c\uacf1\uadfc \ubd84\ud560\ubc95"
+        },
+        {
+          "language": "en",
+          "name": "square root decomposition",
+          "short": "sqrt decomposition"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e73\u65b9\u5206\u5272",
+          "short": "\u5e73\u65b9\u5206\u5272"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ub8e8\ud2b8\ubd84\ud560\ubc95"
+        },
+        {
+          "alias": "\ud3c9\ubc29\ubd84\ud560\ubc95"
+        },
+        {
+          "alias": "\ubaa8"
+        },
+        {
+          "alias": "mo"
+        },
+        {
+          "alias": "sqrt"
         }
       ]
     }
