@@ -12,8 +12,8 @@
   "isSolvable": true,
   "isPartial": false,
   "acceptedUserCount": 7,
-  "level": 22,
-  "votedUserCount": 3,
+  "level": 0,
+  "votedUserCount": 2,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -24,7 +24,7 @@
       "key": "math",
       "isMeta": false,
       "bojTagId": 124,
-      "problemCount": 8063,
+      "problemCount": 8066,
       "displayNames": [
         {
           "language": "ko",
@@ -48,7 +48,7 @@
       "key": "data_structures",
       "isMeta": false,
       "bojTagId": 175,
-      "problemCount": 5094,
+      "problemCount": 5095,
       "displayNames": [
         {
           "language": "ko",
@@ -76,6 +76,30 @@
       ]
     },
     {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 2417,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uc815\ub82c",
+          "short": "\uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        },
+        {
+          "language": "ja",
+          "name": "\u30bd\u30fc\u30c8",
+          "short": "\u30bd\u30fc\u30c8"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "number_theory",
       "isMeta": false,
       "bojTagId": 95,
@@ -100,131 +124,42 @@
       "aliases": []
     },
     {
-      "key": "set",
+      "key": "combinatorics",
       "isMeta": false,
-      "bojTagId": 225,
-      "problemCount": 1613,
+      "bojTagId": 6,
+      "problemCount": 1287,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\uc9d1\ud569\uacfc \ub9f5",
-          "short": "\uc9d1\ud569\uacfc \ub9f5"
+          "name": "\uc870\ud569\ub860",
+          "short": "\uc870\ud569\ub860"
         },
         {
           "language": "en",
-          "name": "set / map",
-          "short": "set"
-        }
-      ],
-      "aliases": []
-    },
-    {
-      "key": "hash_set",
-      "isMeta": false,
-      "bojTagId": 136,
-      "problemCount": 792,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud574\uc2dc\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
-          "short": "\ud574\uc2dc\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map by hashing",
-          "short": "hashset"
+          "name": "combinatorics",
+          "short": "combinatorics"
         },
         {
           "language": "ja",
-          "name": "\u30cf\u30c3\u30b7\u30e5\u5316\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
-          "short": "hashset"
+          "name": "\u7d44\u307f\u5408\u308f\u305b",
+          "short": "\u7d44\u307f\u5408\u308f\u305b"
         }
       ],
       "aliases": [
         {
-          "alias": "\uc9d1\ud569"
+          "alias": "combination"
         },
         {
-          "alias": "\ub9f5"
+          "alias": "permutation"
         },
         {
-          "alias": "\uc14b"
+          "alias": "probability"
         },
         {
-          "alias": "\ub515\uc154\ub108\ub9ac"
+          "alias": "\ud655\ub960"
         },
         {
-          "alias": "dictionary"
-        },
-        {
-          "alias": "map"
-        },
-        {
-          "alias": "set"
-        },
-        {
-          "alias": "\ud574\uc2f1"
-        },
-        {
-          "alias": "hashing"
-        },
-        {
-          "alias": "dict"
-        }
-      ]
-    },
-    {
-      "key": "tree_set",
-      "isMeta": false,
-      "bojTagId": 74,
-      "problemCount": 543,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5",
-          "short": "\ud2b8\ub9ac\ub97c \uc0ac\uc6a9\ud55c \uc9d1\ud569\uacfc \ub9f5"
-        },
-        {
-          "language": "en",
-          "name": "set / map by trees",
-          "short": "treeset"
-        },
-        {
-          "language": "ja",
-          "name": "\u6728\u306b\u3088\u308b\u30bb\u30c3\u30c8\u30fb\u30de\u30c3\u30d7",
-          "short": "treeset"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uc9d1\ud569"
-        },
-        {
-          "alias": "\ub9f5"
-        },
-        {
-          "alias": "\uc14b"
-        },
-        {
-          "alias": "\ub515\uc154\ub108\ub9ac"
-        },
-        {
-          "alias": "dictionary"
-        },
-        {
-          "alias": "map"
-        },
-        {
-          "alias": "set"
-        },
-        {
-          "alias": "bbst"
-        },
-        {
-          "alias": "\ud2b8\ub9ac"
-        },
-        {
-          "alias": "tree"
+          "alias": "\uc21c\uc5f4"
         }
       ]
     },
@@ -232,7 +167,7 @@
       "key": "modular_multiplicative_inverse",
       "isMeta": false,
       "bojTagId": 164,
-      "problemCount": 203,
+      "problemCount": 204,
       "displayNames": [
         {
           "language": "ko",
