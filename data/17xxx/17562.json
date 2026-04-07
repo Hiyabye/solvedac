@@ -13,7 +13,7 @@
   "isPartial": false,
   "acceptedUserCount": 34,
   "level": 14,
-  "votedUserCount": 8,
+  "votedUserCount": 9,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -21,10 +21,34 @@
   "official": true,
   "tags": [
     {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 6807,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uad6c\ud604",
+          "short": "\uad6c\ud604"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        },
+        {
+          "language": "ja",
+          "name": "\u5b9f\u88c5",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "graphs",
       "isMeta": false,
       "bojTagId": 7,
-      "problemCount": 5064,
+      "problemCount": 5065,
       "displayNames": [
         {
           "language": "ko",
@@ -55,7 +79,7 @@
       "key": "graph_traversal",
       "isMeta": false,
       "bojTagId": 11,
-      "problemCount": 2497,
+      "problemCount": 2498,
       "displayNames": [
         {
           "language": "ko",
@@ -117,7 +141,7 @@
       "key": "dfs",
       "isMeta": false,
       "bojTagId": 127,
-      "problemCount": 966,
+      "problemCount": 965,
       "displayNames": [
         {
           "language": "ko",

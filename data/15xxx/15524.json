@@ -11,46 +11,15 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 44,
+  "acceptedUserCount": 45,
   "level": 19,
-  "votedUserCount": 14,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 2.25,
+  "averageTries": 2.2221999168395996,
   "official": true,
   "tags": [
-    {
-      "key": "bitmask",
-      "isMeta": false,
-      "bojTagId": 14,
-      "problemCount": 1020,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
-          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
-        },
-        {
-          "language": "en",
-          "name": "bitmask",
-          "short": "bitmask"
-        },
-        {
-          "language": "ja",
-          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
-          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ube44\ud2b8\ud544\ub4dc"
-        },
-        {
-          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
-        }
-      ]
-    },
     {
       "key": "dp",
       "isMeta": false,
@@ -82,6 +51,61 @@
         },
         {
           "alias": "\ub2e4\uc774\ub098\ubbf9\ud504\ub85c\uadf8\ub798\ubc0d"
+        }
+      ]
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 2039,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uae30\ud558\ud559",
+          "short": "\uae30\ud558\ud559"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        },
+        {
+          "language": "ja",
+          "name": "\u5e7e\u4f55\u5b66",
+          "short": "\u5e7e\u4f55"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "bitmask",
+      "isMeta": false,
+      "bojTagId": 14,
+      "problemCount": 1020,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9",
+          "short": "\ube44\ud2b8\ub9c8\uc2a4\ud0b9"
+        },
+        {
+          "language": "en",
+          "name": "bitmask",
+          "short": "bitmask"
+        },
+        {
+          "language": "ja",
+          "name": "\u30d3\u30c3\u30c8\u8868\u73fe",
+          "short": "\u30d3\u30c3\u30c8\u8868\u73fe"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\ube44\ud2b8\ud544\ub4dc"
+        },
+        {
+          "alias": "\ube44\ud2b8\ub9c8\uc2a4\ud06c"
         }
       ]
     },
@@ -118,30 +142,6 @@
           "alias": "\ube44\ud2b8dp"
         }
       ]
-    },
-    {
-      "key": "geometry",
-      "isMeta": false,
-      "bojTagId": 100,
-      "problemCount": 2038,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uae30\ud558\ud559",
-          "short": "\uae30\ud558\ud559"
-        },
-        {
-          "language": "en",
-          "name": "geometry",
-          "short": "geom"
-        },
-        {
-          "language": "ja",
-          "name": "\u5e7e\u4f55\u5b66",
-          "short": "\u5e7e\u4f55"
-        }
-      ],
-      "aliases": []
     }
   ],
   "metadata": {}
