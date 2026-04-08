@@ -10,10 +10,10 @@
     }
   ],
   "isSolvable": true,
-  "isPartial": true,
+  "isPartial": false,
   "acceptedUserCount": 8,
   "level": 30,
-  "votedUserCount": 5,
+  "votedUserCount": 6,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
@@ -48,7 +48,7 @@
       "key": "dp",
       "isMeta": false,
       "bojTagId": 25,
-      "problemCount": 5131,
+      "problemCount": 5132,
       "displayNames": [
         {
           "language": "ko",
@@ -267,6 +267,25 @@
       ]
     },
     {
+      "key": "grid_graph",
+      "isMeta": false,
+      "bojTagId": 221,
+      "problemCount": 262,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
+          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
+        },
+        {
+          "language": "en",
+          "name": "grid graph",
+          "short": "grid graph"
+        }
+      ],
+      "aliases": []
+    },
+    {
       "key": "precomputation",
       "isMeta": false,
       "bojTagId": 172,
@@ -299,25 +318,6 @@
           "alias": "database"
         }
       ]
-    },
-    {
-      "key": "grid_graph",
-      "isMeta": false,
-      "bojTagId": 221,
-      "problemCount": 262,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uaca9\uc790 \uadf8\ub798\ud504",
-          "short": "\uaca9\uc790 \uadf8\ub798\ud504"
-        },
-        {
-          "language": "en",
-          "name": "grid graph",
-          "short": "grid graph"
-        }
-      ],
-      "aliases": []
     },
     {
       "key": "heuristics",
