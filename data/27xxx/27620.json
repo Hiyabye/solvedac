@@ -11,15 +11,70 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 24,
+  "acceptedUserCount": 25,
   "level": 19,
-  "votedUserCount": 6,
+  "votedUserCount": 7,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 1.625,
+  "averageTries": 1.6399999856948853,
   "official": true,
   "tags": [
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 5069,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uadf8\ub798\ud504 \uc774\ub860",
+          "short": "\uadf8\ub798\ud504 \uc774\ub860"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        },
+        {
+          "language": "ja",
+          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
+          "short": "\u30b0\u30e9\u30d5"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "\uadf8\ub798\ud504\uc774\ub860"
+        },
+        {
+          "alias": "\uadf8\ub798\ud504"
+        }
+      ]
+    },
+    {
+      "key": "shortest_path",
+      "isMeta": false,
+      "bojTagId": 215,
+      "problemCount": 988,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
+          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
+        },
+        {
+          "language": "en",
+          "name": "shortest path",
+          "short": "shortest path"
+        },
+        {
+          "language": "ja",
+          "name": "\u6700\u77ed\u7d4c\u8def",
+          "short": "\u6700\u77ed\u7d4c\u8def"
+        }
+      ],
+      "aliases": []
+    },
     {
       "key": "flow",
       "isMeta": false,
@@ -107,71 +162,6 @@
       ]
     },
     {
-      "key": "graphs",
-      "isMeta": false,
-      "bojTagId": 7,
-      "problemCount": 5068,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\uadf8\ub798\ud504 \uc774\ub860",
-          "short": "\uadf8\ub798\ud504 \uc774\ub860"
-        },
-        {
-          "language": "en",
-          "name": "graph theory",
-          "short": "graph"
-        },
-        {
-          "language": "ja",
-          "name": "\u30b0\u30e9\u30d5\u7406\u8ad6",
-          "short": "\u30b0\u30e9\u30d5"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\uadf8\ub798\ud504\uc774\ub860"
-        },
-        {
-          "alias": "\uadf8\ub798\ud504"
-        }
-      ]
-    },
-    {
-      "key": "hungarian",
-      "isMeta": false,
-      "bojTagId": 36,
-      "problemCount": 21,
-      "displayNames": [
-        {
-          "language": "ko",
-          "name": "\ud5dd\uac00\ub9ac\uc548",
-          "short": "\ud5dd\uac00\ub9ac\uc548"
-        },
-        {
-          "language": "en",
-          "name": "hungarian",
-          "short": "hungarian"
-        },
-        {
-          "language": "ja",
-          "name": "hungarian",
-          "short": "hungarian"
-        }
-      ],
-      "aliases": [
-        {
-          "alias": "\ud5dd\uac00\ub9ac\uc548"
-        },
-        {
-          "alias": "assignment problem"
-        },
-        {
-          "alias": "weighted bipartite matching"
-        }
-      ]
-    },
-    {
       "key": "mcmf",
       "isMeta": false,
       "bojTagId": 48,
@@ -221,28 +211,38 @@
       ]
     },
     {
-      "key": "shortest_path",
+      "key": "hungarian",
       "isMeta": false,
-      "bojTagId": 215,
-      "problemCount": 987,
+      "bojTagId": 36,
+      "problemCount": 21,
       "displayNames": [
         {
           "language": "ko",
-          "name": "\ucd5c\ub2e8 \uacbd\ub85c",
-          "short": "\ucd5c\ub2e8 \uacbd\ub85c"
+          "name": "\ud5dd\uac00\ub9ac\uc548",
+          "short": "\ud5dd\uac00\ub9ac\uc548"
         },
         {
           "language": "en",
-          "name": "shortest path",
-          "short": "shortest path"
+          "name": "hungarian",
+          "short": "hungarian"
         },
         {
           "language": "ja",
-          "name": "\u6700\u77ed\u7d4c\u8def",
-          "short": "\u6700\u77ed\u7d4c\u8def"
+          "name": "hungarian",
+          "short": "hungarian"
         }
       ],
-      "aliases": []
+      "aliases": [
+        {
+          "alias": "\ud5dd\uac00\ub9ac\uc548"
+        },
+        {
+          "alias": "assignment problem"
+        },
+        {
+          "alias": "weighted bipartite matching"
+        }
+      ]
     }
   ],
   "metadata": {}
