@@ -17,13 +17,13 @@
   ],
   "isSolvable": true,
   "isPartial": false,
-  "acceptedUserCount": 43,
+  "acceptedUserCount": 44,
   "level": 18,
-  "votedUserCount": 14,
+  "votedUserCount": 15,
   "sprout": false,
   "givesNoRating": false,
   "isLevelLocked": false,
-  "averageTries": 4.720900058746338,
+  "averageTries": 4.63640022277832,
   "official": true,
   "tags": [
     {
@@ -54,7 +54,7 @@
       "key": "geometry",
       "isMeta": false,
       "bojTagId": 100,
-      "problemCount": 2042,
+      "problemCount": 2043,
       "displayNames": [
         {
           "language": "ko",
@@ -129,6 +129,25 @@
           "alias": "zip"
         }
       ]
+    },
+    {
+      "key": "angle_sorting",
+      "isMeta": false,
+      "bojTagId": 240,
+      "problemCount": 59,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "\uac01\ub3c4 \uc815\ub82c",
+          "short": "\uac01\ub3c4 \uc815\ub82c"
+        },
+        {
+          "language": "en",
+          "name": "angle sorting",
+          "short": "angle sorting"
+        }
+      ],
+      "aliases": []
     }
   ],
   "metadata": {}
