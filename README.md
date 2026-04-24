@@ -1,5 +1,8 @@
 # 프로젝트 solved.ac
 
+> [!IMPORTANT]  
+> Baekjoon Online Judge가 2026년 4월 28일에 서비스를 종료함에 따라, solved.ac의 API도 2026년 4월 12일부터 작동하지 않게 되었습니다. 이에 따라 이 GitHub 저장소의 업데이트도 중단되었습니다.
+
 [solved.ac](https://solved.ac)는 [Baekjoon Online Judge](https://www.acmicpc.net)에 수록된 문제들의 난이도를 제공하는 사이트입니다. 이 프로젝트는 solved.ac의 API를 활용하여 여러 기능을 수행하고자 합니다.
 
 solved.ac의 API에 대한 자세한 문서는 [여기](https://solvedac.github.io/unofficial-documentation)에서 확인할 수 있습니다.
